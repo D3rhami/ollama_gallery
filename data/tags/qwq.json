@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "20GB",
-    "size_str": "40K"
+    "context_window": "40K",
+    "size_str": "20GB"
   },
   "46407beda5c0": {
     "href": "/library/qwq:32b-preview-q4_K_M",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "20GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "20GB"
   },
   "9c62a2e770b7": {
     "href": "/library/qwq:32b-preview-q8_0",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "35GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "35GB"
   },
   "44d5ed096b85": {
     "href": "/library/qwq:32b-preview-fp16",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "66GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "66GB"
   },
   "cd10f42e6c58": {
     "href": "/library/qwq:32b-q8_0",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "35GB",
-    "size_str": "40K"
+    "context_window": "40K",
+    "size_str": "35GB"
   },
   "034d83f95090": {
     "href": "/library/qwq:32b-fp16",
@@ -56,7 +56,7 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "66GB",
-    "size_str": "40K"
+    "context_window": "40K",
+    "size_str": "66GB"
   }
 }

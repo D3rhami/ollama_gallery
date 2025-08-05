@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "4.7GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "4.7GB"
   },
   "8573dfc23c16": {
     "href": "/library/opencoder:1.5b",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "1.4GB",
-    "size_str": "4K"
+    "context_window": "4K",
+    "size_str": "1.4GB"
   },
   "8c1234514258": {
     "href": "/library/opencoder:1.5b-instruct-q8_0",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "2.0GB",
-    "size_str": "4K"
+    "context_window": "4K",
+    "size_str": "2.0GB"
   },
   "466920be6f15": {
     "href": "/library/opencoder:1.5b-instruct-fp16",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "3.8GB",
-    "size_str": "4K"
+    "context_window": "4K",
+    "size_str": "3.8GB"
   },
   "b43cccd5b8e1": {
     "href": "/library/opencoder:8b-instruct-q8_0",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "8.3GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "8.3GB"
   },
   "51ed11a37a94": {
     "href": "/library/opencoder:8b-instruct-fp16",
@@ -56,7 +56,7 @@
       "Text"
     ],
     "updated_str": "8 months ago",
-    "context_window": "16GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "16GB"
   }
 }

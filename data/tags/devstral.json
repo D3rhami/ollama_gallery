@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "1 month ago",
-    "context_window": "14GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "14GB"
   },
   "25a16f448fb3": {
     "href": "/library/devstral:24b-small-2505-q8_0",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "1 month ago",
-    "context_window": "25GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "25GB"
   },
   "d1e6469472dc": {
     "href": "/library/devstral:24b-small-2505-fp16",
@@ -26,7 +26,7 @@
       "Text"
     ],
     "updated_str": "1 month ago",
-    "context_window": "47GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "47GB"
   }
 }

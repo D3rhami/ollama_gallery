@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "4.6GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "4.6GB"
   },
   "5449d006a9c7": {
     "href": "/library/falcon3:1b",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "1.8GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "1.8GB"
   },
   "784a7eab5b89": {
     "href": "/library/falcon3:3b",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "2.0GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "2.0GB"
   },
   "1653ff122acd": {
     "href": "/library/falcon3:10b",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "6.3GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "6.3GB"
   },
   "13a315879c51": {
     "href": "/library/falcon3:1b-instruct-q4_K_M",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "1.1GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "1.1GB"
   },
   "60ee05ac8fa7": {
     "href": "/library/falcon3:1b-instruct-fp16",
@@ -56,8 +56,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "3.3GB",
-    "size_str": "8K"
+    "context_window": "8K",
+    "size_str": "3.3GB"
   },
   "05a32e830399": {
     "href": "/library/falcon3:3b-instruct-q8_0",
@@ -66,8 +66,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "3.4GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "3.4GB"
   },
   "a45a32ae0c91": {
     "href": "/library/falcon3:3b-instruct-fp16",
@@ -76,8 +76,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "6.5GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "6.5GB"
   },
   "49ffc7915656": {
     "href": "/library/falcon3:7b-instruct-q8_0",
@@ -86,8 +86,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "7.9GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "7.9GB"
   },
   "770fc0679654": {
     "href": "/library/falcon3:7b-instruct-fp16",
@@ -96,8 +96,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "15GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "15GB"
   },
   "d56712f1783f": {
     "href": "/library/falcon3:10b-instruct-q8_0",
@@ -106,8 +106,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "11GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "11GB"
   },
   "bbe05566f48a": {
     "href": "/library/falcon3:10b-instruct-fp16",
@@ -116,7 +116,7 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "21GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "21GB"
   }
 }

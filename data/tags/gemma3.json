@@ -7,8 +7,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "3.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.3GB"
   },
   "8648f39daa8f": {
     "href": "/library/gemma3:1b",
@@ -17,8 +17,8 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "815MB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "815MB"
   },
   "f4031aab637d": {
     "href": "/library/gemma3:12b",
@@ -28,8 +28,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "8.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "8.1GB"
   },
   "a418f5838eaf": {
     "href": "/library/gemma3:27b",
@@ -39,8 +39,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "17GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "17GB"
   },
   "b491bd3989c6": {
     "href": "/library/gemma3:1b-it-qat",
@@ -49,8 +49,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "1.0GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "1.0GB"
   },
   "0fdb9c7fefee": {
     "href": "/library/gemma3:1b-it-q8_0",
@@ -59,8 +59,8 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "1.1GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "1.1GB"
   },
   "16d00907691b": {
     "href": "/library/gemma3:1b-it-fp16",
@@ -69,8 +69,8 @@
       "Text"
     ],
     "updated_str": "4 months ago",
-    "context_window": "2.0GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "2.0GB"
   },
   "d01ad0579247": {
     "href": "/library/gemma3:4b-it-qat",
@@ -80,8 +80,8 @@
       "Image"
     ],
     "updated_str": "3 months ago",
-    "context_window": "4.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.0GB"
   },
   "2376388dec16": {
     "href": "/library/gemma3:4b-it-q8_0",
@@ -91,8 +91,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "5.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "5.0GB"
   },
   "c4da438ae756": {
     "href": "/library/gemma3:4b-it-fp16",
@@ -102,8 +102,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "8.6GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "8.6GB"
   },
   "5d4fa005e7bb": {
     "href": "/library/gemma3:12b-it-qat",
@@ -113,8 +113,8 @@
       "Image"
     ],
     "updated_str": "3 months ago",
-    "context_window": "8.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "8.9GB"
   },
   "997a7c2c0975": {
     "href": "/library/gemma3:12b-it-q8_0",
@@ -124,8 +124,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "13GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "13GB"
   },
   "6b1ba564b78d": {
     "href": "/library/gemma3:12b-it-fp16",
@@ -135,8 +135,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "24GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "24GB"
   },
   "29eb0b9aeda3": {
     "href": "/library/gemma3:27b-it-qat",
@@ -146,8 +146,8 @@
       "Image"
     ],
     "updated_str": "3 months ago",
-    "context_window": "18GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "18GB"
   },
   "273cbcd67032": {
     "href": "/library/gemma3:27b-it-q8_0",
@@ -157,8 +157,8 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "30GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "30GB"
   },
   "b7d58e2e179e": {
     "href": "/library/gemma3:27b-it-fp16",
@@ -168,7 +168,7 @@
       "Image"
     ],
     "updated_str": "4 months ago",
-    "context_window": "55GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "55GB"
   }
 }

@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.0GB"
   },
   "3269ce3e31ea": {
     "href": "/library/granite3.1-moe:1b",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "1.4GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.4GB"
   },
   "6521a8fa2f7d": {
     "href": "/library/granite3.1-moe:1b-instruct-q2_K",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "524MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "524MB"
   },
   "c81277fe1196": {
     "href": "/library/granite3.1-moe:1b-instruct-q3_K_S",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "610MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "610MB"
   },
   "a9921af691fb": {
     "href": "/library/granite3.1-moe:1b-instruct-q3_K_M",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "671MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "671MB"
   },
   "38e819bae7cb": {
     "href": "/library/granite3.1-moe:1b-instruct-q3_K_L",
@@ -56,8 +56,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "724MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "724MB"
   },
   "f1e180ae50b0": {
     "href": "/library/granite3.1-moe:1b-instruct-q4_0",
@@ -66,8 +66,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "781MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "781MB"
   },
   "d62c69d05bc9": {
     "href": "/library/granite3.1-moe:1b-instruct-q4_1",
@@ -76,8 +76,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "861MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "861MB"
   },
   "531849afb99e": {
     "href": "/library/granite3.1-moe:1b-instruct-q4_K_S",
@@ -86,8 +86,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "787MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "787MB"
   },
   "f825ee9e296f": {
     "href": "/library/granite3.1-moe:1b-instruct-q4_K_M",
@@ -96,8 +96,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "834MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "834MB"
   },
   "3d8012283ac9": {
     "href": "/library/granite3.1-moe:1b-instruct-q5_0",
@@ -106,8 +106,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "941MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "941MB"
   },
   "39b91d40cf9e": {
     "href": "/library/granite3.1-moe:1b-instruct-q5_1",
@@ -116,8 +116,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.0GB"
   },
   "fcc3d042cf51": {
     "href": "/library/granite3.1-moe:1b-instruct-q5_K_S",
@@ -126,8 +126,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "941MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "941MB"
   },
   "6c0ad5f8dbc5": {
     "href": "/library/granite3.1-moe:1b-instruct-q5_K_M",
@@ -136,8 +136,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "969MB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "969MB"
   },
   "72cde855354e": {
     "href": "/library/granite3.1-moe:1b-instruct-q6_K",
@@ -146,8 +146,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.1GB"
   },
   "99904f51aa5c": {
     "href": "/library/granite3.1-moe:1b-instruct-fp16",
@@ -156,8 +156,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "2.7GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.7GB"
   },
   "7ea974a9d11f": {
     "href": "/library/granite3.1-moe:3b-instruct-q2_K",
@@ -166,8 +166,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.3GB"
   },
   "86de476c2ed2": {
     "href": "/library/granite3.1-moe:3b-instruct-q3_K_S",
@@ -176,8 +176,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.5GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.5GB"
   },
   "216dcd8f0222": {
     "href": "/library/granite3.1-moe:3b-instruct-q3_K_M",
@@ -186,8 +186,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.6GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.6GB"
   },
   "712573071d24": {
     "href": "/library/granite3.1-moe:3b-instruct-q3_K_L",
@@ -196,8 +196,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.8GB"
   },
   "575c94ea9f74": {
     "href": "/library/granite3.1-moe:3b-instruct-q4_0",
@@ -206,8 +206,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.9GB"
   },
   "a4c8618969bb": {
     "href": "/library/granite3.1-moe:3b-instruct-q4_1",
@@ -216,8 +216,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.1GB"
   },
   "71da5b32c299": {
     "href": "/library/granite3.1-moe:3b-instruct-q4_K_S",
@@ -226,8 +226,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "1.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.9GB"
   },
   "ac1c3501f148": {
     "href": "/library/granite3.1-moe:3b-instruct-q5_0",
@@ -236,8 +236,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.3GB"
   },
   "14ba2faee6e3": {
     "href": "/library/granite3.1-moe:3b-instruct-q5_1",
@@ -246,8 +246,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.5GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.5GB"
   },
   "ec25600ae9c5": {
     "href": "/library/granite3.1-moe:3b-instruct-q5_K_S",
@@ -256,8 +256,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.3GB"
   },
   "fac03e34e804": {
     "href": "/library/granite3.1-moe:3b-instruct-q5_K_M",
@@ -266,8 +266,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.4GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.4GB"
   },
   "b49c14c5cac4": {
     "href": "/library/granite3.1-moe:3b-instruct-q6_K",
@@ -276,8 +276,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "2.7GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.7GB"
   },
   "038f46903bbd": {
     "href": "/library/granite3.1-moe:3b-instruct-q8_0",
@@ -286,8 +286,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "3.5GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.5GB"
   },
   "cdedb7e7b102": {
     "href": "/library/granite3.1-moe:3b-instruct-fp16",
@@ -296,7 +296,7 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "6.6GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "6.6GB"
   }
 }

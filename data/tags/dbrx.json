@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "74GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "74GB"
   },
   "e2554a95cc76": {
     "href": "/library/dbrx:132b-instruct-q2_K",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "48GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "48GB"
   },
   "4fca83b20ba0": {
     "href": "/library/dbrx:132b-instruct-q8_0",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "140GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "140GB"
   },
   "2bacc27fc29a": {
     "href": "/library/dbrx:132b-instruct-fp16",
@@ -36,7 +36,7 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "263GB",
-    "size_str": "32K"
+    "context_window": "32K",
+    "size_str": "263GB"
   }
 }

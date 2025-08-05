@@ -1,0 +1,22 @@
+{
+  "05afbac4bad6": {
+    "href": "/library/gpt-oss:latest",
+    "name": "gpt-oss:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "21 minutes ago",
+    "context_window": "128K",
+    "size_str": "14GB"
+  },
+  "d98fe6ba01e6": {
+    "href": "/library/gpt-oss:120b",
+    "name": "gpt-oss:120b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "22 hours ago",
+    "context_window": "128K",
+    "size_str": "65GB"
+  }
+}

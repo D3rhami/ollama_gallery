@@ -7,8 +7,8 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "7.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "7.8GB"
   },
   "bee2a956f3a8": {
     "href": "/library/llama3.2-vision:90b",
@@ -18,8 +18,8 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "55GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "55GB"
   },
   "a5b7471a68aa": {
     "href": "/library/llama3.2-vision:11b-instruct-q8_0",
@@ -29,8 +29,8 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "12GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "12GB"
   },
   "24c59ad3b10a": {
     "href": "/library/llama3.2-vision:11b-instruct-fp16",
@@ -40,8 +40,8 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "21GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "21GB"
   },
   "0882d58d0635": {
     "href": "/library/llama3.2-vision:90b-instruct-q8_0",
@@ -51,8 +51,8 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "95GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "95GB"
   },
   "7592aaa4a219": {
     "href": "/library/llama3.2-vision:90b-instruct-fp16",
@@ -62,7 +62,7 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "context_window": "177GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "177GB"
   }
 }

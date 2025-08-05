@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "9.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "9.0GB"
   },
   "3bc49891ec47": {
     "href": "/library/deepcoder:1.5b",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "1.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.1GB"
   },
   "b240e7d4c9d5": {
     "href": "/library/deepcoder:1.5b-preview-q8_0",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "1.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "1.9GB"
   },
   "a4f72a133925": {
     "href": "/library/deepcoder:1.5b-preview-fp16",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "3.6GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.6GB"
   },
   "77a03c7a6183": {
     "href": "/library/deepcoder:14b-preview-q8_0",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "16GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "16GB"
   },
   "94795ede1f7b": {
     "href": "/library/deepcoder:14b-preview-fp16",
@@ -56,7 +56,7 @@
       "Text"
     ],
     "updated_str": "3 months ago",
-    "context_window": "30GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "30GB"
   }
 }

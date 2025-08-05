@@ -7,8 +7,8 @@
       "Image"
     ],
     "updated_str": "5 months ago",
-    "context_window": "2.4GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "2.4GB"
   },
   "9b6204ce60f6": {
     "href": "/library/granite3.2-vision:2b-q8_0",
@@ -18,8 +18,8 @@
       "Image"
     ],
     "updated_str": "5 months ago",
-    "context_window": "3.6GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "3.6GB"
   },
   "17ca6aa97bd9": {
     "href": "/library/granite3.2-vision:2b-fp16",
@@ -29,7 +29,7 @@
       "Image"
     ],
     "updated_str": "5 months ago",
-    "context_window": "6.0GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "6.0GB"
   }
 }

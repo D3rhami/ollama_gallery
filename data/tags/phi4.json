@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "9.1GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "9.1GB"
   },
   "310d366232f4": {
     "href": "/library/phi4:14b-q8_0",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "16GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "16GB"
   },
   "227695f919b5": {
     "href": "/library/phi4:14b-fp16",
@@ -26,7 +26,7 @@
       "Text"
     ],
     "updated_str": "6 months ago",
-    "context_window": "29GB",
-    "size_str": "16K"
+    "context_window": "16K",
+    "size_str": "29GB"
   }
 }

@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.8GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "3.8GB"
   },
   "8a0a518f30c5": {
     "href": "/library/yarn-llama2:13b",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.4GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "7.4GB"
   },
   "9fc4f0e902e7": {
     "href": "/library/yarn-llama2:7b-128k",
@@ -26,8 +26,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.8GB"
   },
   "cdf8cc638505": {
     "href": "/library/yarn-llama2:7b-128k-q2_K",
@@ -36,8 +36,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "2.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.8GB"
   },
   "530c82d4467e": {
     "href": "/library/yarn-llama2:7b-128k-q3_K_S",
@@ -46,8 +46,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "2.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "2.9GB"
   },
   "45336ee1f0a9": {
     "href": "/library/yarn-llama2:7b-128k-q3_K_M",
@@ -56,8 +56,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.3GB"
   },
   "aaabf5006e38": {
     "href": "/library/yarn-llama2:7b-128k-q3_K_L",
@@ -66,8 +66,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.6GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.6GB"
   },
   "f2a3da69d205": {
     "href": "/library/yarn-llama2:7b-128k-q4_1",
@@ -76,8 +76,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.2GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.2GB"
   },
   "cc95e37e566a": {
     "href": "/library/yarn-llama2:7b-128k-q4_K_S",
@@ -86,8 +86,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "3.9GB"
   },
   "3d161bdec11d": {
     "href": "/library/yarn-llama2:7b-128k-q4_K_M",
@@ -96,8 +96,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.1GB"
   },
   "1b73590983c7": {
     "href": "/library/yarn-llama2:7b-128k-q5_0",
@@ -106,8 +106,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.7GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.7GB"
   },
   "6f754622c8a4": {
     "href": "/library/yarn-llama2:7b-128k-q5_1",
@@ -116,8 +116,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.1GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "5.1GB"
   },
   "e0f8b2069f93": {
     "href": "/library/yarn-llama2:7b-128k-q5_K_S",
@@ -126,8 +126,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.7GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.7GB"
   },
   "68bdf2550ed6": {
     "href": "/library/yarn-llama2:7b-128k-q5_K_M",
@@ -136,8 +136,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.8GB"
   },
   "aaf047ee8cc4": {
     "href": "/library/yarn-llama2:7b-128k-q6_K",
@@ -146,8 +146,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.5GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "5.5GB"
   },
   "46e9636b6006": {
     "href": "/library/yarn-llama2:7b-128k-q8_0",
@@ -156,8 +156,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.2GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "7.2GB"
   },
   "4516a999c8ea": {
     "href": "/library/yarn-llama2:7b-128k-fp16",
@@ -166,8 +166,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "13GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "13GB"
   },
   "5a72b555332e": {
     "href": "/library/yarn-llama2:7b-64k-q2_K",
@@ -176,8 +176,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "2.8GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "2.8GB"
   },
   "f1c57a39811e": {
     "href": "/library/yarn-llama2:7b-64k-q3_K_S",
@@ -186,8 +186,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "2.9GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "2.9GB"
   },
   "bb367368ddd7": {
     "href": "/library/yarn-llama2:7b-64k-q3_K_M",
@@ -196,8 +196,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.3GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "3.3GB"
   },
   "fc7635aa06a7": {
     "href": "/library/yarn-llama2:7b-64k-q3_K_L",
@@ -206,8 +206,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.6GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "3.6GB"
   },
   "bdfb6c5a3e9b": {
     "href": "/library/yarn-llama2:7b-64k-q4_1",
@@ -216,8 +216,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.2GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "4.2GB"
   },
   "1b8985d3a359": {
     "href": "/library/yarn-llama2:7b-64k-q4_K_S",
@@ -226,8 +226,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "3.9GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "3.9GB"
   },
   "76f2052b357c": {
     "href": "/library/yarn-llama2:7b-64k-q4_K_M",
@@ -236,8 +236,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.1GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "4.1GB"
   },
   "b453cc4f3d00": {
     "href": "/library/yarn-llama2:7b-64k-q5_0",
@@ -246,8 +246,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.7GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "4.7GB"
   },
   "297d4906eee3": {
     "href": "/library/yarn-llama2:7b-64k-q5_1",
@@ -256,8 +256,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.1GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "5.1GB"
   },
   "a8f6f4ceeeda": {
     "href": "/library/yarn-llama2:7b-64k-q5_K_S",
@@ -266,8 +266,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.7GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "4.7GB"
   },
   "cec9e8d58901": {
     "href": "/library/yarn-llama2:7b-64k-q5_K_M",
@@ -276,8 +276,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "4.8GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "4.8GB"
   },
   "f583cc04b87c": {
     "href": "/library/yarn-llama2:7b-64k-q6_K",
@@ -286,8 +286,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.5GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "5.5GB"
   },
   "59d75ca11360": {
     "href": "/library/yarn-llama2:7b-64k-q8_0",
@@ -296,8 +296,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.2GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "7.2GB"
   },
   "cf9cd5b25466": {
     "href": "/library/yarn-llama2:7b-64k-fp16",
@@ -306,8 +306,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "13GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "13GB"
   },
   "312277e27d21": {
     "href": "/library/yarn-llama2:13b-128k",
@@ -316,8 +316,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.4GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "7.4GB"
   },
   "00e51f24ad67": {
     "href": "/library/yarn-llama2:13b-128k-q2_K",
@@ -326,8 +326,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.4GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "5.4GB"
   },
   "c753ad94de2e": {
     "href": "/library/yarn-llama2:13b-128k-q3_K_S",
@@ -336,8 +336,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.7GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "5.7GB"
   },
   "b5b98d8650ab": {
     "href": "/library/yarn-llama2:13b-128k-q3_K_M",
@@ -346,8 +346,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "6.3GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "6.3GB"
   },
   "7e92cb79ad6f": {
     "href": "/library/yarn-llama2:13b-128k-q3_K_L",
@@ -356,8 +356,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "6.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "6.9GB"
   },
   "1952ac7b3231": {
     "href": "/library/yarn-llama2:13b-128k-q4_1",
@@ -366,8 +366,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "8.2GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "8.2GB"
   },
   "b2ffe41a638b": {
     "href": "/library/yarn-llama2:13b-128k-q4_K_S",
@@ -376,8 +376,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.4GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "7.4GB"
   },
   "df02b797c5aa": {
     "href": "/library/yarn-llama2:13b-128k-q4_K_M",
@@ -386,8 +386,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "7.9GB"
   },
   "dc65f2b65862": {
     "href": "/library/yarn-llama2:13b-128k-q5_0",
@@ -396,8 +396,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "9.0GB"
   },
   "7e02f3ba0b14": {
     "href": "/library/yarn-llama2:13b-128k-q5_1",
@@ -406,8 +406,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.8GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "9.8GB"
   },
   "effbf903f606": {
     "href": "/library/yarn-llama2:13b-128k-q5_K_S",
@@ -416,8 +416,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.0GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "9.0GB"
   },
   "6c618202668d": {
     "href": "/library/yarn-llama2:13b-128k-q5_K_M",
@@ -426,8 +426,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.2GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "9.2GB"
   },
   "311e2194fa2a": {
     "href": "/library/yarn-llama2:13b-128k-q6_K",
@@ -436,8 +436,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "11GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "11GB"
   },
   "c1cec788ae55": {
     "href": "/library/yarn-llama2:13b-128k-q8_0",
@@ -446,8 +446,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "14GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "14GB"
   },
   "eecf1bcd524a": {
     "href": "/library/yarn-llama2:13b-128k-fp16",
@@ -456,8 +456,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "26GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "26GB"
   },
   "0afb4364db77": {
     "href": "/library/yarn-llama2:13b-64k-q2_K",
@@ -466,8 +466,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.4GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "5.4GB"
   },
   "37ef3189742b": {
     "href": "/library/yarn-llama2:13b-64k-q3_K_S",
@@ -476,8 +476,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "5.7GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "5.7GB"
   },
   "ec22dd2cb7ac": {
     "href": "/library/yarn-llama2:13b-64k-q3_K_M",
@@ -486,8 +486,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "6.3GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "6.3GB"
   },
   "be418e37797b": {
     "href": "/library/yarn-llama2:13b-64k-q3_K_L",
@@ -496,8 +496,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "6.9GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "6.9GB"
   },
   "4204c4116efc": {
     "href": "/library/yarn-llama2:13b-64k-q4_1",
@@ -506,8 +506,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "8.2GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "8.2GB"
   },
   "183a14c4be4d": {
     "href": "/library/yarn-llama2:13b-64k-q4_K_S",
@@ -516,8 +516,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.4GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "7.4GB"
   },
   "48fbabc18e03": {
     "href": "/library/yarn-llama2:13b-64k-q4_K_M",
@@ -526,8 +526,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "7.9GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "7.9GB"
   },
   "506dd60df468": {
     "href": "/library/yarn-llama2:13b-64k-q5_0",
@@ -536,8 +536,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.0GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "9.0GB"
   },
   "d6fe4567c627": {
     "href": "/library/yarn-llama2:13b-64k-q5_1",
@@ -546,8 +546,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.8GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "9.8GB"
   },
   "91f3cccd9580": {
     "href": "/library/yarn-llama2:13b-64k-q5_K_S",
@@ -556,8 +556,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.0GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "9.0GB"
   },
   "0cdae1412098": {
     "href": "/library/yarn-llama2:13b-64k-q5_K_M",
@@ -566,8 +566,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "9.2GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "9.2GB"
   },
   "df2074aaebe3": {
     "href": "/library/yarn-llama2:13b-64k-q6_K",
@@ -576,8 +576,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "11GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "11GB"
   },
   "adbdaa2e0f7a": {
     "href": "/library/yarn-llama2:13b-64k-q8_0",
@@ -586,8 +586,8 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "14GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "14GB"
   },
   "8863e4eab466": {
     "href": "/library/yarn-llama2:13b-64k-fp16",
@@ -596,7 +596,7 @@
       "Text"
     ],
     "updated_str": "1 year ago",
-    "context_window": "26GB",
-    "size_str": "64K"
+    "context_window": "64K",
+    "size_str": "26GB"
   }
 }

@@ -6,8 +6,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "4.9GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "4.9GB"
   },
   "e3310b61ffdb": {
     "href": "/library/dolphin3:8b-llama3.1-q8_0",
@@ -16,8 +16,8 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "8.5GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "8.5GB"
   },
   "b0941c6f3226": {
     "href": "/library/dolphin3:8b-llama3.1-fp16",
@@ -26,7 +26,7 @@
       "Text"
     ],
     "updated_str": "7 months ago",
-    "context_window": "16GB",
-    "size_str": "128K"
+    "context_window": "128K",
+    "size_str": "16GB"
   }
 }
