@@ -1,0 +1,602 @@
+{
+  "a3b6bef0f836": {
+    "href": "/library/mixtral:latest",
+    "name": "mixtral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "29c986d45fba": {
+    "href": "/library/mixtral:text",
+    "name": "mixtral:text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "e8479ee1cb51": {
+    "href": "/library/mixtral:v0.1",
+    "name": "mixtral:v0.1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "b5f8be13d719": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q2_K",
+    "name": "mixtral:8x7b-instruct-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "8214ed645fc2": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q3_K_S",
+    "name": "mixtral:8x7b-instruct-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "0f4e85e45e0c": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q3_K_M",
+    "name": "mixtral:8x7b-instruct-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "44a28a0d7d9a": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q3_K_L",
+    "name": "mixtral:8x7b-instruct-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "4ca263ed25e3": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q4_1",
+    "name": "mixtral:8x7b-instruct-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "39c18795563b": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q4_K_S",
+    "name": "mixtral:8x7b-instruct-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "a69121c90013": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q4_K_M",
+    "name": "mixtral:8x7b-instruct-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "94bb1b270af9": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q5_0",
+    "name": "mixtral:8x7b-instruct-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "1084fd5133d1": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q5_1",
+    "name": "mixtral:8x7b-instruct-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "68f12ddfe676": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q5_K_S",
+    "name": "mixtral:8x7b-instruct-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "d011e1981bd1": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q5_K_M",
+    "name": "mixtral:8x7b-instruct-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "ceaac0dbeffa": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q6_K",
+    "name": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "4b4321b5a853": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-q8_0",
+    "name": "mixtral:8x7b-instruct-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "96c204672c06": {
+    "href": "/library/mixtral:8x7b-instruct-v0.1-fp16",
+    "name": "mixtral:8x7b-instruct-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  },
+  "279c2f61bb77": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q2_K",
+    "name": "mixtral:8x7b-text-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "b8bdfbd641af": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q3_K_S",
+    "name": "mixtral:8x7b-text-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "2ec7294409e7": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q3_K_M",
+    "name": "mixtral:8x7b-text-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "09d5395d1226": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q3_K_L",
+    "name": "mixtral:8x7b-text-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "20f1c9c7d6ee": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q4_1",
+    "name": "mixtral:8x7b-text-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "45ad2aba6509": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q4_K_S",
+    "name": "mixtral:8x7b-text-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "2b19c246b20c": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q4_K_M",
+    "name": "mixtral:8x7b-text-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "1692f253599b": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q5_0",
+    "name": "mixtral:8x7b-text-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "24ef911cb6dc": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q5_1",
+    "name": "mixtral:8x7b-text-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "0f550cd04214": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q5_K_S",
+    "name": "mixtral:8x7b-text-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "957a4d1fad36": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q5_K_M",
+    "name": "mixtral:8x7b-text-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "0331d26f4ac1": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q6_K",
+    "name": "mixtral:8x7b-text-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "50d4ad519912": {
+    "href": "/library/mixtral:8x7b-text-v0.1-q8_0",
+    "name": "mixtral:8x7b-text-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "6c08977f2b56": {
+    "href": "/library/mixtral:8x7b-text-v0.1-fp16",
+    "name": "mixtral:8x7b-text-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  },
+  "cf96f64cdf60": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q2_K",
+    "name": "mixtral:8x22b-instruct-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "64K"
+  },
+  "50ec4fbf79f2": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q3_K_S",
+    "name": "mixtral:8x22b-instruct-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "62GB",
+    "size_str": "64K"
+  },
+  "d552821493b8": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q3_K_M",
+    "name": "mixtral:8x22b-instruct-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "68GB",
+    "size_str": "64K"
+  },
+  "85c9d74f72e2": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q3_K_L",
+    "name": "mixtral:8x22b-instruct-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "64K"
+  },
+  "0ea2df035a44": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q4_1",
+    "name": "mixtral:8x22b-instruct-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "88GB",
+    "size_str": "64K"
+  },
+  "a9be4647cd05": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q4_K_S",
+    "name": "mixtral:8x22b-instruct-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "de58127cf267": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q4_K_M",
+    "name": "mixtral:8x22b-instruct-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "86GB",
+    "size_str": "64K"
+  },
+  "c4d73325754c": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q5_0",
+    "name": "mixtral:8x22b-instruct-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "a8e4c57d9fdb": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q5_1",
+    "name": "mixtral:8x22b-instruct-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "106GB",
+    "size_str": "64K"
+  },
+  "7dc2b27d2ce5": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q5_K_S",
+    "name": "mixtral:8x22b-instruct-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "040d78ec94bc": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q5_K_M",
+    "name": "mixtral:8x22b-instruct-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "100GB",
+    "size_str": "64K"
+  },
+  "2a597519778d": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q6_K",
+    "name": "mixtral:8x22b-instruct-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "116GB",
+    "size_str": "64K"
+  },
+  "74d06fe380a1": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-q8_0",
+    "name": "mixtral:8x22b-instruct-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "149GB",
+    "size_str": "64K"
+  },
+  "be69186cc79b": {
+    "href": "/library/mixtral:8x22b-instruct-v0.1-fp16",
+    "name": "mixtral:8x22b-instruct-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "281GB",
+    "size_str": "64K"
+  },
+  "eb6b1cd64bb1": {
+    "href": "/library/mixtral:8x22b-text",
+    "name": "mixtral:8x22b-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "9a187644e490": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q2_K",
+    "name": "mixtral:8x22b-text-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "64K"
+  },
+  "4f5b5d113e8d": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q3_K_S",
+    "name": "mixtral:8x22b-text-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "61GB",
+    "size_str": "64K"
+  },
+  "a45b937d5d88": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q3_K_M",
+    "name": "mixtral:8x22b-text-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "68GB",
+    "size_str": "64K"
+  },
+  "5637d20e8d2b": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q3_K_L",
+    "name": "mixtral:8x22b-text-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "64K"
+  },
+  "068cdfff8170": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q4_1",
+    "name": "mixtral:8x22b-text-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "88GB",
+    "size_str": "64K"
+  },
+  "f43943467ac8": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q4_K_S",
+    "name": "mixtral:8x22b-text-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "48fd198637f7": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q4_K_M",
+    "name": "mixtral:8x22b-text-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "86GB",
+    "size_str": "64K"
+  },
+  "4f7e4cb4532b": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q5_0",
+    "name": "mixtral:8x22b-text-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "77414be8fbac": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q5_1",
+    "name": "mixtral:8x22b-text-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "106GB",
+    "size_str": "64K"
+  },
+  "9e736b483924": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q5_K_S",
+    "name": "mixtral:8x22b-text-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "92a2e32d7f87": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q5_K_M",
+    "name": "mixtral:8x22b-text-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "100GB",
+    "size_str": "64K"
+  },
+  "2fb8e840c060": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q6_K",
+    "name": "mixtral:8x22b-text-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "116GB",
+    "size_str": "64K"
+  },
+  "619b5b9ddad2": {
+    "href": "/library/mixtral:8x22b-text-v0.1-q8_0",
+    "name": "mixtral:8x22b-text-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "149GB",
+    "size_str": "64K"
+  },
+  "bada034b7898": {
+    "href": "/library/mixtral:8x22b-text-v0.1-fp16",
+    "name": "mixtral:8x22b-text-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "281GB",
+    "size_str": "64K"
+  }
+}

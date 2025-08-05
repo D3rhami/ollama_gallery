@@ -1,0 +1,752 @@
+{
+  "714a6116cffa": {
+    "href": "/library/stablelm2:latest",
+    "name": "stablelm2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "983MB",
+    "size_str": "4K"
+  },
+  "1b81980a10e6": {
+    "href": "/library/stablelm2:zephyr",
+    "name": "stablelm2:zephyr",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "983MB",
+    "size_str": "4K"
+  },
+  "34b434945650": {
+    "href": "/library/stablelm2:12b",
+    "name": "stablelm2:12b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "78f4c3eff377": {
+    "href": "/library/stablelm2:1.6b-chat-q2_K",
+    "name": "stablelm2:1.6b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "694MB",
+    "size_str": "4K"
+  },
+  "cfcbd43623df": {
+    "href": "/library/stablelm2:1.6b-chat-q3_K_S",
+    "name": "stablelm2:1.6b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "792MB",
+    "size_str": "4K"
+  },
+  "e1f3e5051e53": {
+    "href": "/library/stablelm2:1.6b-chat-q3_K_M",
+    "name": "stablelm2:1.6b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "858MB",
+    "size_str": "4K"
+  },
+  "620c26dd9a2b": {
+    "href": "/library/stablelm2:1.6b-chat-q3_K_L",
+    "name": "stablelm2:1.6b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "915MB",
+    "size_str": "4K"
+  },
+  "7e806e51ba84": {
+    "href": "/library/stablelm2:1.6b-chat-q4_1",
+    "name": "stablelm2:1.6b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "c9f7fd5b8270": {
+    "href": "/library/stablelm2:1.6b-chat-q4_K_S",
+    "name": "stablelm2:1.6b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "989MB",
+    "size_str": "4K"
+  },
+  "76c778222622": {
+    "href": "/library/stablelm2:1.6b-chat-q4_K_M",
+    "name": "stablelm2:1.6b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "abb100f0b7c9": {
+    "href": "/library/stablelm2:1.6b-chat-q5_0",
+    "name": "stablelm2:1.6b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "42dd11c7cb70": {
+    "href": "/library/stablelm2:1.6b-chat-q5_1",
+    "name": "stablelm2:1.6b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "d2b7e535bad6": {
+    "href": "/library/stablelm2:1.6b-chat-q5_K_S",
+    "name": "stablelm2:1.6b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "0ffa9bed24a8": {
+    "href": "/library/stablelm2:1.6b-chat-q5_K_M",
+    "name": "stablelm2:1.6b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "18d985708c14": {
+    "href": "/library/stablelm2:1.6b-chat-q6_K",
+    "name": "stablelm2:1.6b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "6cb988cfb148": {
+    "href": "/library/stablelm2:1.6b-chat-q8_0",
+    "name": "stablelm2:1.6b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "341cf2da5cb2": {
+    "href": "/library/stablelm2:1.6b-chat-fp16",
+    "name": "stablelm2:1.6b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "c408bb796cad": {
+    "href": "/library/stablelm2:1.6b-zephyr-q2_K",
+    "name": "stablelm2:1.6b-zephyr-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "694MB",
+    "size_str": "4K"
+  },
+  "e023697f1087": {
+    "href": "/library/stablelm2:1.6b-zephyr-q3_K_S",
+    "name": "stablelm2:1.6b-zephyr-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "792MB",
+    "size_str": "4K"
+  },
+  "16082bda3ea8": {
+    "href": "/library/stablelm2:1.6b-zephyr-q3_K_M",
+    "name": "stablelm2:1.6b-zephyr-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "858MB",
+    "size_str": "4K"
+  },
+  "5b4670930e20": {
+    "href": "/library/stablelm2:1.6b-zephyr-q3_K_L",
+    "name": "stablelm2:1.6b-zephyr-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "915MB",
+    "size_str": "4K"
+  },
+  "32c909836b8a": {
+    "href": "/library/stablelm2:1.6b-zephyr-q4_1",
+    "name": "stablelm2:1.6b-zephyr-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "219c1d8bc5d0": {
+    "href": "/library/stablelm2:1.6b-zephyr-q4_K_S",
+    "name": "stablelm2:1.6b-zephyr-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "989MB",
+    "size_str": "4K"
+  },
+  "2f41c2ec1f16": {
+    "href": "/library/stablelm2:1.6b-zephyr-q4_K_M",
+    "name": "stablelm2:1.6b-zephyr-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "37e439f3c088": {
+    "href": "/library/stablelm2:1.6b-zephyr-q5_0",
+    "name": "stablelm2:1.6b-zephyr-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "9216ba881c23": {
+    "href": "/library/stablelm2:1.6b-zephyr-q5_1",
+    "name": "stablelm2:1.6b-zephyr-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "ee2741791209": {
+    "href": "/library/stablelm2:1.6b-zephyr-q5_K_S",
+    "name": "stablelm2:1.6b-zephyr-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "2efb2e4e851d": {
+    "href": "/library/stablelm2:1.6b-zephyr-q5_K_M",
+    "name": "stablelm2:1.6b-zephyr-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "dddb30e81cbd": {
+    "href": "/library/stablelm2:1.6b-zephyr-q6_K",
+    "name": "stablelm2:1.6b-zephyr-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "9e11af0951d9": {
+    "href": "/library/stablelm2:1.6b-zephyr-q8_0",
+    "name": "stablelm2:1.6b-zephyr-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "9c7225243279": {
+    "href": "/library/stablelm2:1.6b-zephyr-fp16",
+    "name": "stablelm2:1.6b-zephyr-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "3b575a87a913": {
+    "href": "/library/stablelm2:1.6b-q2_K",
+    "name": "stablelm2:1.6b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "694MB",
+    "size_str": "4K"
+  },
+  "067975f6b1c7": {
+    "href": "/library/stablelm2:1.6b-q3_K_S",
+    "name": "stablelm2:1.6b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "792MB",
+    "size_str": "4K"
+  },
+  "7db1f01eeb28": {
+    "href": "/library/stablelm2:1.6b-q3_K_M",
+    "name": "stablelm2:1.6b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "858MB",
+    "size_str": "4K"
+  },
+  "e10024b219b0": {
+    "href": "/library/stablelm2:1.6b-q3_K_L",
+    "name": "stablelm2:1.6b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "915MB",
+    "size_str": "4K"
+  },
+  "be79737556df": {
+    "href": "/library/stablelm2:1.6b-q4_0",
+    "name": "stablelm2:1.6b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "983MB",
+    "size_str": "4K"
+  },
+  "1c1ef2dae7d9": {
+    "href": "/library/stablelm2:1.6b-q4_1",
+    "name": "stablelm2:1.6b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "a9e787fc2a0c": {
+    "href": "/library/stablelm2:1.6b-q4_K_S",
+    "name": "stablelm2:1.6b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "989MB",
+    "size_str": "4K"
+  },
+  "3eb0d616668e": {
+    "href": "/library/stablelm2:1.6b-q4_K_M",
+    "name": "stablelm2:1.6b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "31085b8af897": {
+    "href": "/library/stablelm2:1.6b-q5_0",
+    "name": "stablelm2:1.6b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "dd3bae8dbffd": {
+    "href": "/library/stablelm2:1.6b-q5_1",
+    "name": "stablelm2:1.6b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "de87d68a582a": {
+    "href": "/library/stablelm2:1.6b-q5_K_S",
+    "name": "stablelm2:1.6b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "f354c769a33a": {
+    "href": "/library/stablelm2:1.6b-q5_K_M",
+    "name": "stablelm2:1.6b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "376ed8ad2809": {
+    "href": "/library/stablelm2:1.6b-q6_K",
+    "name": "stablelm2:1.6b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "bdc6441fbef4": {
+    "href": "/library/stablelm2:1.6b-q8_0",
+    "name": "stablelm2:1.6b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "59751c842430": {
+    "href": "/library/stablelm2:1.6b-fp16",
+    "name": "stablelm2:1.6b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "60633e1e7e90": {
+    "href": "/library/stablelm2:12b-chat-q2_K",
+    "name": "stablelm2:12b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "7047024d0f2e": {
+    "href": "/library/stablelm2:12b-chat-q3_K_S",
+    "name": "stablelm2:12b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "b7643e4111bf": {
+    "href": "/library/stablelm2:12b-chat-q3_K_M",
+    "name": "stablelm2:12b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.0GB",
+    "size_str": "4K"
+  },
+  "5ccd09a01b76": {
+    "href": "/library/stablelm2:12b-chat-q3_K_L",
+    "name": "stablelm2:12b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.5GB",
+    "size_str": "4K"
+  },
+  "4fbe1f29b652": {
+    "href": "/library/stablelm2:12b-chat-q4_1",
+    "name": "stablelm2:12b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "4K"
+  },
+  "83a2e3ff8abc": {
+    "href": "/library/stablelm2:12b-chat-q4_K_S",
+    "name": "stablelm2:12b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "5af5562f9d85": {
+    "href": "/library/stablelm2:12b-chat-q4_K_M",
+    "name": "stablelm2:12b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "e5b04f432c7b": {
+    "href": "/library/stablelm2:12b-chat-q5_0",
+    "name": "stablelm2:12b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  },
+  "3645c5d94e18": {
+    "href": "/library/stablelm2:12b-chat-q5_1",
+    "name": "stablelm2:12b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "4K"
+  },
+  "446fbe890c8a": {
+    "href": "/library/stablelm2:12b-chat-q5_K_S",
+    "name": "stablelm2:12b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  },
+  "f44dc73dc6cd": {
+    "href": "/library/stablelm2:12b-chat-q5_K_M",
+    "name": "stablelm2:12b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.6GB",
+    "size_str": "4K"
+  },
+  "1d69a3e529a8": {
+    "href": "/library/stablelm2:12b-chat-q6_K",
+    "name": "stablelm2:12b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10.0GB",
+    "size_str": "4K"
+  },
+  "df16528fc283": {
+    "href": "/library/stablelm2:12b-chat-q8_0",
+    "name": "stablelm2:12b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "4K"
+  },
+  "13c47b3dfcbf": {
+    "href": "/library/stablelm2:12b-chat-fp16",
+    "name": "stablelm2:12b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "4K"
+  },
+  "345b0d1ba424": {
+    "href": "/library/stablelm2:12b-text",
+    "name": "stablelm2:12b-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "584ca182742f": {
+    "href": "/library/stablelm2:12b-q2_K",
+    "name": "stablelm2:12b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "793a219d183c": {
+    "href": "/library/stablelm2:12b-q3_K_S",
+    "name": "stablelm2:12b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "2f18605e62c1": {
+    "href": "/library/stablelm2:12b-q3_K_M",
+    "name": "stablelm2:12b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.0GB",
+    "size_str": "4K"
+  },
+  "700e8e1bc5df": {
+    "href": "/library/stablelm2:12b-q3_K_L",
+    "name": "stablelm2:12b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.5GB",
+    "size_str": "4K"
+  },
+  "1c1fb0772461": {
+    "href": "/library/stablelm2:12b-q4_1",
+    "name": "stablelm2:12b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "4K"
+  },
+  "ced8fb3048d7": {
+    "href": "/library/stablelm2:12b-q4_K_S",
+    "name": "stablelm2:12b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "caa45d546ea8": {
+    "href": "/library/stablelm2:12b-q4_K_M",
+    "name": "stablelm2:12b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "c7af93fd855e": {
+    "href": "/library/stablelm2:12b-q5_0",
+    "name": "stablelm2:12b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  },
+  "2b56d93c664f": {
+    "href": "/library/stablelm2:12b-q5_1",
+    "name": "stablelm2:12b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "4K"
+  },
+  "4b2f83850196": {
+    "href": "/library/stablelm2:12b-q5_K_S",
+    "name": "stablelm2:12b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  },
+  "f64999ce1c7d": {
+    "href": "/library/stablelm2:12b-q5_K_M",
+    "name": "stablelm2:12b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.6GB",
+    "size_str": "4K"
+  },
+  "b289916cd903": {
+    "href": "/library/stablelm2:12b-q6_K",
+    "name": "stablelm2:12b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10.0GB",
+    "size_str": "4K"
+  },
+  "0d36ff686778": {
+    "href": "/library/stablelm2:12b-q8_0",
+    "name": "stablelm2:12b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "4K"
+  },
+  "e24492cdd1f0": {
+    "href": "/library/stablelm2:12b-fp16",
+    "name": "stablelm2:12b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "4K"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "bf31604e25c2": {
+    "href": "/library/llama4:latest",
+    "name": "llama4:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "67GB",
+    "size_str": "10M"
+  },
+  "b4832b93e292": {
+    "href": "/library/llama4:maverick",
+    "name": "llama4:maverick",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "245GB",
+    "size_str": "1M"
+  },
+  "7fb6f3e69a28": {
+    "href": "/library/llama4:17b-maverick-128e-instruct-q8_0",
+    "name": "llama4:17b-maverick-128e-instruct-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "428GB",
+    "size_str": "1M"
+  },
+  "c9a3a4d149af": {
+    "href": "/library/llama4:17b-maverick-128e-instruct-fp16",
+    "name": "llama4:17b-maverick-128e-instruct-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "803GB",
+    "size_str": "1M"
+  },
+  "244249e6cd64": {
+    "href": "/library/llama4:17b-scout-16e-instruct-q8_0",
+    "name": "llama4:17b-scout-16e-instruct-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "117GB",
+    "size_str": "10M"
+  },
+  "f390ec6c1a81": {
+    "href": "/library/llama4:17b-scout-16e-instruct-fp16",
+    "name": "llama4:17b-scout-16e-instruct-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "217GB",
+    "size_str": "10M"
+  }
+}

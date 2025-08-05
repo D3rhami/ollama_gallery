@@ -1,0 +1,142 @@
+{
+  "75b508ddece1": {
+    "href": "/library/cogito:latest",
+    "name": "cogito:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "bd144357d717": {
+    "href": "/library/cogito:3b",
+    "name": "cogito:3b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "2.2GB",
+    "size_str": "128K"
+  },
+  "d0cac86a2347": {
+    "href": "/library/cogito:14b",
+    "name": "cogito:14b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "9.0GB",
+    "size_str": "128K"
+  },
+  "0b4aab772f57": {
+    "href": "/library/cogito:32b",
+    "name": "cogito:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "20GB",
+    "size_str": "128K"
+  },
+  "8f2632d0faa4": {
+    "href": "/library/cogito:70b",
+    "name": "cogito:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "43GB",
+    "size_str": "128K"
+  },
+  "8c7d8ed14b2f": {
+    "href": "/library/cogito:3b-v1-preview-llama-q8_0",
+    "name": "cogito:3b-v1-preview-llama-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "3.8GB",
+    "size_str": "128K"
+  },
+  "f81e868ef9f6": {
+    "href": "/library/cogito:3b-v1-preview-llama-fp16",
+    "name": "cogito:3b-v1-preview-llama-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "7.2GB",
+    "size_str": "128K"
+  },
+  "dcad7d783f2d": {
+    "href": "/library/cogito:8b-v1-preview-llama-q8_0",
+    "name": "cogito:8b-v1-preview-llama-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "8.5GB",
+    "size_str": "128K"
+  },
+  "c02d5fe4e547": {
+    "href": "/library/cogito:14b-v1-preview-qwen-q8_0",
+    "name": "cogito:14b-v1-preview-qwen-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "2d80cf1c85e9": {
+    "href": "/library/cogito:14b-v1-preview-qwen-fp16",
+    "name": "cogito:14b-v1-preview-qwen-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "30GB",
+    "size_str": "128K"
+  },
+  "39317c19a975": {
+    "href": "/library/cogito:32b-v1-preview-qwen-q8_0",
+    "name": "cogito:32b-v1-preview-qwen-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "35GB",
+    "size_str": "128K"
+  },
+  "d76677b01639": {
+    "href": "/library/cogito:32b-v1-preview-qwen-fp16",
+    "name": "cogito:32b-v1-preview-qwen-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "66GB",
+    "size_str": "128K"
+  },
+  "9c80b552cd74": {
+    "href": "/library/cogito:70b-v1-preview-llama-q8_0",
+    "name": "cogito:70b-v1-preview-llama-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "75GB",
+    "size_str": "128K"
+  },
+  "6aa41db77aec": {
+    "href": "/library/cogito:70b-v1-preview-llama-fp16",
+    "name": "cogito:70b-v1-preview-llama-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "141GB",
+    "size_str": "128K"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "5ab8dc2115d3": {
+    "href": "/library/wizard-math:latest",
+    "name": "wizard-math:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "8b44f21282d8": {
+    "href": "/library/wizard-math:13b",
+    "name": "wizard-math:13b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "78a12f5c753b": {
+    "href": "/library/wizard-math:70b",
+    "name": "wizard-math:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "2K"
+  },
+  "fb23b7ecbb41": {
+    "href": "/library/wizard-math:7b-v1.1-q2_K",
+    "name": "wizard-math:7b-v1.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "3d60487e5ff9": {
+    "href": "/library/wizard-math:7b-v1.1-q3_K_S",
+    "name": "wizard-math:7b-v1.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "445d38e580c1": {
+    "href": "/library/wizard-math:7b-v1.1-q3_K_M",
+    "name": "wizard-math:7b-v1.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "5d4901c2b6ee": {
+    "href": "/library/wizard-math:7b-v1.1-q3_K_L",
+    "name": "wizard-math:7b-v1.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "84da7cfcaadf": {
+    "href": "/library/wizard-math:7b-v1.1-q4_1",
+    "name": "wizard-math:7b-v1.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "7fbb91d511ed": {
+    "href": "/library/wizard-math:7b-v1.1-q4_K_S",
+    "name": "wizard-math:7b-v1.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "b3f80305c1ee": {
+    "href": "/library/wizard-math:7b-v1.1-q4_K_M",
+    "name": "wizard-math:7b-v1.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "68ee7e9ae5c8": {
+    "href": "/library/wizard-math:7b-v1.1-q5_0",
+    "name": "wizard-math:7b-v1.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "a71b25492bae": {
+    "href": "/library/wizard-math:7b-v1.1-q5_1",
+    "name": "wizard-math:7b-v1.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "842e330e5a43": {
+    "href": "/library/wizard-math:7b-v1.1-q5_K_S",
+    "name": "wizard-math:7b-v1.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "7ef289161203": {
+    "href": "/library/wizard-math:7b-v1.1-q5_K_M",
+    "name": "wizard-math:7b-v1.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "1605a5f0a78d": {
+    "href": "/library/wizard-math:7b-v1.1-q6_K",
+    "name": "wizard-math:7b-v1.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "c0a82cf6340f": {
+    "href": "/library/wizard-math:7b-v1.1-q8_0",
+    "name": "wizard-math:7b-v1.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "9ba9081b8e33": {
+    "href": "/library/wizard-math:7b-v1.1-fp16",
+    "name": "wizard-math:7b-v1.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "92eee4b30af3": {
+    "href": "/library/wizard-math:7b-q2_K",
+    "name": "wizard-math:7b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "2K"
+  },
+  "5991089fe14e": {
+    "href": "/library/wizard-math:7b-q3_K_S",
+    "name": "wizard-math:7b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "2K"
+  },
+  "8d69fd3716a2": {
+    "href": "/library/wizard-math:7b-q3_K_M",
+    "name": "wizard-math:7b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "2K"
+  },
+  "ea1e890b2834": {
+    "href": "/library/wizard-math:7b-q3_K_L",
+    "name": "wizard-math:7b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "2K"
+  },
+  "9c8843a9e4f1": {
+    "href": "/library/wizard-math:7b-q4_0",
+    "name": "wizard-math:7b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "2K"
+  },
+  "9591190dde98": {
+    "href": "/library/wizard-math:7b-q4_1",
+    "name": "wizard-math:7b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "2K"
+  },
+  "7b76b8b02e14": {
+    "href": "/library/wizard-math:7b-q4_K_S",
+    "name": "wizard-math:7b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "2K"
+  },
+  "1cdc42c6d82d": {
+    "href": "/library/wizard-math:7b-q4_K_M",
+    "name": "wizard-math:7b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "2K"
+  },
+  "ade46d0b5ba5": {
+    "href": "/library/wizard-math:7b-q5_0",
+    "name": "wizard-math:7b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "b0f832f014a3": {
+    "href": "/library/wizard-math:7b-q5_1",
+    "name": "wizard-math:7b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "2K"
+  },
+  "7c60c147e556": {
+    "href": "/library/wizard-math:7b-q5_K_S",
+    "name": "wizard-math:7b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "c127eced82ac": {
+    "href": "/library/wizard-math:7b-q5_K_M",
+    "name": "wizard-math:7b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "2K"
+  },
+  "da2e01e1db76": {
+    "href": "/library/wizard-math:7b-q6_K",
+    "name": "wizard-math:7b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "2K"
+  },
+  "0ffedbf1deac": {
+    "href": "/library/wizard-math:7b-q8_0",
+    "name": "wizard-math:7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "2K"
+  },
+  "2da027b7832e": {
+    "href": "/library/wizard-math:7b-fp16",
+    "name": "wizard-math:7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "2K"
+  },
+  "04f99080dc55": {
+    "href": "/library/wizard-math:13b-q2_K",
+    "name": "wizard-math:13b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "09e1fc038a1e": {
+    "href": "/library/wizard-math:13b-q3_K_S",
+    "name": "wizard-math:13b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "f20c07ecdbbb": {
+    "href": "/library/wizard-math:13b-q3_K_M",
+    "name": "wizard-math:13b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "ed332a080a46": {
+    "href": "/library/wizard-math:13b-q3_K_L",
+    "name": "wizard-math:13b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "4K"
+  },
+  "7d82decc19c9": {
+    "href": "/library/wizard-math:13b-q4_1",
+    "name": "wizard-math:13b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "4K"
+  },
+  "5b0ad85a5ff2": {
+    "href": "/library/wizard-math:13b-q4_K_S",
+    "name": "wizard-math:13b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "8972bd69fd2b": {
+    "href": "/library/wizard-math:13b-q4_K_M",
+    "name": "wizard-math:13b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "4K"
+  },
+  "712881c3a1f5": {
+    "href": "/library/wizard-math:13b-q5_0",
+    "name": "wizard-math:13b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "4dc396c294c2": {
+    "href": "/library/wizard-math:13b-q5_1",
+    "name": "wizard-math:13b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "4K"
+  },
+  "81854a1cfc87": {
+    "href": "/library/wizard-math:13b-q5_K_S",
+    "name": "wizard-math:13b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "ee22916d7475": {
+    "href": "/library/wizard-math:13b-q5_K_M",
+    "name": "wizard-math:13b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "4K"
+  },
+  "3b2fe53d6622": {
+    "href": "/library/wizard-math:13b-q6_K",
+    "name": "wizard-math:13b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "fb4caa91e51b": {
+    "href": "/library/wizard-math:13b-q8_0",
+    "name": "wizard-math:13b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "3bd5c9fb640d": {
+    "href": "/library/wizard-math:13b-fp16",
+    "name": "wizard-math:13b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "4K"
+  },
+  "49b0aa622ef3": {
+    "href": "/library/wizard-math:70b-q2_K",
+    "name": "wizard-math:70b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "2K"
+  },
+  "f177b78b166c": {
+    "href": "/library/wizard-math:70b-q3_K_S",
+    "name": "wizard-math:70b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "30GB",
+    "size_str": "2K"
+  },
+  "213ebb30790d": {
+    "href": "/library/wizard-math:70b-q3_K_M",
+    "name": "wizard-math:70b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "33GB",
+    "size_str": "2K"
+  },
+  "abaeff08031f": {
+    "href": "/library/wizard-math:70b-q3_K_L",
+    "name": "wizard-math:70b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "2K"
+  },
+  "5dfbed4fdb94": {
+    "href": "/library/wizard-math:70b-q4_1",
+    "name": "wizard-math:70b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "2K"
+  },
+  "ffac3e511948": {
+    "href": "/library/wizard-math:70b-q4_K_S",
+    "name": "wizard-math:70b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "2K"
+  },
+  "7e51cd7185f9": {
+    "href": "/library/wizard-math:70b-q4_K_M",
+    "name": "wizard-math:70b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "41GB",
+    "size_str": "2K"
+  },
+  "36de56ad0a3e": {
+    "href": "/library/wizard-math:70b-q5_0",
+    "name": "wizard-math:70b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "2K"
+  },
+  "ac0dd67be9f3": {
+    "href": "/library/wizard-math:70b-q5_1",
+    "name": "wizard-math:70b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "2K"
+  },
+  "3457b4038c5a": {
+    "href": "/library/wizard-math:70b-q5_K_S",
+    "name": "wizard-math:70b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "2K"
+  },
+  "09fccca8b7ac": {
+    "href": "/library/wizard-math:70b-q5_K_M",
+    "name": "wizard-math:70b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "2K"
+  },
+  "7926bf824556": {
+    "href": "/library/wizard-math:70b-q6_K",
+    "name": "wizard-math:70b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "57GB",
+    "size_str": "2K"
+  },
+  "5827126cc766": {
+    "href": "/library/wizard-math:70b-q8_0",
+    "name": "wizard-math:70b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "2K"
+  },
+  "fbc61420209c": {
+    "href": "/library/wizard-math:70b-fp16",
+    "name": "wizard-math:70b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "138GB",
+    "size_str": "2K"
+  }
+}

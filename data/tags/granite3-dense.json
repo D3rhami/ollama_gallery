@@ -1,0 +1,302 @@
+{
+  "5c2e6f3112f4": {
+    "href": "/library/granite3-dense:latest",
+    "name": "granite3-dense:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.6GB",
+    "size_str": "4K"
+  },
+  "199456d876ee": {
+    "href": "/library/granite3-dense:8b",
+    "name": "granite3-dense:8b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "2261d92d6175": {
+    "href": "/library/granite3-dense:2b-instruct-q2_K",
+    "name": "granite3-dense:2b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "7c6af70b9f11": {
+    "href": "/library/granite3-dense:2b-instruct-q3_K_S",
+    "name": "granite3-dense:2b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "c08ae454856c": {
+    "href": "/library/granite3-dense:2b-instruct-q3_K_M",
+    "name": "granite3-dense:2b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "201ccf1522e8": {
+    "href": "/library/granite3-dense:2b-instruct-q3_K_L",
+    "name": "granite3-dense:2b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "dd4a07b9e1b7": {
+    "href": "/library/granite3-dense:2b-instruct-q4_0",
+    "name": "granite3-dense:2b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.5GB",
+    "size_str": "4K"
+  },
+  "e12ad0fad2ad": {
+    "href": "/library/granite3-dense:2b-instruct-q4_1",
+    "name": "granite3-dense:2b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.7GB",
+    "size_str": "4K"
+  },
+  "0f87f54eb387": {
+    "href": "/library/granite3-dense:2b-instruct-q4_K_S",
+    "name": "granite3-dense:2b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.5GB",
+    "size_str": "4K"
+  },
+  "db3fbcdec89b": {
+    "href": "/library/granite3-dense:2b-instruct-q5_0",
+    "name": "granite3-dense:2b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "bc5ed577d64f": {
+    "href": "/library/granite3-dense:2b-instruct-q5_1",
+    "name": "granite3-dense:2b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.0GB",
+    "size_str": "4K"
+  },
+  "be9d8efefd30": {
+    "href": "/library/granite3-dense:2b-instruct-q5_K_S",
+    "name": "granite3-dense:2b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "dcace13d6d34": {
+    "href": "/library/granite3-dense:2b-instruct-q5_K_M",
+    "name": "granite3-dense:2b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.9GB",
+    "size_str": "4K"
+  },
+  "7f374efdad9b": {
+    "href": "/library/granite3-dense:2b-instruct-q6_K",
+    "name": "granite3-dense:2b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.2GB",
+    "size_str": "4K"
+  },
+  "f35cd2e1e433": {
+    "href": "/library/granite3-dense:2b-instruct-q8_0",
+    "name": "granite3-dense:2b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "24e5c0a35f78": {
+    "href": "/library/granite3-dense:2b-instruct-fp16",
+    "name": "granite3-dense:2b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "2ea57f8bc8fd": {
+    "href": "/library/granite3-dense:8b-instruct-q2_K",
+    "name": "granite3-dense:8b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "4c5f0dba11a8": {
+    "href": "/library/granite3-dense:8b-instruct-q3_K_S",
+    "name": "granite3-dense:8b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "c1a94d47b25c": {
+    "href": "/library/granite3-dense:8b-instruct-q3_K_M",
+    "name": "granite3-dense:8b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.0GB",
+    "size_str": "4K"
+  },
+  "c74b04a2513f": {
+    "href": "/library/granite3-dense:8b-instruct-q3_K_L",
+    "name": "granite3-dense:8b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.3GB",
+    "size_str": "4K"
+  },
+  "16473222519f": {
+    "href": "/library/granite3-dense:8b-instruct-q4_0",
+    "name": "granite3-dense:8b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "8a47472a11f2": {
+    "href": "/library/granite3-dense:8b-instruct-q4_1",
+    "name": "granite3-dense:8b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "8fc1ce76b8f2": {
+    "href": "/library/granite3-dense:8b-instruct-q4_K_S",
+    "name": "granite3-dense:8b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "449cddb1864d": {
+    "href": "/library/granite3-dense:8b-instruct-q5_0",
+    "name": "granite3-dense:8b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "ae4ab94be005": {
+    "href": "/library/granite3-dense:8b-instruct-q5_1",
+    "name": "granite3-dense:8b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "49055e666925": {
+    "href": "/library/granite3-dense:8b-instruct-q5_K_S",
+    "name": "granite3-dense:8b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "e85361d1973c": {
+    "href": "/library/granite3-dense:8b-instruct-q5_K_M",
+    "name": "granite3-dense:8b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.8GB",
+    "size_str": "4K"
+  },
+  "ec258d53940b": {
+    "href": "/library/granite3-dense:8b-instruct-q6_K",
+    "name": "granite3-dense:8b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.7GB",
+    "size_str": "4K"
+  },
+  "f1466e70a7be": {
+    "href": "/library/granite3-dense:8b-instruct-q8_0",
+    "name": "granite3-dense:8b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "8.7GB",
+    "size_str": "4K"
+  },
+  "d3a4062e339e": {
+    "href": "/library/granite3-dense:8b-instruct-fp16",
+    "name": "granite3-dense:8b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "16GB",
+    "size_str": "4K"
+  }
+}

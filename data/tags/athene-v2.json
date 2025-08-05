@@ -1,0 +1,152 @@
+{
+  "d14346ed7d55": {
+    "href": "/library/athene-v2:latest",
+    "name": "athene-v2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "47GB",
+    "size_str": "32K"
+  },
+  "e566d713f2ce": {
+    "href": "/library/athene-v2:72b-q2_K",
+    "name": "athene-v2:72b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "30GB",
+    "size_str": "32K"
+  },
+  "c213bdad39e6": {
+    "href": "/library/athene-v2:72b-q3_K_S",
+    "name": "athene-v2:72b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "34GB",
+    "size_str": "32K"
+  },
+  "f74199e5b2ed": {
+    "href": "/library/athene-v2:72b-q3_K_M",
+    "name": "athene-v2:72b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "b05ead18ed8a": {
+    "href": "/library/athene-v2:72b-q3_K_L",
+    "name": "athene-v2:72b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "40GB",
+    "size_str": "32K"
+  },
+  "5ce9f00e1aaa": {
+    "href": "/library/athene-v2:72b-q4_0",
+    "name": "athene-v2:72b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "41GB",
+    "size_str": "32K"
+  },
+  "3e10d6a1cc6c": {
+    "href": "/library/athene-v2:72b-q4_1",
+    "name": "athene-v2:72b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "46GB",
+    "size_str": "32K"
+  },
+  "1bb9b315e5a1": {
+    "href": "/library/athene-v2:72b-q4_K_S",
+    "name": "athene-v2:72b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "44GB",
+    "size_str": "32K"
+  },
+  "2d45e35efb78": {
+    "href": "/library/athene-v2:72b-q5_0",
+    "name": "athene-v2:72b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "17eadb34276c": {
+    "href": "/library/athene-v2:72b-q5_1",
+    "name": "athene-v2:72b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "55GB",
+    "size_str": "32K"
+  },
+  "f3b97798cb4b": {
+    "href": "/library/athene-v2:72b-q5_K_S",
+    "name": "athene-v2:72b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "51GB",
+    "size_str": "32K"
+  },
+  "d82d1d08a629": {
+    "href": "/library/athene-v2:72b-q5_K_M",
+    "name": "athene-v2:72b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "54GB",
+    "size_str": "32K"
+  },
+  "70b90bce364f": {
+    "href": "/library/athene-v2:72b-q6_K",
+    "name": "athene-v2:72b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "64GB",
+    "size_str": "32K"
+  },
+  "4ce011a86fef": {
+    "href": "/library/athene-v2:72b-q8_0",
+    "name": "athene-v2:72b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "77GB",
+    "size_str": "32K"
+  },
+  "1efa8264c375": {
+    "href": "/library/athene-v2:72b-fp16",
+    "name": "athene-v2:72b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "145GB",
+    "size_str": "32K"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "21ab8b9b0545": {
+    "href": "/library/snowflake-arctic-embed:latest",
+    "name": "snowflake-arctic-embed:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "669MB",
+    "size_str": "512"
+  },
+  "8a0d86a3ca1d": {
+    "href": "/library/snowflake-arctic-embed:m",
+    "name": "snowflake-arctic-embed:m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "219MB",
+    "size_str": "512"
+  },
+  "e8db018629b4": {
+    "href": "/library/snowflake-arctic-embed:s",
+    "name": "snowflake-arctic-embed:s",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "67MB",
+    "size_str": "512"
+  },
+  "bf75350e1752": {
+    "href": "/library/snowflake-arctic-embed:xs",
+    "name": "snowflake-arctic-embed:xs",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "46MB",
+    "size_str": "512"
+  },
+  "12616299a158": {
+    "href": "/library/snowflake-arctic-embed:137m",
+    "name": "snowflake-arctic-embed:137m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "274MB",
+    "size_str": "2K"
+  }
+}

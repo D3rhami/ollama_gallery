@@ -1,0 +1,42 @@
+{
+  "36800d8d3a28": {
+    "href": "/library/dbrx:latest",
+    "name": "dbrx:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "74GB",
+    "size_str": "32K"
+  },
+  "e2554a95cc76": {
+    "href": "/library/dbrx:132b-instruct-q2_K",
+    "name": "dbrx:132b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "48GB",
+    "size_str": "32K"
+  },
+  "4fca83b20ba0": {
+    "href": "/library/dbrx:132b-instruct-q8_0",
+    "name": "dbrx:132b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "140GB",
+    "size_str": "32K"
+  },
+  "2bacc27fc29a": {
+    "href": "/library/dbrx:132b-instruct-fp16",
+    "name": "dbrx:132b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "263GB",
+    "size_str": "32K"
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "6577803aa9a0": {
+    "href": "/library/mistral:latest",
+    "name": "mistral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "3944fe81ec14": {
+    "href": "/library/mistral:instruct",
+    "name": "mistral:instruct",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "495ae085225b": {
+    "href": "/library/mistral:text",
+    "name": "mistral:text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "16K"
+  },
+  "b17615239298": {
+    "href": "/library/mistral:v0.1",
+    "name": "mistral:v0.1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "61e88e884507": {
+    "href": "/library/mistral:v0.2",
+    "name": "mistral:v0.2",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "1344ecf13c2e": {
+    "href": "/library/mistral:7b-instruct-q2_K",
+    "name": "mistral:7b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "6deedd139c2a": {
+    "href": "/library/mistral:7b-instruct-v0.2-q2_K",
+    "name": "mistral:7b-instruct-v0.2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "30ead8e09346": {
+    "href": "/library/mistral:7b-instruct-q3_K_S",
+    "name": "mistral:7b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "a0adecf535f4": {
+    "href": "/library/mistral:7b-instruct-v0.2-q3_K_S",
+    "name": "mistral:7b-instruct-v0.2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "9fddddabfd5d": {
+    "href": "/library/mistral:7b-instruct-q3_K_M",
+    "name": "mistral:7b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "6897f015d8dc": {
+    "href": "/library/mistral:7b-instruct-v0.2-q3_K_M",
+    "name": "mistral:7b-instruct-v0.2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "7f1b28865005": {
+    "href": "/library/mistral:7b-instruct-q3_K_L",
+    "name": "mistral:7b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "efe60f8368f7": {
+    "href": "/library/mistral:7b-instruct-v0.2-q3_K_L",
+    "name": "mistral:7b-instruct-v0.2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "4455f2ee0189": {
+    "href": "/library/mistral:7b-instruct-q4_1",
+    "name": "mistral:7b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "658e1f4c66cc": {
+    "href": "/library/mistral:7b-instruct-v0.2-q4_1",
+    "name": "mistral:7b-instruct-v0.2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "d8ee783f8c73": {
+    "href": "/library/mistral:7b-instruct-q4_K_S",
+    "name": "mistral:7b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "ba00d3a5239e": {
+    "href": "/library/mistral:7b-instruct-v0.2-q4_K_S",
+    "name": "mistral:7b-instruct-v0.2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "eb14864c7427": {
+    "href": "/library/mistral:7b-instruct-v0.2-q4_K_M",
+    "name": "mistral:7b-instruct-v0.2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "0e6b5e504307": {
+    "href": "/library/mistral:7b-instruct-v0.2-q5_0",
+    "name": "mistral:7b-instruct-v0.2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "ff048d9b25be": {
+    "href": "/library/mistral:7b-instruct-v0.2-q5_1",
+    "name": "mistral:7b-instruct-v0.2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "db882a87043d": {
+    "href": "/library/mistral:7b-instruct-v0.2-q5_K_S",
+    "name": "mistral:7b-instruct-v0.2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "bec2cbe92b28": {
+    "href": "/library/mistral:7b-instruct-v0.2-q5_K_M",
+    "name": "mistral:7b-instruct-v0.2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "1019a5160773": {
+    "href": "/library/mistral:7b-instruct-v0.2-q6_K",
+    "name": "mistral:7b-instruct-v0.2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "3f321fd2a1c3": {
+    "href": "/library/mistral:7b-instruct-v0.2-q8_0",
+    "name": "mistral:7b-instruct-v0.2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "094d67ff087c": {
+    "href": "/library/mistral:7b-instruct-v0.2-fp16",
+    "name": "mistral:7b-instruct-v0.2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "8bada5a287d3": {
+    "href": "/library/mistral:7b-instruct-v0.3-q2_K",
+    "name": "mistral:7b-instruct-v0.3-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "2.7GB",
+    "size_str": "32K"
+  },
+  "89f2f40a58a5": {
+    "href": "/library/mistral:7b-instruct-v0.3-q3_K_S",
+    "name": "mistral:7b-instruct-v0.3-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "5f4359ac850d": {
+    "href": "/library/mistral:7b-instruct-v0.3-q3_K_M",
+    "name": "mistral:7b-instruct-v0.3-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "9c690c1791aa": {
+    "href": "/library/mistral:7b-instruct-v0.3-q3_K_L",
+    "name": "mistral:7b-instruct-v0.3-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "571250ebd2d9": {
+    "href": "/library/mistral:7b-instruct-v0.3-q4_1",
+    "name": "mistral:7b-instruct-v0.3-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "4567baa854e6": {
+    "href": "/library/mistral:7b-instruct-v0.3-q4_K_S",
+    "name": "mistral:7b-instruct-v0.3-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "1a85656b534f": {
+    "href": "/library/mistral:7b-instruct-q4_K_M",
+    "name": "mistral:7b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "69b94d2f2086": {
+    "href": "/library/mistral:7b-instruct-q5_0",
+    "name": "mistral:7b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "78fdb100e03d": {
+    "href": "/library/mistral:7b-instruct-v0.3-q5_0",
+    "name": "mistral:7b-instruct-v0.3-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "0aeff8418eda": {
+    "href": "/library/mistral:7b-instruct-q5_1",
+    "name": "mistral:7b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "8b786c3ade1f": {
+    "href": "/library/mistral:7b-instruct-v0.3-q5_1",
+    "name": "mistral:7b-instruct-v0.3-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "6e47e694bb5c": {
+    "href": "/library/mistral:7b-instruct-q5_K_S",
+    "name": "mistral:7b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "13690c9631b6": {
+    "href": "/library/mistral:7b-instruct-v0.3-q5_K_S",
+    "name": "mistral:7b-instruct-v0.3-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "8397c99c426f": {
+    "href": "/library/mistral:7b-instruct-q5_K_M",
+    "name": "mistral:7b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "e6968ec1decc": {
+    "href": "/library/mistral:7b-instruct-v0.3-q5_K_M",
+    "name": "mistral:7b-instruct-v0.3-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "bb307cbab5aa": {
+    "href": "/library/mistral:7b-instruct-q6_K",
+    "name": "mistral:7b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "80cca373bdb2": {
+    "href": "/library/mistral:7b-instruct-v0.3-q6_K",
+    "name": "mistral:7b-instruct-v0.3-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "2162e081e7f0": {
+    "href": "/library/mistral:7b-instruct-q8_0",
+    "name": "mistral:7b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "7aae4c4eed11": {
+    "href": "/library/mistral:7b-instruct-v0.3-q8_0",
+    "name": "mistral:7b-instruct-v0.3-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "7334da3db4d2": {
+    "href": "/library/mistral:7b-instruct-fp16",
+    "name": "mistral:7b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "b7c44a30bb65": {
+    "href": "/library/mistral:7b-instruct-v0.3-fp16",
+    "name": "mistral:7b-instruct-v0.3-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "741772b3543d": {
+    "href": "/library/mistral:7b-text-q2_K",
+    "name": "mistral:7b-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "748b32627509": {
+    "href": "/library/mistral:7b-text-v0.2-q2_K",
+    "name": "mistral:7b-text-v0.2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "16K"
+  },
+  "ec0a4bd34689": {
+    "href": "/library/mistral:7b-text-q3_K_S",
+    "name": "mistral:7b-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "1cd170493ae6": {
+    "href": "/library/mistral:7b-text-v0.2-q3_K_S",
+    "name": "mistral:7b-text-v0.2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "16K"
+  },
+  "633491386324": {
+    "href": "/library/mistral:7b-text-q3_K_M",
+    "name": "mistral:7b-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "519ef17de46e": {
+    "href": "/library/mistral:7b-text-v0.2-q3_K_M",
+    "name": "mistral:7b-text-v0.2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "16K"
+  },
+  "ae1eaf0c61df": {
+    "href": "/library/mistral:7b-text-q3_K_L",
+    "name": "mistral:7b-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "991a9afb3a73": {
+    "href": "/library/mistral:7b-text-v0.2-q3_K_L",
+    "name": "mistral:7b-text-v0.2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "16K"
+  },
+  "d19e34de4cb6": {
+    "href": "/library/mistral:7b-text-q4_0",
+    "name": "mistral:7b-text-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "14d146cb57dc": {
+    "href": "/library/mistral:7b-text-q4_1",
+    "name": "mistral:7b-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "fae6ab253307": {
+    "href": "/library/mistral:7b-text-v0.2-q4_1",
+    "name": "mistral:7b-text-v0.2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "16K"
+  },
+  "e6aa05445f6e": {
+    "href": "/library/mistral:7b-text-q4_K_S",
+    "name": "mistral:7b-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "1a6db06e5aa7": {
+    "href": "/library/mistral:7b-text-v0.2-q4_K_S",
+    "name": "mistral:7b-text-v0.2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "16K"
+  },
+  "60eca258468e": {
+    "href": "/library/mistral:7b-text-q4_K_M",
+    "name": "mistral:7b-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "33518cc91a4d": {
+    "href": "/library/mistral:7b-text-v0.2-q4_K_M",
+    "name": "mistral:7b-text-v0.2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "16K"
+  },
+  "efb1aa205985": {
+    "href": "/library/mistral:7b-text-q5_0",
+    "name": "mistral:7b-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "de4b5d95fa55": {
+    "href": "/library/mistral:7b-text-v0.2-q5_0",
+    "name": "mistral:7b-text-v0.2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "16K"
+  },
+  "05b86a2ea9de": {
+    "href": "/library/mistral:7b-text-q5_1",
+    "name": "mistral:7b-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "719e139683a3": {
+    "href": "/library/mistral:7b-text-v0.2-q5_1",
+    "name": "mistral:7b-text-v0.2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "16K"
+  },
+  "be6784da326c": {
+    "href": "/library/mistral:7b-text-q5_K_S",
+    "name": "mistral:7b-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "d419d7d9e74a": {
+    "href": "/library/mistral:7b-text-v0.2-q5_K_S",
+    "name": "mistral:7b-text-v0.2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "16K"
+  },
+  "71cd339e522c": {
+    "href": "/library/mistral:7b-text-q5_K_M",
+    "name": "mistral:7b-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "d4e74c03817c": {
+    "href": "/library/mistral:7b-text-v0.2-q5_K_M",
+    "name": "mistral:7b-text-v0.2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "08f5c2f86290": {
+    "href": "/library/mistral:7b-text-q6_K",
+    "name": "mistral:7b-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "017da36fcc18": {
+    "href": "/library/mistral:7b-text-v0.2-q6_K",
+    "name": "mistral:7b-text-v0.2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "16K"
+  },
+  "3197b6e23271": {
+    "href": "/library/mistral:7b-text-q8_0",
+    "name": "mistral:7b-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "e844517e7eaf": {
+    "href": "/library/mistral:7b-text-v0.2-q8_0",
+    "name": "mistral:7b-text-v0.2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "16K"
+  },
+  "0c3d49e38913": {
+    "href": "/library/mistral:7b-text-fp16",
+    "name": "mistral:7b-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "06b91ca50a5e": {
+    "href": "/library/mistral:7b-text-v0.2-fp16",
+    "name": "mistral:7b-text-v0.2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "16K"
+  }
+}

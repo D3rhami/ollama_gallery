@@ -1,0 +1,302 @@
+{
+  "d84e1e38ee39": {
+    "href": "/library/granite3-moe:latest",
+    "name": "granite3-moe:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "822MB",
+    "size_str": "4K"
+  },
+  "157f538ae66e": {
+    "href": "/library/granite3-moe:3b",
+    "name": "granite3-moe:3b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.1GB",
+    "size_str": "4K"
+  },
+  "5965f707577c": {
+    "href": "/library/granite3-moe:1b-instruct-q2_K",
+    "name": "granite3-moe:1b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "512MB",
+    "size_str": "4K"
+  },
+  "cab9e1d32d19": {
+    "href": "/library/granite3-moe:1b-instruct-q3_K_S",
+    "name": "granite3-moe:1b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "598MB",
+    "size_str": "4K"
+  },
+  "ea6a79b9b3cc": {
+    "href": "/library/granite3-moe:1b-instruct-q3_K_M",
+    "name": "granite3-moe:1b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "659MB",
+    "size_str": "4K"
+  },
+  "bbb955565d3d": {
+    "href": "/library/granite3-moe:1b-instruct-q3_K_L",
+    "name": "granite3-moe:1b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "711MB",
+    "size_str": "4K"
+  },
+  "9b6ee4c08df8": {
+    "href": "/library/granite3-moe:1b-instruct-q4_0",
+    "name": "granite3-moe:1b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "768MB",
+    "size_str": "4K"
+  },
+  "c3aa5d722767": {
+    "href": "/library/granite3-moe:1b-instruct-q4_1",
+    "name": "granite3-moe:1b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "849MB",
+    "size_str": "4K"
+  },
+  "76e6392d08a3": {
+    "href": "/library/granite3-moe:1b-instruct-q4_K_S",
+    "name": "granite3-moe:1b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "775MB",
+    "size_str": "4K"
+  },
+  "f49b9c68d958": {
+    "href": "/library/granite3-moe:1b-instruct-q5_0",
+    "name": "granite3-moe:1b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "929MB",
+    "size_str": "4K"
+  },
+  "f1dbdb4ce40f": {
+    "href": "/library/granite3-moe:1b-instruct-q5_1",
+    "name": "granite3-moe:1b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "427124d0793f": {
+    "href": "/library/granite3-moe:1b-instruct-q5_K_S",
+    "name": "granite3-moe:1b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "929MB",
+    "size_str": "4K"
+  },
+  "c51ea1c8bab3": {
+    "href": "/library/granite3-moe:1b-instruct-q5_K_M",
+    "name": "granite3-moe:1b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "956MB",
+    "size_str": "4K"
+  },
+  "a585cc84307b": {
+    "href": "/library/granite3-moe:1b-instruct-q6_K",
+    "name": "granite3-moe:1b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "84f7efa9cc2d": {
+    "href": "/library/granite3-moe:1b-instruct-q8_0",
+    "name": "granite3-moe:1b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "cee5d696574c": {
+    "href": "/library/granite3-moe:1b-instruct-fp16",
+    "name": "granite3-moe:1b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.7GB",
+    "size_str": "4K"
+  },
+  "48ee4c1b7090": {
+    "href": "/library/granite3-moe:3b-instruct-q2_K",
+    "name": "granite3-moe:3b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "5952b23cdd5c": {
+    "href": "/library/granite3-moe:3b-instruct-q3_K_S",
+    "name": "granite3-moe:3b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.5GB",
+    "size_str": "4K"
+  },
+  "cc32cde7c1fe": {
+    "href": "/library/granite3-moe:3b-instruct-q3_K_M",
+    "name": "granite3-moe:3b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.6GB",
+    "size_str": "4K"
+  },
+  "8c76215f504a": {
+    "href": "/library/granite3-moe:3b-instruct-q3_K_L",
+    "name": "granite3-moe:3b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.8GB",
+    "size_str": "4K"
+  },
+  "d144aac2b0d8": {
+    "href": "/library/granite3-moe:3b-instruct-q4_0",
+    "name": "granite3-moe:3b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.9GB",
+    "size_str": "4K"
+  },
+  "ac91c7b62cc7": {
+    "href": "/library/granite3-moe:3b-instruct-q4_1",
+    "name": "granite3-moe:3b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.1GB",
+    "size_str": "4K"
+  },
+  "9f5ecea51621": {
+    "href": "/library/granite3-moe:3b-instruct-q4_K_S",
+    "name": "granite3-moe:3b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "1.9GB",
+    "size_str": "4K"
+  },
+  "e623edd5db90": {
+    "href": "/library/granite3-moe:3b-instruct-q5_0",
+    "name": "granite3-moe:3b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.3GB",
+    "size_str": "4K"
+  },
+  "709d47478efd": {
+    "href": "/library/granite3-moe:3b-instruct-q5_1",
+    "name": "granite3-moe:3b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.5GB",
+    "size_str": "4K"
+  },
+  "c84b2a3a27fd": {
+    "href": "/library/granite3-moe:3b-instruct-q5_K_S",
+    "name": "granite3-moe:3b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.3GB",
+    "size_str": "4K"
+  },
+  "94e89b071306": {
+    "href": "/library/granite3-moe:3b-instruct-q5_K_M",
+    "name": "granite3-moe:3b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.4GB",
+    "size_str": "4K"
+  },
+  "c196db4b29bb": {
+    "href": "/library/granite3-moe:3b-instruct-q6_K",
+    "name": "granite3-moe:3b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "f3b962d19110": {
+    "href": "/library/granite3-moe:3b-instruct-q8_0",
+    "name": "granite3-moe:3b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "9433d98bf426": {
+    "href": "/library/granite3-moe:3b-instruct-fp16",
+    "name": "granite3-moe:3b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.8GB",
+    "size_str": "4K"
+  }
+}

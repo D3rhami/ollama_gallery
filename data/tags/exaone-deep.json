@@ -1,0 +1,92 @@
+{
+  "106afe416a9e": {
+    "href": "/library/exaone-deep:latest",
+    "name": "exaone-deep:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "4.8GB",
+    "size_str": "32K"
+  },
+  "37d6b495c16c": {
+    "href": "/library/exaone-deep:2.4b",
+    "name": "exaone-deep:2.4b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "1.6GB",
+    "size_str": "32K"
+  },
+  "a9422f9a5071": {
+    "href": "/library/exaone-deep:32b",
+    "name": "exaone-deep:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "19GB",
+    "size_str": "32K"
+  },
+  "1ef8421dff40": {
+    "href": "/library/exaone-deep:2.4b-q8_0",
+    "name": "exaone-deep:2.4b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "2.8GB",
+    "size_str": "32K"
+  },
+  "e62ec685eda1": {
+    "href": "/library/exaone-deep:2.4b-fp16",
+    "name": "exaone-deep:2.4b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "5.3GB",
+    "size_str": "32K"
+  },
+  "b1c039797694": {
+    "href": "/library/exaone-deep:7.8b-q8_0",
+    "name": "exaone-deep:7.8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "8.3GB",
+    "size_str": "32K"
+  },
+  "3445461cbc49": {
+    "href": "/library/exaone-deep:7.8b-fp16",
+    "name": "exaone-deep:7.8b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "16GB",
+    "size_str": "32K"
+  },
+  "e400e2287c21": {
+    "href": "/library/exaone-deep:32b-q8_0",
+    "name": "exaone-deep:32b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "34GB",
+    "size_str": "32K"
+  },
+  "3c652371e959": {
+    "href": "/library/exaone-deep:32b-fp16",
+    "name": "exaone-deep:32b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "64GB",
+    "size_str": "32K"
+  }
+}

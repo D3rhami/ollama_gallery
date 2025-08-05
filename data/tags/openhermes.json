@@ -1,0 +1,302 @@
+{
+  "95477a2659b7": {
+    "href": "/library/openhermes:latest",
+    "name": "openhermes:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "f04d5fa80594": {
+    "href": "/library/openhermes:v2",
+    "name": "openhermes:v2",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "7382e175bc40": {
+    "href": "/library/openhermes:7b-mistral-v2-q2_K",
+    "name": "openhermes:7b-mistral-v2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "9293e87ebeee": {
+    "href": "/library/openhermes:7b-mistral-v2-q3_K_S",
+    "name": "openhermes:7b-mistral-v2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "943cbcfdf34c": {
+    "href": "/library/openhermes:7b-mistral-v2-q3_K_M",
+    "name": "openhermes:7b-mistral-v2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "92639a59090e": {
+    "href": "/library/openhermes:7b-mistral-v2-q3_K_L",
+    "name": "openhermes:7b-mistral-v2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "578862b7c2c4": {
+    "href": "/library/openhermes:7b-mistral-v2-q4_1",
+    "name": "openhermes:7b-mistral-v2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "2b693162c0b1": {
+    "href": "/library/openhermes:7b-mistral-v2-q4_K_S",
+    "name": "openhermes:7b-mistral-v2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "c834aea088da": {
+    "href": "/library/openhermes:7b-mistral-v2-q4_K_M",
+    "name": "openhermes:7b-mistral-v2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "c7ee3129a817": {
+    "href": "/library/openhermes:7b-mistral-v2-q5_0",
+    "name": "openhermes:7b-mistral-v2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "6c0627dce78f": {
+    "href": "/library/openhermes:7b-mistral-v2-q5_1",
+    "name": "openhermes:7b-mistral-v2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "0e5722600e00": {
+    "href": "/library/openhermes:7b-mistral-v2-q5_K_S",
+    "name": "openhermes:7b-mistral-v2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "d021fbb0cb08": {
+    "href": "/library/openhermes:7b-mistral-v2-q5_K_M",
+    "name": "openhermes:7b-mistral-v2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "cfc008d96677": {
+    "href": "/library/openhermes:7b-mistral-v2-q6_K",
+    "name": "openhermes:7b-mistral-v2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "911a100c0637": {
+    "href": "/library/openhermes:7b-mistral-v2-q8_0",
+    "name": "openhermes:7b-mistral-v2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "7363c7974aad": {
+    "href": "/library/openhermes:7b-mistral-v2-fp16",
+    "name": "openhermes:7b-mistral-v2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "44645d418862": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q2_K",
+    "name": "openhermes:7b-mistral-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "e7a7de3e60a0": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q3_K_S",
+    "name": "openhermes:7b-mistral-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "2356b5964d77": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q3_K_M",
+    "name": "openhermes:7b-mistral-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "4d3c347d9140": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q3_K_L",
+    "name": "openhermes:7b-mistral-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "c8ceb7530412": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q4_1",
+    "name": "openhermes:7b-mistral-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "2528f369c9e5": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q4_K_S",
+    "name": "openhermes:7b-mistral-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "e898ef9a562f": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q4_K_M",
+    "name": "openhermes:7b-mistral-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "67bd911a9e96": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q5_0",
+    "name": "openhermes:7b-mistral-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "1e67d8f3ad40": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q5_1",
+    "name": "openhermes:7b-mistral-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "90f1eb6110b6": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q5_K_S",
+    "name": "openhermes:7b-mistral-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "16eab97b0cd1": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q5_K_M",
+    "name": "openhermes:7b-mistral-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "a63bb944ae62": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q6_K",
+    "name": "openhermes:7b-mistral-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "1617b8a38b70": {
+    "href": "/library/openhermes:7b-mistral-v2.5-q8_0",
+    "name": "openhermes:7b-mistral-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "579d40574c77": {
+    "href": "/library/openhermes:7b-mistral-v2.5-fp16",
+    "name": "openhermes:7b-mistral-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  }
+}

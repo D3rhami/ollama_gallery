@@ -1,0 +1,92 @@
+{
+  "c7c4e3d1ca22": {
+    "href": "/library/exaone3.5:latest",
+    "name": "exaone3.5:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.8GB",
+    "size_str": "32K"
+  },
+  "13644fc3d28e": {
+    "href": "/library/exaone3.5:2.4b",
+    "name": "exaone3.5:2.4b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.6GB",
+    "size_str": "32K"
+  },
+  "f2f69abac3da": {
+    "href": "/library/exaone3.5:32b",
+    "name": "exaone3.5:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "19GB",
+    "size_str": "32K"
+  },
+  "283184b139f7": {
+    "href": "/library/exaone3.5:2.4b-instruct-q8_0",
+    "name": "exaone3.5:2.4b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.8GB",
+    "size_str": "32K"
+  },
+  "599ce5e8a3bb": {
+    "href": "/library/exaone3.5:2.4b-instruct-fp16",
+    "name": "exaone3.5:2.4b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "5.3GB",
+    "size_str": "32K"
+  },
+  "dc6fcd786b42": {
+    "href": "/library/exaone3.5:7.8b-instruct-q8_0",
+    "name": "exaone3.5:7.8b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "8.3GB",
+    "size_str": "32K"
+  },
+  "5b3ebd118bcc": {
+    "href": "/library/exaone3.5:7.8b-instruct-fp16",
+    "name": "exaone3.5:7.8b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "16GB",
+    "size_str": "32K"
+  },
+  "aa9dadfef613": {
+    "href": "/library/exaone3.5:32b-instruct-q8_0",
+    "name": "exaone3.5:32b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "34GB",
+    "size_str": "32K"
+  },
+  "323957e0b2cf": {
+    "href": "/library/exaone3.5:32b-instruct-fp16",
+    "name": "exaone3.5:32b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "64GB",
+    "size_str": "32K"
+  }
+}

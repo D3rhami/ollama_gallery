@@ -1,0 +1,1492 @@
+{
+  "becc94fe1876": {
+    "href": "/library/granite-code:latest",
+    "name": "granite-code:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.0GB",
+    "size_str": "125K"
+  },
+  "36c3c3b9683b": {
+    "href": "/library/granite-code:8b",
+    "name": "granite-code:8b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.6GB",
+    "size_str": "125K"
+  },
+  "59db7b531bb4": {
+    "href": "/library/granite-code:20b",
+    "name": "granite-code:20b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "4ce00960ca84": {
+    "href": "/library/granite-code:34b",
+    "name": "granite-code:34b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "897c973ac371": {
+    "href": "/library/granite-code:3b-base",
+    "name": "granite-code:3b-base",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.0GB",
+    "size_str": "2K"
+  },
+  "e36887a9a821": {
+    "href": "/library/granite-code:3b-base-q2_K",
+    "name": "granite-code:3b-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "2K"
+  },
+  "4ebfe349d653": {
+    "href": "/library/granite-code:3b-base-q3_K_S",
+    "name": "granite-code:3b-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.6GB",
+    "size_str": "2K"
+  },
+  "6cd1bf544950": {
+    "href": "/library/granite-code:3b-base-q3_K_M",
+    "name": "granite-code:3b-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.7GB",
+    "size_str": "2K"
+  },
+  "efa391969797": {
+    "href": "/library/granite-code:3b-base-q3_K_L",
+    "name": "granite-code:3b-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.9GB",
+    "size_str": "2K"
+  },
+  "289762e9c2de": {
+    "href": "/library/granite-code:3b-base-q4_1",
+    "name": "granite-code:3b-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.2GB",
+    "size_str": "2K"
+  },
+  "05d91372ce79": {
+    "href": "/library/granite-code:3b-base-q4_K_S",
+    "name": "granite-code:3b-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.0GB",
+    "size_str": "2K"
+  },
+  "074272cf1192": {
+    "href": "/library/granite-code:3b-base-q4_K_M",
+    "name": "granite-code:3b-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.1GB",
+    "size_str": "2K"
+  },
+  "564f8e0abfff": {
+    "href": "/library/granite-code:3b-base-q5_0",
+    "name": "granite-code:3b-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.4GB",
+    "size_str": "2K"
+  },
+  "bdb3c9b7c5e4": {
+    "href": "/library/granite-code:3b-base-q5_1",
+    "name": "granite-code:3b-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.6GB",
+    "size_str": "2K"
+  },
+  "c2b4985e3261": {
+    "href": "/library/granite-code:3b-base-q5_K_S",
+    "name": "granite-code:3b-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.4GB",
+    "size_str": "2K"
+  },
+  "9f543ec02c81": {
+    "href": "/library/granite-code:3b-base-q5_K_M",
+    "name": "granite-code:3b-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.5GB",
+    "size_str": "2K"
+  },
+  "ef18db8d2afc": {
+    "href": "/library/granite-code:3b-base-q6_K",
+    "name": "granite-code:3b-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "2K"
+  },
+  "c3464b5e457a": {
+    "href": "/library/granite-code:3b-base-q8_0",
+    "name": "granite-code:3b-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.7GB",
+    "size_str": "2K"
+  },
+  "c05254111c3b": {
+    "href": "/library/granite-code:3b-base-fp16",
+    "name": "granite-code:3b-base-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "2K"
+  },
+  "72154d08acee": {
+    "href": "/library/granite-code:3b-instruct-128k-q2_K",
+    "name": "granite-code:3b-instruct-128k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.3GB",
+    "size_str": "125K"
+  },
+  "7f3ad6ca25f4": {
+    "href": "/library/granite-code:3b-instruct-q2_K",
+    "name": "granite-code:3b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "2K"
+  },
+  "c5827e0a7a55": {
+    "href": "/library/granite-code:3b-instruct-128k-q3_K_S",
+    "name": "granite-code:3b-instruct-128k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.6GB",
+    "size_str": "125K"
+  },
+  "991c2ca80baf": {
+    "href": "/library/granite-code:3b-instruct-q3_K_S",
+    "name": "granite-code:3b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.6GB",
+    "size_str": "2K"
+  },
+  "27350580d3ea": {
+    "href": "/library/granite-code:3b-instruct-128k-q3_K_M",
+    "name": "granite-code:3b-instruct-128k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.7GB",
+    "size_str": "125K"
+  },
+  "70ec21a3004e": {
+    "href": "/library/granite-code:3b-instruct-q3_K_M",
+    "name": "granite-code:3b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.7GB",
+    "size_str": "2K"
+  },
+  "c794c5813849": {
+    "href": "/library/granite-code:3b-instruct-128k-q3_K_L",
+    "name": "granite-code:3b-instruct-128k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.9GB",
+    "size_str": "125K"
+  },
+  "d9060e45c47c": {
+    "href": "/library/granite-code:3b-instruct-q3_K_L",
+    "name": "granite-code:3b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.9GB",
+    "size_str": "2K"
+  },
+  "63bedbdffbf0": {
+    "href": "/library/granite-code:3b-instruct-q4_0",
+    "name": "granite-code:3b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.0GB",
+    "size_str": "2K"
+  },
+  "7e9329333607": {
+    "href": "/library/granite-code:3b-instruct-128k-q4_1",
+    "name": "granite-code:3b-instruct-128k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.2GB",
+    "size_str": "125K"
+  },
+  "07c153ea8ba3": {
+    "href": "/library/granite-code:3b-instruct-q4_1",
+    "name": "granite-code:3b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.2GB",
+    "size_str": "2K"
+  },
+  "a6c4b37f0dc7": {
+    "href": "/library/granite-code:3b-instruct-128k-q4_K_S",
+    "name": "granite-code:3b-instruct-128k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.0GB",
+    "size_str": "125K"
+  },
+  "c681b8a19c05": {
+    "href": "/library/granite-code:3b-instruct-q4_K_S",
+    "name": "granite-code:3b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.0GB",
+    "size_str": "2K"
+  },
+  "4702f6327ab5": {
+    "href": "/library/granite-code:3b-instruct-128k-q4_K_M",
+    "name": "granite-code:3b-instruct-128k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.1GB",
+    "size_str": "125K"
+  },
+  "65861823ce7a": {
+    "href": "/library/granite-code:3b-instruct-q4_K_M",
+    "name": "granite-code:3b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.1GB",
+    "size_str": "2K"
+  },
+  "dece491ce896": {
+    "href": "/library/granite-code:3b-instruct-128k-q5_0",
+    "name": "granite-code:3b-instruct-128k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.4GB",
+    "size_str": "125K"
+  },
+  "8a64d99caa8b": {
+    "href": "/library/granite-code:3b-instruct-q5_0",
+    "name": "granite-code:3b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.4GB",
+    "size_str": "2K"
+  },
+  "275d6e2f4fcc": {
+    "href": "/library/granite-code:3b-instruct-128k-q5_1",
+    "name": "granite-code:3b-instruct-128k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.6GB",
+    "size_str": "125K"
+  },
+  "c7b815a477d2": {
+    "href": "/library/granite-code:3b-instruct-q5_1",
+    "name": "granite-code:3b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.6GB",
+    "size_str": "2K"
+  },
+  "07bebb9f1381": {
+    "href": "/library/granite-code:3b-instruct-128k-q5_K_S",
+    "name": "granite-code:3b-instruct-128k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.4GB",
+    "size_str": "125K"
+  },
+  "c1cb0d4855f6": {
+    "href": "/library/granite-code:3b-instruct-q5_K_S",
+    "name": "granite-code:3b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.4GB",
+    "size_str": "2K"
+  },
+  "39570a508075": {
+    "href": "/library/granite-code:3b-instruct-128k-q5_K_M",
+    "name": "granite-code:3b-instruct-128k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.5GB",
+    "size_str": "125K"
+  },
+  "2db2e42160a0": {
+    "href": "/library/granite-code:3b-instruct-q5_K_M",
+    "name": "granite-code:3b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.5GB",
+    "size_str": "2K"
+  },
+  "aac7fdd35a84": {
+    "href": "/library/granite-code:3b-instruct-128k-q6_K",
+    "name": "granite-code:3b-instruct-128k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.9GB",
+    "size_str": "125K"
+  },
+  "f9bad785d4c6": {
+    "href": "/library/granite-code:3b-instruct-q6_K",
+    "name": "granite-code:3b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "2K"
+  },
+  "3ffa9e883e62": {
+    "href": "/library/granite-code:3b-instruct-128k-q8_0",
+    "name": "granite-code:3b-instruct-128k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.7GB",
+    "size_str": "125K"
+  },
+  "b93b1a15197d": {
+    "href": "/library/granite-code:3b-instruct-q8_0",
+    "name": "granite-code:3b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.7GB",
+    "size_str": "2K"
+  },
+  "0a85292e9c4c": {
+    "href": "/library/granite-code:3b-instruct-128k-fp16",
+    "name": "granite-code:3b-instruct-128k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.0GB",
+    "size_str": "125K"
+  },
+  "788453573810": {
+    "href": "/library/granite-code:3b-instruct-fp16",
+    "name": "granite-code:3b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "2K"
+  },
+  "446b079c08d8": {
+    "href": "/library/granite-code:8b-base",
+    "name": "granite-code:8b-base",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "4K"
+  },
+  "e63080a27380": {
+    "href": "/library/granite-code:8b-base-q2_K",
+    "name": "granite-code:8b-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "2ea64f1e1696": {
+    "href": "/library/granite-code:8b-base-q3_K_S",
+    "name": "granite-code:8b-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "4K"
+  },
+  "ca4d1a480357": {
+    "href": "/library/granite-code:8b-base-q3_K_M",
+    "name": "granite-code:8b-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "3e786e80fe43": {
+    "href": "/library/granite-code:8b-base-q3_K_L",
+    "name": "granite-code:8b-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.3GB",
+    "size_str": "4K"
+  },
+  "8188ceec7ebb": {
+    "href": "/library/granite-code:8b-base-q4_1",
+    "name": "granite-code:8b-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "8b5439b8f8fa": {
+    "href": "/library/granite-code:8b-base-q4_K_S",
+    "name": "granite-code:8b-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "4K"
+  },
+  "d1ff254e3ce3": {
+    "href": "/library/granite-code:8b-base-q4_K_M",
+    "name": "granite-code:8b-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "a2683a6426c6": {
+    "href": "/library/granite-code:8b-base-q5_0",
+    "name": "granite-code:8b-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "1ac225f4921f": {
+    "href": "/library/granite-code:8b-base-q5_1",
+    "name": "granite-code:8b-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "ac18787cbd38": {
+    "href": "/library/granite-code:8b-base-q5_K_S",
+    "name": "granite-code:8b-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "571e48fd3f79": {
+    "href": "/library/granite-code:8b-base-q5_K_M",
+    "name": "granite-code:8b-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "85c68aed2abf": {
+    "href": "/library/granite-code:8b-base-q6_K",
+    "name": "granite-code:8b-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.6GB",
+    "size_str": "4K"
+  },
+  "98d17f9b29f7": {
+    "href": "/library/granite-code:8b-base-q8_0",
+    "name": "granite-code:8b-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.6GB",
+    "size_str": "4K"
+  },
+  "b9ad7693117c": {
+    "href": "/library/granite-code:8b-base-fp16",
+    "name": "granite-code:8b-base-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "4K"
+  },
+  "e19d9843758d": {
+    "href": "/library/granite-code:8b-instruct-q2_K",
+    "name": "granite-code:8b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "f432fe584c50": {
+    "href": "/library/granite-code:8b-instruct-q3_K_S",
+    "name": "granite-code:8b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "4K"
+  },
+  "bf18f4d1eac9": {
+    "href": "/library/granite-code:8b-instruct-q3_K_M",
+    "name": "granite-code:8b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "e7a83854c109": {
+    "href": "/library/granite-code:8b-instruct-q3_K_L",
+    "name": "granite-code:8b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.3GB",
+    "size_str": "4K"
+  },
+  "998bce918de0": {
+    "href": "/library/granite-code:8b-instruct-q4_0",
+    "name": "granite-code:8b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "4K"
+  },
+  "0f53e9c9d8be": {
+    "href": "/library/granite-code:8b-instruct-128k-q4_1",
+    "name": "granite-code:8b-instruct-128k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.1GB",
+    "size_str": "125K"
+  },
+  "d7b2698267fc": {
+    "href": "/library/granite-code:8b-instruct-q4_1",
+    "name": "granite-code:8b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "fd077fe10167": {
+    "href": "/library/granite-code:8b-instruct-q4_K_S",
+    "name": "granite-code:8b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "4K"
+  },
+  "6b6cc77a3094": {
+    "href": "/library/granite-code:8b-instruct-q4_K_M",
+    "name": "granite-code:8b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "c577f70d1bcb": {
+    "href": "/library/granite-code:8b-instruct-q5_0",
+    "name": "granite-code:8b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "f5c70f717cd7": {
+    "href": "/library/granite-code:8b-instruct-q5_1",
+    "name": "granite-code:8b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "47b0d1d1779c": {
+    "href": "/library/granite-code:8b-instruct-q5_K_S",
+    "name": "granite-code:8b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "4K"
+  },
+  "a8781d67d804": {
+    "href": "/library/granite-code:8b-instruct-q5_K_M",
+    "name": "granite-code:8b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "a929c1ec4cda": {
+    "href": "/library/granite-code:8b-instruct-q6_K",
+    "name": "granite-code:8b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.6GB",
+    "size_str": "4K"
+  },
+  "068b1c745db2": {
+    "href": "/library/granite-code:8b-instruct-q8_0",
+    "name": "granite-code:8b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.6GB",
+    "size_str": "4K"
+  },
+  "ba8f7888f7cd": {
+    "href": "/library/granite-code:8b-instruct-fp16",
+    "name": "granite-code:8b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "4K"
+  },
+  "8ab7e91e85ff": {
+    "href": "/library/granite-code:20b-base",
+    "name": "granite-code:20b-base",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "80e7dd534ffd": {
+    "href": "/library/granite-code:20b-base-q2_K",
+    "name": "granite-code:20b-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "8K"
+  },
+  "67f3e156f5ba": {
+    "href": "/library/granite-code:20b-base-q3_K_S",
+    "name": "granite-code:20b-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.9GB",
+    "size_str": "8K"
+  },
+  "c7252c0c6703": {
+    "href": "/library/granite-code:20b-base-q3_K_M",
+    "name": "granite-code:20b-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "8K"
+  },
+  "d25be157479e": {
+    "href": "/library/granite-code:20b-base-q3_K_L",
+    "name": "granite-code:20b-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "e3a238721ec9": {
+    "href": "/library/granite-code:20b-base-q4_1",
+    "name": "granite-code:20b-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "850228967095": {
+    "href": "/library/granite-code:20b-base-q4_K_S",
+    "name": "granite-code:20b-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "81b9da645827": {
+    "href": "/library/granite-code:20b-base-q4_K_M",
+    "name": "granite-code:20b-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "0b840e35cc32": {
+    "href": "/library/granite-code:20b-base-q5_0",
+    "name": "granite-code:20b-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "a864d1a8a08a": {
+    "href": "/library/granite-code:20b-base-q5_1",
+    "name": "granite-code:20b-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "e5bdfcf66c14": {
+    "href": "/library/granite-code:20b-base-q5_K_S",
+    "name": "granite-code:20b-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "f036fe711fb1": {
+    "href": "/library/granite-code:20b-base-q5_K_M",
+    "name": "granite-code:20b-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "a655ca093ef3": {
+    "href": "/library/granite-code:20b-base-q6_K",
+    "name": "granite-code:20b-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "8K"
+  },
+  "caf48ed2d622": {
+    "href": "/library/granite-code:20b-base-q8_0",
+    "name": "granite-code:20b-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "30d0d41d27a1": {
+    "href": "/library/granite-code:20b-base-fp16",
+    "name": "granite-code:20b-base-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "40GB",
+    "size_str": "8K"
+  },
+  "4e3dff04ee5b": {
+    "href": "/library/granite-code:20b-instruct-8k-q2_K",
+    "name": "granite-code:20b-instruct-8k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.9GB",
+    "size_str": "8K"
+  },
+  "dec9b6ea432f": {
+    "href": "/library/granite-code:20b-instruct-q2_K",
+    "name": "granite-code:20b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "8K"
+  },
+  "cbd8989e4e53": {
+    "href": "/library/granite-code:20b-instruct-8k-q3_K_S",
+    "name": "granite-code:20b-instruct-8k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.9GB",
+    "size_str": "8K"
+  },
+  "c06f1e43b32b": {
+    "href": "/library/granite-code:20b-instruct-q3_K_S",
+    "name": "granite-code:20b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.9GB",
+    "size_str": "8K"
+  },
+  "9a3be6de6096": {
+    "href": "/library/granite-code:20b-instruct-8k-q3_K_M",
+    "name": "granite-code:20b-instruct-8k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "8K"
+  },
+  "71837d435f0c": {
+    "href": "/library/granite-code:20b-instruct-q3_K_M",
+    "name": "granite-code:20b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "8K"
+  },
+  "4c929cf47a4e": {
+    "href": "/library/granite-code:20b-instruct-8k-q3_K_L",
+    "name": "granite-code:20b-instruct-8k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "461f5d8eba68": {
+    "href": "/library/granite-code:20b-instruct-q3_K_L",
+    "name": "granite-code:20b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "31d8bc61e506": {
+    "href": "/library/granite-code:20b-instruct-q4_0",
+    "name": "granite-code:20b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "6e6ff60ff742": {
+    "href": "/library/granite-code:20b-instruct-8k-q4_1",
+    "name": "granite-code:20b-instruct-8k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "f9efbe4f8959": {
+    "href": "/library/granite-code:20b-instruct-q4_1",
+    "name": "granite-code:20b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "a012104b6642": {
+    "href": "/library/granite-code:20b-instruct-8k-q4_K_S",
+    "name": "granite-code:20b-instruct-8k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "644444b999f8": {
+    "href": "/library/granite-code:20b-instruct-q4_K_S",
+    "name": "granite-code:20b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "69917162166a": {
+    "href": "/library/granite-code:20b-instruct-8k-q4_K_M",
+    "name": "granite-code:20b-instruct-8k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "47eeb409e478": {
+    "href": "/library/granite-code:20b-instruct-q4_K_M",
+    "name": "granite-code:20b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "4670ab1f3599": {
+    "href": "/library/granite-code:20b-instruct-8k-q5_0",
+    "name": "granite-code:20b-instruct-8k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "5db756969808": {
+    "href": "/library/granite-code:20b-instruct-q5_0",
+    "name": "granite-code:20b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "0e1290bc14f7": {
+    "href": "/library/granite-code:20b-instruct-8k-q5_1",
+    "name": "granite-code:20b-instruct-8k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "7b08c7a6dc75": {
+    "href": "/library/granite-code:20b-instruct-q5_1",
+    "name": "granite-code:20b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "f9f9a21acb5f": {
+    "href": "/library/granite-code:20b-instruct-8k-q5_K_S",
+    "name": "granite-code:20b-instruct-8k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "b5d7d53400a9": {
+    "href": "/library/granite-code:20b-instruct-q5_K_S",
+    "name": "granite-code:20b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "0f7b0be5131a": {
+    "href": "/library/granite-code:20b-instruct-8k-q5_K_M",
+    "name": "granite-code:20b-instruct-8k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "818c70f50940": {
+    "href": "/library/granite-code:20b-instruct-q5_K_M",
+    "name": "granite-code:20b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "a6b84d465ddc": {
+    "href": "/library/granite-code:20b-instruct-8k-q6_K",
+    "name": "granite-code:20b-instruct-8k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "17GB",
+    "size_str": "8K"
+  },
+  "bd2f4bcf34bb": {
+    "href": "/library/granite-code:20b-instruct-q6_K",
+    "name": "granite-code:20b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "8K"
+  },
+  "d0054322b45c": {
+    "href": "/library/granite-code:20b-instruct-8k-q8_0",
+    "name": "granite-code:20b-instruct-8k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "b10dca01d737": {
+    "href": "/library/granite-code:20b-instruct-q8_0",
+    "name": "granite-code:20b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "be2ec1259ab5": {
+    "href": "/library/granite-code:20b-instruct-8k-fp16",
+    "name": "granite-code:20b-instruct-8k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "40GB",
+    "size_str": "8K"
+  },
+  "42c7e6e2af53": {
+    "href": "/library/granite-code:34b-base",
+    "name": "granite-code:34b-base",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "c74c785f9aad": {
+    "href": "/library/granite-code:34b-base-q2_K",
+    "name": "granite-code:34b-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "31de19958232": {
+    "href": "/library/granite-code:34b-base-q3_K_S",
+    "name": "granite-code:34b-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "4485e027847c": {
+    "href": "/library/granite-code:34b-base-q3_K_M",
+    "name": "granite-code:34b-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "18GB",
+    "size_str": "8K"
+  },
+  "7c99e42e5deb": {
+    "href": "/library/granite-code:34b-base-q3_K_L",
+    "name": "granite-code:34b-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "8K"
+  },
+  "3770a699dae1": {
+    "href": "/library/granite-code:34b-base-q4_1",
+    "name": "granite-code:34b-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "d0fbbc626c30": {
+    "href": "/library/granite-code:34b-base-q4_K_S",
+    "name": "granite-code:34b-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "f4ad76c0503a": {
+    "href": "/library/granite-code:34b-base-q4_K_M",
+    "name": "granite-code:34b-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "fb7a2b093c21": {
+    "href": "/library/granite-code:34b-base-q5_0",
+    "name": "granite-code:34b-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "23GB",
+    "size_str": "8K"
+  },
+  "0d64b22fd447": {
+    "href": "/library/granite-code:34b-base-q5_1",
+    "name": "granite-code:34b-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "8K"
+  },
+  "c5afa738c212": {
+    "href": "/library/granite-code:34b-base-q5_K_S",
+    "name": "granite-code:34b-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "23GB",
+    "size_str": "8K"
+  },
+  "3da71b98ed2b": {
+    "href": "/library/granite-code:34b-base-q5_K_M",
+    "name": "granite-code:34b-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "8K"
+  },
+  "ddf66982e605": {
+    "href": "/library/granite-code:34b-base-q6_K",
+    "name": "granite-code:34b-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "28GB",
+    "size_str": "8K"
+  },
+  "a1d04f60bc5e": {
+    "href": "/library/granite-code:34b-base-q8_0",
+    "name": "granite-code:34b-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "8K"
+  },
+  "c74bd2d3910b": {
+    "href": "/library/granite-code:34b-instruct-q2_K",
+    "name": "granite-code:34b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "941db8c58f05": {
+    "href": "/library/granite-code:34b-instruct-q3_K_S",
+    "name": "granite-code:34b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "97d3df0a98fb": {
+    "href": "/library/granite-code:34b-instruct-q3_K_M",
+    "name": "granite-code:34b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "18GB",
+    "size_str": "8K"
+  },
+  "51d4b46e9649": {
+    "href": "/library/granite-code:34b-instruct-q3_K_L",
+    "name": "granite-code:34b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "8K"
+  },
+  "a1cca29491fd": {
+    "href": "/library/granite-code:34b-instruct-q4_1",
+    "name": "granite-code:34b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "017ae7f3dba3": {
+    "href": "/library/granite-code:34b-instruct-q4_K_S",
+    "name": "granite-code:34b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "74723d97951a": {
+    "href": "/library/granite-code:34b-instruct-q4_K_M",
+    "name": "granite-code:34b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "4d276c35489e": {
+    "href": "/library/granite-code:34b-instruct-q5_0",
+    "name": "granite-code:34b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "23GB",
+    "size_str": "8K"
+  },
+  "f0004bc4aba0": {
+    "href": "/library/granite-code:34b-instruct-q5_1",
+    "name": "granite-code:34b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "8K"
+  },
+  "ad33350a1e2c": {
+    "href": "/library/granite-code:34b-instruct-q5_K_S",
+    "name": "granite-code:34b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "23GB",
+    "size_str": "8K"
+  },
+  "dad8cb2d266e": {
+    "href": "/library/granite-code:34b-instruct-q5_K_M",
+    "name": "granite-code:34b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "8K"
+  },
+  "c71fa145605c": {
+    "href": "/library/granite-code:34b-instruct-q6_K",
+    "name": "granite-code:34b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "28GB",
+    "size_str": "8K"
+  },
+  "abc2bbc41ce5": {
+    "href": "/library/granite-code:34b-instruct-q8_0",
+    "name": "granite-code:34b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "8K"
+  }
+}

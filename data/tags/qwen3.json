@@ -1,0 +1,352 @@
+{
+  "500a1f067a9f": {
+    "href": "/library/qwen3:latest",
+    "name": "qwen3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "5.2GB",
+    "size_str": "40K"
+  },
+  "7df6b6e09427": {
+    "href": "/library/qwen3:0.6b",
+    "name": "qwen3:0.6b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "523MB",
+    "size_str": "40K"
+  },
+  "8f68893c685c": {
+    "href": "/library/qwen3:1.7b",
+    "name": "qwen3:1.7b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "1.4GB",
+    "size_str": "40K"
+  },
+  "2bfd38a7daaf": {
+    "href": "/library/qwen3:4b",
+    "name": "qwen3:4b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "2.6GB",
+    "size_str": "40K"
+  },
+  "bdbd181c33f2": {
+    "href": "/library/qwen3:14b",
+    "name": "qwen3:14b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "9.3GB",
+    "size_str": "40K"
+  },
+  "e50831eb2d91": {
+    "href": "/library/qwen3:30b",
+    "name": "qwen3:30b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 days ago",
+    "context_window": "19GB",
+    "size_str": "256K"
+  },
+  "030ee887880f": {
+    "href": "/library/qwen3:32b",
+    "name": "qwen3:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "20GB",
+    "size_str": "40K"
+  },
+  "72840bddff91": {
+    "href": "/library/qwen3:235b",
+    "name": "qwen3:235b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 days ago",
+    "context_window": "142GB",
+    "size_str": "256K"
+  },
+  "f6358994266d": {
+    "href": "/library/qwen3:0.6b-q8_0",
+    "name": "qwen3:0.6b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "832MB",
+    "size_str": "40K"
+  },
+  "626c9556a80f": {
+    "href": "/library/qwen3:0.6b-fp16",
+    "name": "qwen3:0.6b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "1.5GB",
+    "size_str": "40K"
+  },
+  "29b6a7a420a4": {
+    "href": "/library/qwen3:1.7b-q8_0",
+    "name": "qwen3:1.7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "2.2GB",
+    "size_str": "40K"
+  },
+  "e9354f6174db": {
+    "href": "/library/qwen3:1.7b-fp16",
+    "name": "qwen3:1.7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "4.1GB",
+    "size_str": "40K"
+  },
+  "6461746fd6b5": {
+    "href": "/library/qwen3:4b-q8_0",
+    "name": "qwen3:4b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "4.4GB",
+    "size_str": "40K"
+  },
+  "c2a4b6294479": {
+    "href": "/library/qwen3:4b-fp16",
+    "name": "qwen3:4b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "8.1GB",
+    "size_str": "40K"
+  },
+  "e56358ca25dd": {
+    "href": "/library/qwen3:8b-q8_0",
+    "name": "qwen3:8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "8.9GB",
+    "size_str": "40K"
+  },
+  "0b358e6e9d8c": {
+    "href": "/library/qwen3:8b-fp16",
+    "name": "qwen3:8b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "16GB",
+    "size_str": "40K"
+  },
+  "304bf7349c71": {
+    "href": "/library/qwen3:14b-q8_0",
+    "name": "qwen3:14b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "16GB",
+    "size_str": "40K"
+  },
+  "a5be4baba030": {
+    "href": "/library/qwen3:14b-fp16",
+    "name": "qwen3:14b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "30GB",
+    "size_str": "40K"
+  },
+  "1b18c99a61ea": {
+    "href": "/library/qwen3:30b-a3b-instruct-2507-q4_K_M",
+    "name": "qwen3:30b-a3b-instruct-2507-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "19GB",
+    "size_str": "256K"
+  },
+  "0b28110b7a33": {
+    "href": "/library/qwen3:30b-a3b-q4_K_M",
+    "name": "qwen3:30b-a3b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "19GB",
+    "size_str": "40K"
+  },
+  "0835cef7f5ca": {
+    "href": "/library/qwen3:30b-a3b-instruct-2507-q8_0",
+    "name": "qwen3:30b-a3b-instruct-2507-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "32GB",
+    "size_str": "256K"
+  },
+  "a43c3bd181ce": {
+    "href": "/library/qwen3:30b-a3b-q8_0",
+    "name": "qwen3:30b-a3b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "33GB",
+    "size_str": "40K"
+  },
+  "c699578934a3": {
+    "href": "/library/qwen3:30b-a3b-instruct-2507-fp16",
+    "name": "qwen3:30b-a3b-instruct-2507-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "61GB",
+    "size_str": "256K"
+  },
+  "9a79c92d03b2": {
+    "href": "/library/qwen3:30b-a3b-thinking-2507-q8_0",
+    "name": "qwen3:30b-a3b-thinking-2507-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 days ago",
+    "context_window": "32GB",
+    "size_str": "256K"
+  },
+  "a46ad892011c": {
+    "href": "/library/qwen3:30b-a3b-fp16",
+    "name": "qwen3:30b-a3b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "61GB",
+    "size_str": "40K"
+  },
+  "f663848ae21b": {
+    "href": "/library/qwen3:30b-a3b-thinking-2507-fp16",
+    "name": "qwen3:30b-a3b-thinking-2507-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 days ago",
+    "context_window": "61GB",
+    "size_str": "256K"
+  },
+  "a46beca077e5": {
+    "href": "/library/qwen3:32b-q8_0",
+    "name": "qwen3:32b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "35GB",
+    "size_str": "40K"
+  },
+  "00dc0cb60a08": {
+    "href": "/library/qwen3:32b-fp16",
+    "name": "qwen3:32b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "66GB",
+    "size_str": "40K"
+  },
+  "c53922089308": {
+    "href": "/library/qwen3:235b-a22b-instruct-2507-q4_K_M",
+    "name": "qwen3:235b-a22b-instruct-2507-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "142GB",
+    "size_str": "256K"
+  },
+  "cf5635fabe3c": {
+    "href": "/library/qwen3:235b-a22b-q4_K_M",
+    "name": "qwen3:235b-a22b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "142GB",
+    "size_str": "40K"
+  },
+  "2bdde801c474": {
+    "href": "/library/qwen3:235b-a22b-instruct-2507-q8_0",
+    "name": "qwen3:235b-a22b-instruct-2507-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "250GB",
+    "size_str": "256K"
+  },
+  "37e8cf5bfc74": {
+    "href": "/library/qwen3:235b-a22b-q8_0",
+    "name": "qwen3:235b-a22b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "250GB",
+    "size_str": "40K"
+  },
+  "999d24c46762": {
+    "href": "/library/qwen3:235b-a22b-thinking-2507-q8_0",
+    "name": "qwen3:235b-a22b-thinking-2507-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "250GB",
+    "size_str": "256K"
+  },
+  "4dc3ade61929": {
+    "href": "/library/qwen3:235b-a22b-fp16",
+    "name": "qwen3:235b-a22b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "470GB",
+    "size_str": "40K"
+  },
+  "0525d39e1f64": {
+    "href": "/library/qwen3:235b-a22b-thinking-2507-fp16",
+    "name": "qwen3:235b-a22b-thinking-2507-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 days ago",
+    "context_window": "470GB",
+    "size_str": "256K"
+  }
+}

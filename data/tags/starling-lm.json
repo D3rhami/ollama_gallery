@@ -1,0 +1,302 @@
+{
+  "39153f619be6": {
+    "href": "/library/starling-lm:latest",
+    "name": "starling-lm:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "8K"
+  },
+  "00dac9119e37": {
+    "href": "/library/starling-lm:alpha",
+    "name": "starling-lm:alpha",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "8K"
+  },
+  "595732609943": {
+    "href": "/library/starling-lm:7b-alpha-q2_K",
+    "name": "starling-lm:7b-alpha-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "8K"
+  },
+  "5a49a238895b": {
+    "href": "/library/starling-lm:7b-alpha-q3_K_S",
+    "name": "starling-lm:7b-alpha-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "8K"
+  },
+  "882cfb6fd115": {
+    "href": "/library/starling-lm:7b-alpha-q3_K_M",
+    "name": "starling-lm:7b-alpha-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "8K"
+  },
+  "e1bcab03fa99": {
+    "href": "/library/starling-lm:7b-alpha-q3_K_L",
+    "name": "starling-lm:7b-alpha-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "8K"
+  },
+  "e3dd9bd1826c": {
+    "href": "/library/starling-lm:7b-alpha-q4_1",
+    "name": "starling-lm:7b-alpha-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "8K"
+  },
+  "ec9fd5179bf3": {
+    "href": "/library/starling-lm:7b-alpha-q4_K_S",
+    "name": "starling-lm:7b-alpha-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "8K"
+  },
+  "e01b657ff775": {
+    "href": "/library/starling-lm:7b-alpha-q4_K_M",
+    "name": "starling-lm:7b-alpha-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "8K"
+  },
+  "a9a7563109f7": {
+    "href": "/library/starling-lm:7b-alpha-q5_0",
+    "name": "starling-lm:7b-alpha-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "8K"
+  },
+  "0fbfb3a9529f": {
+    "href": "/library/starling-lm:7b-alpha-q5_1",
+    "name": "starling-lm:7b-alpha-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "8K"
+  },
+  "5d7a06cc4232": {
+    "href": "/library/starling-lm:7b-alpha-q5_K_S",
+    "name": "starling-lm:7b-alpha-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "8K"
+  },
+  "dcfc2f49cbc2": {
+    "href": "/library/starling-lm:7b-alpha-q5_K_M",
+    "name": "starling-lm:7b-alpha-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "8K"
+  },
+  "6b9846745e8e": {
+    "href": "/library/starling-lm:7b-alpha-q6_K",
+    "name": "starling-lm:7b-alpha-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "8K"
+  },
+  "8e54dc97552a": {
+    "href": "/library/starling-lm:7b-alpha-q8_0",
+    "name": "starling-lm:7b-alpha-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "8K"
+  },
+  "204bc1113dee": {
+    "href": "/library/starling-lm:7b-alpha-fp16",
+    "name": "starling-lm:7b-alpha-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  },
+  "b1e1d15c3eaa": {
+    "href": "/library/starling-lm:7b-beta-q2_K",
+    "name": "starling-lm:7b-beta-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "8K"
+  },
+  "294f42040461": {
+    "href": "/library/starling-lm:7b-beta-q3_K_S",
+    "name": "starling-lm:7b-beta-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "8K"
+  },
+  "50f34a8d0894": {
+    "href": "/library/starling-lm:7b-beta-q3_K_M",
+    "name": "starling-lm:7b-beta-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "8K"
+  },
+  "1326603dad7b": {
+    "href": "/library/starling-lm:7b-beta-q3_K_L",
+    "name": "starling-lm:7b-beta-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "8K"
+  },
+  "0cd6a20fa252": {
+    "href": "/library/starling-lm:7b-beta-q4_1",
+    "name": "starling-lm:7b-beta-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "8K"
+  },
+  "fb6544e9b47a": {
+    "href": "/library/starling-lm:7b-beta-q4_K_S",
+    "name": "starling-lm:7b-beta-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "8K"
+  },
+  "f336e3b146fd": {
+    "href": "/library/starling-lm:7b-beta-q4_K_M",
+    "name": "starling-lm:7b-beta-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "8K"
+  },
+  "b75ae9df76d1": {
+    "href": "/library/starling-lm:7b-beta-q5_0",
+    "name": "starling-lm:7b-beta-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "8K"
+  },
+  "b17e67a4be34": {
+    "href": "/library/starling-lm:7b-beta-q5_1",
+    "name": "starling-lm:7b-beta-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "8K"
+  },
+  "a206026bd73f": {
+    "href": "/library/starling-lm:7b-beta-q5_K_S",
+    "name": "starling-lm:7b-beta-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "8K"
+  },
+  "7a5028faa785": {
+    "href": "/library/starling-lm:7b-beta-q5_K_M",
+    "name": "starling-lm:7b-beta-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "8K"
+  },
+  "e851dfecaaf5": {
+    "href": "/library/starling-lm:7b-beta-q6_K",
+    "name": "starling-lm:7b-beta-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "8K"
+  },
+  "30281608b7f2": {
+    "href": "/library/starling-lm:7b-beta-q8_0",
+    "name": "starling-lm:7b-beta-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "8K"
+  },
+  "b7752a962ae0": {
+    "href": "/library/starling-lm:7b-beta-fp16",
+    "name": "starling-lm:7b-beta-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "8K"
+  }
+}

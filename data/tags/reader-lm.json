@@ -1,0 +1,302 @@
+{
+  "33da2b9e0afe": {
+    "href": "/library/reader-lm:latest",
+    "name": "reader-lm:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "935MB",
+    "size_str": "250K"
+  },
+  "5142df586645": {
+    "href": "/library/reader-lm:0.5b",
+    "name": "reader-lm:0.5b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "352MB",
+    "size_str": "250K"
+  },
+  "af34eb77b23c": {
+    "href": "/library/reader-lm:0.5b-q2_K",
+    "name": "reader-lm:0.5b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "339MB",
+    "size_str": "250K"
+  },
+  "c15f8240fdfd": {
+    "href": "/library/reader-lm:0.5b-q3_K_S",
+    "name": "reader-lm:0.5b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "338MB",
+    "size_str": "250K"
+  },
+  "bd8861b9b8b6": {
+    "href": "/library/reader-lm:0.5b-q3_K_M",
+    "name": "reader-lm:0.5b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "355MB",
+    "size_str": "250K"
+  },
+  "19b158ce5d4f": {
+    "href": "/library/reader-lm:0.5b-q3_K_L",
+    "name": "reader-lm:0.5b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "369MB",
+    "size_str": "250K"
+  },
+  "ebc58a28e21a": {
+    "href": "/library/reader-lm:0.5b-q4_1",
+    "name": "reader-lm:0.5b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "375MB",
+    "size_str": "250K"
+  },
+  "7c27ad8cf758": {
+    "href": "/library/reader-lm:0.5b-q4_K_S",
+    "name": "reader-lm:0.5b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "385MB",
+    "size_str": "250K"
+  },
+  "cd9cdd312854": {
+    "href": "/library/reader-lm:0.5b-q4_K_M",
+    "name": "reader-lm:0.5b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "398MB",
+    "size_str": "250K"
+  },
+  "f2c2c123b1f8": {
+    "href": "/library/reader-lm:0.5b-q5_0",
+    "name": "reader-lm:0.5b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "397MB",
+    "size_str": "250K"
+  },
+  "85e8705b05b2": {
+    "href": "/library/reader-lm:0.5b-q5_1",
+    "name": "reader-lm:0.5b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "419MB",
+    "size_str": "250K"
+  },
+  "8f77463504e7": {
+    "href": "/library/reader-lm:0.5b-q5_K_S",
+    "name": "reader-lm:0.5b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "413MB",
+    "size_str": "250K"
+  },
+  "b6b1a83de2ae": {
+    "href": "/library/reader-lm:0.5b-q5_K_M",
+    "name": "reader-lm:0.5b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "420MB",
+    "size_str": "250K"
+  },
+  "6f8291aee62f": {
+    "href": "/library/reader-lm:0.5b-q6_K",
+    "name": "reader-lm:0.5b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "506MB",
+    "size_str": "250K"
+  },
+  "4dc1ed29ebba": {
+    "href": "/library/reader-lm:0.5b-q8_0",
+    "name": "reader-lm:0.5b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "531MB",
+    "size_str": "250K"
+  },
+  "372bede54f00": {
+    "href": "/library/reader-lm:0.5b-fp16",
+    "name": "reader-lm:0.5b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "994MB",
+    "size_str": "250K"
+  },
+  "21617a48e1b9": {
+    "href": "/library/reader-lm:1.5b-q2_K",
+    "name": "reader-lm:1.5b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "676MB",
+    "size_str": "250K"
+  },
+  "4e71ee323763": {
+    "href": "/library/reader-lm:1.5b-q3_K_S",
+    "name": "reader-lm:1.5b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "761MB",
+    "size_str": "250K"
+  },
+  "04d6fa1b5675": {
+    "href": "/library/reader-lm:1.5b-q3_K_M",
+    "name": "reader-lm:1.5b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "824MB",
+    "size_str": "250K"
+  },
+  "e6d39acdf3bd": {
+    "href": "/library/reader-lm:1.5b-q3_K_L",
+    "name": "reader-lm:1.5b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "880MB",
+    "size_str": "250K"
+  },
+  "2fa8a5bbd70b": {
+    "href": "/library/reader-lm:1.5b-q4_1",
+    "name": "reader-lm:1.5b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.0GB",
+    "size_str": "250K"
+  },
+  "61de2f1c665b": {
+    "href": "/library/reader-lm:1.5b-q4_K_S",
+    "name": "reader-lm:1.5b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "940MB",
+    "size_str": "250K"
+  },
+  "b86722567954": {
+    "href": "/library/reader-lm:1.5b-q4_K_M",
+    "name": "reader-lm:1.5b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "986MB",
+    "size_str": "250K"
+  },
+  "890000830ffe": {
+    "href": "/library/reader-lm:1.5b-q5_0",
+    "name": "reader-lm:1.5b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.1GB",
+    "size_str": "250K"
+  },
+  "4640a36a6d05": {
+    "href": "/library/reader-lm:1.5b-q5_1",
+    "name": "reader-lm:1.5b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.2GB",
+    "size_str": "250K"
+  },
+  "ca910efc76a3": {
+    "href": "/library/reader-lm:1.5b-q5_K_S",
+    "name": "reader-lm:1.5b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.1GB",
+    "size_str": "250K"
+  },
+  "c7f1ea450e9b": {
+    "href": "/library/reader-lm:1.5b-q5_K_M",
+    "name": "reader-lm:1.5b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.1GB",
+    "size_str": "250K"
+  },
+  "9c5fd0c488ad": {
+    "href": "/library/reader-lm:1.5b-q6_K",
+    "name": "reader-lm:1.5b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.3GB",
+    "size_str": "250K"
+  },
+  "39ec9eda0492": {
+    "href": "/library/reader-lm:1.5b-q8_0",
+    "name": "reader-lm:1.5b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.6GB",
+    "size_str": "250K"
+  },
+  "a099cb640088": {
+    "href": "/library/reader-lm:1.5b-fp16",
+    "name": "reader-lm:1.5b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.1GB",
+    "size_str": "250K"
+  }
+}

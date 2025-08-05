@@ -1,0 +1,1052 @@
+{
+  "5dc8c5a2be65": {
+    "href": "/library/dolphin-mistral:latest",
+    "name": "dolphin-mistral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "d4fedb7cc50d": {
+    "href": "/library/dolphin-mistral:v2",
+    "name": "dolphin-mistral:v2",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "e4e3238590aa": {
+    "href": "/library/dolphin-mistral:v2.1",
+    "name": "dolphin-mistral:v2.1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "450ca08f6907": {
+    "href": "/library/dolphin-mistral:v2.2",
+    "name": "dolphin-mistral:v2.2",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "04b0ec52c40b": {
+    "href": "/library/dolphin-mistral:v2.2.1",
+    "name": "dolphin-mistral:v2.2.1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "ecbf896611f5": {
+    "href": "/library/dolphin-mistral:v2.6",
+    "name": "dolphin-mistral:v2.6",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "47e88c29db19": {
+    "href": "/library/dolphin-mistral:7b-v2-q2_K",
+    "name": "dolphin-mistral:7b-v2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "9ce568107856": {
+    "href": "/library/dolphin-mistral:7b-v2-q3_K_S",
+    "name": "dolphin-mistral:7b-v2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "ae55e3ef02e8": {
+    "href": "/library/dolphin-mistral:7b-v2-q3_K_M",
+    "name": "dolphin-mistral:7b-v2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "0a764a52371c": {
+    "href": "/library/dolphin-mistral:7b-v2-q3_K_L",
+    "name": "dolphin-mistral:7b-v2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "963a8962e5cb": {
+    "href": "/library/dolphin-mistral:7b-v2-q4_1",
+    "name": "dolphin-mistral:7b-v2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "31bc12ff86a4": {
+    "href": "/library/dolphin-mistral:7b-v2-q4_K_S",
+    "name": "dolphin-mistral:7b-v2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "8151671578cc": {
+    "href": "/library/dolphin-mistral:7b-v2-q4_K_M",
+    "name": "dolphin-mistral:7b-v2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "f233b1631e2e": {
+    "href": "/library/dolphin-mistral:7b-v2-q5_0",
+    "name": "dolphin-mistral:7b-v2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "caa3000a6607": {
+    "href": "/library/dolphin-mistral:7b-v2-q5_1",
+    "name": "dolphin-mistral:7b-v2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "3d1193db8247": {
+    "href": "/library/dolphin-mistral:7b-v2-q5_K_S",
+    "name": "dolphin-mistral:7b-v2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "483a8c29490a": {
+    "href": "/library/dolphin-mistral:7b-v2-q5_K_M",
+    "name": "dolphin-mistral:7b-v2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "0abc7e93ace9": {
+    "href": "/library/dolphin-mistral:7b-v2-q6_K",
+    "name": "dolphin-mistral:7b-v2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "af57ab7e2f42": {
+    "href": "/library/dolphin-mistral:7b-v2-q8_0",
+    "name": "dolphin-mistral:7b-v2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "dbea1ee61c91": {
+    "href": "/library/dolphin-mistral:7b-v2-fp16",
+    "name": "dolphin-mistral:7b-v2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "09b2c7439c66": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q2_K",
+    "name": "dolphin-mistral:7b-v2.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "cae2e5bf7e2a": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "de9aa2b8d525": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "d4e4ac49c638": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "bccbfbb66c22": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q4_1",
+    "name": "dolphin-mistral:7b-v2.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "928488201dda": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "42d3af2ff5bc": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "7577f2a6ea36": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q5_0",
+    "name": "dolphin-mistral:7b-v2.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "d2d013e73bbb": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q5_1",
+    "name": "dolphin-mistral:7b-v2.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "fafa4121da53": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "1792bb2a4dad": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "d7fc42d0c941": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q6_K",
+    "name": "dolphin-mistral:7b-v2.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "3c364693b3c5": {
+    "href": "/library/dolphin-mistral:7b-v2.1-q8_0",
+    "name": "dolphin-mistral:7b-v2.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "8a7599e7afb6": {
+    "href": "/library/dolphin-mistral:7b-v2.1-fp16",
+    "name": "dolphin-mistral:7b-v2.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "40af9615d065": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q2_K",
+    "name": "dolphin-mistral:7b-v2.2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "a646488b6fd5": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "807f7ccc72ae": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "2e2d34ffb211": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "1f764be54847": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q4_1",
+    "name": "dolphin-mistral:7b-v2.2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "7c4ea4ac1b3d": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "5f5bc8a7f6c0": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "05ef3ead3f63": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q5_0",
+    "name": "dolphin-mistral:7b-v2.2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "35a9966c852b": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q5_1",
+    "name": "dolphin-mistral:7b-v2.2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "8cb5befe96d0": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "e9ac7f8b1b41": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "fbd48b25b103": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q6_K",
+    "name": "dolphin-mistral:7b-v2.2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "f12f440dd443": {
+    "href": "/library/dolphin-mistral:7b-v2.2-q8_0",
+    "name": "dolphin-mistral:7b-v2.2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "02a1321048d5": {
+    "href": "/library/dolphin-mistral:7b-v2.2-fp16",
+    "name": "dolphin-mistral:7b-v2.2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "994c722b1561": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q2_K",
+    "name": "dolphin-mistral:7b-v2.2.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "5753614304a2": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.2.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "6e92d0dbb4a0": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.2.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "3bba1c1ad35a": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.2.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "c76cd3b5beee": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q4_1",
+    "name": "dolphin-mistral:7b-v2.2.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "5029cbe43e9c": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.2.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "5e3337ccc282": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.2.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "a22f80a3ea5d": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q5_0",
+    "name": "dolphin-mistral:7b-v2.2.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "62d4ace3645c": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q5_1",
+    "name": "dolphin-mistral:7b-v2.2.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "03945b375e86": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.2.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "e4b72a87ab51": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.2.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "b5df8e083d3d": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q6_K",
+    "name": "dolphin-mistral:7b-v2.2.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "62e41c882df2": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-q8_0",
+    "name": "dolphin-mistral:7b-v2.2.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "49b48f849296": {
+    "href": "/library/dolphin-mistral:7b-v2.2.1-fp16",
+    "name": "dolphin-mistral:7b-v2.2.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "206a4093ff30": {
+    "href": "/library/dolphin-mistral:7b-v2.6",
+    "name": "dolphin-mistral:7b-v2.6",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "3d2e06cd1f34": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q2_K",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "5095f4e248f8": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q2_K",
+    "name": "dolphin-mistral:7b-v2.6-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "c4841f98c665": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "7d87567ba4e1": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.6-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "d9a82ca1b186": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "fae30abf511f": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.6-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "fbd62dc63cf3": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "3f69b8a407b5": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.6-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "dcda7ed9d1ea": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q4_1",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "75979198bd96": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q4_1",
+    "name": "dolphin-mistral:7b-v2.6-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "251809e4483d": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "d131e1a76ddc": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.6-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "4637e8c97e50": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "de97d7427c36": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.6-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "09bce0353761": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q5_0",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "e8f5e1669039": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q5_0",
+    "name": "dolphin-mistral:7b-v2.6-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "a40a97e78596": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q5_1",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "b2f2f3609ccd": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q5_1",
+    "name": "dolphin-mistral:7b-v2.6-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "c6a7fdc04e62": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "5ce09aea680f": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.6-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "89ac2026188b": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "24b9c375e0bc": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.6-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "3383c1e1a3a3": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q6_K",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "d1c90221f843": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q6_K",
+    "name": "dolphin-mistral:7b-v2.6-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "805ca6fc04df": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-q8_0",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "43ea31e60f41": {
+    "href": "/library/dolphin-mistral:7b-v2.6-q8_0",
+    "name": "dolphin-mistral:7b-v2.6-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "ef5fb1b4eb40": {
+    "href": "/library/dolphin-mistral:7b-v2.6-dpo-laser-fp16",
+    "name": "dolphin-mistral:7b-v2.6-dpo-laser-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "ee8029835435": {
+    "href": "/library/dolphin-mistral:7b-v2.6-fp16",
+    "name": "dolphin-mistral:7b-v2.6-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "703fcc8feca4": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q2_K",
+    "name": "dolphin-mistral:7b-v2.8-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "32K"
+  },
+  "b373bd912c47": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q3_K_S",
+    "name": "dolphin-mistral:7b-v2.8-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "368c8b580b2c": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q3_K_M",
+    "name": "dolphin-mistral:7b-v2.8-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "3689be23e227": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q3_K_L",
+    "name": "dolphin-mistral:7b-v2.8-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "8a3536853f0c": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q4_1",
+    "name": "dolphin-mistral:7b-v2.8-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "f7fe7f8a5338": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q4_K_S",
+    "name": "dolphin-mistral:7b-v2.8-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "9664319c8300": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q4_K_M",
+    "name": "dolphin-mistral:7b-v2.8-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "4b957d0f8184": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q5_0",
+    "name": "dolphin-mistral:7b-v2.8-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "2d9d3f2fc319": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q5_1",
+    "name": "dolphin-mistral:7b-v2.8-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "a9699d013b92": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q5_K_S",
+    "name": "dolphin-mistral:7b-v2.8-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "89cd0f3499d5": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q5_K_M",
+    "name": "dolphin-mistral:7b-v2.8-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "abbbabedf4f5": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q6_K",
+    "name": "dolphin-mistral:7b-v2.8-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "c42fc14057d2": {
+    "href": "/library/dolphin-mistral:7b-v2.8-q8_0",
+    "name": "dolphin-mistral:7b-v2.8-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "1e979cf70c05": {
+    "href": "/library/dolphin-mistral:7b-v2.8-fp16",
+    "name": "dolphin-mistral:7b-v2.8-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "da8c35896cff": {
+    "href": "/library/nous-hermes2-mixtral:latest",
+    "name": "nous-hermes2-mixtral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "def75f44e678": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q2_K",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "b83102712906": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_S",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "e401c6cff6ee": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_M",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "d3f241b3fa43": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_L",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "6b8631272ae5": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_1",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "72597fc38d4a": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_S",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "5ce16766078d": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_M",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "2d30ec45b54c": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_0",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "d37f3798cec9": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_1",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "78bf09c60f45": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_S",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "c95f2fb1bbb0": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_M",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "af9b1e15b356": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q6_K",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "a6f9a3257097": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q8_0",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "42c40087888d": {
+    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-fp16",
+    "name": "nous-hermes2-mixtral:8x7b-dpo-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  }
+}

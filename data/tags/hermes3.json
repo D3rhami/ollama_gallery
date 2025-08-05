@@ -1,0 +1,602 @@
+{
+  "4f6b83f30b62": {
+    "href": "/library/hermes3:latest",
+    "name": "hermes3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.7GB",
+    "size_str": "128K"
+  },
+  "a8851c5041d4": {
+    "href": "/library/hermes3:3b",
+    "name": "hermes3:3b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.0GB",
+    "size_str": "128K"
+  },
+  "60ef54cd913f": {
+    "href": "/library/hermes3:70b",
+    "name": "hermes3:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "40GB",
+    "size_str": "128K"
+  },
+  "7e675bc10887": {
+    "href": "/library/hermes3:405b",
+    "name": "hermes3:405b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "229GB",
+    "size_str": "128K"
+  },
+  "5e016053462e": {
+    "href": "/library/hermes3:3b-llama3.2-q2_K",
+    "name": "hermes3:3b-llama3.2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.4GB",
+    "size_str": "128K"
+  },
+  "9534cf45dcad": {
+    "href": "/library/hermes3:3b-llama3.2-q3_K_S",
+    "name": "hermes3:3b-llama3.2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.5GB",
+    "size_str": "128K"
+  },
+  "8412e43ba04b": {
+    "href": "/library/hermes3:3b-llama3.2-q3_K_M",
+    "name": "hermes3:3b-llama3.2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.7GB",
+    "size_str": "128K"
+  },
+  "398338d75e51": {
+    "href": "/library/hermes3:3b-llama3.2-q3_K_L",
+    "name": "hermes3:3b-llama3.2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.8GB",
+    "size_str": "128K"
+  },
+  "1e1401fe4ac6": {
+    "href": "/library/hermes3:3b-llama3.2-q4_0",
+    "name": "hermes3:3b-llama3.2-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.9GB",
+    "size_str": "128K"
+  },
+  "789b254cc3a2": {
+    "href": "/library/hermes3:3b-llama3.2-q4_1",
+    "name": "hermes3:3b-llama3.2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.1GB",
+    "size_str": "128K"
+  },
+  "2319fe585b75": {
+    "href": "/library/hermes3:3b-llama3.2-q4_K_S",
+    "name": "hermes3:3b-llama3.2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "1.9GB",
+    "size_str": "128K"
+  },
+  "8ba0b60c0fbb": {
+    "href": "/library/hermes3:3b-llama3.2-q5_0",
+    "name": "hermes3:3b-llama3.2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.3GB",
+    "size_str": "128K"
+  },
+  "5bc19c8f34a0": {
+    "href": "/library/hermes3:3b-llama3.2-q5_1",
+    "name": "hermes3:3b-llama3.2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.4GB",
+    "size_str": "128K"
+  },
+  "2825a14d8a2e": {
+    "href": "/library/hermes3:3b-llama3.2-q5_K_S",
+    "name": "hermes3:3b-llama3.2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.3GB",
+    "size_str": "128K"
+  },
+  "adff680f9846": {
+    "href": "/library/hermes3:3b-llama3.2-q5_K_M",
+    "name": "hermes3:3b-llama3.2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.3GB",
+    "size_str": "128K"
+  },
+  "618f493da20f": {
+    "href": "/library/hermes3:3b-llama3.2-q6_K",
+    "name": "hermes3:3b-llama3.2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "2.6GB",
+    "size_str": "128K"
+  },
+  "81e132c6f32b": {
+    "href": "/library/hermes3:3b-llama3.2-q8_0",
+    "name": "hermes3:3b-llama3.2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "3.4GB",
+    "size_str": "128K"
+  },
+  "1818cdb4d27a": {
+    "href": "/library/hermes3:3b-llama3.2-fp16",
+    "name": "hermes3:3b-llama3.2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "6.4GB",
+    "size_str": "128K"
+  },
+  "6285707c1724": {
+    "href": "/library/hermes3:8b-llama3.1-q2_K",
+    "name": "hermes3:8b-llama3.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "3.2GB",
+    "size_str": "128K"
+  },
+  "e2a8a0424e1b": {
+    "href": "/library/hermes3:8b-llama3.1-q3_K_S",
+    "name": "hermes3:8b-llama3.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "3.7GB",
+    "size_str": "128K"
+  },
+  "f6b6eb85884d": {
+    "href": "/library/hermes3:8b-llama3.1-q3_K_M",
+    "name": "hermes3:8b-llama3.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.0GB",
+    "size_str": "128K"
+  },
+  "01fb1c8fffcb": {
+    "href": "/library/hermes3:8b-llama3.1-q3_K_L",
+    "name": "hermes3:8b-llama3.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.3GB",
+    "size_str": "128K"
+  },
+  "d5b8d4f560a3": {
+    "href": "/library/hermes3:8b-llama3.1-q4_1",
+    "name": "hermes3:8b-llama3.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "5.1GB",
+    "size_str": "128K"
+  },
+  "c8edbc90a188": {
+    "href": "/library/hermes3:8b-llama3.1-q4_K_S",
+    "name": "hermes3:8b-llama3.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.7GB",
+    "size_str": "128K"
+  },
+  "81e633795347": {
+    "href": "/library/hermes3:8b-llama3.1-q4_K_M",
+    "name": "hermes3:8b-llama3.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "f1e10ae7c0e6": {
+    "href": "/library/hermes3:8b-llama3.1-q5_0",
+    "name": "hermes3:8b-llama3.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "5.6GB",
+    "size_str": "128K"
+  },
+  "bebd5029ac2b": {
+    "href": "/library/hermes3:8b-llama3.1-q5_1",
+    "name": "hermes3:8b-llama3.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "6.1GB",
+    "size_str": "128K"
+  },
+  "c0a2d5445266": {
+    "href": "/library/hermes3:8b-llama3.1-q5_K_S",
+    "name": "hermes3:8b-llama3.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "5.6GB",
+    "size_str": "128K"
+  },
+  "836396825b44": {
+    "href": "/library/hermes3:8b-llama3.1-q5_K_M",
+    "name": "hermes3:8b-llama3.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "5.7GB",
+    "size_str": "128K"
+  },
+  "fbcaa05c32d0": {
+    "href": "/library/hermes3:8b-llama3.1-q6_K",
+    "name": "hermes3:8b-llama3.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "6.6GB",
+    "size_str": "128K"
+  },
+  "1c94cf8f1046": {
+    "href": "/library/hermes3:8b-llama3.1-q8_0",
+    "name": "hermes3:8b-llama3.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "8.5GB",
+    "size_str": "128K"
+  },
+  "33a87105fb24": {
+    "href": "/library/hermes3:8b-llama3.1-fp16",
+    "name": "hermes3:8b-llama3.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "d494e51db58c": {
+    "href": "/library/hermes3:70b-llama3.1-q2_K",
+    "name": "hermes3:70b-llama3.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "26GB",
+    "size_str": "128K"
+  },
+  "0a99e8a6fa35": {
+    "href": "/library/hermes3:70b-llama3.1-q3_K_S",
+    "name": "hermes3:70b-llama3.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "31GB",
+    "size_str": "128K"
+  },
+  "85e9f18d5139": {
+    "href": "/library/hermes3:70b-llama3.1-q3_K_M",
+    "name": "hermes3:70b-llama3.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "34GB",
+    "size_str": "128K"
+  },
+  "ef3556ba09b4": {
+    "href": "/library/hermes3:70b-llama3.1-q3_K_L",
+    "name": "hermes3:70b-llama3.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "37GB",
+    "size_str": "128K"
+  },
+  "5439d89973fa": {
+    "href": "/library/hermes3:70b-llama3.1-q4_1",
+    "name": "hermes3:70b-llama3.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "44GB",
+    "size_str": "128K"
+  },
+  "3c54000f925c": {
+    "href": "/library/hermes3:70b-llama3.1-q4_K_S",
+    "name": "hermes3:70b-llama3.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "40GB",
+    "size_str": "128K"
+  },
+  "830dc29f92d1": {
+    "href": "/library/hermes3:70b-llama3.1-q4_K_M",
+    "name": "hermes3:70b-llama3.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "43GB",
+    "size_str": "128K"
+  },
+  "25749edb3917": {
+    "href": "/library/hermes3:70b-llama3.1-q5_0",
+    "name": "hermes3:70b-llama3.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "49GB",
+    "size_str": "128K"
+  },
+  "5deeeb686c50": {
+    "href": "/library/hermes3:70b-llama3.1-q5_1",
+    "name": "hermes3:70b-llama3.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "53GB",
+    "size_str": "128K"
+  },
+  "187535b64096": {
+    "href": "/library/hermes3:70b-llama3.1-q5_K_S",
+    "name": "hermes3:70b-llama3.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "49GB",
+    "size_str": "128K"
+  },
+  "20b9f43d13a2": {
+    "href": "/library/hermes3:70b-llama3.1-q5_K_M",
+    "name": "hermes3:70b-llama3.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "50GB",
+    "size_str": "128K"
+  },
+  "ec4ea041b516": {
+    "href": "/library/hermes3:70b-llama3.1-q6_K",
+    "name": "hermes3:70b-llama3.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "58GB",
+    "size_str": "128K"
+  },
+  "72f0aa5b30bb": {
+    "href": "/library/hermes3:70b-llama3.1-q8_0",
+    "name": "hermes3:70b-llama3.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "75GB",
+    "size_str": "128K"
+  },
+  "e95c7ce02c58": {
+    "href": "/library/hermes3:70b-llama3.1-fp16",
+    "name": "hermes3:70b-llama3.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "141GB",
+    "size_str": "128K"
+  },
+  "f12827971c1b": {
+    "href": "/library/hermes3:405b-llama3.1-q2_K",
+    "name": "hermes3:405b-llama3.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "149GB",
+    "size_str": "128K"
+  },
+  "d5d61b34af07": {
+    "href": "/library/hermes3:405b-llama3.1-q3_K_S",
+    "name": "hermes3:405b-llama3.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "175GB",
+    "size_str": "128K"
+  },
+  "87c4bb79d492": {
+    "href": "/library/hermes3:405b-llama3.1-q3_K_M",
+    "name": "hermes3:405b-llama3.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "195GB",
+    "size_str": "128K"
+  },
+  "8e48e8f6acc9": {
+    "href": "/library/hermes3:405b-llama3.1-q3_K_L",
+    "name": "hermes3:405b-llama3.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "213GB",
+    "size_str": "128K"
+  },
+  "d2069f77b555": {
+    "href": "/library/hermes3:405b-llama3.1-q4_1",
+    "name": "hermes3:405b-llama3.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "254GB",
+    "size_str": "128K"
+  },
+  "51d83954f208": {
+    "href": "/library/hermes3:405b-llama3.1-q4_K_S",
+    "name": "hermes3:405b-llama3.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "231GB",
+    "size_str": "128K"
+  },
+  "7e95da5e5e87": {
+    "href": "/library/hermes3:405b-llama3.1-q4_K_M",
+    "name": "hermes3:405b-llama3.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "243GB",
+    "size_str": "128K"
+  },
+  "1330c3882956": {
+    "href": "/library/hermes3:405b-llama3.1-q5_0",
+    "name": "hermes3:405b-llama3.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "279GB",
+    "size_str": "128K"
+  },
+  "645be110f228": {
+    "href": "/library/hermes3:405b-llama3.1-q5_1",
+    "name": "hermes3:405b-llama3.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "305GB",
+    "size_str": "128K"
+  },
+  "6e8f5fe76c99": {
+    "href": "/library/hermes3:405b-llama3.1-q5_K_S",
+    "name": "hermes3:405b-llama3.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "279GB",
+    "size_str": "128K"
+  },
+  "859937457c29": {
+    "href": "/library/hermes3:405b-llama3.1-q5_K_M",
+    "name": "hermes3:405b-llama3.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "287GB",
+    "size_str": "128K"
+  },
+  "2d0919bbe03f": {
+    "href": "/library/hermes3:405b-llama3.1-q6_K",
+    "name": "hermes3:405b-llama3.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "333GB",
+    "size_str": "128K"
+  },
+  "d2ca25940e61": {
+    "href": "/library/hermes3:405b-llama3.1-q8_0",
+    "name": "hermes3:405b-llama3.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "431GB",
+    "size_str": "128K"
+  },
+  "9666944d1b48": {
+    "href": "/library/hermes3:405b-llama3.1-fp16",
+    "name": "hermes3:405b-llama3.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "812GB",
+    "size_str": "128K"
+  }
+}

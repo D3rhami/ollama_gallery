@@ -1,0 +1,602 @@
+{
+  "63fb193b3a9b": {
+    "href": "/library/deepseek-coder-v2:latest",
+    "name": "deepseek-coder-v2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.9GB",
+    "size_str": "160K"
+  },
+  "c78d80129305": {
+    "href": "/library/deepseek-coder-v2:236b",
+    "name": "deepseek-coder-v2:236b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "133GB",
+    "size_str": "4K"
+  },
+  "8b62e3f7c4be": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q2_K",
+    "name": "deepseek-coder-v2:16b-lite-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.4GB",
+    "size_str": "4K"
+  },
+  "8620271ad4df": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q3_K_S",
+    "name": "deepseek-coder-v2:16b-lite-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.5GB",
+    "size_str": "4K"
+  },
+  "d16d8f044de1": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q3_K_M",
+    "name": "deepseek-coder-v2:16b-lite-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "3dab6fe7735c": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q3_K_L",
+    "name": "deepseek-coder-v2:16b-lite-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.5GB",
+    "size_str": "4K"
+  },
+  "dc3c85f78976": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q4_0",
+    "name": "deepseek-coder-v2:16b-lite-base-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.9GB",
+    "size_str": "4K"
+  },
+  "09d4128b178d": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q4_1",
+    "name": "deepseek-coder-v2:16b-lite-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.9GB",
+    "size_str": "4K"
+  },
+  "eea8c1bb07d9": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q4_K_S",
+    "name": "deepseek-coder-v2:16b-lite-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.5GB",
+    "size_str": "4K"
+  },
+  "2f4fb0bfc6a7": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q4_K_M",
+    "name": "deepseek-coder-v2:16b-lite-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "10GB",
+    "size_str": "4K"
+  },
+  "cd16e96f0530": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q5_0",
+    "name": "deepseek-coder-v2:16b-lite-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "cf643e1eb150": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q5_1",
+    "name": "deepseek-coder-v2:16b-lite-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "94111aa16b14": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q5_K_S",
+    "name": "deepseek-coder-v2:16b-lite-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "0802b3662146": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q5_K_M",
+    "name": "deepseek-coder-v2:16b-lite-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "7e7a754912f8": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q6_K",
+    "name": "deepseek-coder-v2:16b-lite-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "8e01d51811ab": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-q8_0",
+    "name": "deepseek-coder-v2:16b-lite-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "17GB",
+    "size_str": "4K"
+  },
+  "eab76b4e3742": {
+    "href": "/library/deepseek-coder-v2:16b-lite-base-fp16",
+    "name": "deepseek-coder-v2:16b-lite-base-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "31GB",
+    "size_str": "4K"
+  },
+  "82e79aef7a69": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q2_K",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.4GB",
+    "size_str": "4K"
+  },
+  "36faf1cc8ce9": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q3_K_S",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.5GB",
+    "size_str": "4K"
+  },
+  "a1dbf0a1e4fa": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q3_K_M",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "c5fffde68649": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q3_K_L",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.5GB",
+    "size_str": "4K"
+  },
+  "2ccedaf506ab": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q4_1",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.9GB",
+    "size_str": "4K"
+  },
+  "5e86e3ea790e": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q4_K_S",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.5GB",
+    "size_str": "4K"
+  },
+  "dac6ff6589c9": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "10GB",
+    "size_str": "4K"
+  },
+  "6084bfd4db26": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q5_0",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "840b2157e9f0": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q5_1",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "efe9f0187a2d": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q5_K_S",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "6065d4880bf9": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q5_K_M",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "cf566e23d87f": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q6_K",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "ef033cab4dae": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-q8_0",
+    "name": "deepseek-coder-v2:16b-lite-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "17GB",
+    "size_str": "4K"
+  },
+  "e2edc649e2ab": {
+    "href": "/library/deepseek-coder-v2:16b-lite-instruct-fp16",
+    "name": "deepseek-coder-v2:16b-lite-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "31GB",
+    "size_str": "4K"
+  },
+  "783021b97803": {
+    "href": "/library/deepseek-coder-v2:236b-base-q2_K",
+    "name": "deepseek-coder-v2:236b-base-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "86GB",
+    "size_str": "4K"
+  },
+  "e307d50c3f31": {
+    "href": "/library/deepseek-coder-v2:236b-base-q3_K_S",
+    "name": "deepseek-coder-v2:236b-base-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "102GB",
+    "size_str": "4K"
+  },
+  "e8d5da110401": {
+    "href": "/library/deepseek-coder-v2:236b-base-q3_K_M",
+    "name": "deepseek-coder-v2:236b-base-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "113GB",
+    "size_str": "4K"
+  },
+  "317accd37d79": {
+    "href": "/library/deepseek-coder-v2:236b-base-q3_K_L",
+    "name": "deepseek-coder-v2:236b-base-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "122GB",
+    "size_str": "4K"
+  },
+  "2dc89d24571b": {
+    "href": "/library/deepseek-coder-v2:236b-base-q4_0",
+    "name": "deepseek-coder-v2:236b-base-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "133GB",
+    "size_str": "4K"
+  },
+  "6c9b97422ea4": {
+    "href": "/library/deepseek-coder-v2:236b-base-q4_1",
+    "name": "deepseek-coder-v2:236b-base-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "148GB",
+    "size_str": "4K"
+  },
+  "4e51408d2392": {
+    "href": "/library/deepseek-coder-v2:236b-base-q4_K_S",
+    "name": "deepseek-coder-v2:236b-base-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "134GB",
+    "size_str": "4K"
+  },
+  "c02e9228aa14": {
+    "href": "/library/deepseek-coder-v2:236b-base-q4_K_M",
+    "name": "deepseek-coder-v2:236b-base-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "142GB",
+    "size_str": "4K"
+  },
+  "786659c065fa": {
+    "href": "/library/deepseek-coder-v2:236b-base-q5_0",
+    "name": "deepseek-coder-v2:236b-base-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "073514be5a03": {
+    "href": "/library/deepseek-coder-v2:236b-base-q5_1",
+    "name": "deepseek-coder-v2:236b-base-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "177GB",
+    "size_str": "4K"
+  },
+  "93374287311f": {
+    "href": "/library/deepseek-coder-v2:236b-base-q5_K_S",
+    "name": "deepseek-coder-v2:236b-base-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "6710a3c300fc": {
+    "href": "/library/deepseek-coder-v2:236b-base-q5_K_M",
+    "name": "deepseek-coder-v2:236b-base-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "167GB",
+    "size_str": "4K"
+  },
+  "9f090258b940": {
+    "href": "/library/deepseek-coder-v2:236b-base-q6_K",
+    "name": "deepseek-coder-v2:236b-base-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "194GB",
+    "size_str": "4K"
+  },
+  "d1bcdd7d5871": {
+    "href": "/library/deepseek-coder-v2:236b-base-q8_0",
+    "name": "deepseek-coder-v2:236b-base-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "251GB",
+    "size_str": "4K"
+  },
+  "bd60a2f7c8bc": {
+    "href": "/library/deepseek-coder-v2:236b-base-fp16",
+    "name": "deepseek-coder-v2:236b-base-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "472GB",
+    "size_str": "4K"
+  },
+  "4f831761cd02": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q2_K",
+    "name": "deepseek-coder-v2:236b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "86GB",
+    "size_str": "4K"
+  },
+  "d7317e5ddd3f": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q3_K_S",
+    "name": "deepseek-coder-v2:236b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "102GB",
+    "size_str": "4K"
+  },
+  "2432b4ab9079": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q3_K_M",
+    "name": "deepseek-coder-v2:236b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "113GB",
+    "size_str": "4K"
+  },
+  "f230e675a4e3": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q3_K_L",
+    "name": "deepseek-coder-v2:236b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "122GB",
+    "size_str": "4K"
+  },
+  "3deb93929590": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q4_1",
+    "name": "deepseek-coder-v2:236b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "148GB",
+    "size_str": "4K"
+  },
+  "fa7317115737": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q4_K_S",
+    "name": "deepseek-coder-v2:236b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "134GB",
+    "size_str": "4K"
+  },
+  "f37bcc863826": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q4_K_M",
+    "name": "deepseek-coder-v2:236b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "142GB",
+    "size_str": "4K"
+  },
+  "46ceaf3a8ffd": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q5_0",
+    "name": "deepseek-coder-v2:236b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "d29414056789": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q5_1",
+    "name": "deepseek-coder-v2:236b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "177GB",
+    "size_str": "4K"
+  },
+  "0ccf53e6e50b": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q5_K_S",
+    "name": "deepseek-coder-v2:236b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "4e723bdb7e50": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q5_K_M",
+    "name": "deepseek-coder-v2:236b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "167GB",
+    "size_str": "4K"
+  },
+  "6ce352e55f26": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q6_K",
+    "name": "deepseek-coder-v2:236b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "194GB",
+    "size_str": "4K"
+  },
+  "7f763ec0e20e": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-q8_0",
+    "name": "deepseek-coder-v2:236b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "251GB",
+    "size_str": "4K"
+  },
+  "22504f15ba17": {
+    "href": "/library/deepseek-coder-v2:236b-instruct-fp16",
+    "name": "deepseek-coder-v2:236b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "472GB",
+    "size_str": "4K"
+  }
+}

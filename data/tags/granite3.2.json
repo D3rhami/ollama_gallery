@@ -1,0 +1,62 @@
+{
+  "9bcb3335083f": {
+    "href": "/library/granite3.2:latest",
+    "name": "granite3.2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "9d79a41f2f75": {
+    "href": "/library/granite3.2:2b",
+    "name": "granite3.2:2b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "1.5GB",
+    "size_str": "128K"
+  },
+  "f6f4d0d4b4fa": {
+    "href": "/library/granite3.2:2b-instruct-q8_0",
+    "name": "granite3.2:2b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "2.7GB",
+    "size_str": "128K"
+  },
+  "c86bd0b2f0bd": {
+    "href": "/library/granite3.2:2b-instruct-fp16",
+    "name": "granite3.2:2b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "5.1GB",
+    "size_str": "128K"
+  },
+  "1b54499df0ff": {
+    "href": "/library/granite3.2:8b-instruct-q8_0",
+    "name": "granite3.2:8b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "8.7GB",
+    "size_str": "128K"
+  },
+  "b9679f6ae759": {
+    "href": "/library/granite3.2:8b-instruct-fp16",
+    "name": "granite3.2:8b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "886a369d74fc": {
+    "href": "/library/wizardlm-uncensored:latest",
+    "name": "wizardlm-uncensored:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "d121c5fe7def": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q2_K",
+    "name": "wizardlm-uncensored:13b-llama2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "c19a0f853fde": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_S",
+    "name": "wizardlm-uncensored:13b-llama2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "c7a5f73c0b10": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_M",
+    "name": "wizardlm-uncensored:13b-llama2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "dd676f4c69db": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_L",
+    "name": "wizardlm-uncensored:13b-llama2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "4K"
+  },
+  "588ad528410f": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q4_1",
+    "name": "wizardlm-uncensored:13b-llama2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "4K"
+  },
+  "1834c3fd3d21": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q4_K_S",
+    "name": "wizardlm-uncensored:13b-llama2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "f39570459d4d": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q4_K_M",
+    "name": "wizardlm-uncensored:13b-llama2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "4K"
+  },
+  "37d9827a0835": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q5_0",
+    "name": "wizardlm-uncensored:13b-llama2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "c229574569e6": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q5_1",
+    "name": "wizardlm-uncensored:13b-llama2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "4K"
+  },
+  "e106a5fdba1e": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q5_K_S",
+    "name": "wizardlm-uncensored:13b-llama2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "3338ad97787e": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q5_K_M",
+    "name": "wizardlm-uncensored:13b-llama2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "4K"
+  },
+  "0128ad0108a6": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q6_K",
+    "name": "wizardlm-uncensored:13b-llama2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "4265729a3fca": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-q8_0",
+    "name": "wizardlm-uncensored:13b-llama2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "b972b4fcf399": {
+    "href": "/library/wizardlm-uncensored:13b-llama2-fp16",
+    "name": "wizardlm-uncensored:13b-llama2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "4K"
+  }
+}

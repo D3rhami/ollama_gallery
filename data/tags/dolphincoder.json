@@ -1,0 +1,302 @@
+{
+  "677555f1f316": {
+    "href": "/library/dolphincoder:latest",
+    "name": "dolphincoder:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "16K"
+  },
+  "1102380927c2": {
+    "href": "/library/dolphincoder:15b",
+    "name": "dolphincoder:15b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "16K"
+  },
+  "fb0129d225aa": {
+    "href": "/library/dolphincoder:7b-starcoder2-q2_K",
+    "name": "dolphincoder:7b-starcoder2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "16K"
+  },
+  "e97ee0126684": {
+    "href": "/library/dolphincoder:7b-starcoder2-q3_K_S",
+    "name": "dolphincoder:7b-starcoder2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "16K"
+  },
+  "3e450ded039a": {
+    "href": "/library/dolphincoder:7b-starcoder2-q3_K_M",
+    "name": "dolphincoder:7b-starcoder2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "16K"
+  },
+  "a8319e4b88e3": {
+    "href": "/library/dolphincoder:7b-starcoder2-q3_K_L",
+    "name": "dolphincoder:7b-starcoder2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "16K"
+  },
+  "659db57b0269": {
+    "href": "/library/dolphincoder:7b-starcoder2-q4_1",
+    "name": "dolphincoder:7b-starcoder2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "16K"
+  },
+  "0d50809844f2": {
+    "href": "/library/dolphincoder:7b-starcoder2-q4_K_S",
+    "name": "dolphincoder:7b-starcoder2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.3GB",
+    "size_str": "16K"
+  },
+  "547e49183386": {
+    "href": "/library/dolphincoder:7b-starcoder2-q4_K_M",
+    "name": "dolphincoder:7b-starcoder2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "16K"
+  },
+  "c83c1feb4d92": {
+    "href": "/library/dolphincoder:7b-starcoder2-q5_0",
+    "name": "dolphincoder:7b-starcoder2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "4f0f2eb0effb": {
+    "href": "/library/dolphincoder:7b-starcoder2-q5_1",
+    "name": "dolphincoder:7b-starcoder2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "16K"
+  },
+  "4566628e5196": {
+    "href": "/library/dolphincoder:7b-starcoder2-q5_K_S",
+    "name": "dolphincoder:7b-starcoder2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "c44956298761": {
+    "href": "/library/dolphincoder:7b-starcoder2-q5_K_M",
+    "name": "dolphincoder:7b-starcoder2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.3GB",
+    "size_str": "16K"
+  },
+  "fd5972ba8500": {
+    "href": "/library/dolphincoder:7b-starcoder2-q6_K",
+    "name": "dolphincoder:7b-starcoder2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "16K"
+  },
+  "21c985c7feb0": {
+    "href": "/library/dolphincoder:7b-starcoder2-q8_0",
+    "name": "dolphincoder:7b-starcoder2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "16K"
+  },
+  "59be24ed28ca": {
+    "href": "/library/dolphincoder:7b-starcoder2-fp16",
+    "name": "dolphincoder:7b-starcoder2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "16K"
+  },
+  "ba9150d92d7a": {
+    "href": "/library/dolphincoder:15b-starcoder2-q2_K",
+    "name": "dolphincoder:15b-starcoder2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.2GB",
+    "size_str": "16K"
+  },
+  "acf10b086812": {
+    "href": "/library/dolphincoder:15b-starcoder2-q3_K_S",
+    "name": "dolphincoder:15b-starcoder2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "16K"
+  },
+  "eddba241c8a5": {
+    "href": "/library/dolphincoder:15b-starcoder2-q3_K_M",
+    "name": "dolphincoder:15b-starcoder2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "16K"
+  },
+  "df6670a7f78c": {
+    "href": "/library/dolphincoder:15b-starcoder2-q3_K_L",
+    "name": "dolphincoder:15b-starcoder2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "16K"
+  },
+  "e6e9a34e768f": {
+    "href": "/library/dolphincoder:15b-starcoder2-q4_1",
+    "name": "dolphincoder:15b-starcoder2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10GB",
+    "size_str": "16K"
+  },
+  "c2b8d84e8ce3": {
+    "href": "/library/dolphincoder:15b-starcoder2-q4_K_S",
+    "name": "dolphincoder:15b-starcoder2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.3GB",
+    "size_str": "16K"
+  },
+  "5af4b8a9d51d": {
+    "href": "/library/dolphincoder:15b-starcoder2-q4_K_M",
+    "name": "dolphincoder:15b-starcoder2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.9GB",
+    "size_str": "16K"
+  },
+  "b4735d7cba44": {
+    "href": "/library/dolphincoder:15b-starcoder2-q5_0",
+    "name": "dolphincoder:15b-starcoder2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "7140319becb6": {
+    "href": "/library/dolphincoder:15b-starcoder2-q5_1",
+    "name": "dolphincoder:15b-starcoder2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "16K"
+  },
+  "f4ebaabdbf39": {
+    "href": "/library/dolphincoder:15b-starcoder2-q5_K_S",
+    "name": "dolphincoder:15b-starcoder2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "fff9c5a18e8a": {
+    "href": "/library/dolphincoder:15b-starcoder2-q5_K_M",
+    "name": "dolphincoder:15b-starcoder2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "7f4177c2ad67": {
+    "href": "/library/dolphincoder:15b-starcoder2-q6_K",
+    "name": "dolphincoder:15b-starcoder2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "16K"
+  },
+  "a0693c917630": {
+    "href": "/library/dolphincoder:15b-starcoder2-q8_0",
+    "name": "dolphincoder:15b-starcoder2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "16K"
+  },
+  "1c1dc0127ddc": {
+    "href": "/library/dolphincoder:15b-starcoder2-fp16",
+    "name": "dolphincoder:15b-starcoder2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "16K"
+  }
+}

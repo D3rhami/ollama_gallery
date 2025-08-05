@@ -1,0 +1,917 @@
+{
+  "8dd30f6b0cb1": {
+    "href": "/library/llava:latest",
+    "name": "llava:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "32K"
+  },
+  "0d0eb4d7f485": {
+    "href": "/library/llava:13b",
+    "name": "llava:13b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.0GB",
+    "size_str": "4K"
+  },
+  "3d2d24f46674": {
+    "href": "/library/llava:34b",
+    "name": "llava:34b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "4K"
+  },
+  "33973d2589d1": {
+    "href": "/library/llava:7b-v1.5-q2_K",
+    "name": "llava:7b-v1.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "4K"
+  },
+  "605b68e0b568": {
+    "href": "/library/llava:7b-v1.5-q3_K_S",
+    "name": "llava:7b-v1.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "9d738df24288": {
+    "href": "/library/llava:7b-v1.5-q3_K_M",
+    "name": "llava:7b-v1.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "057fefd59cdb": {
+    "href": "/library/llava:7b-v1.5-q3_K_L",
+    "name": "llava:7b-v1.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "4K"
+  },
+  "cd3274b81a85": {
+    "href": "/library/llava:7b-v1.5-q4_0",
+    "name": "llava:7b-v1.5-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "146a55d9df75": {
+    "href": "/library/llava:7b-v1.5-q4_1",
+    "name": "llava:7b-v1.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "d8d545afa5f0": {
+    "href": "/library/llava:7b-v1.5-q4_K_S",
+    "name": "llava:7b-v1.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "75a9333e75cd": {
+    "href": "/library/llava:7b-v1.5-q4_K_M",
+    "name": "llava:7b-v1.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "339249626980": {
+    "href": "/library/llava:7b-v1.5-q5_0",
+    "name": "llava:7b-v1.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "6d97e8715c53": {
+    "href": "/library/llava:7b-v1.5-q5_1",
+    "name": "llava:7b-v1.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "34f9b24f2315": {
+    "href": "/library/llava:7b-v1.5-q5_K_S",
+    "name": "llava:7b-v1.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "4fb097b9cfa3": {
+    "href": "/library/llava:7b-v1.5-q5_K_M",
+    "name": "llava:7b-v1.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "df0203e92f79": {
+    "href": "/library/llava:7b-v1.5-q6_K",
+    "name": "llava:7b-v1.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.2GB",
+    "size_str": "4K"
+  },
+  "c684b68b3f34": {
+    "href": "/library/llava:7b-v1.5-q8_0",
+    "name": "llava:7b-v1.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.8GB",
+    "size_str": "4K"
+  },
+  "337a5b25bada": {
+    "href": "/library/llava:7b-v1.5-fp16",
+    "name": "llava:7b-v1.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "52e0ce44a5f5": {
+    "href": "/library/llava:7b-v1.6-mistral-q2_K",
+    "name": "llava:7b-v1.6-mistral-q2_K",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "32K"
+  },
+  "2b9c055fe6a2": {
+    "href": "/library/llava:7b-v1.6-mistral-q3_K_S",
+    "name": "llava:7b-v1.6-mistral-q3_K_S",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "25a00600f8b4": {
+    "href": "/library/llava:7b-v1.6-mistral-q3_K_M",
+    "name": "llava:7b-v1.6-mistral-q3_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "a48bbc9b567b": {
+    "href": "/library/llava:7b-v1.6-mistral-q3_K_L",
+    "name": "llava:7b-v1.6-mistral-q3_K_L",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "8da3213068e6": {
+    "href": "/library/llava:7b-v1.6-mistral-q4_1",
+    "name": "llava:7b-v1.6-mistral-q4_1",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.2GB",
+    "size_str": "32K"
+  },
+  "2878e8c79f6e": {
+    "href": "/library/llava:7b-v1.6-mistral-q4_K_S",
+    "name": "llava:7b-v1.6-mistral-q4_K_S",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "32K"
+  },
+  "8d3fbd6ad3f4": {
+    "href": "/library/llava:7b-v1.6-mistral-q4_K_M",
+    "name": "llava:7b-v1.6-mistral-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "b8f63553f521": {
+    "href": "/library/llava:7b-v1.6-mistral-q5_0",
+    "name": "llava:7b-v1.6-mistral-q5_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "32K"
+  },
+  "eda0b3f3b09b": {
+    "href": "/library/llava:7b-v1.6-mistral-q5_1",
+    "name": "llava:7b-v1.6-mistral-q5_1",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "32K"
+  },
+  "62dc434a7ae8": {
+    "href": "/library/llava:7b-v1.6-mistral-q5_K_S",
+    "name": "llava:7b-v1.6-mistral-q5_K_S",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "32K"
+  },
+  "244b7e3d3d5a": {
+    "href": "/library/llava:7b-v1.6-mistral-q5_K_M",
+    "name": "llava:7b-v1.6-mistral-q5_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.8GB",
+    "size_str": "32K"
+  },
+  "8781169d7f8f": {
+    "href": "/library/llava:7b-v1.6-mistral-q6_K",
+    "name": "llava:7b-v1.6-mistral-q6_K",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.6GB",
+    "size_str": "32K"
+  },
+  "c2973e390e84": {
+    "href": "/library/llava:7b-v1.6-mistral-q8_0",
+    "name": "llava:7b-v1.6-mistral-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.3GB",
+    "size_str": "32K"
+  },
+  "9fd1e5417c5f": {
+    "href": "/library/llava:7b-v1.6-mistral-fp16",
+    "name": "llava:7b-v1.6-mistral-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "32K"
+  },
+  "6321163f3833": {
+    "href": "/library/llava:7b-v1.6-vicuna-q2_K",
+    "name": "llava:7b-v1.6-vicuna-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "4K"
+  },
+  "7701df672950": {
+    "href": "/library/llava:7b-v1.6-vicuna-q3_K_S",
+    "name": "llava:7b-v1.6-vicuna-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "7004e1f24eb1": {
+    "href": "/library/llava:7b-v1.6-vicuna-q3_K_M",
+    "name": "llava:7b-v1.6-vicuna-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "0127d9087e07": {
+    "href": "/library/llava:7b-v1.6-vicuna-q3_K_L",
+    "name": "llava:7b-v1.6-vicuna-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "4K"
+  },
+  "b6cbe07f1d5e": {
+    "href": "/library/llava:7b-v1.6-vicuna-q4_0",
+    "name": "llava:7b-v1.6-vicuna-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "f8a27e237e97": {
+    "href": "/library/llava:7b-v1.6-vicuna-q4_1",
+    "name": "llava:7b-v1.6-vicuna-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "5006a8a41d2b": {
+    "href": "/library/llava:7b-v1.6-vicuna-q4_K_S",
+    "name": "llava:7b-v1.6-vicuna-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "15360a9e0fb9": {
+    "href": "/library/llava:7b-v1.6-vicuna-q4_K_M",
+    "name": "llava:7b-v1.6-vicuna-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "6a2bb61a611a": {
+    "href": "/library/llava:7b-v1.6-vicuna-q5_0",
+    "name": "llava:7b-v1.6-vicuna-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "1bd37032ec33": {
+    "href": "/library/llava:7b-v1.6-vicuna-q5_1",
+    "name": "llava:7b-v1.6-vicuna-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "4aaa19502e34": {
+    "href": "/library/llava:7b-v1.6-vicuna-q5_K_S",
+    "name": "llava:7b-v1.6-vicuna-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "b22b0c041223": {
+    "href": "/library/llava:7b-v1.6-vicuna-q5_K_M",
+    "name": "llava:7b-v1.6-vicuna-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "11bd55683f9c": {
+    "href": "/library/llava:7b-v1.6-vicuna-q6_K",
+    "name": "llava:7b-v1.6-vicuna-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.2GB",
+    "size_str": "4K"
+  },
+  "6da20a71d9bb": {
+    "href": "/library/llava:7b-v1.6-vicuna-q8_0",
+    "name": "llava:7b-v1.6-vicuna-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.8GB",
+    "size_str": "4K"
+  },
+  "bb8da134bacb": {
+    "href": "/library/llava:7b-v1.6-vicuna-fp16",
+    "name": "llava:7b-v1.6-vicuna-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "3cdd3869f154": {
+    "href": "/library/llava:13b-v1.5-q2_K",
+    "name": "llava:13b-v1.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "c860f869008d": {
+    "href": "/library/llava:13b-v1.5-q3_K_S",
+    "name": "llava:13b-v1.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "61441e82808c": {
+    "href": "/library/llava:13b-v1.5-q3_K_M",
+    "name": "llava:13b-v1.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "07b1b74ec398": {
+    "href": "/library/llava:13b-v1.5-q3_K_L",
+    "name": "llava:13b-v1.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.6GB",
+    "size_str": "4K"
+  },
+  "e3b7997801dc": {
+    "href": "/library/llava:13b-v1.5-q4_0",
+    "name": "llava:13b-v1.5-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.0GB",
+    "size_str": "4K"
+  },
+  "0ca30ff66062": {
+    "href": "/library/llava:13b-v1.5-q4_1",
+    "name": "llava:13b-v1.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.8GB",
+    "size_str": "4K"
+  },
+  "16939c152bd9": {
+    "href": "/library/llava:13b-v1.5-q4_K_S",
+    "name": "llava:13b-v1.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "d0a6a3f0e6c4": {
+    "href": "/library/llava:13b-v1.5-q4_K_M",
+    "name": "llava:13b-v1.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.5GB",
+    "size_str": "4K"
+  },
+  "78e17026912a": {
+    "href": "/library/llava:13b-v1.5-q5_0",
+    "name": "llava:13b-v1.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.6GB",
+    "size_str": "4K"
+  },
+  "b11f33bc65fa": {
+    "href": "/library/llava:13b-v1.5-q5_1",
+    "name": "llava:13b-v1.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10GB",
+    "size_str": "4K"
+  },
+  "c7f4b8076a0e": {
+    "href": "/library/llava:13b-v1.5-q5_K_S",
+    "name": "llava:13b-v1.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.6GB",
+    "size_str": "4K"
+  },
+  "48418b116e18": {
+    "href": "/library/llava:13b-v1.5-q5_K_M",
+    "name": "llava:13b-v1.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.9GB",
+    "size_str": "4K"
+  },
+  "3c085b55f924": {
+    "href": "/library/llava:13b-v1.5-q6_K",
+    "name": "llava:13b-v1.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "4e00c435bb25": {
+    "href": "/library/llava:13b-v1.5-q8_0",
+    "name": "llava:13b-v1.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "ce3bde71eaa7": {
+    "href": "/library/llava:13b-v1.5-fp16",
+    "name": "llava:13b-v1.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "27GB",
+    "size_str": "4K"
+  },
+  "87aecb135e2a": {
+    "href": "/library/llava:13b-v1.6-vicuna-q2_K",
+    "name": "llava:13b-v1.6-vicuna-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "4K"
+  },
+  "54ef03322645": {
+    "href": "/library/llava:13b-v1.6-vicuna-q3_K_S",
+    "name": "llava:13b-v1.6-vicuna-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "2e48f094b51a": {
+    "href": "/library/llava:13b-v1.6-vicuna-q3_K_M",
+    "name": "llava:13b-v1.6-vicuna-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "4K"
+  },
+  "a2b56a2b8e79": {
+    "href": "/library/llava:13b-v1.6-vicuna-q3_K_L",
+    "name": "llava:13b-v1.6-vicuna-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.6GB",
+    "size_str": "4K"
+  },
+  "0b97528b26b0": {
+    "href": "/library/llava:13b-v1.6-vicuna-q4_1",
+    "name": "llava:13b-v1.6-vicuna-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.8GB",
+    "size_str": "4K"
+  },
+  "5e4cf96dfc4c": {
+    "href": "/library/llava:13b-v1.6-vicuna-q4_K_S",
+    "name": "llava:13b-v1.6-vicuna-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "0843119c3874": {
+    "href": "/library/llava:13b-v1.6-vicuna-q4_K_M",
+    "name": "llava:13b-v1.6-vicuna-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.5GB",
+    "size_str": "4K"
+  },
+  "6e06e1393058": {
+    "href": "/library/llava:13b-v1.6-vicuna-q5_0",
+    "name": "llava:13b-v1.6-vicuna-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.6GB",
+    "size_str": "4K"
+  },
+  "31f1d78cb272": {
+    "href": "/library/llava:13b-v1.6-vicuna-q5_1",
+    "name": "llava:13b-v1.6-vicuna-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10GB",
+    "size_str": "4K"
+  },
+  "53999e2c86c8": {
+    "href": "/library/llava:13b-v1.6-vicuna-q5_K_S",
+    "name": "llava:13b-v1.6-vicuna-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.6GB",
+    "size_str": "4K"
+  },
+  "446b10458a6a": {
+    "href": "/library/llava:13b-v1.6-vicuna-q5_K_M",
+    "name": "llava:13b-v1.6-vicuna-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.9GB",
+    "size_str": "4K"
+  },
+  "1c0a91e1e4d9": {
+    "href": "/library/llava:13b-v1.6-vicuna-q6_K",
+    "name": "llava:13b-v1.6-vicuna-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "b25c4195f9e2": {
+    "href": "/library/llava:13b-v1.6-vicuna-q8_0",
+    "name": "llava:13b-v1.6-vicuna-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "81e28406a4e9": {
+    "href": "/library/llava:13b-v1.6-vicuna-fp16",
+    "name": "llava:13b-v1.6-vicuna-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "27GB",
+    "size_str": "4K"
+  },
+  "6326f59da4f1": {
+    "href": "/library/llava:34b-v1.6-q2_K",
+    "name": "llava:34b-v1.6-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "a0376a205682": {
+    "href": "/library/llava:34b-v1.6-q3_K_S",
+    "name": "llava:34b-v1.6-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "4K"
+  },
+  "89e924fed7d4": {
+    "href": "/library/llava:34b-v1.6-q3_K_M",
+    "name": "llava:34b-v1.6-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "4K"
+  },
+  "7f9889648d1a": {
+    "href": "/library/llava:34b-v1.6-q3_K_L",
+    "name": "llava:34b-v1.6-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "4K"
+  },
+  "96d20de28a1a": {
+    "href": "/library/llava:34b-v1.6-q4_1",
+    "name": "llava:34b-v1.6-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "22GB",
+    "size_str": "4K"
+  },
+  "787b2213f0db": {
+    "href": "/library/llava:34b-v1.6-q4_K_S",
+    "name": "llava:34b-v1.6-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "4K"
+  },
+  "538ff4c5a8b8": {
+    "href": "/library/llava:34b-v1.6-q4_K_M",
+    "name": "llava:34b-v1.6-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "4K"
+  },
+  "b239e218bdf0": {
+    "href": "/library/llava:34b-v1.6-q5_0",
+    "name": "llava:34b-v1.6-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "4K"
+  },
+  "60926fd725ec": {
+    "href": "/library/llava:34b-v1.6-q5_1",
+    "name": "llava:34b-v1.6-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "27GB",
+    "size_str": "4K"
+  },
+  "cdd8d5db3870": {
+    "href": "/library/llava:34b-v1.6-q5_K_S",
+    "name": "llava:34b-v1.6-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "4K"
+  },
+  "0eb2ab10d35c": {
+    "href": "/library/llava:34b-v1.6-q5_K_M",
+    "name": "llava:34b-v1.6-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "4K"
+  },
+  "8f572ea02185": {
+    "href": "/library/llava:34b-v1.6-q6_K",
+    "name": "llava:34b-v1.6-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "4K"
+  },
+  "959065f30849": {
+    "href": "/library/llava:34b-v1.6-q8_0",
+    "name": "llava:34b-v1.6-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "37GB",
+    "size_str": "4K"
+  },
+  "89c50af82d5e": {
+    "href": "/library/llava:34b-v1.6-fp16",
+    "name": "llava:34b-v1.6-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "69GB",
+    "size_str": "4K"
+  }
+}

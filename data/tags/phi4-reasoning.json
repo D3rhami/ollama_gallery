@@ -1,0 +1,62 @@
+{
+  "47e2630ccbcd": {
+    "href": "/library/phi4-reasoning:latest",
+    "name": "phi4-reasoning:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "11GB",
+    "size_str": "32K"
+  },
+  "f0ad3edce8e4": {
+    "href": "/library/phi4-reasoning:plus",
+    "name": "phi4-reasoning:plus",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "11GB",
+    "size_str": "32K"
+  },
+  "ecd8f64ff877": {
+    "href": "/library/phi4-reasoning:14b-plus-q8_0",
+    "name": "phi4-reasoning:14b-plus-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "561e2e2df29e": {
+    "href": "/library/phi4-reasoning:14b-plus-fp16",
+    "name": "phi4-reasoning:14b-plus-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "30b78bf47222": {
+    "href": "/library/phi4-reasoning:14b-q8_0",
+    "name": "phi4-reasoning:14b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "d990c3364a6c": {
+    "href": "/library/phi4-reasoning:14b-fp16",
+    "name": "phi4-reasoning:14b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  }
+}

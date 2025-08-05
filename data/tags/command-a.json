@@ -1,0 +1,32 @@
+{
+  "cd22bd484599": {
+    "href": "/library/command-a:latest",
+    "name": "command-a:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "67GB",
+    "size_str": "16K"
+  },
+  "4f32dc902f62": {
+    "href": "/library/command-a:111b-03-2025-q8_0",
+    "name": "command-a:111b-03-2025-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "118GB",
+    "size_str": "16K"
+  },
+  "5d5425f22323": {
+    "href": "/library/command-a:111b-03-2025-fp16",
+    "name": "command-a:111b-03-2025-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 months ago",
+    "context_window": "222GB",
+    "size_str": "16K"
+  }
+}

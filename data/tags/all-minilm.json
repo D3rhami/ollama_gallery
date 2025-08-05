@@ -1,0 +1,22 @@
+{
+  "1b226e2802db": {
+    "href": "/library/all-minilm:latest",
+    "name": "all-minilm:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "46MB",
+    "size_str": "512"
+  },
+  "4f5da3bd944d": {
+    "href": "/library/all-minilm:l12",
+    "name": "all-minilm:l12",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "67MB",
+    "size_str": "512"
+  }
+}

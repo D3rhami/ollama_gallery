@@ -1,0 +1,452 @@
+{
+  "77ac14348387": {
+    "href": "/library/sqlcoder:latest",
+    "name": "sqlcoder:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "93bb0e8a904f": {
+    "href": "/library/sqlcoder:15b",
+    "name": "sqlcoder:15b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "8K"
+  },
+  "ef8dfd2a47a9": {
+    "href": "/library/sqlcoder:7b-q2_K",
+    "name": "sqlcoder:7b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "9b217fbd379f": {
+    "href": "/library/sqlcoder:7b-q3_K_S",
+    "name": "sqlcoder:7b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "77511b137ab8": {
+    "href": "/library/sqlcoder:7b-q3_K_M",
+    "name": "sqlcoder:7b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "cab35c00ef41": {
+    "href": "/library/sqlcoder:7b-q3_K_L",
+    "name": "sqlcoder:7b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "2497c9ce8ce5": {
+    "href": "/library/sqlcoder:7b-q4_1",
+    "name": "sqlcoder:7b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "1af8f9ec2947": {
+    "href": "/library/sqlcoder:7b-q4_K_S",
+    "name": "sqlcoder:7b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "83f394c3724e": {
+    "href": "/library/sqlcoder:7b-q4_K_M",
+    "name": "sqlcoder:7b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "71532749cb66": {
+    "href": "/library/sqlcoder:7b-q5_0",
+    "name": "sqlcoder:7b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "4f8985282cb3": {
+    "href": "/library/sqlcoder:7b-q5_1",
+    "name": "sqlcoder:7b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "bac5bb21f4f1": {
+    "href": "/library/sqlcoder:7b-q5_K_S",
+    "name": "sqlcoder:7b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "422d0b916aa2": {
+    "href": "/library/sqlcoder:7b-q5_K_M",
+    "name": "sqlcoder:7b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "b8436a415945": {
+    "href": "/library/sqlcoder:7b-q6_K",
+    "name": "sqlcoder:7b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "07db64a3ecb0": {
+    "href": "/library/sqlcoder:7b-q8_0",
+    "name": "sqlcoder:7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "186b67d3cc81": {
+    "href": "/library/sqlcoder:7b-fp16",
+    "name": "sqlcoder:7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "dd88fa6c88f9": {
+    "href": "/library/sqlcoder:15b-q2_K",
+    "name": "sqlcoder:15b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.7GB",
+    "size_str": "8K"
+  },
+  "02328caa22ea": {
+    "href": "/library/sqlcoder:15b-q3_K_S",
+    "name": "sqlcoder:15b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "8K"
+  },
+  "35f5a2532a9f": {
+    "href": "/library/sqlcoder:15b-q3_K_M",
+    "name": "sqlcoder:15b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "8K"
+  },
+  "e897d393ebf1": {
+    "href": "/library/sqlcoder:15b-q3_K_L",
+    "name": "sqlcoder:15b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "8K"
+  },
+  "78804bd67731": {
+    "href": "/library/sqlcoder:15b-q4_1",
+    "name": "sqlcoder:15b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10.0GB",
+    "size_str": "8K"
+  },
+  "11c41fea3fed": {
+    "href": "/library/sqlcoder:15b-q4_K_S",
+    "name": "sqlcoder:15b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "8K"
+  },
+  "aee77323d6c4": {
+    "href": "/library/sqlcoder:15b-q4_K_M",
+    "name": "sqlcoder:15b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10.0GB",
+    "size_str": "8K"
+  },
+  "2a1ff495d518": {
+    "href": "/library/sqlcoder:15b-q5_0",
+    "name": "sqlcoder:15b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "8K"
+  },
+  "c8efb3a98ee1": {
+    "href": "/library/sqlcoder:15b-q5_1",
+    "name": "sqlcoder:15b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "11b67891395e": {
+    "href": "/library/sqlcoder:15b-q5_K_S",
+    "name": "sqlcoder:15b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "8K"
+  },
+  "fbbab943ddb2": {
+    "href": "/library/sqlcoder:15b-q5_K_M",
+    "name": "sqlcoder:15b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "8K"
+  },
+  "cd5d9138d61e": {
+    "href": "/library/sqlcoder:15b-q6_K",
+    "name": "sqlcoder:15b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "e07554606510": {
+    "href": "/library/sqlcoder:15b-q8_0",
+    "name": "sqlcoder:15b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "8K"
+  },
+  "6369c7277e63": {
+    "href": "/library/sqlcoder:15b-fp16",
+    "name": "sqlcoder:15b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "8K"
+  },
+  "510d7936f38d": {
+    "href": "/library/sqlcoder:70b-alpha-q2_K",
+    "name": "sqlcoder:70b-alpha-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "16K"
+  },
+  "7fa3e5dcdb07": {
+    "href": "/library/sqlcoder:70b-alpha-q3_K_S",
+    "name": "sqlcoder:70b-alpha-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "30GB",
+    "size_str": "16K"
+  },
+  "e58e4a7b8c15": {
+    "href": "/library/sqlcoder:70b-alpha-q3_K_M",
+    "name": "sqlcoder:70b-alpha-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "33GB",
+    "size_str": "16K"
+  },
+  "8841830edc80": {
+    "href": "/library/sqlcoder:70b-alpha-q3_K_L",
+    "name": "sqlcoder:70b-alpha-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "16K"
+  },
+  "23ca04b201dd": {
+    "href": "/library/sqlcoder:70b-alpha-q4_0",
+    "name": "sqlcoder:70b-alpha-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "16K"
+  },
+  "e431137fc239": {
+    "href": "/library/sqlcoder:70b-alpha-q4_1",
+    "name": "sqlcoder:70b-alpha-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "16K"
+  },
+  "5be5f1377e74": {
+    "href": "/library/sqlcoder:70b-alpha-q4_K_S",
+    "name": "sqlcoder:70b-alpha-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "16K"
+  },
+  "a8d3eb52b519": {
+    "href": "/library/sqlcoder:70b-alpha-q4_K_M",
+    "name": "sqlcoder:70b-alpha-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "41GB",
+    "size_str": "16K"
+  },
+  "faad68f73fc2": {
+    "href": "/library/sqlcoder:70b-alpha-q5_0",
+    "name": "sqlcoder:70b-alpha-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "16K"
+  },
+  "d05ce9b94ffd": {
+    "href": "/library/sqlcoder:70b-alpha-q5_1",
+    "name": "sqlcoder:70b-alpha-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "16K"
+  },
+  "a83028f215d3": {
+    "href": "/library/sqlcoder:70b-alpha-q5_K_S",
+    "name": "sqlcoder:70b-alpha-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "16K"
+  },
+  "fdc1971644d8": {
+    "href": "/library/sqlcoder:70b-alpha-q5_K_M",
+    "name": "sqlcoder:70b-alpha-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "16K"
+  },
+  "334382eb1aff": {
+    "href": "/library/sqlcoder:70b-alpha-q6_K",
+    "name": "sqlcoder:70b-alpha-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "57GB",
+    "size_str": "16K"
+  },
+  "f9eec4ca6793": {
+    "href": "/library/sqlcoder:70b-alpha-q8_0",
+    "name": "sqlcoder:70b-alpha-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "16K"
+  },
+  "2a20f63ebd1d": {
+    "href": "/library/sqlcoder:70b-alpha-fp16",
+    "name": "sqlcoder:70b-alpha-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "138GB",
+    "size_str": "16K"
+  }
+}

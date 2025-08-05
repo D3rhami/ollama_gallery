@@ -1,0 +1,452 @@
+{
+  "28cc3a337734": {
+    "href": "/library/qwen2-math:latest",
+    "name": "qwen2-math:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.4GB",
+    "size_str": "4K"
+  },
+  "a4fdda0c6cc5": {
+    "href": "/library/qwen2-math:1.5b",
+    "name": "qwen2-math:1.5b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "935MB",
+    "size_str": "4K"
+  },
+  "9cf426342464": {
+    "href": "/library/qwen2-math:72b",
+    "name": "qwen2-math:72b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "41GB",
+    "size_str": "4K"
+  },
+  "7a8feb441528": {
+    "href": "/library/qwen2-math:1.5b-instruct-q2_K",
+    "name": "qwen2-math:1.5b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "676MB",
+    "size_str": "4K"
+  },
+  "2944d4047629": {
+    "href": "/library/qwen2-math:1.5b-instruct-q3_K_S",
+    "name": "qwen2-math:1.5b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "761MB",
+    "size_str": "4K"
+  },
+  "edd19aa7dc5c": {
+    "href": "/library/qwen2-math:1.5b-instruct-q3_K_M",
+    "name": "qwen2-math:1.5b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "824MB",
+    "size_str": "4K"
+  },
+  "8db3e0ee180a": {
+    "href": "/library/qwen2-math:1.5b-instruct-q3_K_L",
+    "name": "qwen2-math:1.5b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "880MB",
+    "size_str": "4K"
+  },
+  "0df8170c4293": {
+    "href": "/library/qwen2-math:1.5b-instruct-q4_1",
+    "name": "qwen2-math:1.5b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.0GB",
+    "size_str": "4K"
+  },
+  "bf98cc10ea89": {
+    "href": "/library/qwen2-math:1.5b-instruct-q4_K_S",
+    "name": "qwen2-math:1.5b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "940MB",
+    "size_str": "4K"
+  },
+  "2cf0b27c20c4": {
+    "href": "/library/qwen2-math:1.5b-instruct-q4_K_M",
+    "name": "qwen2-math:1.5b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "986MB",
+    "size_str": "4K"
+  },
+  "6458bd105c38": {
+    "href": "/library/qwen2-math:1.5b-instruct-q5_0",
+    "name": "qwen2-math:1.5b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "a6c823420573": {
+    "href": "/library/qwen2-math:1.5b-instruct-q5_1",
+    "name": "qwen2-math:1.5b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "de1d907e050a": {
+    "href": "/library/qwen2-math:1.5b-instruct-q5_K_S",
+    "name": "qwen2-math:1.5b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "041636d78c2d": {
+    "href": "/library/qwen2-math:1.5b-instruct-q5_K_M",
+    "name": "qwen2-math:1.5b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "4K"
+  },
+  "bef4dcb32ea5": {
+    "href": "/library/qwen2-math:1.5b-instruct-q6_K",
+    "name": "qwen2-math:1.5b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.3GB",
+    "size_str": "4K"
+  },
+  "ad817da24abc": {
+    "href": "/library/qwen2-math:1.5b-instruct-q8_0",
+    "name": "qwen2-math:1.5b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.6GB",
+    "size_str": "4K"
+  },
+  "d8dc2e83f294": {
+    "href": "/library/qwen2-math:1.5b-instruct-fp16",
+    "name": "qwen2-math:1.5b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "4ed0c248a5bf": {
+    "href": "/library/qwen2-math:7b-instruct-q2_K",
+    "name": "qwen2-math:7b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.0GB",
+    "size_str": "4K"
+  },
+  "d53bb5d1bf39": {
+    "href": "/library/qwen2-math:7b-instruct-q3_K_S",
+    "name": "qwen2-math:7b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.5GB",
+    "size_str": "4K"
+  },
+  "4454608bd85e": {
+    "href": "/library/qwen2-math:7b-instruct-q3_K_M",
+    "name": "qwen2-math:7b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.8GB",
+    "size_str": "4K"
+  },
+  "7e37bb4b4a7a": {
+    "href": "/library/qwen2-math:7b-instruct-q3_K_L",
+    "name": "qwen2-math:7b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.1GB",
+    "size_str": "4K"
+  },
+  "53ddcc942030": {
+    "href": "/library/qwen2-math:7b-instruct-q4_1",
+    "name": "qwen2-math:7b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.9GB",
+    "size_str": "4K"
+  },
+  "ed3fc5765c47": {
+    "href": "/library/qwen2-math:7b-instruct-q4_K_S",
+    "name": "qwen2-math:7b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "bade12dad269": {
+    "href": "/library/qwen2-math:7b-instruct-q4_K_M",
+    "name": "qwen2-math:7b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "8538649897c5": {
+    "href": "/library/qwen2-math:7b-instruct-q5_0",
+    "name": "qwen2-math:7b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "d428300aab38": {
+    "href": "/library/qwen2-math:7b-instruct-q5_1",
+    "name": "qwen2-math:7b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.8GB",
+    "size_str": "4K"
+  },
+  "1b0fe2e02e2c": {
+    "href": "/library/qwen2-math:7b-instruct-q5_K_S",
+    "name": "qwen2-math:7b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.3GB",
+    "size_str": "4K"
+  },
+  "b49686d392f7": {
+    "href": "/library/qwen2-math:7b-instruct-q5_K_M",
+    "name": "qwen2-math:7b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "e387e8c7e4de": {
+    "href": "/library/qwen2-math:7b-instruct-q6_K",
+    "name": "qwen2-math:7b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "628f28555c4e": {
+    "href": "/library/qwen2-math:7b-instruct-q8_0",
+    "name": "qwen2-math:7b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "2ff60f753a04": {
+    "href": "/library/qwen2-math:7b-instruct-fp16",
+    "name": "qwen2-math:7b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "4K"
+  },
+  "e756083b2ef3": {
+    "href": "/library/qwen2-math:72b-instruct-q2_K",
+    "name": "qwen2-math:72b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "30GB",
+    "size_str": "4K"
+  },
+  "8300d30bce4d": {
+    "href": "/library/qwen2-math:72b-instruct-q3_K_S",
+    "name": "qwen2-math:72b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "34GB",
+    "size_str": "4K"
+  },
+  "39f518ee780a": {
+    "href": "/library/qwen2-math:72b-instruct-q3_K_M",
+    "name": "qwen2-math:72b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "38GB",
+    "size_str": "4K"
+  },
+  "9b0ee46ebbb0": {
+    "href": "/library/qwen2-math:72b-instruct-q3_K_L",
+    "name": "qwen2-math:72b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "40GB",
+    "size_str": "4K"
+  },
+  "92742f4e5a3c": {
+    "href": "/library/qwen2-math:72b-instruct-q4_1",
+    "name": "qwen2-math:72b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "46GB",
+    "size_str": "4K"
+  },
+  "7fdab978b506": {
+    "href": "/library/qwen2-math:72b-instruct-q4_K_S",
+    "name": "qwen2-math:72b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "44GB",
+    "size_str": "4K"
+  },
+  "4607ef31652a": {
+    "href": "/library/qwen2-math:72b-instruct-q4_K_M",
+    "name": "qwen2-math:72b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "47GB",
+    "size_str": "4K"
+  },
+  "08ba2da5a4db": {
+    "href": "/library/qwen2-math:72b-instruct-q5_0",
+    "name": "qwen2-math:72b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "50GB",
+    "size_str": "4K"
+  },
+  "6ae803c94afe": {
+    "href": "/library/qwen2-math:72b-instruct-q5_1",
+    "name": "qwen2-math:72b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "55GB",
+    "size_str": "4K"
+  },
+  "84fadf091d81": {
+    "href": "/library/qwen2-math:72b-instruct-q5_K_S",
+    "name": "qwen2-math:72b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "51GB",
+    "size_str": "4K"
+  },
+  "ad3afa8c1764": {
+    "href": "/library/qwen2-math:72b-instruct-q5_K_M",
+    "name": "qwen2-math:72b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "54GB",
+    "size_str": "4K"
+  },
+  "0357576f1f45": {
+    "href": "/library/qwen2-math:72b-instruct-q6_K",
+    "name": "qwen2-math:72b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "64GB",
+    "size_str": "4K"
+  },
+  "4a5f8f66cc3b": {
+    "href": "/library/qwen2-math:72b-instruct-q8_0",
+    "name": "qwen2-math:72b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "77GB",
+    "size_str": "4K"
+  },
+  "119fdb055da9": {
+    "href": "/library/qwen2-math:72b-instruct-fp16",
+    "name": "qwen2-math:72b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "145GB",
+    "size_str": "4K"
+  }
+}

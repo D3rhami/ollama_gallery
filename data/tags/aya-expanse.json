@@ -1,0 +1,302 @@
+{
+  "65f986688a01": {
+    "href": "/library/aya-expanse:latest",
+    "name": "aya-expanse:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "5.1GB",
+    "size_str": "8K"
+  },
+  "1603440383bd": {
+    "href": "/library/aya-expanse:32b",
+    "name": "aya-expanse:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "20GB",
+    "size_str": "8K"
+  },
+  "4e94e1804ed0": {
+    "href": "/library/aya-expanse:8b-q2_K",
+    "name": "aya-expanse:8b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "3.4GB",
+    "size_str": "8K"
+  },
+  "6c65053f0521": {
+    "href": "/library/aya-expanse:8b-q3_K_S",
+    "name": "aya-expanse:8b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "3.9GB",
+    "size_str": "8K"
+  },
+  "a4a9b41eac86": {
+    "href": "/library/aya-expanse:8b-q3_K_M",
+    "name": "aya-expanse:8b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "4.2GB",
+    "size_str": "8K"
+  },
+  "fc1432804cff": {
+    "href": "/library/aya-expanse:8b-q3_K_L",
+    "name": "aya-expanse:8b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "4.5GB",
+    "size_str": "8K"
+  },
+  "c5956345aaa7": {
+    "href": "/library/aya-expanse:8b-q4_0",
+    "name": "aya-expanse:8b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "4.8GB",
+    "size_str": "8K"
+  },
+  "e85461db4a4a": {
+    "href": "/library/aya-expanse:8b-q4_1",
+    "name": "aya-expanse:8b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "5.2GB",
+    "size_str": "8K"
+  },
+  "951e4f5b2da0": {
+    "href": "/library/aya-expanse:8b-q4_K_S",
+    "name": "aya-expanse:8b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "4.8GB",
+    "size_str": "8K"
+  },
+  "d1a8566edcdd": {
+    "href": "/library/aya-expanse:8b-q5_0",
+    "name": "aya-expanse:8b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "5.7GB",
+    "size_str": "8K"
+  },
+  "d6c4aa0c560e": {
+    "href": "/library/aya-expanse:8b-q5_1",
+    "name": "aya-expanse:8b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "6.1GB",
+    "size_str": "8K"
+  },
+  "52275a980a3a": {
+    "href": "/library/aya-expanse:8b-q5_K_S",
+    "name": "aya-expanse:8b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "5.7GB",
+    "size_str": "8K"
+  },
+  "f61895fe5ab1": {
+    "href": "/library/aya-expanse:8b-q5_K_M",
+    "name": "aya-expanse:8b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "5.8GB",
+    "size_str": "8K"
+  },
+  "1ac4fd9f8a6e": {
+    "href": "/library/aya-expanse:8b-q6_K",
+    "name": "aya-expanse:8b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "6.6GB",
+    "size_str": "8K"
+  },
+  "dea9deb4709b": {
+    "href": "/library/aya-expanse:8b-q8_0",
+    "name": "aya-expanse:8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "8.5GB",
+    "size_str": "8K"
+  },
+  "a865f88ef2d9": {
+    "href": "/library/aya-expanse:8b-fp16",
+    "name": "aya-expanse:8b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "16GB",
+    "size_str": "8K"
+  },
+  "f44c9317d435": {
+    "href": "/library/aya-expanse:32b-q2_K",
+    "name": "aya-expanse:32b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "13GB",
+    "size_str": "8K"
+  },
+  "f9b00ae9fa64": {
+    "href": "/library/aya-expanse:32b-q3_K_S",
+    "name": "aya-expanse:32b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "15GB",
+    "size_str": "8K"
+  },
+  "0fda43e48571": {
+    "href": "/library/aya-expanse:32b-q3_K_M",
+    "name": "aya-expanse:32b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "16GB",
+    "size_str": "8K"
+  },
+  "ae8cf77b0ed5": {
+    "href": "/library/aya-expanse:32b-q3_K_L",
+    "name": "aya-expanse:32b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "18GB",
+    "size_str": "8K"
+  },
+  "a9a6ef593b6d": {
+    "href": "/library/aya-expanse:32b-q4_0",
+    "name": "aya-expanse:32b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "873205537e77": {
+    "href": "/library/aya-expanse:32b-q4_1",
+    "name": "aya-expanse:32b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "21GB",
+    "size_str": "8K"
+  },
+  "c01efb135e53": {
+    "href": "/library/aya-expanse:32b-q4_K_S",
+    "name": "aya-expanse:32b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "19GB",
+    "size_str": "8K"
+  },
+  "067679252f1c": {
+    "href": "/library/aya-expanse:32b-q5_0",
+    "name": "aya-expanse:32b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "22GB",
+    "size_str": "8K"
+  },
+  "ef9e49740da1": {
+    "href": "/library/aya-expanse:32b-q5_1",
+    "name": "aya-expanse:32b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "24GB",
+    "size_str": "8K"
+  },
+  "7549163c6f3b": {
+    "href": "/library/aya-expanse:32b-q5_K_S",
+    "name": "aya-expanse:32b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "22GB",
+    "size_str": "8K"
+  },
+  "3283f75f7ad8": {
+    "href": "/library/aya-expanse:32b-q5_K_M",
+    "name": "aya-expanse:32b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "23GB",
+    "size_str": "8K"
+  },
+  "bddf1344b6a4": {
+    "href": "/library/aya-expanse:32b-q6_K",
+    "name": "aya-expanse:32b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "27GB",
+    "size_str": "8K"
+  },
+  "885aef505f9b": {
+    "href": "/library/aya-expanse:32b-q8_0",
+    "name": "aya-expanse:32b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "34GB",
+    "size_str": "8K"
+  },
+  "c65e9ab0846f": {
+    "href": "/library/aya-expanse:32b-fp16",
+    "name": "aya-expanse:32b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 months ago",
+    "context_window": "65GB",
+    "size_str": "8K"
+  }
+}

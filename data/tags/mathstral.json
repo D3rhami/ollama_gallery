@@ -1,0 +1,152 @@
+{
+  "4ee7052be55a": {
+    "href": "/library/mathstral:latest",
+    "name": "mathstral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "5137b80a2f9f": {
+    "href": "/library/mathstral:7b-v0.1-q2_K",
+    "name": "mathstral:7b-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "32K"
+  },
+  "b75c7eed8cf3": {
+    "href": "/library/mathstral:7b-v0.1-q3_K_S",
+    "name": "mathstral:7b-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "67dafe37f729": {
+    "href": "/library/mathstral:7b-v0.1-q3_K_M",
+    "name": "mathstral:7b-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "f1a0d196fc05": {
+    "href": "/library/mathstral:7b-v0.1-q3_K_L",
+    "name": "mathstral:7b-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "7d1005348e61": {
+    "href": "/library/mathstral:7b-v0.1-q4_1",
+    "name": "mathstral:7b-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "4c06df180823": {
+    "href": "/library/mathstral:7b-v0.1-q4_K_S",
+    "name": "mathstral:7b-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "8cf37cd9128d": {
+    "href": "/library/mathstral:7b-v0.1-q4_K_M",
+    "name": "mathstral:7b-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "c766c6cbd32e": {
+    "href": "/library/mathstral:7b-v0.1-q5_0",
+    "name": "mathstral:7b-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "f0082439d2ba": {
+    "href": "/library/mathstral:7b-v0.1-q5_1",
+    "name": "mathstral:7b-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "e37cf555b2ed": {
+    "href": "/library/mathstral:7b-v0.1-q5_K_S",
+    "name": "mathstral:7b-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "562985e7a5a8": {
+    "href": "/library/mathstral:7b-v0.1-q5_K_M",
+    "name": "mathstral:7b-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "696c00e5bba0": {
+    "href": "/library/mathstral:7b-v0.1-q6_K",
+    "name": "mathstral:7b-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "939f2d6f06c5": {
+    "href": "/library/mathstral:7b-v0.1-q8_0",
+    "name": "mathstral:7b-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "ce1616d5e8c6": {
+    "href": "/library/mathstral:7b-v0.1-fp16",
+    "name": "mathstral:7b-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  }
+}

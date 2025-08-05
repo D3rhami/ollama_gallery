@@ -1,0 +1,152 @@
+{
+  "fe14e7d66184": {
+    "href": "/library/notux:latest",
+    "name": "notux:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "92257992996c": {
+    "href": "/library/notux:8x7b-v1-q2_K",
+    "name": "notux:8x7b-v1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "32K"
+  },
+  "204879dc2cc3": {
+    "href": "/library/notux:8x7b-v1-q3_K_S",
+    "name": "notux:8x7b-v1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "20bdbdb43962": {
+    "href": "/library/notux:8x7b-v1-q3_K_M",
+    "name": "notux:8x7b-v1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "dba2de3a5168": {
+    "href": "/library/notux:8x7b-v1-q3_K_L",
+    "name": "notux:8x7b-v1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "09296d49ac57": {
+    "href": "/library/notux:8x7b-v1-q4_1",
+    "name": "notux:8x7b-v1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "abf66a2df688": {
+    "href": "/library/notux:8x7b-v1-q4_K_S",
+    "name": "notux:8x7b-v1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "3b16f6f4e58b": {
+    "href": "/library/notux:8x7b-v1-q4_K_M",
+    "name": "notux:8x7b-v1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "ccd5d7aa8e35": {
+    "href": "/library/notux:8x7b-v1-q5_0",
+    "name": "notux:8x7b-v1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "f5d5ac5b61ef": {
+    "href": "/library/notux:8x7b-v1-q5_1",
+    "name": "notux:8x7b-v1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "acae292badb5": {
+    "href": "/library/notux:8x7b-v1-q5_K_S",
+    "name": "notux:8x7b-v1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "ec6abe6a6aa2": {
+    "href": "/library/notux:8x7b-v1-q5_K_M",
+    "name": "notux:8x7b-v1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "ecaacfc45d90": {
+    "href": "/library/notux:8x7b-v1-q6_K",
+    "name": "notux:8x7b-v1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "03152c4371e4": {
+    "href": "/library/notux:8x7b-v1-q8_0",
+    "name": "notux:8x7b-v1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "2fcdc0b6a3a1": {
+    "href": "/library/notux:8x7b-v1-fp16",
+    "name": "notux:8x7b-v1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  }
+}

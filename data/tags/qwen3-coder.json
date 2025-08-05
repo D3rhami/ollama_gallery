@@ -1,0 +1,42 @@
+{
+  "ad67f85ca250": {
+    "href": "/library/qwen3-coder:latest",
+    "name": "qwen3-coder:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 days ago",
+    "context_window": "19GB",
+    "size_str": "256K"
+  },
+  "bdecf39e3ee4": {
+    "href": "/library/qwen3-coder:30b-a3b-q8_0",
+    "name": "qwen3-coder:30b-a3b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 days ago",
+    "context_window": "32GB",
+    "size_str": "256K"
+  },
+  "e481f3891b3e": {
+    "href": "/library/qwen3-coder:30b-a3b-fp16",
+    "name": "qwen3-coder:30b-a3b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 days ago",
+    "context_window": "61GB",
+    "size_str": "256K"
+  },
+  "832a04b67486": {
+    "href": "/library/qwen3-coder:480b-a35b-fp16",
+    "name": "qwen3-coder:480b-a35b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "4 days ago",
+    "context_window": "960GB",
+    "size_str": "256K"
+  }
+}

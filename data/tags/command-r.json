@@ -1,0 +1,292 @@
+{
+  "7d96360d357f": {
+    "href": "/library/command-r:latest",
+    "name": "command-r:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "19GB",
+    "size_str": "128K"
+  },
+  "b8cdfff0263c": {
+    "href": "/library/command-r:v0.1",
+    "name": "command-r:v0.1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "128K"
+  },
+  "baa79f31c7db": {
+    "href": "/library/command-r:35b-08-2024-q2_K",
+    "name": "command-r:35b-08-2024-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "13GB",
+    "size_str": "128K"
+  },
+  "a71cdc6dbc33": {
+    "href": "/library/command-r:35b-08-2024-q3_K_S",
+    "name": "command-r:35b-08-2024-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "128K"
+  },
+  "311c0b29be9c": {
+    "href": "/library/command-r:35b-08-2024-q3_K_M",
+    "name": "command-r:35b-08-2024-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "7609ccb59aa3": {
+    "href": "/library/command-r:35b-08-2024-q3_K_L",
+    "name": "command-r:35b-08-2024-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "18GB",
+    "size_str": "128K"
+  },
+  "c9994fa85c15": {
+    "href": "/library/command-r:35b-08-2024-q4_1",
+    "name": "command-r:35b-08-2024-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "21GB",
+    "size_str": "128K"
+  },
+  "e746a62b5017": {
+    "href": "/library/command-r:35b-08-2024-q4_K_S",
+    "name": "command-r:35b-08-2024-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "19GB",
+    "size_str": "128K"
+  },
+  "376304b5a505": {
+    "href": "/library/command-r:35b-08-2024-q4_K_M",
+    "name": "command-r:35b-08-2024-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "20GB",
+    "size_str": "128K"
+  },
+  "730adbb80701": {
+    "href": "/library/command-r:35b-08-2024-q5_0",
+    "name": "command-r:35b-08-2024-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "22GB",
+    "size_str": "128K"
+  },
+  "a2f81b6b5529": {
+    "href": "/library/command-r:35b-08-2024-q5_1",
+    "name": "command-r:35b-08-2024-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "24GB",
+    "size_str": "128K"
+  },
+  "faa92437a927": {
+    "href": "/library/command-r:35b-08-2024-q5_K_S",
+    "name": "command-r:35b-08-2024-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "22GB",
+    "size_str": "128K"
+  },
+  "e9e25af9b046": {
+    "href": "/library/command-r:35b-08-2024-q5_K_M",
+    "name": "command-r:35b-08-2024-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "23GB",
+    "size_str": "128K"
+  },
+  "7a416e1e1126": {
+    "href": "/library/command-r:35b-08-2024-q6_K",
+    "name": "command-r:35b-08-2024-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "27GB",
+    "size_str": "128K"
+  },
+  "1b245c03674e": {
+    "href": "/library/command-r:35b-08-2024-q8_0",
+    "name": "command-r:35b-08-2024-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "34GB",
+    "size_str": "128K"
+  },
+  "f99d0f0d3644": {
+    "href": "/library/command-r:35b-08-2024-fp16",
+    "name": "command-r:35b-08-2024-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "65GB",
+    "size_str": "128K"
+  },
+  "ebf190a244cd": {
+    "href": "/library/command-r:35b-v0.1-q2_K",
+    "name": "command-r:35b-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "128K"
+  },
+  "5d0269a511b3": {
+    "href": "/library/command-r:35b-v0.1-q3_K_S",
+    "name": "command-r:35b-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "07ff6eb590d7": {
+    "href": "/library/command-r:35b-v0.1-q3_K_M",
+    "name": "command-r:35b-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "18GB",
+    "size_str": "128K"
+  },
+  "ca2d24d0cfa9": {
+    "href": "/library/command-r:35b-v0.1-q3_K_L",
+    "name": "command-r:35b-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "19GB",
+    "size_str": "128K"
+  },
+  "e8c0e9e189a9": {
+    "href": "/library/command-r:35b-v0.1-q4_1",
+    "name": "command-r:35b-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "22GB",
+    "size_str": "128K"
+  },
+  "c3c8430e134d": {
+    "href": "/library/command-r:35b-v0.1-q4_K_S",
+    "name": "command-r:35b-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "128K"
+  },
+  "ed35c5ee157d": {
+    "href": "/library/command-r:35b-v0.1-q4_K_M",
+    "name": "command-r:35b-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "22GB",
+    "size_str": "128K"
+  },
+  "ce4cf00ea57e": {
+    "href": "/library/command-r:35b-v0.1-q5_1",
+    "name": "command-r:35b-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "128K"
+  },
+  "92a26776ef29": {
+    "href": "/library/command-r:35b-v0.1-q5_K_S",
+    "name": "command-r:35b-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "128K"
+  },
+  "eb97e23b2d12": {
+    "href": "/library/command-r:35b-v0.1-q5_K_M",
+    "name": "command-r:35b-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "25GB",
+    "size_str": "128K"
+  },
+  "c46e949ec735": {
+    "href": "/library/command-r:35b-v0.1-q6_K",
+    "name": "command-r:35b-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "128K"
+  },
+  "88d10cdbc6e7": {
+    "href": "/library/command-r:35b-v0.1-q8_0",
+    "name": "command-r:35b-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "37GB",
+    "size_str": "128K"
+  },
+  "a58199201f46": {
+    "href": "/library/command-r:35b-v0.1-fp16",
+    "name": "command-r:35b-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "70GB",
+    "size_str": "128K"
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "4f76c28c0414": {
+    "href": "/library/dolphin-mixtral:latest",
+    "name": "dolphin-mixtral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "f924f2f0e484": {
+    "href": "/library/dolphin-mixtral:v2.5",
+    "name": "dolphin-mixtral:v2.5",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "ccc9d1f5d17c": {
+    "href": "/library/dolphin-mixtral:v2.6",
+    "name": "dolphin-mixtral:v2.6",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "26GB",
+    "size_str": "32K"
+  },
+  "0772a1b884bf": {
+    "href": "/library/dolphin-mixtral:8x22b",
+    "name": "dolphin-mixtral:8x22b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "448b185c2a3e": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q2_K",
+    "name": "dolphin-mixtral:8x7b-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "ea9ed37491b3": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q3_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "a04451f03648": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q3_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "e6278d65e9dc": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q3_K_L",
+    "name": "dolphin-mixtral:8x7b-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "11dee8e97379": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q4_1",
+    "name": "dolphin-mixtral:8x7b-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "6534902e1e54": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q4_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "66adba445821": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q4_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "8a9fd615b610": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q5_0",
+    "name": "dolphin-mixtral:8x7b-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "36450117b011": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q5_1",
+    "name": "dolphin-mixtral:8x7b-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "8e662aef3892": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q5_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "5389198274fa": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q5_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "7ef1f6ce2be5": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q6_K",
+    "name": "dolphin-mixtral:8x7b-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "2dbedb652781": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-q8_0",
+    "name": "dolphin-mixtral:8x7b-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "d1f36c28485e": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.5-fp16",
+    "name": "dolphin-mixtral:8x7b-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  },
+  "2f562aa89564": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q2_K",
+    "name": "dolphin-mixtral:8x7b-v2.6-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "ab8763452984": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q3_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.6-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "3a283d1a237d": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q3_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.6-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "87f7ec7f238f": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q3_K_L",
+    "name": "dolphin-mixtral:8x7b-v2.6-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "9f3b6fc34751": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q4_1",
+    "name": "dolphin-mixtral:8x7b-v2.6-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "f3dd3e93270a": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q4_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.6-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "725fbbf8d5e0": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q4_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.6-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "ab28fea4d551": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q5_0",
+    "name": "dolphin-mixtral:8x7b-v2.6-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "0d332b78ce70": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q5_1",
+    "name": "dolphin-mixtral:8x7b-v2.6-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "15ecf506c50c": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q5_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.6-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "616dad4c275d": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q5_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.6-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "a14b88f77235": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q6_K",
+    "name": "dolphin-mixtral:8x7b-v2.6-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "2812998a47df": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-q8_0",
+    "name": "dolphin-mixtral:8x7b-v2.6-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "0e865bb9631d": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.6-fp16",
+    "name": "dolphin-mixtral:8x7b-v2.6-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  },
+  "67959cb58058": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q2_K",
+    "name": "dolphin-mixtral:8x7b-v2.7-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "17GB",
+    "size_str": "32K"
+  },
+  "102b0d4f9403": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q3_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.7-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "20GB",
+    "size_str": "32K"
+  },
+  "c7bb43548a49": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q3_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.7-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "23GB",
+    "size_str": "32K"
+  },
+  "8b94203d838d": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q3_K_L",
+    "name": "dolphin-mixtral:8x7b-v2.7-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "24GB",
+    "size_str": "32K"
+  },
+  "d0c44def2b5e": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q4_1",
+    "name": "dolphin-mixtral:8x7b-v2.7-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "29GB",
+    "size_str": "32K"
+  },
+  "61d2d0129a1b": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q4_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.7-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "27GB",
+    "size_str": "32K"
+  },
+  "9edda92db764": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q4_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.7-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "28GB",
+    "size_str": "32K"
+  },
+  "c9b1ccc63176": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q5_0",
+    "name": "dolphin-mixtral:8x7b-v2.7-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "0e06aa33814f": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q5_1",
+    "name": "dolphin-mixtral:8x7b-v2.7-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "35GB",
+    "size_str": "32K"
+  },
+  "6b10b15cfd86": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q5_K_S",
+    "name": "dolphin-mixtral:8x7b-v2.7-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "32GB",
+    "size_str": "32K"
+  },
+  "48c8a1692c8d": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q5_K_M",
+    "name": "dolphin-mixtral:8x7b-v2.7-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "33GB",
+    "size_str": "32K"
+  },
+  "1673eadc5474": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q6_K",
+    "name": "dolphin-mixtral:8x7b-v2.7-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "38GB",
+    "size_str": "32K"
+  },
+  "1e3dbaccc823": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-q8_0",
+    "name": "dolphin-mixtral:8x7b-v2.7-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "50GB",
+    "size_str": "32K"
+  },
+  "4ac207dbc68b": {
+    "href": "/library/dolphin-mixtral:8x7b-v2.7-fp16",
+    "name": "dolphin-mixtral:8x7b-v2.7-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "93GB",
+    "size_str": "32K"
+  },
+  "5dd54f8ff492": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q2_K",
+    "name": "dolphin-mixtral:8x22b-v2.9-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "64K"
+  },
+  "cad2f9d2e01d": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q3_K_S",
+    "name": "dolphin-mixtral:8x22b-v2.9-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "61GB",
+    "size_str": "64K"
+  },
+  "ef2b7524d28d": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q3_K_M",
+    "name": "dolphin-mixtral:8x22b-v2.9-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "68GB",
+    "size_str": "64K"
+  },
+  "3c5371c23577": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q3_K_L",
+    "name": "dolphin-mixtral:8x22b-v2.9-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "64K"
+  },
+  "3e58e962deb8": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q4_1",
+    "name": "dolphin-mixtral:8x22b-v2.9-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "88GB",
+    "size_str": "64K"
+  },
+  "f7c583f24605": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q4_K_S",
+    "name": "dolphin-mixtral:8x22b-v2.9-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "1ba3655b0de7": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q4_K_M",
+    "name": "dolphin-mixtral:8x22b-v2.9-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "86GB",
+    "size_str": "64K"
+  },
+  "abfd3a87f905": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q5_0",
+    "name": "dolphin-mixtral:8x22b-v2.9-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "a3561f68b65d": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q5_1",
+    "name": "dolphin-mixtral:8x22b-v2.9-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "106GB",
+    "size_str": "64K"
+  },
+  "a1cd7a6d8a79": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q5_K_S",
+    "name": "dolphin-mixtral:8x22b-v2.9-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "97GB",
+    "size_str": "64K"
+  },
+  "d4e513dcc2e6": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q5_K_M",
+    "name": "dolphin-mixtral:8x22b-v2.9-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "100GB",
+    "size_str": "64K"
+  },
+  "f5aac890745a": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q6_K",
+    "name": "dolphin-mixtral:8x22b-v2.9-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "116GB",
+    "size_str": "64K"
+  },
+  "b82986a3ed4f": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-q8_0",
+    "name": "dolphin-mixtral:8x22b-v2.9-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "149GB",
+    "size_str": "64K"
+  },
+  "39195710503e": {
+    "href": "/library/dolphin-mixtral:8x22b-v2.9-fp16",
+    "name": "dolphin-mixtral:8x22b-v2.9-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "281GB",
+    "size_str": "64K"
+  }
+}

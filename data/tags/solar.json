@@ -1,0 +1,302 @@
+{
+  "059fdabbe6e6": {
+    "href": "/library/solar:latest",
+    "name": "solar:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "ab2e179699c4": {
+    "href": "/library/solar:10.7b-instruct-v1-q2_K",
+    "name": "solar:10.7b-instruct-v1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "7391d81b0fb4": {
+    "href": "/library/solar:10.7b-instruct-v1-q3_K_S",
+    "name": "solar:10.7b-instruct-v1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "f0e8a58869f4": {
+    "href": "/library/solar:10.7b-instruct-v1-q3_K_M",
+    "name": "solar:10.7b-instruct-v1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.2GB",
+    "size_str": "4K"
+  },
+  "0a355ec26cd8": {
+    "href": "/library/solar:10.7b-instruct-v1-q3_K_L",
+    "name": "solar:10.7b-instruct-v1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "7b00d6f32cd3": {
+    "href": "/library/solar:10.7b-instruct-v1-q4_1",
+    "name": "solar:10.7b-instruct-v1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.7GB",
+    "size_str": "4K"
+  },
+  "7e7394f2f53e": {
+    "href": "/library/solar:10.7b-instruct-v1-q4_K_S",
+    "name": "solar:10.7b-instruct-v1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "6aff41700b63": {
+    "href": "/library/solar:10.7b-instruct-v1-q4_K_M",
+    "name": "solar:10.7b-instruct-v1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.5GB",
+    "size_str": "4K"
+  },
+  "0809603061fa": {
+    "href": "/library/solar:10.7b-instruct-v1-q5_0",
+    "name": "solar:10.7b-instruct-v1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "063c89d4e20b": {
+    "href": "/library/solar:10.7b-instruct-v1-q5_1",
+    "name": "solar:10.7b-instruct-v1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "74dbfccc10d1": {
+    "href": "/library/solar:10.7b-instruct-v1-q5_K_S",
+    "name": "solar:10.7b-instruct-v1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "ef538f3193f7": {
+    "href": "/library/solar:10.7b-instruct-v1-q5_K_M",
+    "name": "solar:10.7b-instruct-v1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.6GB",
+    "size_str": "4K"
+  },
+  "286aebb3baa2": {
+    "href": "/library/solar:10.7b-instruct-v1-q6_K",
+    "name": "solar:10.7b-instruct-v1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.8GB",
+    "size_str": "4K"
+  },
+  "8aed723d7979": {
+    "href": "/library/solar:10.7b-instruct-v1-q8_0",
+    "name": "solar:10.7b-instruct-v1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "4077d1b80ff9": {
+    "href": "/library/solar:10.7b-instruct-v1-fp16",
+    "name": "solar:10.7b-instruct-v1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "4K"
+  },
+  "53e823480c1f": {
+    "href": "/library/solar:10.7b-text-v1-q2_K",
+    "name": "solar:10.7b-text-v1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "34bae9e1b8a3": {
+    "href": "/library/solar:10.7b-text-v1-q3_K_S",
+    "name": "solar:10.7b-text-v1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "051ac692e9e9": {
+    "href": "/library/solar:10.7b-text-v1-q3_K_M",
+    "name": "solar:10.7b-text-v1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.2GB",
+    "size_str": "4K"
+  },
+  "a66cb84fd367": {
+    "href": "/library/solar:10.7b-text-v1-q3_K_L",
+    "name": "solar:10.7b-text-v1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "ce562b04760c": {
+    "href": "/library/solar:10.7b-text-v1-q4_0",
+    "name": "solar:10.7b-text-v1-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "7b932789b739": {
+    "href": "/library/solar:10.7b-text-v1-q4_1",
+    "name": "solar:10.7b-text-v1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.7GB",
+    "size_str": "4K"
+  },
+  "9e5604e44818": {
+    "href": "/library/solar:10.7b-text-v1-q4_K_S",
+    "name": "solar:10.7b-text-v1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "4K"
+  },
+  "510e1428088b": {
+    "href": "/library/solar:10.7b-text-v1-q4_K_M",
+    "name": "solar:10.7b-text-v1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.5GB",
+    "size_str": "4K"
+  },
+  "6afc326b4f95": {
+    "href": "/library/solar:10.7b-text-v1-q5_0",
+    "name": "solar:10.7b-text-v1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "80cc2ecfe373": {
+    "href": "/library/solar:10.7b-text-v1-q5_1",
+    "name": "solar:10.7b-text-v1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "938a03a81530": {
+    "href": "/library/solar:10.7b-text-v1-q5_K_S",
+    "name": "solar:10.7b-text-v1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "b9172de1a93b": {
+    "href": "/library/solar:10.7b-text-v1-q5_K_M",
+    "name": "solar:10.7b-text-v1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.6GB",
+    "size_str": "4K"
+  },
+  "05ad66dbd29b": {
+    "href": "/library/solar:10.7b-text-v1-q6_K",
+    "name": "solar:10.7b-text-v1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.8GB",
+    "size_str": "4K"
+  },
+  "f3fec49deb76": {
+    "href": "/library/solar:10.7b-text-v1-q8_0",
+    "name": "solar:10.7b-text-v1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "45ac489b4ee5": {
+    "href": "/library/solar:10.7b-text-v1-fp16",
+    "name": "solar:10.7b-text-v1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "21GB",
+    "size_str": "4K"
+  }
+}

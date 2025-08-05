@@ -1,0 +1,32 @@
+{
+  "5da0e2d4a9e0": {
+    "href": "/library/deepseek-v3:latest",
+    "name": "deepseek-v3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "404GB",
+    "size_str": "160K"
+  },
+  "96061c74c1a5": {
+    "href": "/library/deepseek-v3:671b-q8_0",
+    "name": "deepseek-v3:671b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "713GB",
+    "size_str": "4K"
+  },
+  "7770bf5a5ed8": {
+    "href": "/library/deepseek-v3:671b-fp16",
+    "name": "deepseek-v3:671b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "1.3TB",
+    "size_str": "4K"
+  }
+}

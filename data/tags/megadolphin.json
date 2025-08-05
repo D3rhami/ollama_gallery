@@ -1,0 +1,152 @@
+{
+  "8fa55398527b": {
+    "href": "/library/megadolphin:latest",
+    "name": "megadolphin:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "68GB",
+    "size_str": "4K"
+  },
+  "e1b1887eddd5": {
+    "href": "/library/megadolphin:120b-v2.2-q2_K",
+    "name": "megadolphin:120b-v2.2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "51GB",
+    "size_str": "4K"
+  },
+  "51cfd8967e4b": {
+    "href": "/library/megadolphin:120b-v2.2-q3_K_S",
+    "name": "megadolphin:120b-v2.2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "4K"
+  },
+  "65fd60e22eea": {
+    "href": "/library/megadolphin:120b-v2.2-q3_K_M",
+    "name": "megadolphin:120b-v2.2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "58GB",
+    "size_str": "4K"
+  },
+  "a27d38e0cacc": {
+    "href": "/library/megadolphin:120b-v2.2-q3_K_L",
+    "name": "megadolphin:120b-v2.2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "63GB",
+    "size_str": "4K"
+  },
+  "9868ed4c72c3": {
+    "href": "/library/megadolphin:120b-v2.2-q4_1",
+    "name": "megadolphin:120b-v2.2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "75GB",
+    "size_str": "4K"
+  },
+  "62050e584c58": {
+    "href": "/library/megadolphin:120b-v2.2-q4_K_S",
+    "name": "megadolphin:120b-v2.2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "68GB",
+    "size_str": "4K"
+  },
+  "b92822f58f1d": {
+    "href": "/library/megadolphin:120b-v2.2-q4_K_M",
+    "name": "megadolphin:120b-v2.2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "72GB",
+    "size_str": "4K"
+  },
+  "83e48c89c1be": {
+    "href": "/library/megadolphin:120b-v2.2-q5_0",
+    "name": "megadolphin:120b-v2.2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "83GB",
+    "size_str": "4K"
+  },
+  "9b53d1dc0471": {
+    "href": "/library/megadolphin:120b-v2.2-q5_1",
+    "name": "megadolphin:120b-v2.2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "90GB",
+    "size_str": "4K"
+  },
+  "253565c3099b": {
+    "href": "/library/megadolphin:120b-v2.2-q5_K_S",
+    "name": "megadolphin:120b-v2.2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "83GB",
+    "size_str": "4K"
+  },
+  "559d2beee57b": {
+    "href": "/library/megadolphin:120b-v2.2-q5_K_M",
+    "name": "megadolphin:120b-v2.2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "85GB",
+    "size_str": "4K"
+  },
+  "dcaaf2d5d42c": {
+    "href": "/library/megadolphin:120b-v2.2-q6_K",
+    "name": "megadolphin:120b-v2.2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "99GB",
+    "size_str": "4K"
+  },
+  "8f2b4b5ff548": {
+    "href": "/library/megadolphin:120b-v2.2-q8_0",
+    "name": "megadolphin:120b-v2.2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "128GB",
+    "size_str": "4K"
+  },
+  "cf54e31cfdd8": {
+    "href": "/library/megadolphin:120b-v2.2-fp16",
+    "name": "megadolphin:120b-v2.2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "241GB",
+    "size_str": "4K"
+  }
+}

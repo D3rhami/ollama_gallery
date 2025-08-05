@@ -1,0 +1,452 @@
+{
+  "f7c8c9be1da0": {
+    "href": "/library/samantha-mistral:latest",
+    "name": "samantha-mistral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "96a147f46c78": {
+    "href": "/library/samantha-mistral:7b-instruct-q2_K",
+    "name": "samantha-mistral:7b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "62fd2b9a2876": {
+    "href": "/library/samantha-mistral:7b-instruct-q3_K_S",
+    "name": "samantha-mistral:7b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "d15ec1ea22a4": {
+    "href": "/library/samantha-mistral:7b-instruct-q3_K_M",
+    "name": "samantha-mistral:7b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "8a362799bb4c": {
+    "href": "/library/samantha-mistral:7b-instruct-q3_K_L",
+    "name": "samantha-mistral:7b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "024406c7422a": {
+    "href": "/library/samantha-mistral:7b-instruct-q4_0",
+    "name": "samantha-mistral:7b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "8794444548a4": {
+    "href": "/library/samantha-mistral:7b-instruct-q4_1",
+    "name": "samantha-mistral:7b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "7628c0eabf6e": {
+    "href": "/library/samantha-mistral:7b-instruct-q4_K_S",
+    "name": "samantha-mistral:7b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "0f6d2b5ca5e2": {
+    "href": "/library/samantha-mistral:7b-instruct-q4_K_M",
+    "name": "samantha-mistral:7b-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "68d25cf334e8": {
+    "href": "/library/samantha-mistral:7b-instruct-q5_0",
+    "name": "samantha-mistral:7b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "4f2a05b98ad7": {
+    "href": "/library/samantha-mistral:7b-instruct-q5_1",
+    "name": "samantha-mistral:7b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "d3a4b4169288": {
+    "href": "/library/samantha-mistral:7b-instruct-q5_K_S",
+    "name": "samantha-mistral:7b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "c74ed33532e3": {
+    "href": "/library/samantha-mistral:7b-instruct-q5_K_M",
+    "name": "samantha-mistral:7b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "8fdefc023b71": {
+    "href": "/library/samantha-mistral:7b-instruct-q6_K",
+    "name": "samantha-mistral:7b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "c555922ee59b": {
+    "href": "/library/samantha-mistral:7b-instruct-q8_0",
+    "name": "samantha-mistral:7b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "84081f5ce595": {
+    "href": "/library/samantha-mistral:7b-instruct-fp16",
+    "name": "samantha-mistral:7b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "b085c9c5fcec": {
+    "href": "/library/samantha-mistral:7b-text",
+    "name": "samantha-mistral:7b-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "fad0a3e1761e": {
+    "href": "/library/samantha-mistral:7b-text-q2_K",
+    "name": "samantha-mistral:7b-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "e9be9d2c1626": {
+    "href": "/library/samantha-mistral:7b-text-q3_K_S",
+    "name": "samantha-mistral:7b-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "2b119f04be81": {
+    "href": "/library/samantha-mistral:7b-text-q3_K_M",
+    "name": "samantha-mistral:7b-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "e7eda3fb21ce": {
+    "href": "/library/samantha-mistral:7b-text-q3_K_L",
+    "name": "samantha-mistral:7b-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "85970f1f192a": {
+    "href": "/library/samantha-mistral:7b-text-q4_1",
+    "name": "samantha-mistral:7b-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "7b0b68d63c1f": {
+    "href": "/library/samantha-mistral:7b-text-q4_K_S",
+    "name": "samantha-mistral:7b-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "39cf8171959a": {
+    "href": "/library/samantha-mistral:7b-text-q4_K_M",
+    "name": "samantha-mistral:7b-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "d4bfb5684edc": {
+    "href": "/library/samantha-mistral:7b-text-q5_0",
+    "name": "samantha-mistral:7b-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "80d8a3a2cda0": {
+    "href": "/library/samantha-mistral:7b-text-q5_1",
+    "name": "samantha-mistral:7b-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "5dcb0fd60a87": {
+    "href": "/library/samantha-mistral:7b-text-q5_K_S",
+    "name": "samantha-mistral:7b-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "5c857161b387": {
+    "href": "/library/samantha-mistral:7b-text-q5_K_M",
+    "name": "samantha-mistral:7b-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "a06d56b9f941": {
+    "href": "/library/samantha-mistral:7b-text-q6_K",
+    "name": "samantha-mistral:7b-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "f77f5c9b59eb": {
+    "href": "/library/samantha-mistral:7b-text-q8_0",
+    "name": "samantha-mistral:7b-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "18f0d3b9dab7": {
+    "href": "/library/samantha-mistral:7b-text-fp16",
+    "name": "samantha-mistral:7b-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "7b218927bbd2": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q2_K",
+    "name": "samantha-mistral:7b-v1.2-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "9b8db3fe08c2": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q3_K_S",
+    "name": "samantha-mistral:7b-v1.2-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "b6193d2efa40": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q3_K_M",
+    "name": "samantha-mistral:7b-v1.2-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "58fb1513b0bd": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q3_K_L",
+    "name": "samantha-mistral:7b-v1.2-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "1f5844c5902c": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q4_1",
+    "name": "samantha-mistral:7b-v1.2-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "444790e2878d": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q4_K_S",
+    "name": "samantha-mistral:7b-v1.2-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "ff1e08836eec": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q4_K_M",
+    "name": "samantha-mistral:7b-v1.2-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "3871c24e3323": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q5_0",
+    "name": "samantha-mistral:7b-v1.2-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "141eea79136d": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q5_1",
+    "name": "samantha-mistral:7b-v1.2-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "192548ac3ab0": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q5_K_S",
+    "name": "samantha-mistral:7b-v1.2-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "759bccff2e2e": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q5_K_M",
+    "name": "samantha-mistral:7b-v1.2-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "28b60c3a346d": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q6_K",
+    "name": "samantha-mistral:7b-v1.2-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "495b300e8bb1": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-q8_0",
+    "name": "samantha-mistral:7b-v1.2-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "463d6b8187c1": {
+    "href": "/library/samantha-mistral:7b-v1.2-text-fp16",
+    "name": "samantha-mistral:7b-v1.2-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  }
+}

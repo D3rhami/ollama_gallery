@@ -1,0 +1,62 @@
+{
+  "7119be59a531": {
+    "href": "/library/tulu3:latest",
+    "name": "tulu3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "fa6de45f539f": {
+    "href": "/library/tulu3:70b",
+    "name": "tulu3:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "43GB",
+    "size_str": "128K"
+  },
+  "ee4b41854819": {
+    "href": "/library/tulu3:8b-q8_0",
+    "name": "tulu3:8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "8.5GB",
+    "size_str": "128K"
+  },
+  "67f115a19953": {
+    "href": "/library/tulu3:8b-fp16",
+    "name": "tulu3:8b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "f0f50dadc000": {
+    "href": "/library/tulu3:70b-q8_0",
+    "name": "tulu3:70b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "75GB",
+    "size_str": "128K"
+  },
+  "662b84aaedbb": {
+    "href": "/library/tulu3:70b-fp16",
+    "name": "tulu3:70b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "141GB",
+    "size_str": "128K"
+  }
+}

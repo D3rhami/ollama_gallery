@@ -1,0 +1,152 @@
+{
+  "e2fd6321a5fe": {
+    "href": "/library/phi:latest",
+    "name": "phi:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.6GB",
+    "size_str": "2K"
+  },
+  "c5f597fa19b3": {
+    "href": "/library/phi:2.7b-chat-v2-q2_K",
+    "name": "phi:2.7b-chat-v2-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "2K"
+  },
+  "4ceb511ce989": {
+    "href": "/library/phi:2.7b-chat-v2-q3_K_S",
+    "name": "phi:2.7b-chat-v2-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.3GB",
+    "size_str": "2K"
+  },
+  "76bbe442aabe": {
+    "href": "/library/phi:2.7b-chat-v2-q3_K_M",
+    "name": "phi:2.7b-chat-v2-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.5GB",
+    "size_str": "2K"
+  },
+  "f260bda13b81": {
+    "href": "/library/phi:2.7b-chat-v2-q3_K_L",
+    "name": "phi:2.7b-chat-v2-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.6GB",
+    "size_str": "2K"
+  },
+  "012265cbf343": {
+    "href": "/library/phi:2.7b-chat-v2-q4_1",
+    "name": "phi:2.7b-chat-v2-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.8GB",
+    "size_str": "2K"
+  },
+  "f018d657187c": {
+    "href": "/library/phi:2.7b-chat-v2-q4_K_S",
+    "name": "phi:2.7b-chat-v2-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.6GB",
+    "size_str": "2K"
+  },
+  "79d7065d8c0f": {
+    "href": "/library/phi:2.7b-chat-v2-q4_K_M",
+    "name": "phi:2.7b-chat-v2-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.8GB",
+    "size_str": "2K"
+  },
+  "ccb07c724975": {
+    "href": "/library/phi:2.7b-chat-v2-q5_0",
+    "name": "phi:2.7b-chat-v2-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.9GB",
+    "size_str": "2K"
+  },
+  "f322ed62bd81": {
+    "href": "/library/phi:2.7b-chat-v2-q5_1",
+    "name": "phi:2.7b-chat-v2-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.1GB",
+    "size_str": "2K"
+  },
+  "4f3f9f884a09": {
+    "href": "/library/phi:2.7b-chat-v2-q5_K_S",
+    "name": "phi:2.7b-chat-v2-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.9GB",
+    "size_str": "2K"
+  },
+  "4dbc1775ae76": {
+    "href": "/library/phi:2.7b-chat-v2-q5_K_M",
+    "name": "phi:2.7b-chat-v2-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.1GB",
+    "size_str": "2K"
+  },
+  "170d96fc8084": {
+    "href": "/library/phi:2.7b-chat-v2-q6_K",
+    "name": "phi:2.7b-chat-v2-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.3GB",
+    "size_str": "2K"
+  },
+  "55ec39f0bcf9": {
+    "href": "/library/phi:2.7b-chat-v2-q8_0",
+    "name": "phi:2.7b-chat-v2-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.0GB",
+    "size_str": "2K"
+  },
+  "6b283248a801": {
+    "href": "/library/phi:2.7b-chat-v2-fp16",
+    "name": "phi:2.7b-chat-v2-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "2K"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "27bcbbf6d324": {
+    "href": "/library/magistral:latest",
+    "name": "magistral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "14GB",
+    "size_str": "39K"
+  },
+  "02423f83f1a1": {
+    "href": "/library/magistral:24b-small-2506-q8_0",
+    "name": "magistral:24b-small-2506-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "25GB",
+    "size_str": "39K"
+  },
+  "0a0e2be3b6c4": {
+    "href": "/library/magistral:24b-small-2506-fp16",
+    "name": "magistral:24b-small-2506-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "47GB",
+    "size_str": "39K"
+  }
+}

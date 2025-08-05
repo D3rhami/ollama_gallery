@@ -1,0 +1,902 @@
+{
+  "78e26419b446": {
+    "href": "/library/llama2:latest",
+    "name": "llama2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "4K"
+  },
+  "53b394a404fd": {
+    "href": "/library/llama2:text",
+    "name": "llama2:text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "4K"
+  },
+  "d475bf4c50bc": {
+    "href": "/library/llama2:13b",
+    "name": "llama2:13b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "e7f6c06ffef4": {
+    "href": "/library/llama2:70b",
+    "name": "llama2:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "4K"
+  },
+  "56baf05e3e67": {
+    "href": "/library/llama2:7b-chat-q2_K",
+    "name": "llama2:7b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "3af967e4a825": {
+    "href": "/library/llama2:7b-chat-q3_K_S",
+    "name": "llama2:7b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "4K"
+  },
+  "63ebc93e095e": {
+    "href": "/library/llama2:7b-chat-q3_K_M",
+    "name": "llama2:7b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "c04042faafd0": {
+    "href": "/library/llama2:7b-chat-q3_K_L",
+    "name": "llama2:7b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "85eb4bc10598": {
+    "href": "/library/llama2:7b-chat-q4_1",
+    "name": "llama2:7b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "4K"
+  },
+  "bec61ac554e8": {
+    "href": "/library/llama2:7b-chat-q4_K_S",
+    "name": "llama2:7b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "fe3834f64df5": {
+    "href": "/library/llama2:7b-chat-q4_K_M",
+    "name": "llama2:7b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "4K"
+  },
+  "68cf22a36a37": {
+    "href": "/library/llama2:7b-chat-q5_0",
+    "name": "llama2:7b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "ae646aad1ac9": {
+    "href": "/library/llama2:7b-chat-q5_1",
+    "name": "llama2:7b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "4f771b179264": {
+    "href": "/library/llama2:7b-chat-q5_K_S",
+    "name": "llama2:7b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "5918a2e3bb37": {
+    "href": "/library/llama2:7b-chat-q5_K_M",
+    "name": "llama2:7b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "4K"
+  },
+  "7eabddae7b75": {
+    "href": "/library/llama2:7b-chat-q6_K",
+    "name": "llama2:7b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "4K"
+  },
+  "fc35dd6c8370": {
+    "href": "/library/llama2:7b-chat-q8_0",
+    "name": "llama2:7b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "4K"
+  },
+  "50a12b7ddb9d": {
+    "href": "/library/llama2:7b-chat-fp16",
+    "name": "llama2:7b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "4K"
+  },
+  "c581571a4e90": {
+    "href": "/library/llama2:7b-text-q2_K",
+    "name": "llama2:7b-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "2f3ee65fe92a": {
+    "href": "/library/llama2:7b-text-q3_K_S",
+    "name": "llama2:7b-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "4K"
+  },
+  "c1ddf19ff6db": {
+    "href": "/library/llama2:7b-text-q3_K_M",
+    "name": "llama2:7b-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "df57d4d53dac": {
+    "href": "/library/llama2:7b-text-q3_K_L",
+    "name": "llama2:7b-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "189a0d0904e4": {
+    "href": "/library/llama2:7b-text-q4_1",
+    "name": "llama2:7b-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "4K"
+  },
+  "1c2571d89f3b": {
+    "href": "/library/llama2:7b-text-q4_K_S",
+    "name": "llama2:7b-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "b50304b988e8": {
+    "href": "/library/llama2:7b-text-q4_K_M",
+    "name": "llama2:7b-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "4K"
+  },
+  "7377932417e0": {
+    "href": "/library/llama2:7b-text-q5_0",
+    "name": "llama2:7b-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "1a5e521c1e5c": {
+    "href": "/library/llama2:7b-text-q5_1",
+    "name": "llama2:7b-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "6dd64259f527": {
+    "href": "/library/llama2:7b-text-q5_K_S",
+    "name": "llama2:7b-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "eaa320e04479": {
+    "href": "/library/llama2:7b-text-q5_K_M",
+    "name": "llama2:7b-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "4K"
+  },
+  "7e54061a4751": {
+    "href": "/library/llama2:7b-text-q6_K",
+    "name": "llama2:7b-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "4K"
+  },
+  "fd701415200a": {
+    "href": "/library/llama2:7b-text-q8_0",
+    "name": "llama2:7b-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "4K"
+  },
+  "f69718db483a": {
+    "href": "/library/llama2:7b-text-fp16",
+    "name": "llama2:7b-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "4K"
+  },
+  "14d3396d4e1b": {
+    "href": "/library/llama2:13b-chat-q2_K",
+    "name": "llama2:13b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "224005fe00d3": {
+    "href": "/library/llama2:13b-chat-q3_K_S",
+    "name": "llama2:13b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "7a39765cf206": {
+    "href": "/library/llama2:13b-chat-q3_K_M",
+    "name": "llama2:13b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "d0a4d669c0b5": {
+    "href": "/library/llama2:13b-chat-q3_K_L",
+    "name": "llama2:13b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "4K"
+  },
+  "8da45bab53a7": {
+    "href": "/library/llama2:13b-chat-q4_1",
+    "name": "llama2:13b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "4K"
+  },
+  "c9bc1759c3b8": {
+    "href": "/library/llama2:13b-chat-q4_K_S",
+    "name": "llama2:13b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "87727269f62c": {
+    "href": "/library/llama2:13b-chat-q4_K_M",
+    "name": "llama2:13b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "4K"
+  },
+  "2ceaa73b479a": {
+    "href": "/library/llama2:13b-chat-q5_0",
+    "name": "llama2:13b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "76c91147b201": {
+    "href": "/library/llama2:13b-chat-q5_1",
+    "name": "llama2:13b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "4K"
+  },
+  "25324e6a6e04": {
+    "href": "/library/llama2:13b-chat-q5_K_S",
+    "name": "llama2:13b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "34471ad29e7c": {
+    "href": "/library/llama2:13b-chat-q5_K_M",
+    "name": "llama2:13b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "4K"
+  },
+  "df2e3c78030b": {
+    "href": "/library/llama2:13b-chat-q6_K",
+    "name": "llama2:13b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "303a83449a06": {
+    "href": "/library/llama2:13b-chat-q8_0",
+    "name": "llama2:13b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "83b0fe8fee34": {
+    "href": "/library/llama2:13b-chat-fp16",
+    "name": "llama2:13b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "4K"
+  },
+  "d9ecf5544188": {
+    "href": "/library/llama2:13b-text",
+    "name": "llama2:13b-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "64ace2ba0375": {
+    "href": "/library/llama2:13b-text-q2_K",
+    "name": "llama2:13b-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "959925e1415d": {
+    "href": "/library/llama2:13b-text-q3_K_S",
+    "name": "llama2:13b-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "ff280395c1b4": {
+    "href": "/library/llama2:13b-text-q3_K_M",
+    "name": "llama2:13b-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "cc161efc495b": {
+    "href": "/library/llama2:13b-text-q3_K_L",
+    "name": "llama2:13b-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "4K"
+  },
+  "ff9b7e23cab5": {
+    "href": "/library/llama2:13b-text-q4_1",
+    "name": "llama2:13b-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "4K"
+  },
+  "2fadc16207a6": {
+    "href": "/library/llama2:13b-text-q4_K_S",
+    "name": "llama2:13b-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "74b8a493a98e": {
+    "href": "/library/llama2:13b-text-q4_K_M",
+    "name": "llama2:13b-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "4K"
+  },
+  "8f3886efc72d": {
+    "href": "/library/llama2:13b-text-q5_0",
+    "name": "llama2:13b-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "2afbee63a3f1": {
+    "href": "/library/llama2:13b-text-q5_1",
+    "name": "llama2:13b-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "4K"
+  },
+  "1025495b5ee3": {
+    "href": "/library/llama2:13b-text-q5_K_S",
+    "name": "llama2:13b-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "4be0a0bc5acb": {
+    "href": "/library/llama2:13b-text-q5_K_M",
+    "name": "llama2:13b-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "4K"
+  },
+  "376544bcd2db": {
+    "href": "/library/llama2:13b-text-q6_K",
+    "name": "llama2:13b-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "604d6e23f647": {
+    "href": "/library/llama2:13b-text-q8_0",
+    "name": "llama2:13b-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "d19bbe682374": {
+    "href": "/library/llama2:13b-text-fp16",
+    "name": "llama2:13b-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "4K"
+  },
+  "3cac2828f2b8": {
+    "href": "/library/llama2:70b-chat-q2_K",
+    "name": "llama2:70b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "4K"
+  },
+  "051b27c23c3f": {
+    "href": "/library/llama2:70b-chat-q3_K_S",
+    "name": "llama2:70b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "30GB",
+    "size_str": "4K"
+  },
+  "f11f61dc9832": {
+    "href": "/library/llama2:70b-chat-q3_K_M",
+    "name": "llama2:70b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "33GB",
+    "size_str": "4K"
+  },
+  "e2275953b0b3": {
+    "href": "/library/llama2:70b-chat-q3_K_L",
+    "name": "llama2:70b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "4K"
+  },
+  "8618469361ea": {
+    "href": "/library/llama2:70b-chat-q4_1",
+    "name": "llama2:70b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "4K"
+  },
+  "e202e9dd13cc": {
+    "href": "/library/llama2:70b-chat-q4_K_S",
+    "name": "llama2:70b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "4K"
+  },
+  "8f88029f07f8": {
+    "href": "/library/llama2:70b-chat-q4_K_M",
+    "name": "llama2:70b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "41GB",
+    "size_str": "4K"
+  },
+  "6cb5828911b8": {
+    "href": "/library/llama2:70b-chat-q5_0",
+    "name": "llama2:70b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "4K"
+  },
+  "9d1fbb3c4074": {
+    "href": "/library/llama2:70b-chat-q5_1",
+    "name": "llama2:70b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "4K"
+  },
+  "eb071689d8e5": {
+    "href": "/library/llama2:70b-chat-q5_K_S",
+    "name": "llama2:70b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "4K"
+  },
+  "2e12d2211dd5": {
+    "href": "/library/llama2:70b-chat-q5_K_M",
+    "name": "llama2:70b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "4K"
+  },
+  "b8bbc9a59804": {
+    "href": "/library/llama2:70b-chat-q6_K",
+    "name": "llama2:70b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "57GB",
+    "size_str": "4K"
+  },
+  "d91d0643f080": {
+    "href": "/library/llama2:70b-chat-q8_0",
+    "name": "llama2:70b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "4K"
+  },
+  "18d69cd1de10": {
+    "href": "/library/llama2:70b-chat-fp16",
+    "name": "llama2:70b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "138GB",
+    "size_str": "4K"
+  },
+  "b9b52e6b61c5": {
+    "href": "/library/llama2:70b-text",
+    "name": "llama2:70b-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "4K"
+  },
+  "b45d7449cc92": {
+    "href": "/library/llama2:70b-text-q2_K",
+    "name": "llama2:70b-text-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "4K"
+  },
+  "2227129bfc8a": {
+    "href": "/library/llama2:70b-text-q3_K_S",
+    "name": "llama2:70b-text-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "30GB",
+    "size_str": "4K"
+  },
+  "fbd62f5dcf16": {
+    "href": "/library/llama2:70b-text-q3_K_M",
+    "name": "llama2:70b-text-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "33GB",
+    "size_str": "4K"
+  },
+  "b5bdb4982992": {
+    "href": "/library/llama2:70b-text-q3_K_L",
+    "name": "llama2:70b-text-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "4K"
+  },
+  "92c3da1574b4": {
+    "href": "/library/llama2:70b-text-q4_1",
+    "name": "llama2:70b-text-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "4K"
+  },
+  "1197a01c76e7": {
+    "href": "/library/llama2:70b-text-q4_K_S",
+    "name": "llama2:70b-text-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "4K"
+  },
+  "bc70b8e5b4e5": {
+    "href": "/library/llama2:70b-text-q4_K_M",
+    "name": "llama2:70b-text-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "41GB",
+    "size_str": "4K"
+  },
+  "4ec9f6c43f82": {
+    "href": "/library/llama2:70b-text-q5_0",
+    "name": "llama2:70b-text-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "4K"
+  },
+  "9cafaca2d2fe": {
+    "href": "/library/llama2:70b-text-q5_1",
+    "name": "llama2:70b-text-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "4K"
+  },
+  "eab38b764b5b": {
+    "href": "/library/llama2:70b-text-q5_K_S",
+    "name": "llama2:70b-text-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "4K"
+  },
+  "b365053e53fc": {
+    "href": "/library/llama2:70b-text-q5_K_M",
+    "name": "llama2:70b-text-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "4K"
+  },
+  "78e480a0450b": {
+    "href": "/library/llama2:70b-text-q6_K",
+    "name": "llama2:70b-text-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "57GB",
+    "size_str": "4K"
+  },
+  "2aa27df56a63": {
+    "href": "/library/llama2:70b-text-q8_0",
+    "name": "llama2:70b-text-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "4K"
+  },
+  "dc03bc3a16cf": {
+    "href": "/library/llama2:70b-text-fp16",
+    "name": "llama2:70b-text-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "138GB",
+    "size_str": "4K"
+  }
+}

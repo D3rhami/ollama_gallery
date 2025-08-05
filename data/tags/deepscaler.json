@@ -1,0 +1,32 @@
+{
+  "0031bcf7459f": {
+    "href": "/library/deepscaler:latest",
+    "name": "deepscaler:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "3.6GB",
+    "size_str": "128K"
+  },
+  "305c4a53269d": {
+    "href": "/library/deepscaler:1.5b-preview-q4_K_M",
+    "name": "deepscaler:1.5b-preview-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "1.1GB",
+    "size_str": "128K"
+  },
+  "37b8148c7f55": {
+    "href": "/library/deepscaler:1.5b-preview-q8_0",
+    "name": "deepscaler:1.5b-preview-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "1.9GB",
+    "size_str": "128K"
+  }
+}

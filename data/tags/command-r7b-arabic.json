@@ -1,0 +1,32 @@
+{
+  "4bbe3353e56a": {
+    "href": "/library/command-r7b-arabic:latest",
+    "name": "command-r7b-arabic:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "74737d27f74e": {
+    "href": "/library/command-r7b-arabic:7b-02-2025-q8_0",
+    "name": "command-r7b-arabic:7b-02-2025-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "8.5GB",
+    "size_str": "16K"
+  },
+  "23f512f126d9": {
+    "href": "/library/command-r7b-arabic:7b-02-2025-fp16",
+    "name": "command-r7b-arabic:7b-02-2025-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "16GB",
+    "size_str": "16K"
+  }
+}

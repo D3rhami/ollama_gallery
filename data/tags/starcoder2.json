@@ -1,0 +1,612 @@
+{
+  "9f4ae0aff61e": {
+    "href": "/library/starcoder2:latest",
+    "name": "starcoder2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.7GB",
+    "size_str": "16K"
+  },
+  "432973cfbc4c": {
+    "href": "/library/starcoder2:instruct",
+    "name": "starcoder2:instruct",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "16K"
+  },
+  "1550ab21b10d": {
+    "href": "/library/starcoder2:7b",
+    "name": "starcoder2:7b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.0GB",
+    "size_str": "16K"
+  },
+  "21ae152d49e0": {
+    "href": "/library/starcoder2:15b",
+    "name": "starcoder2:15b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.1GB",
+    "size_str": "16K"
+  },
+  "1900fee8d3bb": {
+    "href": "/library/starcoder2:3b-q2_K",
+    "name": "starcoder2:3b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "16K"
+  },
+  "8a53797dc302": {
+    "href": "/library/starcoder2:3b-q3_K_S",
+    "name": "starcoder2:3b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.3GB",
+    "size_str": "16K"
+  },
+  "379661ce2af0": {
+    "href": "/library/starcoder2:3b-q3_K_M",
+    "name": "starcoder2:3b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.5GB",
+    "size_str": "16K"
+  },
+  "babdc98cb857": {
+    "href": "/library/starcoder2:3b-q3_K_L",
+    "name": "starcoder2:3b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.7GB",
+    "size_str": "16K"
+  },
+  "85914e75a280": {
+    "href": "/library/starcoder2:3b-q4_1",
+    "name": "starcoder2:3b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.9GB",
+    "size_str": "16K"
+  },
+  "428a0952a464": {
+    "href": "/library/starcoder2:3b-q4_K_S",
+    "name": "starcoder2:3b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.7GB",
+    "size_str": "16K"
+  },
+  "80f4c07afd24": {
+    "href": "/library/starcoder2:3b-q4_K_M",
+    "name": "starcoder2:3b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.8GB",
+    "size_str": "16K"
+  },
+  "c0ef01710c53": {
+    "href": "/library/starcoder2:3b-q5_0",
+    "name": "starcoder2:3b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.1GB",
+    "size_str": "16K"
+  },
+  "ca2b86530fda": {
+    "href": "/library/starcoder2:3b-q5_1",
+    "name": "starcoder2:3b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.3GB",
+    "size_str": "16K"
+  },
+  "285e6c835a6b": {
+    "href": "/library/starcoder2:3b-q5_K_S",
+    "name": "starcoder2:3b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.1GB",
+    "size_str": "16K"
+  },
+  "716699033e66": {
+    "href": "/library/starcoder2:3b-q5_K_M",
+    "name": "starcoder2:3b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.2GB",
+    "size_str": "16K"
+  },
+  "4d0d8586d8a6": {
+    "href": "/library/starcoder2:3b-q6_K",
+    "name": "starcoder2:3b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.5GB",
+    "size_str": "16K"
+  },
+  "003abcecad23": {
+    "href": "/library/starcoder2:3b-q8_0",
+    "name": "starcoder2:3b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.2GB",
+    "size_str": "16K"
+  },
+  "cb88461498e2": {
+    "href": "/library/starcoder2:3b-fp16",
+    "name": "starcoder2:3b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.1GB",
+    "size_str": "16K"
+  },
+  "bfb544f5b9db": {
+    "href": "/library/starcoder2:7b-q2_K",
+    "name": "starcoder2:7b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.7GB",
+    "size_str": "16K"
+  },
+  "8aaa68a8ab5e": {
+    "href": "/library/starcoder2:7b-q3_K_S",
+    "name": "starcoder2:7b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.1GB",
+    "size_str": "16K"
+  },
+  "663450d06f0d": {
+    "href": "/library/starcoder2:7b-q3_K_M",
+    "name": "starcoder2:7b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.6GB",
+    "size_str": "16K"
+  },
+  "e3e28011754e": {
+    "href": "/library/starcoder2:7b-q3_K_L",
+    "name": "starcoder2:7b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.0GB",
+    "size_str": "16K"
+  },
+  "1747ad646a6a": {
+    "href": "/library/starcoder2:7b-q4_1",
+    "name": "starcoder2:7b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.5GB",
+    "size_str": "16K"
+  },
+  "0c4f8acf0ae2": {
+    "href": "/library/starcoder2:7b-q4_K_S",
+    "name": "starcoder2:7b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.1GB",
+    "size_str": "16K"
+  },
+  "3c8e476efe98": {
+    "href": "/library/starcoder2:7b-q4_K_M",
+    "name": "starcoder2:7b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.4GB",
+    "size_str": "16K"
+  },
+  "3990ce180fdd": {
+    "href": "/library/starcoder2:7b-q5_0",
+    "name": "starcoder2:7b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.9GB",
+    "size_str": "16K"
+  },
+  "f2936f039525": {
+    "href": "/library/starcoder2:7b-q5_1",
+    "name": "starcoder2:7b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.4GB",
+    "size_str": "16K"
+  },
+  "c81c75ed4e4e": {
+    "href": "/library/starcoder2:7b-q5_K_S",
+    "name": "starcoder2:7b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.9GB",
+    "size_str": "16K"
+  },
+  "de006f564c13": {
+    "href": "/library/starcoder2:7b-q5_K_M",
+    "name": "starcoder2:7b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "5d99bdda7ea4": {
+    "href": "/library/starcoder2:7b-q6_K",
+    "name": "starcoder2:7b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.9GB",
+    "size_str": "16K"
+  },
+  "d76878e96d8a": {
+    "href": "/library/starcoder2:7b-q8_0",
+    "name": "starcoder2:7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.6GB",
+    "size_str": "16K"
+  },
+  "f0643097e171": {
+    "href": "/library/starcoder2:7b-fp16",
+    "name": "starcoder2:7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "16K"
+  },
+  "1f0967a81021": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q2_K",
+    "name": "starcoder2:15b-instruct-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.2GB",
+    "size_str": "16K"
+  },
+  "494c11407ef5": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q3_K_S",
+    "name": "starcoder2:15b-instruct-v0.1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.0GB",
+    "size_str": "16K"
+  },
+  "7be2b1ded63d": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q3_K_M",
+    "name": "starcoder2:15b-instruct-v0.1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.0GB",
+    "size_str": "16K"
+  },
+  "0023fd977833": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q3_K_L",
+    "name": "starcoder2:15b-instruct-v0.1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "16K"
+  },
+  "a2349551dfd4": {
+    "href": "/library/starcoder2:15b-instruct-q4_0",
+    "name": "starcoder2:15b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.1GB",
+    "size_str": "16K"
+  },
+  "d7b4b40c5e4c": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q4_1",
+    "name": "starcoder2:15b-instruct-v0.1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10GB",
+    "size_str": "16K"
+  },
+  "8b55bc62323d": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q4_K_S",
+    "name": "starcoder2:15b-instruct-v0.1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "16K"
+  },
+  "19fb579d5344": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q4_K_M",
+    "name": "starcoder2:15b-instruct-v0.1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.9GB",
+    "size_str": "16K"
+  },
+  "97687b40425f": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q5_0",
+    "name": "starcoder2:15b-instruct-v0.1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "b3e4a53d2072": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q5_1",
+    "name": "starcoder2:15b-instruct-v0.1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "16K"
+  },
+  "50bffebc60cd": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q5_K_S",
+    "name": "starcoder2:15b-instruct-v0.1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "24ff1c704455": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q5_K_M",
+    "name": "starcoder2:15b-instruct-v0.1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "a5f13db6c5e5": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q6_K",
+    "name": "starcoder2:15b-instruct-v0.1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "16K"
+  },
+  "a11b58c111d9": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-q8_0",
+    "name": "starcoder2:15b-instruct-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "16K"
+  },
+  "8a5b32b4696c": {
+    "href": "/library/starcoder2:15b-instruct-v0.1-fp16",
+    "name": "starcoder2:15b-instruct-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "32GB",
+    "size_str": "16K"
+  },
+  "09c69ac6d381": {
+    "href": "/library/starcoder2:15b-q2_K",
+    "name": "starcoder2:15b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.2GB",
+    "size_str": "16K"
+  },
+  "2b8e40ca4e3c": {
+    "href": "/library/starcoder2:15b-q3_K_S",
+    "name": "starcoder2:15b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.0GB",
+    "size_str": "16K"
+  },
+  "6bb24c6a0909": {
+    "href": "/library/starcoder2:15b-q3_K_M",
+    "name": "starcoder2:15b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.1GB",
+    "size_str": "16K"
+  },
+  "7095ac645958": {
+    "href": "/library/starcoder2:15b-q3_K_L",
+    "name": "starcoder2:15b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.0GB",
+    "size_str": "16K"
+  },
+  "e962dc6dab16": {
+    "href": "/library/starcoder2:15b-q4_1",
+    "name": "starcoder2:15b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "10GB",
+    "size_str": "16K"
+  },
+  "16306a9d809f": {
+    "href": "/library/starcoder2:15b-q4_K_S",
+    "name": "starcoder2:15b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.3GB",
+    "size_str": "16K"
+  },
+  "c2a2fb5a804b": {
+    "href": "/library/starcoder2:15b-q4_K_M",
+    "name": "starcoder2:15b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.9GB",
+    "size_str": "16K"
+  },
+  "0b62c0bbb602": {
+    "href": "/library/starcoder2:15b-q5_0",
+    "name": "starcoder2:15b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "3ea2ac47dcf6": {
+    "href": "/library/starcoder2:15b-q5_1",
+    "name": "starcoder2:15b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "16K"
+  },
+  "656825622bc3": {
+    "href": "/library/starcoder2:15b-q5_K_S",
+    "name": "starcoder2:15b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "aedac0a1adc9": {
+    "href": "/library/starcoder2:15b-q5_K_M",
+    "name": "starcoder2:15b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "cad9bff49536": {
+    "href": "/library/starcoder2:15b-q6_K",
+    "name": "starcoder2:15b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "13GB",
+    "size_str": "16K"
+  },
+  "95f55571067f": {
+    "href": "/library/starcoder2:15b-q8_0",
+    "name": "starcoder2:15b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "17GB",
+    "size_str": "16K"
+  },
+  "d0355c6e6d3a": {
+    "href": "/library/starcoder2:15b-fp16",
+    "name": "starcoder2:15b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "32GB",
+    "size_str": "16K"
+  }
+}

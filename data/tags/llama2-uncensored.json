@@ -1,0 +1,292 @@
+{
+  "44040b922233": {
+    "href": "/library/llama2-uncensored:latest",
+    "name": "llama2-uncensored:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "2K"
+  },
+  "bdd0ec2f5ec5": {
+    "href": "/library/llama2-uncensored:70b",
+    "name": "llama2-uncensored:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "2K"
+  },
+  "74ae83e72254": {
+    "href": "/library/llama2-uncensored:7b-chat-q2_K",
+    "name": "llama2-uncensored:7b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "2K"
+  },
+  "3f56c4266b91": {
+    "href": "/library/llama2-uncensored:7b-chat-q3_K_S",
+    "name": "llama2-uncensored:7b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "2K"
+  },
+  "e74d204469c8": {
+    "href": "/library/llama2-uncensored:7b-chat-q3_K_M",
+    "name": "llama2-uncensored:7b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "2K"
+  },
+  "4c971d36df3a": {
+    "href": "/library/llama2-uncensored:7b-chat-q3_K_L",
+    "name": "llama2-uncensored:7b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "2K"
+  },
+  "0126058e3693": {
+    "href": "/library/llama2-uncensored:7b-chat-q4_1",
+    "name": "llama2-uncensored:7b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "2K"
+  },
+  "7c0b8e49e54b": {
+    "href": "/library/llama2-uncensored:7b-chat-q4_K_S",
+    "name": "llama2-uncensored:7b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "2K"
+  },
+  "a91c5baf8d31": {
+    "href": "/library/llama2-uncensored:7b-chat-q4_K_M",
+    "name": "llama2-uncensored:7b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "2K"
+  },
+  "48c918f41b91": {
+    "href": "/library/llama2-uncensored:7b-chat-q5_0",
+    "name": "llama2-uncensored:7b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "4ba18e066719": {
+    "href": "/library/llama2-uncensored:7b-chat-q5_1",
+    "name": "llama2-uncensored:7b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "2K"
+  },
+  "f2f04ee3b17e": {
+    "href": "/library/llama2-uncensored:7b-chat-q5_K_S",
+    "name": "llama2-uncensored:7b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "db0d5a17b770": {
+    "href": "/library/llama2-uncensored:7b-chat-q5_K_M",
+    "name": "llama2-uncensored:7b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "2K"
+  },
+  "f3040de79519": {
+    "href": "/library/llama2-uncensored:7b-chat-q6_K",
+    "name": "llama2-uncensored:7b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "2K"
+  },
+  "a3a460233379": {
+    "href": "/library/llama2-uncensored:7b-chat-q8_0",
+    "name": "llama2-uncensored:7b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "2K"
+  },
+  "b29ffe78e250": {
+    "href": "/library/llama2-uncensored:7b-chat-fp16",
+    "name": "llama2-uncensored:7b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "2K"
+  },
+  "07eb9c33537f": {
+    "href": "/library/llama2-uncensored:70b-chat-q2_K",
+    "name": "llama2-uncensored:70b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "29GB",
+    "size_str": "2K"
+  },
+  "493a8291671f": {
+    "href": "/library/llama2-uncensored:70b-chat-q3_K_S",
+    "name": "llama2-uncensored:70b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "30GB",
+    "size_str": "2K"
+  },
+  "dc1b2e6eadcb": {
+    "href": "/library/llama2-uncensored:70b-chat-q3_K_M",
+    "name": "llama2-uncensored:70b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "33GB",
+    "size_str": "2K"
+  },
+  "36c29a76fcc6": {
+    "href": "/library/llama2-uncensored:70b-chat-q3_K_L",
+    "name": "llama2-uncensored:70b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "36GB",
+    "size_str": "2K"
+  },
+  "26fa2e1dcc70": {
+    "href": "/library/llama2-uncensored:70b-chat-q4_1",
+    "name": "llama2-uncensored:70b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "2K"
+  },
+  "ccd1d1a41ec7": {
+    "href": "/library/llama2-uncensored:70b-chat-q4_K_S",
+    "name": "llama2-uncensored:70b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "39GB",
+    "size_str": "2K"
+  },
+  "97d4d2728756": {
+    "href": "/library/llama2-uncensored:70b-chat-q4_K_M",
+    "name": "llama2-uncensored:70b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "41GB",
+    "size_str": "2K"
+  },
+  "16ddcf15080c": {
+    "href": "/library/llama2-uncensored:70b-chat-q5_0",
+    "name": "llama2-uncensored:70b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "2K"
+  },
+  "1eda65206a66": {
+    "href": "/library/llama2-uncensored:70b-chat-q5_1",
+    "name": "llama2-uncensored:70b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "2K"
+  },
+  "90ac8e79f29b": {
+    "href": "/library/llama2-uncensored:70b-chat-q5_K_S",
+    "name": "llama2-uncensored:70b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "47GB",
+    "size_str": "2K"
+  },
+  "cb930df97107": {
+    "href": "/library/llama2-uncensored:70b-chat-q5_K_M",
+    "name": "llama2-uncensored:70b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "2K"
+  },
+  "38f49b2673e7": {
+    "href": "/library/llama2-uncensored:70b-chat-q6_K",
+    "name": "llama2-uncensored:70b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "57GB",
+    "size_str": "2K"
+  },
+  "256b13d53838": {
+    "href": "/library/llama2-uncensored:70b-chat-q8_0",
+    "name": "llama2-uncensored:70b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "73GB",
+    "size_str": "2K"
+  }
+}

@@ -1,0 +1,1052 @@
+{
+  "370739dc897b": {
+    "href": "/library/vicuna:latest",
+    "name": "vicuna:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "4K"
+  },
+  "e311d03837d9": {
+    "href": "/library/vicuna:13b",
+    "name": "vicuna:13b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "86f0704901a4": {
+    "href": "/library/vicuna:33b",
+    "name": "vicuna:33b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "18GB",
+    "size_str": "2K"
+  },
+  "e17473565403": {
+    "href": "/library/vicuna:7b-16k",
+    "name": "vicuna:7b-16k",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "16K"
+  },
+  "409c84f8f2cb": {
+    "href": "/library/vicuna:7b-v1.5-16k-q2_K",
+    "name": "vicuna:7b-v1.5-16k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "16K"
+  },
+  "ce1d7d2d4c36": {
+    "href": "/library/vicuna:7b-v1.5-q2_K",
+    "name": "vicuna:7b-v1.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "e82ccebcca5c": {
+    "href": "/library/vicuna:7b-v1.5-16k-q3_K_S",
+    "name": "vicuna:7b-v1.5-16k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "16K"
+  },
+  "d4a35f8b2ff8": {
+    "href": "/library/vicuna:7b-v1.5-q3_K_S",
+    "name": "vicuna:7b-v1.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "4K"
+  },
+  "9cd3422a7f75": {
+    "href": "/library/vicuna:7b-v1.5-16k-q3_K_M",
+    "name": "vicuna:7b-v1.5-16k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "16K"
+  },
+  "b617de3e65a1": {
+    "href": "/library/vicuna:7b-v1.5-q3_K_M",
+    "name": "vicuna:7b-v1.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "4K"
+  },
+  "6e9eee2fdf07": {
+    "href": "/library/vicuna:7b-v1.5-16k-q3_K_L",
+    "name": "vicuna:7b-v1.5-16k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "16K"
+  },
+  "5958c72021fe": {
+    "href": "/library/vicuna:7b-v1.5-q3_K_L",
+    "name": "vicuna:7b-v1.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "4K"
+  },
+  "8af11c99918c": {
+    "href": "/library/vicuna:7b-v1.5-16k-q4_1",
+    "name": "vicuna:7b-v1.5-16k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "16K"
+  },
+  "49882f87f7a7": {
+    "href": "/library/vicuna:7b-v1.5-q4_1",
+    "name": "vicuna:7b-v1.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "4K"
+  },
+  "cc8bb49d8400": {
+    "href": "/library/vicuna:7b-v1.5-16k-q4_K_S",
+    "name": "vicuna:7b-v1.5-16k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "16K"
+  },
+  "9dbfd37d1be3": {
+    "href": "/library/vicuna:7b-v1.5-q4_K_S",
+    "name": "vicuna:7b-v1.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "4K"
+  },
+  "493df7220cb7": {
+    "href": "/library/vicuna:7b-v1.5-16k-q4_K_M",
+    "name": "vicuna:7b-v1.5-16k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "16K"
+  },
+  "33b5fd751101": {
+    "href": "/library/vicuna:7b-v1.5-q4_K_M",
+    "name": "vicuna:7b-v1.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "4K"
+  },
+  "5c89be046446": {
+    "href": "/library/vicuna:7b-v1.5-16k-q5_0",
+    "name": "vicuna:7b-v1.5-16k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "16K"
+  },
+  "48de3e58864e": {
+    "href": "/library/vicuna:7b-v1.5-q5_0",
+    "name": "vicuna:7b-v1.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "8988900a59a5": {
+    "href": "/library/vicuna:7b-v1.5-16k-q5_1",
+    "name": "vicuna:7b-v1.5-16k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "16K"
+  },
+  "fa2d15c41d43": {
+    "href": "/library/vicuna:7b-v1.5-q5_1",
+    "name": "vicuna:7b-v1.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "4K"
+  },
+  "52cf0588ba15": {
+    "href": "/library/vicuna:7b-v1.5-16k-q5_K_S",
+    "name": "vicuna:7b-v1.5-16k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "16K"
+  },
+  "6167e172bf05": {
+    "href": "/library/vicuna:7b-v1.5-q5_K_S",
+    "name": "vicuna:7b-v1.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "4K"
+  },
+  "20d16dc9be3e": {
+    "href": "/library/vicuna:7b-v1.5-16k-q5_K_M",
+    "name": "vicuna:7b-v1.5-16k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "16K"
+  },
+  "f734686befb8": {
+    "href": "/library/vicuna:7b-v1.5-q5_K_M",
+    "name": "vicuna:7b-v1.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "4K"
+  },
+  "62fe512efb47": {
+    "href": "/library/vicuna:7b-v1.5-16k-q6_K",
+    "name": "vicuna:7b-v1.5-16k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "16K"
+  },
+  "cfceb01fd96f": {
+    "href": "/library/vicuna:7b-v1.5-q6_K",
+    "name": "vicuna:7b-v1.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "4K"
+  },
+  "32abbaf4d985": {
+    "href": "/library/vicuna:7b-v1.5-16k-q8_0",
+    "name": "vicuna:7b-v1.5-16k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "16K"
+  },
+  "df07a6d74df1": {
+    "href": "/library/vicuna:7b-v1.5-q8_0",
+    "name": "vicuna:7b-v1.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "4K"
+  },
+  "7a1b09b09a43": {
+    "href": "/library/vicuna:7b-v1.5-16k-fp16",
+    "name": "vicuna:7b-v1.5-16k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "16K"
+  },
+  "1e2de112296e": {
+    "href": "/library/vicuna:7b-v1.5-fp16",
+    "name": "vicuna:7b-v1.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "4K"
+  },
+  "7b111124e218": {
+    "href": "/library/vicuna:7b-q2_K",
+    "name": "vicuna:7b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.8GB",
+    "size_str": "2K"
+  },
+  "2b471de7ac09": {
+    "href": "/library/vicuna:7b-q3_K_S",
+    "name": "vicuna:7b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.9GB",
+    "size_str": "2K"
+  },
+  "a510caa0fb6b": {
+    "href": "/library/vicuna:7b-q3_K_M",
+    "name": "vicuna:7b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.3GB",
+    "size_str": "2K"
+  },
+  "1ac57ff324d2": {
+    "href": "/library/vicuna:7b-q3_K_L",
+    "name": "vicuna:7b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.6GB",
+    "size_str": "2K"
+  },
+  "722cb0fe032d": {
+    "href": "/library/vicuna:7b-q4_0",
+    "name": "vicuna:7b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "2K"
+  },
+  "daba6226e41c": {
+    "href": "/library/vicuna:7b-q4_1",
+    "name": "vicuna:7b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.2GB",
+    "size_str": "2K"
+  },
+  "7b22215a6f5a": {
+    "href": "/library/vicuna:7b-q4_K_S",
+    "name": "vicuna:7b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.9GB",
+    "size_str": "2K"
+  },
+  "e702c3f6d1da": {
+    "href": "/library/vicuna:7b-q4_K_M",
+    "name": "vicuna:7b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "2K"
+  },
+  "b4be80922f5c": {
+    "href": "/library/vicuna:7b-q5_0",
+    "name": "vicuna:7b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "3958ed7d2994": {
+    "href": "/library/vicuna:7b-q5_1",
+    "name": "vicuna:7b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "2K"
+  },
+  "aa085ae496ef": {
+    "href": "/library/vicuna:7b-q5_K_S",
+    "name": "vicuna:7b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "2K"
+  },
+  "2cc1a91b3ee5": {
+    "href": "/library/vicuna:7b-q5_K_M",
+    "name": "vicuna:7b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.8GB",
+    "size_str": "2K"
+  },
+  "5bbfe6ccf426": {
+    "href": "/library/vicuna:7b-q6_K",
+    "name": "vicuna:7b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "2K"
+  },
+  "abbdf2e7dab4": {
+    "href": "/library/vicuna:7b-q8_0",
+    "name": "vicuna:7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.2GB",
+    "size_str": "2K"
+  },
+  "2b09615317cc": {
+    "href": "/library/vicuna:7b-fp16",
+    "name": "vicuna:7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "13GB",
+    "size_str": "2K"
+  },
+  "4ea0e2b82bc2": {
+    "href": "/library/vicuna:13b-16k",
+    "name": "vicuna:13b-16k",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "16K"
+  },
+  "c4bc2aac929f": {
+    "href": "/library/vicuna:13b-v1.5-16k-q2_K",
+    "name": "vicuna:13b-v1.5-16k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "16K"
+  },
+  "da124fb49a03": {
+    "href": "/library/vicuna:13b-v1.5-q2_K",
+    "name": "vicuna:13b-v1.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "4K"
+  },
+  "460254d8fc30": {
+    "href": "/library/vicuna:13b-v1.5-16k-q3_K_S",
+    "name": "vicuna:13b-v1.5-16k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "16K"
+  },
+  "db9d5d8832a5": {
+    "href": "/library/vicuna:13b-v1.5-q3_K_S",
+    "name": "vicuna:13b-v1.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "4K"
+  },
+  "f713797047ce": {
+    "href": "/library/vicuna:13b-v1.5-16k-q3_K_M",
+    "name": "vicuna:13b-v1.5-16k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "16K"
+  },
+  "112a0a219973": {
+    "href": "/library/vicuna:13b-v1.5-q3_K_M",
+    "name": "vicuna:13b-v1.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "4K"
+  },
+  "2354833bf609": {
+    "href": "/library/vicuna:13b-v1.5-16k-q3_K_L",
+    "name": "vicuna:13b-v1.5-16k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "16K"
+  },
+  "3a1c75a39e39": {
+    "href": "/library/vicuna:13b-v1.5-q3_K_L",
+    "name": "vicuna:13b-v1.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "4K"
+  },
+  "beaca53a59b9": {
+    "href": "/library/vicuna:13b-v1.5-16k-q4_1",
+    "name": "vicuna:13b-v1.5-16k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "16K"
+  },
+  "ca8047f969be": {
+    "href": "/library/vicuna:13b-v1.5-q4_1",
+    "name": "vicuna:13b-v1.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "4K"
+  },
+  "6c1dcf76ddbd": {
+    "href": "/library/vicuna:13b-v1.5-16k-q4_K_S",
+    "name": "vicuna:13b-v1.5-16k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "16K"
+  },
+  "c78c1ae11f55": {
+    "href": "/library/vicuna:13b-v1.5-q4_K_S",
+    "name": "vicuna:13b-v1.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "4K"
+  },
+  "99611d39169d": {
+    "href": "/library/vicuna:13b-v1.5-16k-q4_K_M",
+    "name": "vicuna:13b-v1.5-16k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "16K"
+  },
+  "d81bdd5ae575": {
+    "href": "/library/vicuna:13b-v1.5-q4_K_M",
+    "name": "vicuna:13b-v1.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "4K"
+  },
+  "8994818e295d": {
+    "href": "/library/vicuna:13b-v1.5-16k-q5_0",
+    "name": "vicuna:13b-v1.5-16k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "16K"
+  },
+  "33be3d9112bd": {
+    "href": "/library/vicuna:13b-v1.5-q5_0",
+    "name": "vicuna:13b-v1.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "b1e60bd134ff": {
+    "href": "/library/vicuna:13b-v1.5-16k-q5_1",
+    "name": "vicuna:13b-v1.5-16k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "16K"
+  },
+  "b03c2008cb04": {
+    "href": "/library/vicuna:13b-v1.5-q5_1",
+    "name": "vicuna:13b-v1.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "4K"
+  },
+  "5d960ceab7d0": {
+    "href": "/library/vicuna:13b-v1.5-16k-q5_K_S",
+    "name": "vicuna:13b-v1.5-16k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "16K"
+  },
+  "d3dd8af1f363": {
+    "href": "/library/vicuna:13b-v1.5-q5_K_S",
+    "name": "vicuna:13b-v1.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "4K"
+  },
+  "3374b3e9b520": {
+    "href": "/library/vicuna:13b-v1.5-16k-q5_K_M",
+    "name": "vicuna:13b-v1.5-16k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "16K"
+  },
+  "c85a3d3b3b78": {
+    "href": "/library/vicuna:13b-v1.5-q5_K_M",
+    "name": "vicuna:13b-v1.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "4K"
+  },
+  "3dabce096571": {
+    "href": "/library/vicuna:13b-v1.5-16k-q6_K",
+    "name": "vicuna:13b-v1.5-16k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "16K"
+  },
+  "90d7ed92be1d": {
+    "href": "/library/vicuna:13b-v1.5-q6_K",
+    "name": "vicuna:13b-v1.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "7e91afb2b027": {
+    "href": "/library/vicuna:13b-v1.5-16k-q8_0",
+    "name": "vicuna:13b-v1.5-16k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "16K"
+  },
+  "db82e78d570a": {
+    "href": "/library/vicuna:13b-v1.5-q8_0",
+    "name": "vicuna:13b-v1.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "aa225f209212": {
+    "href": "/library/vicuna:13b-v1.5-16k-fp16",
+    "name": "vicuna:13b-v1.5-16k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "16K"
+  },
+  "3e2035c21594": {
+    "href": "/library/vicuna:13b-v1.5-fp16",
+    "name": "vicuna:13b-v1.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "4K"
+  },
+  "c243d669ad2e": {
+    "href": "/library/vicuna:13b-q2_K",
+    "name": "vicuna:13b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "2K"
+  },
+  "a1f4ecdb04ba": {
+    "href": "/library/vicuna:13b-q3_K_S",
+    "name": "vicuna:13b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "2K"
+  },
+  "5c94116bb4df": {
+    "href": "/library/vicuna:13b-q3_K_M",
+    "name": "vicuna:13b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.3GB",
+    "size_str": "2K"
+  },
+  "3ce284b06308": {
+    "href": "/library/vicuna:13b-q3_K_L",
+    "name": "vicuna:13b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.9GB",
+    "size_str": "2K"
+  },
+  "a6aad17d1205": {
+    "href": "/library/vicuna:13b-q4_0",
+    "name": "vicuna:13b-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "2K"
+  },
+  "d7b312e7d741": {
+    "href": "/library/vicuna:13b-q4_1",
+    "name": "vicuna:13b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "2K"
+  },
+  "96cc0c85539e": {
+    "href": "/library/vicuna:13b-q4_K_S",
+    "name": "vicuna:13b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.4GB",
+    "size_str": "2K"
+  },
+  "0f5697218aef": {
+    "href": "/library/vicuna:13b-q4_K_M",
+    "name": "vicuna:13b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.9GB",
+    "size_str": "2K"
+  },
+  "d775a7c5294b": {
+    "href": "/library/vicuna:13b-q5_0",
+    "name": "vicuna:13b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "2K"
+  },
+  "65711d83a5ba": {
+    "href": "/library/vicuna:13b-q5_1",
+    "name": "vicuna:13b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.8GB",
+    "size_str": "2K"
+  },
+  "9151c66c59cf": {
+    "href": "/library/vicuna:13b-q5_K_S",
+    "name": "vicuna:13b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.0GB",
+    "size_str": "2K"
+  },
+  "57fc4dcc89d7": {
+    "href": "/library/vicuna:13b-q5_K_M",
+    "name": "vicuna:13b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.2GB",
+    "size_str": "2K"
+  },
+  "5771033f82b8": {
+    "href": "/library/vicuna:13b-q6_K",
+    "name": "vicuna:13b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "2K"
+  },
+  "1f4a6e7b304c": {
+    "href": "/library/vicuna:13b-q8_0",
+    "name": "vicuna:13b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "2K"
+  },
+  "5c0aaca02f10": {
+    "href": "/library/vicuna:13b-fp16",
+    "name": "vicuna:13b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "2K"
+  },
+  "9129a0b1a6b1": {
+    "href": "/library/vicuna:33b-q2_K",
+    "name": "vicuna:33b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "2K"
+  },
+  "029c30fb56ac": {
+    "href": "/library/vicuna:33b-q3_K_S",
+    "name": "vicuna:33b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "2K"
+  },
+  "fe6ff250b94e": {
+    "href": "/library/vicuna:33b-q3_K_M",
+    "name": "vicuna:33b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "2K"
+  },
+  "5f73c820980e": {
+    "href": "/library/vicuna:33b-q3_K_L",
+    "name": "vicuna:33b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "2K"
+  },
+  "4b40d8826503": {
+    "href": "/library/vicuna:33b-q4_1",
+    "name": "vicuna:33b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "2K"
+  },
+  "933cc774ba3c": {
+    "href": "/library/vicuna:33b-q4_K_S",
+    "name": "vicuna:33b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "18GB",
+    "size_str": "2K"
+  },
+  "ae8f63e7638e": {
+    "href": "/library/vicuna:33b-q4_K_M",
+    "name": "vicuna:33b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "20GB",
+    "size_str": "2K"
+  },
+  "4a6fa67158d8": {
+    "href": "/library/vicuna:33b-q5_0",
+    "name": "vicuna:33b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "22GB",
+    "size_str": "2K"
+  },
+  "732296977ff9": {
+    "href": "/library/vicuna:33b-q5_1",
+    "name": "vicuna:33b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "24GB",
+    "size_str": "2K"
+  },
+  "87a62b85e56f": {
+    "href": "/library/vicuna:33b-q5_K_S",
+    "name": "vicuna:33b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "22GB",
+    "size_str": "2K"
+  },
+  "45a15331c3d3": {
+    "href": "/library/vicuna:33b-q5_K_M",
+    "name": "vicuna:33b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "23GB",
+    "size_str": "2K"
+  },
+  "594c8ae461ac": {
+    "href": "/library/vicuna:33b-q6_K",
+    "name": "vicuna:33b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "27GB",
+    "size_str": "2K"
+  },
+  "dc6380cf87ce": {
+    "href": "/library/vicuna:33b-q8_0",
+    "name": "vicuna:33b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "35GB",
+    "size_str": "2K"
+  },
+  "6bc47b18a625": {
+    "href": "/library/vicuna:33b-fp16",
+    "name": "vicuna:33b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "65GB",
+    "size_str": "2K"
+  }
+}

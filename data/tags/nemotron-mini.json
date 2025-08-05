@@ -1,0 +1,152 @@
+{
+  "ed76ab18784f": {
+    "href": "/library/nemotron-mini:latest",
+    "name": "nemotron-mini:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.7GB",
+    "size_str": "4K"
+  },
+  "71c1aed58cc4": {
+    "href": "/library/nemotron-mini:4b-instruct-q2_K",
+    "name": "nemotron-mini:4b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "1.9GB",
+    "size_str": "4K"
+  },
+  "28cabdeeb76e": {
+    "href": "/library/nemotron-mini:4b-instruct-q3_K_S",
+    "name": "nemotron-mini:4b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.1GB",
+    "size_str": "4K"
+  },
+  "91b07164ba46": {
+    "href": "/library/nemotron-mini:4b-instruct-q3_K_M",
+    "name": "nemotron-mini:4b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.3GB",
+    "size_str": "4K"
+  },
+  "899020cd5b1e": {
+    "href": "/library/nemotron-mini:4b-instruct-q3_K_L",
+    "name": "nemotron-mini:4b-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.5GB",
+    "size_str": "4K"
+  },
+  "041bd339f71f": {
+    "href": "/library/nemotron-mini:4b-instruct-q4_0",
+    "name": "nemotron-mini:4b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.6GB",
+    "size_str": "4K"
+  },
+  "715f0114b145": {
+    "href": "/library/nemotron-mini:4b-instruct-q4_1",
+    "name": "nemotron-mini:4b-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "59f3d2ea76f8": {
+    "href": "/library/nemotron-mini:4b-instruct-q4_K_S",
+    "name": "nemotron-mini:4b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "2.6GB",
+    "size_str": "4K"
+  },
+  "e5f64c7116d1": {
+    "href": "/library/nemotron-mini:4b-instruct-q5_0",
+    "name": "nemotron-mini:4b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.0GB",
+    "size_str": "4K"
+  },
+  "8c244be13dfe": {
+    "href": "/library/nemotron-mini:4b-instruct-q5_1",
+    "name": "nemotron-mini:4b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.2GB",
+    "size_str": "4K"
+  },
+  "072f4b7daa17": {
+    "href": "/library/nemotron-mini:4b-instruct-q5_K_S",
+    "name": "nemotron-mini:4b-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.0GB",
+    "size_str": "4K"
+  },
+  "9e36e563dbdd": {
+    "href": "/library/nemotron-mini:4b-instruct-q5_K_M",
+    "name": "nemotron-mini:4b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "4cf36901911e": {
+    "href": "/library/nemotron-mini:4b-instruct-q6_K",
+    "name": "nemotron-mini:4b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "3.4GB",
+    "size_str": "4K"
+  },
+  "fe86a4d04f9f": {
+    "href": "/library/nemotron-mini:4b-instruct-q8_0",
+    "name": "nemotron-mini:4b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "d0d806e9853c": {
+    "href": "/library/nemotron-mini:4b-instruct-fp16",
+    "name": "nemotron-mini:4b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  }
+}

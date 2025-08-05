@@ -1,0 +1,152 @@
+{
+  "43c512e16786": {
+    "href": "/library/notus:latest",
+    "name": "notus:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "577ecb9ceace": {
+    "href": "/library/notus:7b-v1-q2_K",
+    "name": "notus:7b-v1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "86c3a67a139d": {
+    "href": "/library/notus:7b-v1-q3_K_S",
+    "name": "notus:7b-v1-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "3293885c4fdb": {
+    "href": "/library/notus:7b-v1-q3_K_M",
+    "name": "notus:7b-v1-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "fba4029e7992": {
+    "href": "/library/notus:7b-v1-q3_K_L",
+    "name": "notus:7b-v1-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "38a71126d0df": {
+    "href": "/library/notus:7b-v1-q4_1",
+    "name": "notus:7b-v1-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "3321b0e7eb01": {
+    "href": "/library/notus:7b-v1-q4_K_S",
+    "name": "notus:7b-v1-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "444648af6d37": {
+    "href": "/library/notus:7b-v1-q4_K_M",
+    "name": "notus:7b-v1-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "1b3a120c0ee4": {
+    "href": "/library/notus:7b-v1-q5_0",
+    "name": "notus:7b-v1-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "a1a23c0638d0": {
+    "href": "/library/notus:7b-v1-q5_1",
+    "name": "notus:7b-v1-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "00bb14ed7fca": {
+    "href": "/library/notus:7b-v1-q5_K_S",
+    "name": "notus:7b-v1-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "07fe7b1736b9": {
+    "href": "/library/notus:7b-v1-q5_K_M",
+    "name": "notus:7b-v1-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "f55d593525c3": {
+    "href": "/library/notus:7b-v1-q6_K",
+    "name": "notus:7b-v1-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "4f664c6f7b54": {
+    "href": "/library/notus:7b-v1-q8_0",
+    "name": "notus:7b-v1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "2da08fbc17f3": {
+    "href": "/library/notus:7b-v1-fp16",
+    "name": "notus:7b-v1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  }
+}

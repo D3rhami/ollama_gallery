@@ -1,0 +1,62 @@
+{
+  "4208d3b406db": {
+    "href": "/library/olmo2:latest",
+    "name": "olmo2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "4.5GB",
+    "size_str": "4K"
+  },
+  "6c279ebc980f": {
+    "href": "/library/olmo2:13b",
+    "name": "olmo2:13b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "8.4GB",
+    "size_str": "4K"
+  },
+  "e75d0b293717": {
+    "href": "/library/olmo2:7b-1124-instruct-q8_0",
+    "name": "olmo2:7b-1124-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "7.8GB",
+    "size_str": "4K"
+  },
+  "fa483f2d5cc7": {
+    "href": "/library/olmo2:7b-1124-instruct-fp16",
+    "name": "olmo2:7b-1124-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "15GB",
+    "size_str": "4K"
+  },
+  "54d0ec72e884": {
+    "href": "/library/olmo2:13b-1124-instruct-q8_0",
+    "name": "olmo2:13b-1124-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "15GB",
+    "size_str": "4K"
+  },
+  "c5cd17f69ca0": {
+    "href": "/library/olmo2:13b-1124-instruct-fp16",
+    "name": "olmo2:13b-1124-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "27GB",
+    "size_str": "4K"
+  }
+}

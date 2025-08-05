@@ -1,0 +1,602 @@
+{
+  "5050e36678ab": {
+    "href": "/library/internlm2:latest",
+    "name": "internlm2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "32K"
+  },
+  "f51a58d004a3": {
+    "href": "/library/internlm2:1m",
+    "name": "internlm2:1m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.5GB",
+    "size_str": "256K"
+  },
+  "653be3eb69a0": {
+    "href": "/library/internlm2:1.8b",
+    "name": "internlm2:1.8b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "32K"
+  },
+  "a864ac8dade2": {
+    "href": "/library/internlm2:20b",
+    "name": "internlm2:20b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "32K"
+  },
+  "e323dd309ffa": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q2_K",
+    "name": "internlm2:1.8b-chat-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "772MB",
+    "size_str": "32K"
+  },
+  "2adb2d42a98d": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q3_K_S",
+    "name": "internlm2:1.8b-chat-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "888MB",
+    "size_str": "32K"
+  },
+  "f141c9a50fc5": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q3_K_M",
+    "name": "internlm2:1.8b-chat-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "964MB",
+    "size_str": "32K"
+  },
+  "72790a472a60": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q3_K_L",
+    "name": "internlm2:1.8b-chat-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.0GB",
+    "size_str": "32K"
+  },
+  "de0f6524a4bd": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q4_1",
+    "name": "internlm2:1.8b-chat-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.2GB",
+    "size_str": "32K"
+  },
+  "027cb3cac986": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q4_K_S",
+    "name": "internlm2:1.8b-chat-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.1GB",
+    "size_str": "32K"
+  },
+  "70424945cc94": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q4_K_M",
+    "name": "internlm2:1.8b-chat-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.2GB",
+    "size_str": "32K"
+  },
+  "b0a6511d9a3d": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q5_0",
+    "name": "internlm2:1.8b-chat-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.3GB",
+    "size_str": "32K"
+  },
+  "5e6a4506e50c": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q5_1",
+    "name": "internlm2:1.8b-chat-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.4GB",
+    "size_str": "32K"
+  },
+  "024fd646cb43": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q5_K_S",
+    "name": "internlm2:1.8b-chat-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.3GB",
+    "size_str": "32K"
+  },
+  "24f16cf9917b": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q5_K_M",
+    "name": "internlm2:1.8b-chat-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.4GB",
+    "size_str": "32K"
+  },
+  "f840db8f213c": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q6_K",
+    "name": "internlm2:1.8b-chat-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.6GB",
+    "size_str": "32K"
+  },
+  "664a8f24ed79": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-q8_0",
+    "name": "internlm2:1.8b-chat-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.0GB",
+    "size_str": "32K"
+  },
+  "c62072479ed8": {
+    "href": "/library/internlm2:1.8b-chat-v2.5-fp16",
+    "name": "internlm2:1.8b-chat-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "d84dd7a28059": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q2_K",
+    "name": "internlm2:7b-chat-1m-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.0GB",
+    "size_str": "256K"
+  },
+  "d4a28a692833": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q3_K_S",
+    "name": "internlm2:7b-chat-1m-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.5GB",
+    "size_str": "256K"
+  },
+  "001eab78e4e0": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q3_K_M",
+    "name": "internlm2:7b-chat-1m-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.8GB",
+    "size_str": "256K"
+  },
+  "6166f50235bc": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q3_K_L",
+    "name": "internlm2:7b-chat-1m-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.1GB",
+    "size_str": "256K"
+  },
+  "3961c56138a6": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q4_1",
+    "name": "internlm2:7b-chat-1m-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.9GB",
+    "size_str": "256K"
+  },
+  "b3d618c89ac3": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q4_K_S",
+    "name": "internlm2:7b-chat-1m-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.5GB",
+    "size_str": "256K"
+  },
+  "9b2616f8cbc2": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q4_K_M",
+    "name": "internlm2:7b-chat-1m-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.7GB",
+    "size_str": "256K"
+  },
+  "12f9db169d91": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q5_0",
+    "name": "internlm2:7b-chat-1m-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.4GB",
+    "size_str": "256K"
+  },
+  "407770e125a5": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q5_1",
+    "name": "internlm2:7b-chat-1m-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.8GB",
+    "size_str": "256K"
+  },
+  "285900570500": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q5_K_S",
+    "name": "internlm2:7b-chat-1m-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.4GB",
+    "size_str": "256K"
+  },
+  "4d68427e8c8b": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q5_K_M",
+    "name": "internlm2:7b-chat-1m-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "5.5GB",
+    "size_str": "256K"
+  },
+  "062f787aba89": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q6_K",
+    "name": "internlm2:7b-chat-1m-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "6.4GB",
+    "size_str": "256K"
+  },
+  "ff47159cf206": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-q8_0",
+    "name": "internlm2:7b-chat-1m-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.2GB",
+    "size_str": "256K"
+  },
+  "ef00c6c9e322": {
+    "href": "/library/internlm2:7b-chat-1m-v2.5-fp16",
+    "name": "internlm2:7b-chat-1m-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "256K"
+  },
+  "49bfefea4f49": {
+    "href": "/library/internlm2:7b-chat-v2.5-q2_K",
+    "name": "internlm2:7b-chat-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.0GB",
+    "size_str": "32K"
+  },
+  "6cfb8055242b": {
+    "href": "/library/internlm2:7b-chat-v2.5-q3_K_S",
+    "name": "internlm2:7b-chat-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "84781d712afc": {
+    "href": "/library/internlm2:7b-chat-v2.5-q3_K_M",
+    "name": "internlm2:7b-chat-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "c64aca8ea43c": {
+    "href": "/library/internlm2:7b-chat-v2.5-q3_K_L",
+    "name": "internlm2:7b-chat-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "8f50455862f0": {
+    "href": "/library/internlm2:7b-chat-v2.5-q4_1",
+    "name": "internlm2:7b-chat-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "32K"
+  },
+  "e978b21250f8": {
+    "href": "/library/internlm2:7b-chat-v2.5-q4_K_S",
+    "name": "internlm2:7b-chat-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.5GB",
+    "size_str": "32K"
+  },
+  "aa0c9b808286": {
+    "href": "/library/internlm2:7b-chat-v2.5-q4_K_M",
+    "name": "internlm2:7b-chat-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "32K"
+  },
+  "472749a597ec": {
+    "href": "/library/internlm2:7b-chat-v2.5-q5_0",
+    "name": "internlm2:7b-chat-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "15e08b317f2c": {
+    "href": "/library/internlm2:7b-chat-v2.5-q5_1",
+    "name": "internlm2:7b-chat-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.8GB",
+    "size_str": "32K"
+  },
+  "03a8263a7983": {
+    "href": "/library/internlm2:7b-chat-v2.5-q5_K_S",
+    "name": "internlm2:7b-chat-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "3be8d46eeb16": {
+    "href": "/library/internlm2:7b-chat-v2.5-q5_K_M",
+    "name": "internlm2:7b-chat-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.5GB",
+    "size_str": "32K"
+  },
+  "d1e1c05708e3": {
+    "href": "/library/internlm2:7b-chat-v2.5-q6_K",
+    "name": "internlm2:7b-chat-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.4GB",
+    "size_str": "32K"
+  },
+  "5aeab5b4cbc2": {
+    "href": "/library/internlm2:7b-chat-v2.5-q8_0",
+    "name": "internlm2:7b-chat-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.2GB",
+    "size_str": "32K"
+  },
+  "5b289197c4b4": {
+    "href": "/library/internlm2:7b-chat-v2.5-fp16",
+    "name": "internlm2:7b-chat-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "15GB",
+    "size_str": "32K"
+  },
+  "0c3013e60522": {
+    "href": "/library/internlm2:20b-chat-v2.5-q2_K",
+    "name": "internlm2:20b-chat-v2.5-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.5GB",
+    "size_str": "32K"
+  },
+  "29d205fe5245": {
+    "href": "/library/internlm2:20b-chat-v2.5-q3_K_S",
+    "name": "internlm2:20b-chat-v2.5-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "8.8GB",
+    "size_str": "32K"
+  },
+  "a9e30d43b790": {
+    "href": "/library/internlm2:20b-chat-v2.5-q3_K_M",
+    "name": "internlm2:20b-chat-v2.5-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "9.7GB",
+    "size_str": "32K"
+  },
+  "1d50713ae6a4": {
+    "href": "/library/internlm2:20b-chat-v2.5-q3_K_L",
+    "name": "internlm2:20b-chat-v2.5-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "32K"
+  },
+  "8081fcbec171": {
+    "href": "/library/internlm2:20b-chat-v2.5-q4_1",
+    "name": "internlm2:20b-chat-v2.5-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "13GB",
+    "size_str": "32K"
+  },
+  "9628de0a310e": {
+    "href": "/library/internlm2:20b-chat-v2.5-q4_K_S",
+    "name": "internlm2:20b-chat-v2.5-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "11GB",
+    "size_str": "32K"
+  },
+  "b4c0bac62552": {
+    "href": "/library/internlm2:20b-chat-v2.5-q4_K_M",
+    "name": "internlm2:20b-chat-v2.5-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "12GB",
+    "size_str": "32K"
+  },
+  "f96f8f7f353c": {
+    "href": "/library/internlm2:20b-chat-v2.5-q5_0",
+    "name": "internlm2:20b-chat-v2.5-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "59d4bc3a7d50": {
+    "href": "/library/internlm2:20b-chat-v2.5-q5_1",
+    "name": "internlm2:20b-chat-v2.5-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "15GB",
+    "size_str": "32K"
+  },
+  "a4c6e3937e92": {
+    "href": "/library/internlm2:20b-chat-v2.5-q5_K_S",
+    "name": "internlm2:20b-chat-v2.5-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "a52063ceb166": {
+    "href": "/library/internlm2:20b-chat-v2.5-q5_K_M",
+    "name": "internlm2:20b-chat-v2.5-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "a1ae726f5e10": {
+    "href": "/library/internlm2:20b-chat-v2.5-q6_K",
+    "name": "internlm2:20b-chat-v2.5-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "16GB",
+    "size_str": "32K"
+  },
+  "e172d89777bd": {
+    "href": "/library/internlm2:20b-chat-v2.5-q8_0",
+    "name": "internlm2:20b-chat-v2.5-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "21GB",
+    "size_str": "32K"
+  },
+  "b6d6213233ce": {
+    "href": "/library/internlm2:20b-chat-v2.5-fp16",
+    "name": "internlm2:20b-chat-v2.5-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "40GB",
+    "size_str": "32K"
+  }
+}

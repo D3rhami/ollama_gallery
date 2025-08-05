@@ -1,0 +1,22 @@
+{
+  "eb4c533ba6f7": {
+    "href": "/library/granite-embedding:latest",
+    "name": "granite-embedding:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "63MB",
+    "size_str": "512"
+  },
+  "1a37926bf842": {
+    "href": "/library/granite-embedding:278m",
+    "name": "granite-embedding:278m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "563MB",
+    "size_str": "512"
+  }
+}

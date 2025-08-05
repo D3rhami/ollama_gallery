@@ -1,0 +1,192 @@
+{
+  "c9b1aff820f2": {
+    "href": "/library/wizardlm2:latest",
+    "name": "wizardlm2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "abda6e58fd1d": {
+    "href": "/library/wizardlm2:8x22b",
+    "name": "wizardlm2:8x22b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "5795bd86f958": {
+    "href": "/library/wizardlm2:7b-q2_K",
+    "name": "wizardlm2:7b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.7GB",
+    "size_str": "32K"
+  },
+  "7bf0381ea93d": {
+    "href": "/library/wizardlm2:7b-q3_K_S",
+    "name": "wizardlm2:7b-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "1cfd5676dee8": {
+    "href": "/library/wizardlm2:7b-q3_K_M",
+    "name": "wizardlm2:7b-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "9bcee57837f2": {
+    "href": "/library/wizardlm2:7b-q3_K_L",
+    "name": "wizardlm2:7b-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "c0852cdfcb53": {
+    "href": "/library/wizardlm2:7b-q4_1",
+    "name": "wizardlm2:7b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "48a4adb06e0f": {
+    "href": "/library/wizardlm2:7b-q4_K_S",
+    "name": "wizardlm2:7b-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "3de5776b30d9": {
+    "href": "/library/wizardlm2:7b-q4_K_M",
+    "name": "wizardlm2:7b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "e7f2dbadd07d": {
+    "href": "/library/wizardlm2:7b-q5_0",
+    "name": "wizardlm2:7b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "4e51908f7cd5": {
+    "href": "/library/wizardlm2:7b-q5_1",
+    "name": "wizardlm2:7b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "895e99ce6162": {
+    "href": "/library/wizardlm2:7b-q5_K_S",
+    "name": "wizardlm2:7b-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "5d60e2aefec6": {
+    "href": "/library/wizardlm2:7b-q5_K_M",
+    "name": "wizardlm2:7b-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "6195668c4294": {
+    "href": "/library/wizardlm2:7b-q6_K",
+    "name": "wizardlm2:7b-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "f74bc2dc64aa": {
+    "href": "/library/wizardlm2:7b-q8_0",
+    "name": "wizardlm2:7b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "a34a3bbd552b": {
+    "href": "/library/wizardlm2:7b-fp16",
+    "name": "wizardlm2:7b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "9f09573d18b6": {
+    "href": "/library/wizardlm2:8x22b-q2_K",
+    "name": "wizardlm2:8x22b-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "64K"
+  },
+  "07d5ea336544": {
+    "href": "/library/wizardlm2:8x22b-q8_0",
+    "name": "wizardlm2:8x22b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "149GB",
+    "size_str": "64K"
+  },
+  "39f772dd966e": {
+    "href": "/library/wizardlm2:8x22b-fp16",
+    "name": "wizardlm2:8x22b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "281GB",
+    "size_str": "64K"
+  }
+}

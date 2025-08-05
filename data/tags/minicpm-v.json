@@ -1,0 +1,152 @@
+{
+  "c92bfad01205": {
+    "href": "/library/minicpm-v:latest",
+    "name": "minicpm-v:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.5GB",
+    "size_str": "32K"
+  },
+  "61cf7cf5edda": {
+    "href": "/library/minicpm-v:8b-2.6-q2_K",
+    "name": "minicpm-v:8b-2.6-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "0e5dd84b9d34": {
+    "href": "/library/minicpm-v:8b-2.6-q3_K_S",
+    "name": "minicpm-v:8b-2.6-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.5GB",
+    "size_str": "32K"
+  },
+  "b7c14f8aad8c": {
+    "href": "/library/minicpm-v:8b-2.6-q3_K_M",
+    "name": "minicpm-v:8b-2.6-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "4.9GB",
+    "size_str": "32K"
+  },
+  "a62e8056b1f0": {
+    "href": "/library/minicpm-v:8b-2.6-q3_K_L",
+    "name": "minicpm-v:8b-2.6-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "1e17cbffa666": {
+    "href": "/library/minicpm-v:8b-2.6-q4_1",
+    "name": "minicpm-v:8b-2.6-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "eda89b106de0": {
+    "href": "/library/minicpm-v:8b-2.6-q4_K_S",
+    "name": "minicpm-v:8b-2.6-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.5GB",
+    "size_str": "32K"
+  },
+  "950a671abea6": {
+    "href": "/library/minicpm-v:8b-2.6-q4_K_M",
+    "name": "minicpm-v:8b-2.6-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "5.7GB",
+    "size_str": "32K"
+  },
+  "4b28c460b85e": {
+    "href": "/library/minicpm-v:8b-2.6-q5_0",
+    "name": "minicpm-v:8b-2.6-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.4GB",
+    "size_str": "32K"
+  },
+  "6ac2a6038e89": {
+    "href": "/library/minicpm-v:8b-2.6-q5_1",
+    "name": "minicpm-v:8b-2.6-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.8GB",
+    "size_str": "32K"
+  },
+  "b4d3d0c08b9c": {
+    "href": "/library/minicpm-v:8b-2.6-q5_K_S",
+    "name": "minicpm-v:8b-2.6-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.4GB",
+    "size_str": "32K"
+  },
+  "6dfa70b0f281": {
+    "href": "/library/minicpm-v:8b-2.6-q5_K_M",
+    "name": "minicpm-v:8b-2.6-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "6.5GB",
+    "size_str": "32K"
+  },
+  "ac20b8a12390": {
+    "href": "/library/minicpm-v:8b-2.6-q6_K",
+    "name": "minicpm-v:8b-2.6-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "7.3GB",
+    "size_str": "32K"
+  },
+  "9e2efdd7b657": {
+    "href": "/library/minicpm-v:8b-2.6-q8_0",
+    "name": "minicpm-v:8b-2.6-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "9.1GB",
+    "size_str": "32K"
+  },
+  "f3f122c78635": {
+    "href": "/library/minicpm-v:8b-2.6-fp16",
+    "name": "minicpm-v:8b-2.6-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "16GB",
+    "size_str": "32K"
+  }
+}

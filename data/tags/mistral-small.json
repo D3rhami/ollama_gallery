@@ -1,0 +1,182 @@
+{
+  "8039dd90c113": {
+    "href": "/library/mistral-small:latest",
+    "name": "mistral-small:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "d095cd553b04": {
+    "href": "/library/mistral-small:22b",
+    "name": "mistral-small:22b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "13GB",
+    "size_str": "128K"
+  },
+  "8ec9babc3847": {
+    "href": "/library/mistral-small:22b-instruct-2409-q2_K",
+    "name": "mistral-small:22b-instruct-2409-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "8.3GB",
+    "size_str": "128K"
+  },
+  "dfaf3aefa53f": {
+    "href": "/library/mistral-small:22b-instruct-2409-q3_K_S",
+    "name": "mistral-small:22b-instruct-2409-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "9.6GB",
+    "size_str": "128K"
+  },
+  "eaa764a8f77f": {
+    "href": "/library/mistral-small:22b-instruct-2409-q3_K_M",
+    "name": "mistral-small:22b-instruct-2409-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "11GB",
+    "size_str": "128K"
+  },
+  "fe81dad8bbb0": {
+    "href": "/library/mistral-small:22b-instruct-2409-q3_K_L",
+    "name": "mistral-small:22b-instruct-2409-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "12GB",
+    "size_str": "128K"
+  },
+  "565c78387545": {
+    "href": "/library/mistral-small:22b-instruct-2409-q4_1",
+    "name": "mistral-small:22b-instruct-2409-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "14GB",
+    "size_str": "128K"
+  },
+  "9b3a8280f0c7": {
+    "href": "/library/mistral-small:22b-instruct-2409-q4_K_S",
+    "name": "mistral-small:22b-instruct-2409-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "13GB",
+    "size_str": "128K"
+  },
+  "9f552ae9b883": {
+    "href": "/library/mistral-small:22b-instruct-2409-q4_K_M",
+    "name": "mistral-small:22b-instruct-2409-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "13GB",
+    "size_str": "128K"
+  },
+  "04c315f44b8c": {
+    "href": "/library/mistral-small:22b-instruct-2409-q5_0",
+    "name": "mistral-small:22b-instruct-2409-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "15GB",
+    "size_str": "128K"
+  },
+  "5bd49ef5756a": {
+    "href": "/library/mistral-small:22b-instruct-2409-q5_1",
+    "name": "mistral-small:22b-instruct-2409-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "17GB",
+    "size_str": "128K"
+  },
+  "5b4d9855bfa5": {
+    "href": "/library/mistral-small:22b-instruct-2409-q5_K_S",
+    "name": "mistral-small:22b-instruct-2409-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "15GB",
+    "size_str": "128K"
+  },
+  "eec48ef9afdc": {
+    "href": "/library/mistral-small:22b-instruct-2409-q5_K_M",
+    "name": "mistral-small:22b-instruct-2409-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "5113380707de": {
+    "href": "/library/mistral-small:22b-instruct-2409-q6_K",
+    "name": "mistral-small:22b-instruct-2409-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "18GB",
+    "size_str": "128K"
+  },
+  "ebe30125ec3c": {
+    "href": "/library/mistral-small:22b-instruct-2409-q8_0",
+    "name": "mistral-small:22b-instruct-2409-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "24GB",
+    "size_str": "128K"
+  },
+  "28fc9c710e5f": {
+    "href": "/library/mistral-small:22b-instruct-2409-fp16",
+    "name": "mistral-small:22b-instruct-2409-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "44GB",
+    "size_str": "128K"
+  },
+  "20ffe5db0161": {
+    "href": "/library/mistral-small:24b-instruct-2501-q8_0",
+    "name": "mistral-small:24b-instruct-2501-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "25GB",
+    "size_str": "32K"
+  },
+  "6134e1a7e2c8": {
+    "href": "/library/mistral-small:24b-instruct-2501-fp16",
+    "name": "mistral-small:24b-instruct-2501-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 months ago",
+    "context_window": "47GB",
+    "size_str": "32K"
+  }
+}

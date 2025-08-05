@@ -1,0 +1,134 @@
+{
+  "5ced39dfa4ba": {
+    "href": "/library/qwen2.5vl:latest",
+    "name": "qwen2.5vl:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "6.0GB",
+    "size_str": "125K"
+  },
+  "fb90415cde1e": {
+    "href": "/library/qwen2.5vl:3b",
+    "name": "qwen2.5vl:3b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "3.2GB",
+    "size_str": "125K"
+  },
+  "3edc3a52fe98": {
+    "href": "/library/qwen2.5vl:32b",
+    "name": "qwen2.5vl:32b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "21GB",
+    "size_str": "125K"
+  },
+  "05ea68274581": {
+    "href": "/library/qwen2.5vl:72b",
+    "name": "qwen2.5vl:72b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "49GB",
+    "size_str": "125K"
+  },
+  "21858d9f5230": {
+    "href": "/library/qwen2.5vl:3b-q8_0",
+    "name": "qwen2.5vl:3b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "4.6GB",
+    "size_str": "125K"
+  },
+  "0aeee3542efe": {
+    "href": "/library/qwen2.5vl:3b-fp16",
+    "name": "qwen2.5vl:3b-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "7.5GB",
+    "size_str": "125K"
+  },
+  "434c6f75b469": {
+    "href": "/library/qwen2.5vl:7b-q8_0",
+    "name": "qwen2.5vl:7b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "9.4GB",
+    "size_str": "125K"
+  },
+  "db03e34551a0": {
+    "href": "/library/qwen2.5vl:7b-fp16",
+    "name": "qwen2.5vl:7b-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "17GB",
+    "size_str": "125K"
+  },
+  "2702bb339158": {
+    "href": "/library/qwen2.5vl:32b-q8_0",
+    "name": "qwen2.5vl:32b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "36GB",
+    "size_str": "125K"
+  },
+  "36c223960eca": {
+    "href": "/library/qwen2.5vl:32b-fp16",
+    "name": "qwen2.5vl:32b-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "67GB",
+    "size_str": "125K"
+  },
+  "7ab696d4a6e8": {
+    "href": "/library/qwen2.5vl:72b-q8_0",
+    "name": "qwen2.5vl:72b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "79GB",
+    "size_str": "125K"
+  },
+  "740f061f9f08": {
+    "href": "/library/qwen2.5vl:72b-fp16",
+    "name": "qwen2.5vl:72b-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "147GB",
+    "size_str": "125K"
+  }
+}

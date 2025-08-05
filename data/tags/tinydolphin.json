@@ -1,0 +1,152 @@
+{
+  "0f9dd11f824c": {
+    "href": "/library/tinydolphin:latest",
+    "name": "tinydolphin:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "637MB",
+    "size_str": "4K"
+  },
+  "053ceac566b6": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q2_K",
+    "name": "tinydolphin:1.1b-v2.8-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "432MB",
+    "size_str": "4K"
+  },
+  "1334375595f1": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q3_K_S",
+    "name": "tinydolphin:1.1b-v2.8-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "499MB",
+    "size_str": "4K"
+  },
+  "a269253dc7d8": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q3_K_M",
+    "name": "tinydolphin:1.1b-v2.8-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "548MB",
+    "size_str": "4K"
+  },
+  "d744f6260a5a": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q3_K_L",
+    "name": "tinydolphin:1.1b-v2.8-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "592MB",
+    "size_str": "4K"
+  },
+  "3775322fd876": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q4_1",
+    "name": "tinydolphin:1.1b-v2.8-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "701MB",
+    "size_str": "4K"
+  },
+  "47eefa638255": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q4_K_S",
+    "name": "tinydolphin:1.1b-v2.8-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "640MB",
+    "size_str": "4K"
+  },
+  "0cf10b4bfdca": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q4_K_M",
+    "name": "tinydolphin:1.1b-v2.8-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "668MB",
+    "size_str": "4K"
+  },
+  "bd9464ab8450": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q5_0",
+    "name": "tinydolphin:1.1b-v2.8-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "766MB",
+    "size_str": "4K"
+  },
+  "2a519cd98a34": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q5_1",
+    "name": "tinydolphin:1.1b-v2.8-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "831MB",
+    "size_str": "4K"
+  },
+  "635e25aae973": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q5_K_S",
+    "name": "tinydolphin:1.1b-v2.8-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "766MB",
+    "size_str": "4K"
+  },
+  "4a56f53dcad5": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q5_K_M",
+    "name": "tinydolphin:1.1b-v2.8-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "782MB",
+    "size_str": "4K"
+  },
+  "014f5ec4120f": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q6_K",
+    "name": "tinydolphin:1.1b-v2.8-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "903MB",
+    "size_str": "4K"
+  },
+  "852afb95a69e": {
+    "href": "/library/tinydolphin:1.1b-v2.8-q8_0",
+    "name": "tinydolphin:1.1b-v2.8-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "1.2GB",
+    "size_str": "4K"
+  },
+  "adb3e462abb8": {
+    "href": "/library/tinydolphin:1.1b-v2.8-fp16",
+    "name": "tinydolphin:1.1b-v2.8-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "2.2GB",
+    "size_str": "4K"
+  }
+}

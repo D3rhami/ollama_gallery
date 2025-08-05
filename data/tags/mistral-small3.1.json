@@ -1,0 +1,35 @@
+{
+  "b9aaf0c2586a": {
+    "href": "/library/mistral-small3.1:latest",
+    "name": "mistral-small3.1:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "15GB",
+    "size_str": "128K"
+  },
+  "79252b8a3eb5": {
+    "href": "/library/mistral-small3.1:24b-instruct-2503-q8_0",
+    "name": "mistral-small3.1:24b-instruct-2503-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "26GB",
+    "size_str": "128K"
+  },
+  "5b05d65a969a": {
+    "href": "/library/mistral-small3.1:24b-instruct-2503-fp16",
+    "name": "mistral-small3.1:24b-instruct-2503-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "48GB",
+    "size_str": "128K"
+  }
+}

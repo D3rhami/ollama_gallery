@@ -1,0 +1,35 @@
+{
+  "3be41a661804": {
+    "href": "/library/granite3.2-vision:latest",
+    "name": "granite3.2-vision:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "2.4GB",
+    "size_str": "16K"
+  },
+  "9b6204ce60f6": {
+    "href": "/library/granite3.2-vision:2b-q8_0",
+    "name": "granite3.2-vision:2b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "3.6GB",
+    "size_str": "16K"
+  },
+  "17ca6aa97bd9": {
+    "href": "/library/granite3.2-vision:2b-fp16",
+    "name": "granite3.2-vision:2b-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "5 months ago",
+    "context_window": "6.0GB",
+    "size_str": "16K"
+  }
+}

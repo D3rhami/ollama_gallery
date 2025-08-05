@@ -1,0 +1,52 @@
+{
+  "409b2dd8a3c4": {
+    "href": "/library/deepseek-v2.5:latest",
+    "name": "deepseek-v2.5:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "133GB",
+    "size_str": "4K"
+  },
+  "b1618a20b8b5": {
+    "href": "/library/deepseek-v2.5:236b-q4_1",
+    "name": "deepseek-v2.5:236b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "148GB",
+    "size_str": "4K"
+  },
+  "9de079142600": {
+    "href": "/library/deepseek-v2.5:236b-q5_0",
+    "name": "deepseek-v2.5:236b-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "f774fdfffbea": {
+    "href": "/library/deepseek-v2.5:236b-q5_1",
+    "name": "deepseek-v2.5:236b-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "177GB",
+    "size_str": "4K"
+  },
+  "481aed89b609": {
+    "href": "/library/deepseek-v2.5:236b-q8_0",
+    "name": "deepseek-v2.5:236b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "10 months ago",
+    "context_window": "251GB",
+    "size_str": "4K"
+  }
+}

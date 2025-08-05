@@ -1,0 +1,152 @@
+{
+  "61819fb370a3": {
+    "href": "/library/phi3.5:latest",
+    "name": "phi3.5:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.2GB",
+    "size_str": "4K"
+  },
+  "45b8dc82a846": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q2_K",
+    "name": "phi3.5:3.8b-mini-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.4GB",
+    "size_str": "4K"
+  },
+  "a96deac0d01a": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_S",
+    "name": "phi3.5:3.8b-mini-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "1.7GB",
+    "size_str": "4K"
+  },
+  "0d7837063f04": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_M",
+    "name": "phi3.5:3.8b-mini-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.0GB",
+    "size_str": "4K"
+  },
+  "1a0c69ceca7c": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_L",
+    "name": "phi3.5:3.8b-mini-instruct-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.1GB",
+    "size_str": "4K"
+  },
+  "4cbfba8563ff": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q4_1",
+    "name": "phi3.5:3.8b-mini-instruct-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.4GB",
+    "size_str": "4K"
+  },
+  "593801e5a118": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q4_K_S",
+    "name": "phi3.5:3.8b-mini-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.2GB",
+    "size_str": "4K"
+  },
+  "570961596984": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q4_K_M",
+    "name": "phi3.5:3.8b-mini-instruct-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.4GB",
+    "size_str": "4K"
+  },
+  "08d2a846d344": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q5_0",
+    "name": "phi3.5:3.8b-mini-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.6GB",
+    "size_str": "4K"
+  },
+  "56d7624b988b": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q5_1",
+    "name": "phi3.5:3.8b-mini-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.9GB",
+    "size_str": "4K"
+  },
+  "359cb1eb71b5": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q5_K_S",
+    "name": "phi3.5:3.8b-mini-instruct-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.6GB",
+    "size_str": "4K"
+  },
+  "d8410edb4013": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q5_K_M",
+    "name": "phi3.5:3.8b-mini-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "2.8GB",
+    "size_str": "4K"
+  },
+  "64777e5c6803": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q6_K",
+    "name": "phi3.5:3.8b-mini-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "3.1GB",
+    "size_str": "4K"
+  },
+  "8b50e8e1e216": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-q8_0",
+    "name": "phi3.5:3.8b-mini-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "4.1GB",
+    "size_str": "4K"
+  },
+  "4611ed13d496": {
+    "href": "/library/phi3.5:3.8b-mini-instruct-fp16",
+    "name": "phi3.5:3.8b-mini-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 months ago",
+    "context_window": "7.6GB",
+    "size_str": "4K"
+  }
+}

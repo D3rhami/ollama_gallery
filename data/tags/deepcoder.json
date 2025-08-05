@@ -1,0 +1,62 @@
+{
+  "12bdda054d23": {
+    "href": "/library/deepcoder:latest",
+    "name": "deepcoder:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "9.0GB",
+    "size_str": "128K"
+  },
+  "3bc49891ec47": {
+    "href": "/library/deepcoder:1.5b",
+    "name": "deepcoder:1.5b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "1.1GB",
+    "size_str": "128K"
+  },
+  "b240e7d4c9d5": {
+    "href": "/library/deepcoder:1.5b-preview-q8_0",
+    "name": "deepcoder:1.5b-preview-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "1.9GB",
+    "size_str": "128K"
+  },
+  "a4f72a133925": {
+    "href": "/library/deepcoder:1.5b-preview-fp16",
+    "name": "deepcoder:1.5b-preview-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "3.6GB",
+    "size_str": "128K"
+  },
+  "77a03c7a6183": {
+    "href": "/library/deepcoder:14b-preview-q8_0",
+    "name": "deepcoder:14b-preview-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "94795ede1f7b": {
+    "href": "/library/deepcoder:14b-preview-fp16",
+    "name": "deepcoder:14b-preview-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "context_window": "30GB",
+    "size_str": "128K"
+  }
+}

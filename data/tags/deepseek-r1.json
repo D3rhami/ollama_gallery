@@ -1,0 +1,272 @@
+{
+  "6995872bfe4c": {
+    "href": "/library/deepseek-r1:latest",
+    "name": "deepseek-r1:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "5.2GB",
+    "size_str": "128K"
+  },
+  "e0979632db5a": {
+    "href": "/library/deepseek-r1:1.5b",
+    "name": "deepseek-r1:1.5b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "1.1GB",
+    "size_str": "128K"
+  },
+  "755ced02ce7b": {
+    "href": "/library/deepseek-r1:7b",
+    "name": "deepseek-r1:7b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "4.7GB",
+    "size_str": "128K"
+  },
+  "c333b7232bdb": {
+    "href": "/library/deepseek-r1:14b",
+    "name": "deepseek-r1:14b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "9.0GB",
+    "size_str": "128K"
+  },
+  "edba8017331d": {
+    "href": "/library/deepseek-r1:32b",
+    "name": "deepseek-r1:32b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "20GB",
+    "size_str": "128K"
+  },
+  "d37b54d01a76": {
+    "href": "/library/deepseek-r1:70b",
+    "name": "deepseek-r1:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "43GB",
+    "size_str": "128K"
+  },
+  "14a4e575643d": {
+    "href": "/library/deepseek-r1:671b",
+    "name": "deepseek-r1:671b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "404GB",
+    "size_str": "160K"
+  },
+  "21c9dbd320fa": {
+    "href": "/library/deepseek-r1:1.5b-qwen-distill-q8_0",
+    "name": "deepseek-r1:1.5b-qwen-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "1.9GB",
+    "size_str": "128K"
+  },
+  "80c3a3c97773": {
+    "href": "/library/deepseek-r1:1.5b-qwen-distill-fp16",
+    "name": "deepseek-r1:1.5b-qwen-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "3.6GB",
+    "size_str": "128K"
+  },
+  "1b1708b22a5f": {
+    "href": "/library/deepseek-r1:7b-qwen-distill-q8_0",
+    "name": "deepseek-r1:7b-qwen-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "8.1GB",
+    "size_str": "128K"
+  },
+  "e18c08316744": {
+    "href": "/library/deepseek-r1:7b-qwen-distill-fp16",
+    "name": "deepseek-r1:7b-qwen-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "15GB",
+    "size_str": "128K"
+  },
+  "cade62fd2850": {
+    "href": "/library/deepseek-r1:8b-0528-qwen3-q8_0",
+    "name": "deepseek-r1:8b-0528-qwen3-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "8.9GB",
+    "size_str": "128K"
+  },
+  "a5f168330005": {
+    "href": "/library/deepseek-r1:8b-0528-qwen3-fp16",
+    "name": "deepseek-r1:8b-0528-qwen3-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "9e54bf95550c": {
+    "href": "/library/deepseek-r1:8b-llama-distill-q4_K_M",
+    "name": "deepseek-r1:8b-llama-distill-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "744d1ee47c3d": {
+    "href": "/library/deepseek-r1:8b-llama-distill-q8_0",
+    "name": "deepseek-r1:8b-llama-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "8.5GB",
+    "size_str": "128K"
+  },
+  "859adef8321e": {
+    "href": "/library/deepseek-r1:8b-llama-distill-fp16",
+    "name": "deepseek-r1:8b-llama-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "b3c61716272d": {
+    "href": "/library/deepseek-r1:14b-qwen-distill-q8_0",
+    "name": "deepseek-r1:14b-qwen-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  },
+  "7c72950ea94e": {
+    "href": "/library/deepseek-r1:14b-qwen-distill-fp16",
+    "name": "deepseek-r1:14b-qwen-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "30GB",
+    "size_str": "128K"
+  },
+  "b177522350a4": {
+    "href": "/library/deepseek-r1:32b-qwen-distill-q8_0",
+    "name": "deepseek-r1:32b-qwen-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "35GB",
+    "size_str": "128K"
+  },
+  "20ed0f80363b": {
+    "href": "/library/deepseek-r1:32b-qwen-distill-fp16",
+    "name": "deepseek-r1:32b-qwen-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "66GB",
+    "size_str": "128K"
+  },
+  "98d07a28d239": {
+    "href": "/library/deepseek-r1:70b-llama-distill-q8_0",
+    "name": "deepseek-r1:70b-llama-distill-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "75GB",
+    "size_str": "128K"
+  },
+  "7a7636f7c9fd": {
+    "href": "/library/deepseek-r1:70b-llama-distill-fp16",
+    "name": "deepseek-r1:70b-llama-distill-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "141GB",
+    "size_str": "128K"
+  },
+  "c483e7c247e3": {
+    "href": "/library/deepseek-r1:671b-0528-q8_0",
+    "name": "deepseek-r1:671b-0528-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "713GB",
+    "size_str": "160K"
+  },
+  "0eabebef839b": {
+    "href": "/library/deepseek-r1:671b-0528-fp16",
+    "name": "deepseek-r1:671b-0528-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "1.3TB",
+    "size_str": "160K"
+  },
+  "58e944f7074d": {
+    "href": "/library/deepseek-r1:671b-q4_K_M",
+    "name": "deepseek-r1:671b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "404GB",
+    "size_str": "160K"
+  },
+  "00fb327206ce": {
+    "href": "/library/deepseek-r1:671b-q8_0",
+    "name": "deepseek-r1:671b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "713GB",
+    "size_str": "160K"
+  },
+  "3f9ee65b4e69": {
+    "href": "/library/deepseek-r1:671b-fp16",
+    "name": "deepseek-r1:671b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "context_window": "1.3TB",
+    "size_str": "160K"
+  }
+}

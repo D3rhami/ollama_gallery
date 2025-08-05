@@ -1,0 +1,32 @@
+{
+  "9bd74193e939": {
+    "href": "/library/devstral:latest",
+    "name": "devstral:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "14GB",
+    "size_str": "128K"
+  },
+  "25a16f448fb3": {
+    "href": "/library/devstral:24b-small-2505-q8_0",
+    "name": "devstral:24b-small-2505-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "25GB",
+    "size_str": "128K"
+  },
+  "d1e6469472dc": {
+    "href": "/library/devstral:24b-small-2505-fp16",
+    "name": "devstral:24b-small-2505-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "context_window": "47GB",
+    "size_str": "128K"
+  }
+}

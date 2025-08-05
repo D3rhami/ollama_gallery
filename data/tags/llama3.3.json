@@ -1,0 +1,122 @@
+{
+  "a6eb4748fd29": {
+    "href": "/library/llama3.3:latest",
+    "name": "llama3.3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "43GB",
+    "size_str": "128K"
+  },
+  "a6f03da15cbc": {
+    "href": "/library/llama3.3:70b-instruct-q2_K",
+    "name": "llama3.3:70b-instruct-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "26GB",
+    "size_str": "128K"
+  },
+  "84d6ecd40b42": {
+    "href": "/library/llama3.3:70b-instruct-q3_K_S",
+    "name": "llama3.3:70b-instruct-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "31GB",
+    "size_str": "128K"
+  },
+  "151348be3103": {
+    "href": "/library/llama3.3:70b-instruct-q3_K_M",
+    "name": "llama3.3:70b-instruct-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "34GB",
+    "size_str": "128K"
+  },
+  "e5afe30ba419": {
+    "href": "/library/llama3.3:70b-instruct-q4_0",
+    "name": "llama3.3:70b-instruct-q4_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "40GB",
+    "size_str": "128K"
+  },
+  "3d546a04bbd5": {
+    "href": "/library/llama3.3:70b-instruct-q4_K_S",
+    "name": "llama3.3:70b-instruct-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "40GB",
+    "size_str": "128K"
+  },
+  "522f1b464c62": {
+    "href": "/library/llama3.3:70b-instruct-q5_0",
+    "name": "llama3.3:70b-instruct-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "49GB",
+    "size_str": "128K"
+  },
+  "118a0cbe95b2": {
+    "href": "/library/llama3.3:70b-instruct-q5_1",
+    "name": "llama3.3:70b-instruct-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "53GB",
+    "size_str": "128K"
+  },
+  "a495e09a0513": {
+    "href": "/library/llama3.3:70b-instruct-q5_K_M",
+    "name": "llama3.3:70b-instruct-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "50GB",
+    "size_str": "128K"
+  },
+  "992c05c90cd8": {
+    "href": "/library/llama3.3:70b-instruct-q6_K",
+    "name": "llama3.3:70b-instruct-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "58GB",
+    "size_str": "128K"
+  },
+  "d5b5e1b84868": {
+    "href": "/library/llama3.3:70b-instruct-q8_0",
+    "name": "llama3.3:70b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "75GB",
+    "size_str": "128K"
+  },
+  "8fbd361705a0": {
+    "href": "/library/llama3.3:70b-instruct-fp16",
+    "name": "llama3.3:70b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 months ago",
+    "context_window": "141GB",
+    "size_str": "128K"
+  }
+}

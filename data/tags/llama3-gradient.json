@@ -1,0 +1,302 @@
+{
+  "5d1398df5b8b": {
+    "href": "/library/llama3-gradient:latest",
+    "name": "llama3-gradient:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "1M"
+  },
+  "b5d6e9d0ae61": {
+    "href": "/library/llama3-gradient:70b",
+    "name": "llama3-gradient:70b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "40GB",
+    "size_str": "1M"
+  },
+  "c842eda5ddd5": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q2_K",
+    "name": "llama3-gradient:8b-instruct-1048k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "1M"
+  },
+  "ac6814bccbc9": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q3_K_S",
+    "name": "llama3-gradient:8b-instruct-1048k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.7GB",
+    "size_str": "1M"
+  },
+  "786019279b07": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q3_K_M",
+    "name": "llama3-gradient:8b-instruct-1048k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.0GB",
+    "size_str": "1M"
+  },
+  "5a2ea82ad056": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q3_K_L",
+    "name": "llama3-gradient:8b-instruct-1048k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.3GB",
+    "size_str": "1M"
+  },
+  "1e76a7e4e55b": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q4_1",
+    "name": "llama3-gradient:8b-instruct-1048k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "1M"
+  },
+  "419da1c2bc33": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q4_K_S",
+    "name": "llama3-gradient:8b-instruct-1048k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.7GB",
+    "size_str": "1M"
+  },
+  "3ba4af54f02f": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q4_K_M",
+    "name": "llama3-gradient:8b-instruct-1048k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.9GB",
+    "size_str": "1M"
+  },
+  "fcab91d085ad": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q5_0",
+    "name": "llama3-gradient:8b-instruct-1048k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "1M"
+  },
+  "778b4e9deda3": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q5_1",
+    "name": "llama3-gradient:8b-instruct-1048k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.1GB",
+    "size_str": "1M"
+  },
+  "a2a68d63519c": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q5_K_S",
+    "name": "llama3-gradient:8b-instruct-1048k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.6GB",
+    "size_str": "1M"
+  },
+  "279429844582": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q5_K_M",
+    "name": "llama3-gradient:8b-instruct-1048k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.7GB",
+    "size_str": "1M"
+  },
+  "9851a7dbda92": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q6_K",
+    "name": "llama3-gradient:8b-instruct-1048k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.6GB",
+    "size_str": "1M"
+  },
+  "543168ef36be": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-q8_0",
+    "name": "llama3-gradient:8b-instruct-1048k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.5GB",
+    "size_str": "1M"
+  },
+  "839e683046bb": {
+    "href": "/library/llama3-gradient:8b-instruct-1048k-fp16",
+    "name": "llama3-gradient:8b-instruct-1048k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "16GB",
+    "size_str": "1M"
+  },
+  "ed7c53c8b502": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q2_K",
+    "name": "llama3-gradient:70b-instruct-1048k-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "26GB",
+    "size_str": "1M"
+  },
+  "bdee3e061f75": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q3_K_S",
+    "name": "llama3-gradient:70b-instruct-1048k-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "31GB",
+    "size_str": "1M"
+  },
+  "e4fc265d59a8": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q3_K_M",
+    "name": "llama3-gradient:70b-instruct-1048k-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "34GB",
+    "size_str": "1M"
+  },
+  "a03cb0882529": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q3_K_L",
+    "name": "llama3-gradient:70b-instruct-1048k-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "37GB",
+    "size_str": "1M"
+  },
+  "4ecc3cc03c9a": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q4_1",
+    "name": "llama3-gradient:70b-instruct-1048k-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "44GB",
+    "size_str": "1M"
+  },
+  "8c990ff8dd67": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q4_K_S",
+    "name": "llama3-gradient:70b-instruct-1048k-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "40GB",
+    "size_str": "1M"
+  },
+  "b68ba521fab5": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q4_K_M",
+    "name": "llama3-gradient:70b-instruct-1048k-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "43GB",
+    "size_str": "1M"
+  },
+  "31e92584c546": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q5_0",
+    "name": "llama3-gradient:70b-instruct-1048k-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "1M"
+  },
+  "feafc730ced8": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q5_1",
+    "name": "llama3-gradient:70b-instruct-1048k-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "53GB",
+    "size_str": "1M"
+  },
+  "841f57c74a05": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q5_K_S",
+    "name": "llama3-gradient:70b-instruct-1048k-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "49GB",
+    "size_str": "1M"
+  },
+  "a3db61871133": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q5_K_M",
+    "name": "llama3-gradient:70b-instruct-1048k-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "50GB",
+    "size_str": "1M"
+  },
+  "d224f1d529ea": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q6_K",
+    "name": "llama3-gradient:70b-instruct-1048k-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "58GB",
+    "size_str": "1M"
+  },
+  "65fc2ffdd713": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-q8_0",
+    "name": "llama3-gradient:70b-instruct-1048k-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "75GB",
+    "size_str": "1M"
+  },
+  "cfcadecc99e9": {
+    "href": "/library/llama3-gradient:70b-instruct-1048k-fp16",
+    "name": "llama3-gradient:70b-instruct-1048k-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "141GB",
+    "size_str": "1M"
+  }
+}

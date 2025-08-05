@@ -1,0 +1,32 @@
+{
+  "d5ab9ae8e1f2": {
+    "href": "/library/dolphin3:latest",
+    "name": "dolphin3:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "4.9GB",
+    "size_str": "128K"
+  },
+  "e3310b61ffdb": {
+    "href": "/library/dolphin3:8b-llama3.1-q8_0",
+    "name": "dolphin3:8b-llama3.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "8.5GB",
+    "size_str": "128K"
+  },
+  "b0941c6f3226": {
+    "href": "/library/dolphin3:8b-llama3.1-fp16",
+    "name": "dolphin3:8b-llama3.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "context_window": "16GB",
+    "size_str": "128K"
+  }
+}

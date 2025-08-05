@@ -1,0 +1,342 @@
+{
+  "bbe38b81adec": {
+    "href": "/library/zephyr:latest",
+    "name": "zephyr:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "31b0b6c9d69f": {
+    "href": "/library/zephyr:141b",
+    "name": "zephyr:141b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "80GB",
+    "size_str": "64K"
+  },
+  "41db45eedfe5": {
+    "href": "/library/zephyr:7b-alpha",
+    "name": "zephyr:7b-alpha",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "499c406f90e6": {
+    "href": "/library/zephyr:7b-alpha-q2_K",
+    "name": "zephyr:7b-alpha-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "79e2d8538b1a": {
+    "href": "/library/zephyr:7b-alpha-q3_K_S",
+    "name": "zephyr:7b-alpha-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "baaa40d0a6ae": {
+    "href": "/library/zephyr:7b-alpha-q3_K_M",
+    "name": "zephyr:7b-alpha-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "2dca6ee2b47c": {
+    "href": "/library/zephyr:7b-alpha-q3_K_L",
+    "name": "zephyr:7b-alpha-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "def2c83c706e": {
+    "href": "/library/zephyr:7b-alpha-q4_1",
+    "name": "zephyr:7b-alpha-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "003038afd62d": {
+    "href": "/library/zephyr:7b-alpha-q4_K_S",
+    "name": "zephyr:7b-alpha-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "0fcbe7af791e": {
+    "href": "/library/zephyr:7b-alpha-q4_K_M",
+    "name": "zephyr:7b-alpha-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "110b09717ce9": {
+    "href": "/library/zephyr:7b-alpha-q5_0",
+    "name": "zephyr:7b-alpha-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "0484ef77caf6": {
+    "href": "/library/zephyr:7b-alpha-q5_1",
+    "name": "zephyr:7b-alpha-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "82eaf5453c6b": {
+    "href": "/library/zephyr:7b-alpha-q5_K_S",
+    "name": "zephyr:7b-alpha-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "107c6b2c9c4f": {
+    "href": "/library/zephyr:7b-alpha-q5_K_M",
+    "name": "zephyr:7b-alpha-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "69373e3f99d5": {
+    "href": "/library/zephyr:7b-alpha-q6_K",
+    "name": "zephyr:7b-alpha-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "0e68bba39b3d": {
+    "href": "/library/zephyr:7b-alpha-q8_0",
+    "name": "zephyr:7b-alpha-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "add59b7f7dab": {
+    "href": "/library/zephyr:7b-alpha-fp16",
+    "name": "zephyr:7b-alpha-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "2ba2da5abef9": {
+    "href": "/library/zephyr:7b-beta-q2_K",
+    "name": "zephyr:7b-beta-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.1GB",
+    "size_str": "32K"
+  },
+  "5a359ab6ce9c": {
+    "href": "/library/zephyr:7b-beta-q3_K_S",
+    "name": "zephyr:7b-beta-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.2GB",
+    "size_str": "32K"
+  },
+  "75a7002f3885": {
+    "href": "/library/zephyr:7b-beta-q3_K_M",
+    "name": "zephyr:7b-beta-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.5GB",
+    "size_str": "32K"
+  },
+  "410a8b7cbfbf": {
+    "href": "/library/zephyr:7b-beta-q3_K_L",
+    "name": "zephyr:7b-beta-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "3.8GB",
+    "size_str": "32K"
+  },
+  "9dda547ba87b": {
+    "href": "/library/zephyr:7b-beta-q4_1",
+    "name": "zephyr:7b-beta-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.6GB",
+    "size_str": "32K"
+  },
+  "c9e294ff1e6f": {
+    "href": "/library/zephyr:7b-beta-q4_K_S",
+    "name": "zephyr:7b-beta-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.1GB",
+    "size_str": "32K"
+  },
+  "961df065a980": {
+    "href": "/library/zephyr:7b-beta-q4_K_M",
+    "name": "zephyr:7b-beta-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "4.4GB",
+    "size_str": "32K"
+  },
+  "d9161a2d3687": {
+    "href": "/library/zephyr:7b-beta-q5_0",
+    "name": "zephyr:7b-beta-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "887c48b48ef2": {
+    "href": "/library/zephyr:7b-beta-q5_1",
+    "name": "zephyr:7b-beta-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.4GB",
+    "size_str": "32K"
+  },
+  "65d372ba8784": {
+    "href": "/library/zephyr:7b-beta-q5_K_S",
+    "name": "zephyr:7b-beta-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.0GB",
+    "size_str": "32K"
+  },
+  "482c06dc081a": {
+    "href": "/library/zephyr:7b-beta-q5_K_M",
+    "name": "zephyr:7b-beta-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.1GB",
+    "size_str": "32K"
+  },
+  "705bedf05d2e": {
+    "href": "/library/zephyr:7b-beta-q6_K",
+    "name": "zephyr:7b-beta-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "5.9GB",
+    "size_str": "32K"
+  },
+  "f684109a5a8d": {
+    "href": "/library/zephyr:7b-beta-q8_0",
+    "name": "zephyr:7b-beta-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.7GB",
+    "size_str": "32K"
+  },
+  "85a4e7a31862": {
+    "href": "/library/zephyr:7b-beta-fp16",
+    "name": "zephyr:7b-beta-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "32K"
+  },
+  "d5c73d340d28": {
+    "href": "/library/zephyr:141b-v0.1-q2_K",
+    "name": "zephyr:141b-v0.1-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "52GB",
+    "size_str": "64K"
+  },
+  "74c478cfbe57": {
+    "href": "/library/zephyr:141b-v0.1-q8_0",
+    "name": "zephyr:141b-v0.1-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "149GB",
+    "size_str": "64K"
+  },
+  "7bc5b262ff30": {
+    "href": "/library/zephyr:141b-v0.1-fp16",
+    "name": "zephyr:141b-v0.1-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "281GB",
+    "size_str": "64K"
+  }
+}

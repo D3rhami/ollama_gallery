@@ -1,0 +1,302 @@
+{
+  "7c8c332f2df7": {
+    "href": "/library/deepseek-v2:latest",
+    "name": "deepseek-v2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.9GB",
+    "size_str": "160K"
+  },
+  "459de16b5a9e": {
+    "href": "/library/deepseek-v2:236b",
+    "name": "deepseek-v2:236b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "133GB",
+    "size_str": "4K"
+  },
+  "5868c72b4e1f": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q2_K",
+    "name": "deepseek-v2:16b-lite-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "6.4GB",
+    "size_str": "4K"
+  },
+  "d36b0e4f46c1": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q3_K_S",
+    "name": "deepseek-v2:16b-lite-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "7.5GB",
+    "size_str": "4K"
+  },
+  "f6da52f6d22c": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q3_K_M",
+    "name": "deepseek-v2:16b-lite-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.1GB",
+    "size_str": "4K"
+  },
+  "c8183500d92e": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q3_K_L",
+    "name": "deepseek-v2:16b-lite-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "8.5GB",
+    "size_str": "4K"
+  },
+  "af64dfc98c26": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q4_1",
+    "name": "deepseek-v2:16b-lite-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.9GB",
+    "size_str": "4K"
+  },
+  "f605f2eeaf9e": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q4_K_S",
+    "name": "deepseek-v2:16b-lite-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "9.5GB",
+    "size_str": "4K"
+  },
+  "52fe6d77050a": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q4_K_M",
+    "name": "deepseek-v2:16b-lite-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "10GB",
+    "size_str": "4K"
+  },
+  "b01c353f491f": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q5_0",
+    "name": "deepseek-v2:16b-lite-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "9cd31f73558a": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q5_1",
+    "name": "deepseek-v2:16b-lite-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "d904df1d3b59": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q5_K_S",
+    "name": "deepseek-v2:16b-lite-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "11GB",
+    "size_str": "4K"
+  },
+  "597226602255": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q5_K_M",
+    "name": "deepseek-v2:16b-lite-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "12GB",
+    "size_str": "4K"
+  },
+  "94a6c57d6c9d": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q6_K",
+    "name": "deepseek-v2:16b-lite-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "14GB",
+    "size_str": "4K"
+  },
+  "1d62ef756269": {
+    "href": "/library/deepseek-v2:16b-lite-chat-q8_0",
+    "name": "deepseek-v2:16b-lite-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "17GB",
+    "size_str": "4K"
+  },
+  "15c96490eeee": {
+    "href": "/library/deepseek-v2:16b-lite-chat-fp16",
+    "name": "deepseek-v2:16b-lite-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "31GB",
+    "size_str": "4K"
+  },
+  "ab49a8da3233": {
+    "href": "/library/deepseek-v2:236b-chat-q2_K",
+    "name": "deepseek-v2:236b-chat-q2_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "86GB",
+    "size_str": "4K"
+  },
+  "0f85c13f95a5": {
+    "href": "/library/deepseek-v2:236b-chat-q3_K_S",
+    "name": "deepseek-v2:236b-chat-q3_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "102GB",
+    "size_str": "4K"
+  },
+  "ed3e5b18dfdf": {
+    "href": "/library/deepseek-v2:236b-chat-q3_K_M",
+    "name": "deepseek-v2:236b-chat-q3_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "113GB",
+    "size_str": "4K"
+  },
+  "8b50480a0f69": {
+    "href": "/library/deepseek-v2:236b-chat-q3_K_L",
+    "name": "deepseek-v2:236b-chat-q3_K_L",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "122GB",
+    "size_str": "4K"
+  },
+  "8ba51e080b59": {
+    "href": "/library/deepseek-v2:236b-chat-q4_1",
+    "name": "deepseek-v2:236b-chat-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "148GB",
+    "size_str": "4K"
+  },
+  "89b6c7579a77": {
+    "href": "/library/deepseek-v2:236b-chat-q4_K_S",
+    "name": "deepseek-v2:236b-chat-q4_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "134GB",
+    "size_str": "4K"
+  },
+  "dc16a9f67701": {
+    "href": "/library/deepseek-v2:236b-chat-q4_K_M",
+    "name": "deepseek-v2:236b-chat-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "142GB",
+    "size_str": "4K"
+  },
+  "d0c79ad6c4d8": {
+    "href": "/library/deepseek-v2:236b-chat-q5_0",
+    "name": "deepseek-v2:236b-chat-q5_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "bd9e0b0c8aa1": {
+    "href": "/library/deepseek-v2:236b-chat-q5_1",
+    "name": "deepseek-v2:236b-chat-q5_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "177GB",
+    "size_str": "4K"
+  },
+  "26f0f5933712": {
+    "href": "/library/deepseek-v2:236b-chat-q5_K_S",
+    "name": "deepseek-v2:236b-chat-q5_K_S",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "162GB",
+    "size_str": "4K"
+  },
+  "baeb44164dcf": {
+    "href": "/library/deepseek-v2:236b-chat-q5_K_M",
+    "name": "deepseek-v2:236b-chat-q5_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "167GB",
+    "size_str": "4K"
+  },
+  "40e1adc07959": {
+    "href": "/library/deepseek-v2:236b-chat-q6_K",
+    "name": "deepseek-v2:236b-chat-q6_K",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "194GB",
+    "size_str": "4K"
+  },
+  "e0ae3350cb1a": {
+    "href": "/library/deepseek-v2:236b-chat-q8_0",
+    "name": "deepseek-v2:236b-chat-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "251GB",
+    "size_str": "4K"
+  },
+  "190dd01cb12e": {
+    "href": "/library/deepseek-v2:236b-chat-fp16",
+    "name": "deepseek-v2:236b-chat-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 year ago",
+    "context_window": "472GB",
+    "size_str": "4K"
+  }
+}
