@@ -1,302 +1,392 @@
 {
   "483a8282af74": {
-    "href": "/library/nexusraven:latest",
+    "href": "https://ollama.com/library/nexusraven:latest",
     "name": "nexusraven:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.4GB"
+    "context_window_num": 16000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "335cee44ee6e": {
-    "href": "/library/nexusraven:13b-v2-q2_K",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q2_K",
     "name": "nexusraven:13b-v2-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.4GB"
+    "context_window_num": 16000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "e05ddc03a204": {
-    "href": "/library/nexusraven:13b-v2-q3_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q3_K_S",
     "name": "nexusraven:13b-v2-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.7GB"
+    "context_window_num": 16000,
+    "size_str": "5.7GB",
+    "size_num": 5700000000
   },
   "9c3abc556fee": {
-    "href": "/library/nexusraven:13b-v2-q3_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q3_K_M",
     "name": "nexusraven:13b-v2-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "6.3GB"
+    "context_window_num": 16000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "030244bdb058": {
-    "href": "/library/nexusraven:13b-v2-q3_K_L",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q3_K_L",
     "name": "nexusraven:13b-v2-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "6.9GB"
+    "context_window_num": 16000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "9d97f7422b57": {
-    "href": "/library/nexusraven:13b-v2-q4_1",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q4_1",
     "name": "nexusraven:13b-v2-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "8.2GB"
+    "context_window_num": 16000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "d922b5f359d4": {
-    "href": "/library/nexusraven:13b-v2-q4_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q4_K_S",
     "name": "nexusraven:13b-v2-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.4GB"
+    "context_window_num": 16000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "c686cfb91b9b": {
-    "href": "/library/nexusraven:13b-v2-q4_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q4_K_M",
     "name": "nexusraven:13b-v2-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.9GB"
+    "context_window_num": 16000,
+    "size_str": "7.9GB",
+    "size_num": 7900000000
   },
   "93d134582405": {
-    "href": "/library/nexusraven:13b-v2-q5_0",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q5_0",
     "name": "nexusraven:13b-v2-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.0GB"
+    "context_window_num": 16000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "223215c51cfb": {
-    "href": "/library/nexusraven:13b-v2-q5_1",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q5_1",
     "name": "nexusraven:13b-v2-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.8GB"
+    "context_window_num": 16000,
+    "size_str": "9.8GB",
+    "size_num": 9800000000
   },
   "506b8b5250ba": {
-    "href": "/library/nexusraven:13b-v2-q5_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q5_K_S",
     "name": "nexusraven:13b-v2-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.0GB"
+    "context_window_num": 16000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "8754f5363618": {
-    "href": "/library/nexusraven:13b-v2-q5_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q5_K_M",
     "name": "nexusraven:13b-v2-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.2GB"
+    "context_window_num": 16000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "d81ebb5a6f93": {
-    "href": "/library/nexusraven:13b-v2-q6_K",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q6_K",
     "name": "nexusraven:13b-v2-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "11GB"
+    "context_window_num": 16000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "2f770812d079": {
-    "href": "/library/nexusraven:13b-v2-q8_0",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-q8_0",
     "name": "nexusraven:13b-v2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "14GB"
+    "context_window_num": 16000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "6e9f4b4dff57": {
-    "href": "/library/nexusraven:13b-v2-fp16",
+    "href": "https://ollama.com/library/nexusraven:13b-v2-fp16",
     "name": "nexusraven:13b-v2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "26GB"
+    "context_window_num": 16000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   },
   "88af7c885f6d": {
-    "href": "/library/nexusraven:13b-q2_K",
+    "href": "https://ollama.com/library/nexusraven:13b-q2_K",
     "name": "nexusraven:13b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.4GB"
+    "context_window_num": 16000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "c327bf4400c3": {
-    "href": "/library/nexusraven:13b-q3_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-q3_K_S",
     "name": "nexusraven:13b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.7GB"
+    "context_window_num": 16000,
+    "size_str": "5.7GB",
+    "size_num": 5700000000
   },
   "32ee186898d8": {
-    "href": "/library/nexusraven:13b-q3_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-q3_K_M",
     "name": "nexusraven:13b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "6.3GB"
+    "context_window_num": 16000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "be1c4d4ebf80": {
-    "href": "/library/nexusraven:13b-q3_K_L",
+    "href": "https://ollama.com/library/nexusraven:13b-q3_K_L",
     "name": "nexusraven:13b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "6.9GB"
+    "context_window_num": 16000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "336957c1d527": {
-    "href": "/library/nexusraven:13b-q4_0",
+    "href": "https://ollama.com/library/nexusraven:13b-q4_0",
     "name": "nexusraven:13b-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.4GB"
+    "context_window_num": 16000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "cc0185e939a9": {
-    "href": "/library/nexusraven:13b-q4_1",
+    "href": "https://ollama.com/library/nexusraven:13b-q4_1",
     "name": "nexusraven:13b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "8.2GB"
+    "context_window_num": 16000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "01ab3a1e2bd0": {
-    "href": "/library/nexusraven:13b-q4_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-q4_K_S",
     "name": "nexusraven:13b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.4GB"
+    "context_window_num": 16000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "869ecaf32849": {
-    "href": "/library/nexusraven:13b-q4_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-q4_K_M",
     "name": "nexusraven:13b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.9GB"
+    "context_window_num": 16000,
+    "size_str": "7.9GB",
+    "size_num": 7900000000
   },
   "1edef32ba6b0": {
-    "href": "/library/nexusraven:13b-q5_0",
+    "href": "https://ollama.com/library/nexusraven:13b-q5_0",
     "name": "nexusraven:13b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.0GB"
+    "context_window_num": 16000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "5695d35736eb": {
-    "href": "/library/nexusraven:13b-q5_1",
+    "href": "https://ollama.com/library/nexusraven:13b-q5_1",
     "name": "nexusraven:13b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.8GB"
+    "context_window_num": 16000,
+    "size_str": "9.8GB",
+    "size_num": 9800000000
   },
   "d47e757e2f8a": {
-    "href": "/library/nexusraven:13b-q5_K_S",
+    "href": "https://ollama.com/library/nexusraven:13b-q5_K_S",
     "name": "nexusraven:13b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.0GB"
+    "context_window_num": 16000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "3ba5150eacb6": {
-    "href": "/library/nexusraven:13b-q5_K_M",
+    "href": "https://ollama.com/library/nexusraven:13b-q5_K_M",
     "name": "nexusraven:13b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "9.2GB"
+    "context_window_num": 16000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "fa629e4e0d35": {
-    "href": "/library/nexusraven:13b-q6_K",
+    "href": "https://ollama.com/library/nexusraven:13b-q6_K",
     "name": "nexusraven:13b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "11GB"
+    "context_window_num": 16000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "25fba36ef0af": {
-    "href": "/library/nexusraven:13b-q8_0",
+    "href": "https://ollama.com/library/nexusraven:13b-q8_0",
     "name": "nexusraven:13b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "14GB"
+    "context_window_num": 16000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "038c3ee38ca3": {
-    "href": "/library/nexusraven:13b-fp16",
+    "href": "https://ollama.com/library/nexusraven:13b-fp16",
     "name": "nexusraven:13b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "26GB"
+    "context_window_num": 16000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   }
 }

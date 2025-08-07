@@ -1,452 +1,587 @@
 {
   "cef4a1e09247": {
-    "href": "/library/smollm2:latest",
+    "href": "https://ollama.com/library/smollm2:latest",
     "name": "smollm2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.8GB"
+    "context_window_num": 8000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "9077fe9d2ae1": {
-    "href": "/library/smollm2:135m",
+    "href": "https://ollama.com/library/smollm2:135m",
     "name": "smollm2:135m",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "271MB"
+    "context_window_num": 8000,
+    "size_str": "271MB",
+    "size_num": 271000000
   },
   "297281b699fc": {
-    "href": "/library/smollm2:360m",
+    "href": "https://ollama.com/library/smollm2:360m",
     "name": "smollm2:360m",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "726MB"
+    "context_window_num": 8000,
+    "size_str": "726MB",
+    "size_num": 726000000
   },
   "888e2e49aff1": {
-    "href": "/library/smollm2:135m-instruct-q2_K",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q2_K",
     "name": "smollm2:135m-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "88MB"
+    "context_window_num": 8000,
+    "size_str": "88MB",
+    "size_num": 88000000
   },
   "ea68556e2fe1": {
-    "href": "/library/smollm2:135m-instruct-q3_K_S",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q3_K_S",
     "name": "smollm2:135m-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "88MB"
+    "context_window_num": 8000,
+    "size_str": "88MB",
+    "size_num": 88000000
   },
   "970418f9b140": {
-    "href": "/library/smollm2:135m-instruct-q3_K_M",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q3_K_M",
     "name": "smollm2:135m-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "94MB"
+    "context_window_num": 8000,
+    "size_str": "94MB",
+    "size_num": 94000000
   },
   "c72ffea38f60": {
-    "href": "/library/smollm2:135m-instruct-q3_K_L",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q3_K_L",
     "name": "smollm2:135m-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "98MB"
+    "context_window_num": 8000,
+    "size_str": "98MB",
+    "size_num": 98000000
   },
   "dbc9f6c89cb0": {
-    "href": "/library/smollm2:135m-instruct-q4_0",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q4_0",
     "name": "smollm2:135m-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "92MB"
+    "context_window_num": 8000,
+    "size_str": "92MB",
+    "size_num": 92000000
   },
   "1e7dbfd9f706": {
-    "href": "/library/smollm2:135m-instruct-q4_1",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q4_1",
     "name": "smollm2:135m-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "98MB"
+    "context_window_num": 8000,
+    "size_str": "98MB",
+    "size_num": 98000000
   },
   "9a7ead04933f": {
-    "href": "/library/smollm2:135m-instruct-q4_K_S",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q4_K_S",
     "name": "smollm2:135m-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "102MB"
+    "context_window_num": 8000,
+    "size_str": "102MB",
+    "size_num": 102000000
   },
   "fd3168509652": {
-    "href": "/library/smollm2:135m-instruct-q4_K_M",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q4_K_M",
     "name": "smollm2:135m-instruct-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "105MB"
+    "context_window_num": 8000,
+    "size_str": "105MB",
+    "size_num": 105000000
   },
   "b4ae22539f3f": {
-    "href": "/library/smollm2:135m-instruct-q5_0",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q5_0",
     "name": "smollm2:135m-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "105MB"
+    "context_window_num": 8000,
+    "size_str": "105MB",
+    "size_num": 105000000
   },
   "e8d2ad7e6838": {
-    "href": "/library/smollm2:135m-instruct-q5_1",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q5_1",
     "name": "smollm2:135m-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "112MB"
+    "context_window_num": 8000,
+    "size_str": "112MB",
+    "size_num": 112000000
   },
   "11d6886e86ff": {
-    "href": "/library/smollm2:135m-instruct-q5_K_S",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q5_K_S",
     "name": "smollm2:135m-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "110MB"
+    "context_window_num": 8000,
+    "size_str": "110MB",
+    "size_num": 110000000
   },
   "a703ae7fccb0": {
-    "href": "/library/smollm2:135m-instruct-q5_K_M",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q5_K_M",
     "name": "smollm2:135m-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "112MB"
+    "context_window_num": 8000,
+    "size_str": "112MB",
+    "size_num": 112000000
   },
   "6e8e767c0cee": {
-    "href": "/library/smollm2:135m-instruct-q6_K",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q6_K",
     "name": "smollm2:135m-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "138MB"
+    "context_window_num": 8000,
+    "size_str": "138MB",
+    "size_num": 138000000
   },
   "2d470404841a": {
-    "href": "/library/smollm2:135m-instruct-q8_0",
+    "href": "https://ollama.com/library/smollm2:135m-instruct-q8_0",
     "name": "smollm2:135m-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "145MB"
+    "context_window_num": 8000,
+    "size_str": "145MB",
+    "size_num": 145000000
   },
   "54be4fc61f4d": {
-    "href": "/library/smollm2:360m-instruct-q2_K",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q2_K",
     "name": "smollm2:360m-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "219MB"
+    "context_window_num": 8000,
+    "size_str": "219MB",
+    "size_num": 219000000
   },
   "a601e4ea2064": {
-    "href": "/library/smollm2:360m-instruct-q3_K_S",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q3_K_S",
     "name": "smollm2:360m-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "219MB"
+    "context_window_num": 8000,
+    "size_str": "219MB",
+    "size_num": 219000000
   },
   "0178f7a9b2a2": {
-    "href": "/library/smollm2:360m-instruct-q3_K_M",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q3_K_M",
     "name": "smollm2:360m-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "235MB"
+    "context_window_num": 8000,
+    "size_str": "235MB",
+    "size_num": 235000000
   },
   "43b5786c7936": {
-    "href": "/library/smollm2:360m-instruct-q3_K_L",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q3_K_L",
     "name": "smollm2:360m-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "246MB"
+    "context_window_num": 8000,
+    "size_str": "246MB",
+    "size_num": 246000000
   },
   "676f4c06b139": {
-    "href": "/library/smollm2:360m-instruct-q4_0",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q4_0",
     "name": "smollm2:360m-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "229MB"
+    "context_window_num": 8000,
+    "size_str": "229MB",
+    "size_num": 229000000
   },
   "105941c87459": {
-    "href": "/library/smollm2:360m-instruct-q4_1",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q4_1",
     "name": "smollm2:360m-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "249MB"
+    "context_window_num": 8000,
+    "size_str": "249MB",
+    "size_num": 249000000
   },
   "c03645f8e0dc": {
-    "href": "/library/smollm2:360m-instruct-q4_K_S",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q4_K_S",
     "name": "smollm2:360m-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "260MB"
+    "context_window_num": 8000,
+    "size_str": "260MB",
+    "size_num": 260000000
   },
   "4ca41655e80e": {
-    "href": "/library/smollm2:360m-instruct-q4_K_M",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q4_K_M",
     "name": "smollm2:360m-instruct-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "271MB"
+    "context_window_num": 8000,
+    "size_str": "271MB",
+    "size_num": 271000000
   },
   "456bcbe27a48": {
-    "href": "/library/smollm2:360m-instruct-q5_0",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q5_0",
     "name": "smollm2:360m-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "268MB"
+    "context_window_num": 8000,
+    "size_str": "268MB",
+    "size_num": 268000000
   },
   "3bcd2b075c64": {
-    "href": "/library/smollm2:360m-instruct-q5_1",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q5_1",
     "name": "smollm2:360m-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "288MB"
+    "context_window_num": 8000,
+    "size_str": "288MB",
+    "size_num": 288000000
   },
   "8d5a33b7fc41": {
-    "href": "/library/smollm2:360m-instruct-q5_K_S",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q5_K_S",
     "name": "smollm2:360m-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "283MB"
+    "context_window_num": 8000,
+    "size_str": "283MB",
+    "size_num": 283000000
   },
   "a2f10c17100d": {
-    "href": "/library/smollm2:360m-instruct-q5_K_M",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q5_K_M",
     "name": "smollm2:360m-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "290MB"
+    "context_window_num": 8000,
+    "size_str": "290MB",
+    "size_num": 290000000
   },
   "0b45c0118489": {
-    "href": "/library/smollm2:360m-instruct-q6_K",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q6_K",
     "name": "smollm2:360m-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "367MB"
+    "context_window_num": 8000,
+    "size_str": "367MB",
+    "size_num": 367000000
   },
   "dfd48b1fa28f": {
-    "href": "/library/smollm2:360m-instruct-q8_0",
+    "href": "https://ollama.com/library/smollm2:360m-instruct-q8_0",
     "name": "smollm2:360m-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "386MB"
+    "context_window_num": 8000,
+    "size_str": "386MB",
+    "size_num": 386000000
   },
   "c9fa799834eb": {
-    "href": "/library/smollm2:1.7b-instruct-q2_K",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q2_K",
     "name": "smollm2:1.7b-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "675MB"
+    "context_window_num": 8000,
+    "size_str": "675MB",
+    "size_num": 675000000
   },
   "5f6dd832de68": {
-    "href": "/library/smollm2:1.7b-instruct-q3_K_S",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q3_K_S",
     "name": "smollm2:1.7b-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "777MB"
+    "context_window_num": 8000,
+    "size_str": "777MB",
+    "size_num": 777000000
   },
   "995c3b9124da": {
-    "href": "/library/smollm2:1.7b-instruct-q3_K_M",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q3_K_M",
     "name": "smollm2:1.7b-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "860MB"
+    "context_window_num": 8000,
+    "size_str": "860MB",
+    "size_num": 860000000
   },
   "8e9bf65b4fc1": {
-    "href": "/library/smollm2:1.7b-instruct-q3_K_L",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q3_K_L",
     "name": "smollm2:1.7b-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "933MB"
+    "context_window_num": 8000,
+    "size_str": "933MB",
+    "size_num": 933000000
   },
   "4c11ca6ef836": {
-    "href": "/library/smollm2:1.7b-instruct-q4_0",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q4_0",
     "name": "smollm2:1.7b-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "991MB"
+    "context_window_num": 8000,
+    "size_str": "991MB",
+    "size_num": 991000000
   },
   "aee2f3421da8": {
-    "href": "/library/smollm2:1.7b-instruct-q4_1",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q4_1",
     "name": "smollm2:1.7b-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.1GB"
+    "context_window_num": 8000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "fa70e3e2531f": {
-    "href": "/library/smollm2:1.7b-instruct-q4_K_S",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q4_K_S",
     "name": "smollm2:1.7b-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "999MB"
+    "context_window_num": 8000,
+    "size_str": "999MB",
+    "size_num": 999000000
   },
   "8ea75f835db9": {
-    "href": "/library/smollm2:1.7b-instruct-q4_K_M",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q4_K_M",
     "name": "smollm2:1.7b-instruct-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.1GB"
+    "context_window_num": 8000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "b8b1fb6cc166": {
-    "href": "/library/smollm2:1.7b-instruct-q5_0",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q5_0",
     "name": "smollm2:1.7b-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.2GB"
+    "context_window_num": 8000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "f46b4fa8622d": {
-    "href": "/library/smollm2:1.7b-instruct-q5_1",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q5_1",
     "name": "smollm2:1.7b-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.3GB"
+    "context_window_num": 8000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "042ddeb76d9e": {
-    "href": "/library/smollm2:1.7b-instruct-q5_K_S",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q5_K_S",
     "name": "smollm2:1.7b-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.2GB"
+    "context_window_num": 8000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "ff2bf7135787": {
-    "href": "/library/smollm2:1.7b-instruct-q5_K_M",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q5_K_M",
     "name": "smollm2:1.7b-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.2GB"
+    "context_window_num": 8000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "d334c54e8df6": {
-    "href": "/library/smollm2:1.7b-instruct-q6_K",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-q6_K",
     "name": "smollm2:1.7b-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "1.4GB"
+    "context_window_num": 8000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "4dfa5c286f7d": {
-    "href": "/library/smollm2:1.7b-instruct-fp16",
+    "href": "https://ollama.com/library/smollm2:1.7b-instruct-fp16",
     "name": "smollm2:1.7b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "8K",
-    "size_str": "3.4GB"
+    "context_window_num": 8000,
+    "size_str": "3.4GB",
+    "size_num": 3400000000
   }
 }

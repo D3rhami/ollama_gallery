@@ -1,152 +1,197 @@
 {
   "61819fb370a3": {
-    "href": "/library/phi3.5:latest",
+    "href": "https://ollama.com/library/phi3.5:latest",
     "name": "phi3.5:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.2GB"
+    "context_window_num": 4000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "45b8dc82a846": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q2_K",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q2_K",
     "name": "phi3.5:3.8b-mini-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "1.4GB"
+    "context_window_num": 4000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "a96deac0d01a": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_S",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q3_K_S",
     "name": "phi3.5:3.8b-mini-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "1.7GB"
+    "context_window_num": 4000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "0d7837063f04": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_M",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q3_K_M",
     "name": "phi3.5:3.8b-mini-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.0GB"
+    "context_window_num": 4000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "1a0c69ceca7c": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q3_K_L",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q3_K_L",
     "name": "phi3.5:3.8b-mini-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.1GB"
+    "context_window_num": 4000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "4cbfba8563ff": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q4_1",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q4_1",
     "name": "phi3.5:3.8b-mini-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.4GB"
+    "context_window_num": 4000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "593801e5a118": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q4_K_S",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q4_K_S",
     "name": "phi3.5:3.8b-mini-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.2GB"
+    "context_window_num": 4000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "570961596984": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q4_K_M",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q4_K_M",
     "name": "phi3.5:3.8b-mini-instruct-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.4GB"
+    "context_window_num": 4000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "08d2a846d344": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q5_0",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q5_0",
     "name": "phi3.5:3.8b-mini-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.6GB"
+    "context_window_num": 4000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
   },
   "56d7624b988b": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q5_1",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q5_1",
     "name": "phi3.5:3.8b-mini-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.9GB"
+    "context_window_num": 4000,
+    "size_str": "2.9GB",
+    "size_num": 2900000000
   },
   "359cb1eb71b5": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q5_K_S",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q5_K_S",
     "name": "phi3.5:3.8b-mini-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.6GB"
+    "context_window_num": 4000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
   },
   "d8410edb4013": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q5_K_M",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q5_K_M",
     "name": "phi3.5:3.8b-mini-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "2.8GB"
+    "context_window_num": 4000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
   },
   "64777e5c6803": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q6_K",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q6_K",
     "name": "phi3.5:3.8b-mini-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "3.1GB"
+    "context_window_num": 4000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "8b50e8e1e216": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-q8_0",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-q8_0",
     "name": "phi3.5:3.8b-mini-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "4.1GB"
+    "context_window_num": 4000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "4611ed13d496": {
-    "href": "/library/phi3.5:3.8b-mini-instruct-fp16",
+    "href": "https://ollama.com/library/phi3.5:3.8b-mini-instruct-fp16",
     "name": "phi3.5:3.8b-mini-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "4K",
-    "size_str": "7.6GB"
+    "context_window_num": 4000,
+    "size_str": "7.6GB",
+    "size_num": 7600000000
   }
 }

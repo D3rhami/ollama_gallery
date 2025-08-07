@@ -1,292 +1,379 @@
 {
   "8e9c368a0ae4": {
-    "href": "/library/yarn-mistral:latest",
+    "href": "https://ollama.com/library/yarn-mistral:latest",
     "name": "yarn-mistral:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "6511b83c33d5": {
-    "href": "/library/yarn-mistral:7b-128k",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k",
     "name": "yarn-mistral:7b-128k",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "4.1GB"
+    "context_window_num": 128000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "4801801e65c9": {
-    "href": "/library/yarn-mistral:7b-128k-q2_K",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q2_K",
     "name": "yarn-mistral:7b-128k-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "3.1GB"
+    "context_window_num": 128000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "150773407811": {
-    "href": "/library/yarn-mistral:7b-128k-q3_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q3_K_S",
     "name": "yarn-mistral:7b-128k-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "3.2GB"
+    "context_window_num": 128000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "c910ed0b2220": {
-    "href": "/library/yarn-mistral:7b-128k-q3_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q3_K_M",
     "name": "yarn-mistral:7b-128k-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "3.5GB"
+    "context_window_num": 128000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "04e1735cc221": {
-    "href": "/library/yarn-mistral:7b-128k-q3_K_L",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q3_K_L",
     "name": "yarn-mistral:7b-128k-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "3.8GB"
+    "context_window_num": 128000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "2f2460d79fe1": {
-    "href": "/library/yarn-mistral:7b-128k-q4_1",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q4_1",
     "name": "yarn-mistral:7b-128k-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "4.6GB"
+    "context_window_num": 128000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "60021a54efbe": {
-    "href": "/library/yarn-mistral:7b-128k-q4_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q4_K_S",
     "name": "yarn-mistral:7b-128k-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "4.1GB"
+    "context_window_num": 128000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "b29d79d2f3ef": {
-    "href": "/library/yarn-mistral:7b-128k-q4_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q4_K_M",
     "name": "yarn-mistral:7b-128k-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "4.4GB"
+    "context_window_num": 128000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "f6e752bb89ba": {
-    "href": "/library/yarn-mistral:7b-128k-q5_0",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q5_0",
     "name": "yarn-mistral:7b-128k-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "5.0GB"
+    "context_window_num": 128000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "27a21ac0ee02": {
-    "href": "/library/yarn-mistral:7b-128k-q5_1",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q5_1",
     "name": "yarn-mistral:7b-128k-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "5.4GB"
+    "context_window_num": 128000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "48e075e27562": {
-    "href": "/library/yarn-mistral:7b-128k-q5_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q5_K_S",
     "name": "yarn-mistral:7b-128k-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "5.0GB"
+    "context_window_num": 128000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "e73d718076ea": {
-    "href": "/library/yarn-mistral:7b-128k-q5_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q5_K_M",
     "name": "yarn-mistral:7b-128k-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "5.1GB"
+    "context_window_num": 128000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "d2efb1f4a053": {
-    "href": "/library/yarn-mistral:7b-128k-q6_K",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q6_K",
     "name": "yarn-mistral:7b-128k-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "5.9GB"
+    "context_window_num": 128000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "c7d7fcc635b3": {
-    "href": "/library/yarn-mistral:7b-128k-q8_0",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-q8_0",
     "name": "yarn-mistral:7b-128k-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "7.7GB"
+    "context_window_num": 128000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "24fcccd3ec98": {
-    "href": "/library/yarn-mistral:7b-128k-fp16",
+    "href": "https://ollama.com/library/yarn-mistral:7b-128k-fp16",
     "name": "yarn-mistral:7b-128k-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "128K",
-    "size_str": "14GB"
+    "context_window_num": 128000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "7e69098a0185": {
-    "href": "/library/yarn-mistral:7b-64k-q2_K",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q2_K",
     "name": "yarn-mistral:7b-64k-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "9f1a8b3eec09": {
-    "href": "/library/yarn-mistral:7b-64k-q3_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q3_K_S",
     "name": "yarn-mistral:7b-64k-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "2fe3d1edecaa": {
-    "href": "/library/yarn-mistral:7b-64k-q3_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q3_K_M",
     "name": "yarn-mistral:7b-64k-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "6fec537d7505": {
-    "href": "/library/yarn-mistral:7b-64k-q3_K_L",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q3_K_L",
     "name": "yarn-mistral:7b-64k-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "0b1ddb2af722": {
-    "href": "/library/yarn-mistral:7b-64k-q4_1",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q4_1",
     "name": "yarn-mistral:7b-64k-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "6a3c24b1e938": {
-    "href": "/library/yarn-mistral:7b-64k-q4_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q4_K_S",
     "name": "yarn-mistral:7b-64k-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "f9434e5ec017": {
-    "href": "/library/yarn-mistral:7b-64k-q4_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q4_K_M",
     "name": "yarn-mistral:7b-64k-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "917060ebb0d8": {
-    "href": "/library/yarn-mistral:7b-64k-q5_0",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q5_0",
     "name": "yarn-mistral:7b-64k-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "5efec29a0821": {
-    "href": "/library/yarn-mistral:7b-64k-q5_1",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q5_1",
     "name": "yarn-mistral:7b-64k-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "1fb11cbfb6ad": {
-    "href": "/library/yarn-mistral:7b-64k-q5_K_S",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q5_K_S",
     "name": "yarn-mistral:7b-64k-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "1ac045b0f86f": {
-    "href": "/library/yarn-mistral:7b-64k-q5_K_M",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q5_K_M",
     "name": "yarn-mistral:7b-64k-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "c3108d901ef7": {
-    "href": "/library/yarn-mistral:7b-64k-q6_K",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q6_K",
     "name": "yarn-mistral:7b-64k-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "236ce568b73c": {
-    "href": "/library/yarn-mistral:7b-64k-q8_0",
+    "href": "https://ollama.com/library/yarn-mistral:7b-64k-q8_0",
     "name": "yarn-mistral:7b-64k-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   }
 }

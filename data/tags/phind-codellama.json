@@ -1,452 +1,587 @@
 {
   "566e1b629c44": {
-    "href": "/library/phind-codellama:latest",
+    "href": "https://ollama.com/library/phind-codellama:latest",
     "name": "phind-codellama:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "bec19e8c92a4": {
-    "href": "/library/phind-codellama:34b-python",
+    "href": "https://ollama.com/library/phind-codellama:34b-python",
     "name": "phind-codellama:34b-python",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "ec960206aec5": {
-    "href": "/library/phind-codellama:34b-python-q2_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q2_K",
     "name": "phind-codellama:34b-python-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "14GB"
+    "context_window_num": 16000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "c3824169defc": {
-    "href": "/library/phind-codellama:34b-python-q3_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q3_K_S",
     "name": "phind-codellama:34b-python-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "15GB"
+    "context_window_num": 16000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "2fdf965466dc": {
-    "href": "/library/phind-codellama:34b-python-q3_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q3_K_M",
     "name": "phind-codellama:34b-python-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "16GB"
+    "context_window_num": 16000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "3f3a01944dd3": {
-    "href": "/library/phind-codellama:34b-python-q3_K_L",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q3_K_L",
     "name": "phind-codellama:34b-python-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "18GB"
+    "context_window_num": 16000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "1e799451044b": {
-    "href": "/library/phind-codellama:34b-python-q4_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q4_1",
     "name": "phind-codellama:34b-python-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "21GB"
+    "context_window_num": 16000,
+    "size_str": "21GB",
+    "size_num": 21000000000
   },
   "93eea7c40d0a": {
-    "href": "/library/phind-codellama:34b-python-q4_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q4_K_S",
     "name": "phind-codellama:34b-python-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "9db39448a8ce": {
-    "href": "/library/phind-codellama:34b-python-q4_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q4_K_M",
     "name": "phind-codellama:34b-python-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "20GB"
+    "context_window_num": 16000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "cf6a273569bd": {
-    "href": "/library/phind-codellama:34b-python-q5_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q5_0",
     "name": "phind-codellama:34b-python-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "360441d0c9a7": {
-    "href": "/library/phind-codellama:34b-python-q5_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q5_1",
     "name": "phind-codellama:34b-python-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "25GB"
+    "context_window_num": 16000,
+    "size_str": "25GB",
+    "size_num": 25000000000
   },
   "c6e28b3d23b5": {
-    "href": "/library/phind-codellama:34b-python-q5_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q5_K_S",
     "name": "phind-codellama:34b-python-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "29b239cdf720": {
-    "href": "/library/phind-codellama:34b-python-q5_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q5_K_M",
     "name": "phind-codellama:34b-python-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "24GB"
+    "context_window_num": 16000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "947f17e83d4f": {
-    "href": "/library/phind-codellama:34b-python-q6_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q6_K",
     "name": "phind-codellama:34b-python-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "28GB"
+    "context_window_num": 16000,
+    "size_str": "28GB",
+    "size_num": 28000000000
   },
   "29b33e343713": {
-    "href": "/library/phind-codellama:34b-python-q8_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-q8_0",
     "name": "phind-codellama:34b-python-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "36GB"
+    "context_window_num": 16000,
+    "size_str": "36GB",
+    "size_num": 36000000000
   },
   "ccb9074a8061": {
-    "href": "/library/phind-codellama:34b-python-fp16",
+    "href": "https://ollama.com/library/phind-codellama:34b-python-fp16",
     "name": "phind-codellama:34b-python-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "67GB"
+    "context_window_num": 16000,
+    "size_str": "67GB",
+    "size_num": 67000000000
   },
   "b8f09c086e17": {
-    "href": "/library/phind-codellama:34b-v2-q2_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q2_K",
     "name": "phind-codellama:34b-v2-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "14GB"
+    "context_window_num": 16000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "a199982685d4": {
-    "href": "/library/phind-codellama:34b-v2-q3_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q3_K_S",
     "name": "phind-codellama:34b-v2-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "15GB"
+    "context_window_num": 16000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "c7405152b04e": {
-    "href": "/library/phind-codellama:34b-v2-q3_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q3_K_M",
     "name": "phind-codellama:34b-v2-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "16GB"
+    "context_window_num": 16000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "1cbabad8eaf0": {
-    "href": "/library/phind-codellama:34b-v2-q3_K_L",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q3_K_L",
     "name": "phind-codellama:34b-v2-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "18GB"
+    "context_window_num": 16000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "5501c45c64ca": {
-    "href": "/library/phind-codellama:34b-v2-q4_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q4_1",
     "name": "phind-codellama:34b-v2-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "21GB"
+    "context_window_num": 16000,
+    "size_str": "21GB",
+    "size_num": 21000000000
   },
   "0e53590617a2": {
-    "href": "/library/phind-codellama:34b-v2-q4_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q4_K_S",
     "name": "phind-codellama:34b-v2-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "054af98f0f54": {
-    "href": "/library/phind-codellama:34b-v2-q4_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q4_K_M",
     "name": "phind-codellama:34b-v2-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "20GB"
+    "context_window_num": 16000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "6f980beef3c6": {
-    "href": "/library/phind-codellama:34b-v2-q5_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q5_0",
     "name": "phind-codellama:34b-v2-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "dd20f2f822e3": {
-    "href": "/library/phind-codellama:34b-v2-q5_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q5_1",
     "name": "phind-codellama:34b-v2-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "25GB"
+    "context_window_num": 16000,
+    "size_str": "25GB",
+    "size_num": 25000000000
   },
   "9869afbcdbc2": {
-    "href": "/library/phind-codellama:34b-v2-q5_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q5_K_S",
     "name": "phind-codellama:34b-v2-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "eb9f2c7a1c66": {
-    "href": "/library/phind-codellama:34b-v2-q5_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q5_K_M",
     "name": "phind-codellama:34b-v2-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "24GB"
+    "context_window_num": 16000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "c8e2f15ce087": {
-    "href": "/library/phind-codellama:34b-v2-q6_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q6_K",
     "name": "phind-codellama:34b-v2-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "28GB"
+    "context_window_num": 16000,
+    "size_str": "28GB",
+    "size_num": 28000000000
   },
   "b6329a948210": {
-    "href": "/library/phind-codellama:34b-v2-q8_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-q8_0",
     "name": "phind-codellama:34b-v2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "36GB"
+    "context_window_num": 16000,
+    "size_str": "36GB",
+    "size_num": 36000000000
   },
   "f625b25bd3f0": {
-    "href": "/library/phind-codellama:34b-v2-fp16",
+    "href": "https://ollama.com/library/phind-codellama:34b-v2-fp16",
     "name": "phind-codellama:34b-v2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "67GB"
+    "context_window_num": 16000,
+    "size_str": "67GB",
+    "size_num": 67000000000
   },
   "28dc02b3983c": {
-    "href": "/library/phind-codellama:34b-q2_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-q2_K",
     "name": "phind-codellama:34b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "14GB"
+    "context_window_num": 16000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "a6d5f0d91c7c": {
-    "href": "/library/phind-codellama:34b-q3_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-q3_K_S",
     "name": "phind-codellama:34b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "15GB"
+    "context_window_num": 16000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "dab76ba3bf38": {
-    "href": "/library/phind-codellama:34b-q3_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-q3_K_M",
     "name": "phind-codellama:34b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "16GB"
+    "context_window_num": 16000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "900695f5a6da": {
-    "href": "/library/phind-codellama:34b-q3_K_L",
+    "href": "https://ollama.com/library/phind-codellama:34b-q3_K_L",
     "name": "phind-codellama:34b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "18GB"
+    "context_window_num": 16000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "b9d92fb9d11a": {
-    "href": "/library/phind-codellama:34b-q4_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-q4_0",
     "name": "phind-codellama:34b-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "cb1cb323ea8d": {
-    "href": "/library/phind-codellama:34b-q4_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-q4_1",
     "name": "phind-codellama:34b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "21GB"
+    "context_window_num": 16000,
+    "size_str": "21GB",
+    "size_num": 21000000000
   },
   "d47ea0524c33": {
-    "href": "/library/phind-codellama:34b-q4_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-q4_K_S",
     "name": "phind-codellama:34b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "19GB"
+    "context_window_num": 16000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "7ba4e94413d0": {
-    "href": "/library/phind-codellama:34b-q4_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-q4_K_M",
     "name": "phind-codellama:34b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "20GB"
+    "context_window_num": 16000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "bd2544a8a868": {
-    "href": "/library/phind-codellama:34b-q5_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-q5_0",
     "name": "phind-codellama:34b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "7a3d95330e66": {
-    "href": "/library/phind-codellama:34b-q5_1",
+    "href": "https://ollama.com/library/phind-codellama:34b-q5_1",
     "name": "phind-codellama:34b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "25GB"
+    "context_window_num": 16000,
+    "size_str": "25GB",
+    "size_num": 25000000000
   },
   "3160eec253d1": {
-    "href": "/library/phind-codellama:34b-q5_K_S",
+    "href": "https://ollama.com/library/phind-codellama:34b-q5_K_S",
     "name": "phind-codellama:34b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "23GB"
+    "context_window_num": 16000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "bcfdda4b8adc": {
-    "href": "/library/phind-codellama:34b-q5_K_M",
+    "href": "https://ollama.com/library/phind-codellama:34b-q5_K_M",
     "name": "phind-codellama:34b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "24GB"
+    "context_window_num": 16000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "2a9dd324831c": {
-    "href": "/library/phind-codellama:34b-q6_K",
+    "href": "https://ollama.com/library/phind-codellama:34b-q6_K",
     "name": "phind-codellama:34b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "28GB"
+    "context_window_num": 16000,
+    "size_str": "28GB",
+    "size_num": 28000000000
   },
   "ffad854916fa": {
-    "href": "/library/phind-codellama:34b-q8_0",
+    "href": "https://ollama.com/library/phind-codellama:34b-q8_0",
     "name": "phind-codellama:34b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "36GB"
+    "context_window_num": 16000,
+    "size_str": "36GB",
+    "size_num": 36000000000
   },
   "d0ddded66c14": {
-    "href": "/library/phind-codellama:34b-fp16",
+    "href": "https://ollama.com/library/phind-codellama:34b-fp16",
     "name": "phind-codellama:34b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "67GB"
+    "context_window_num": 16000,
+    "size_str": "67GB",
+    "size_num": 67000000000
   }
 }

@@ -1,32 +1,41 @@
 {
   "3ca8c2865ce9": {
-    "href": "/library/phi4-mini-reasoning:latest",
+    "href": "https://ollama.com/library/phi4-mini-reasoning:latest",
     "name": "phi4-mini-reasoning:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "128K",
-    "size_str": "3.2GB"
+    "context_window_num": 128000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "e3fffa9f7d91": {
-    "href": "/library/phi4-mini-reasoning:3.8b-q8_0",
+    "href": "https://ollama.com/library/phi4-mini-reasoning:3.8b-q8_0",
     "name": "phi4-mini-reasoning:3.8b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "4K",
-    "size_str": "4.6GB"
+    "context_window_num": 4000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "591788476176": {
-    "href": "/library/phi4-mini-reasoning:3.8b-fp16",
+    "href": "https://ollama.com/library/phi4-mini-reasoning:3.8b-fp16",
     "name": "phi4-mini-reasoning:3.8b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "4K",
-    "size_str": "7.7GB"
+    "context_window_num": 4000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   }
 }

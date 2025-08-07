@@ -1,32 +1,41 @@
 {
   "cd22bd484599": {
-    "href": "/library/command-a:latest",
+    "href": "https://ollama.com/library/command-a:latest",
     "name": "command-a:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "16K",
-    "size_str": "67GB"
+    "context_window_num": 16000,
+    "size_str": "67GB",
+    "size_num": 67000000000
   },
   "4f32dc902f62": {
-    "href": "/library/command-a:111b-03-2025-q8_0",
+    "href": "https://ollama.com/library/command-a:111b-03-2025-q8_0",
     "name": "command-a:111b-03-2025-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "16K",
-    "size_str": "118GB"
+    "context_window_num": 16000,
+    "size_str": "118GB",
+    "size_num": 118000000000
   },
   "5d5425f22323": {
-    "href": "/library/command-a:111b-03-2025-fp16",
+    "href": "https://ollama.com/library/command-a:111b-03-2025-fp16",
     "name": "command-a:111b-03-2025-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "16K",
-    "size_str": "222GB"
+    "context_window_num": 16000,
+    "size_str": "222GB",
+    "size_num": 222000000000
   }
 }

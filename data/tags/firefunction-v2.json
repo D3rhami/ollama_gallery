@@ -1,152 +1,197 @@
 {
   "b1ed6b22fb67": {
-    "href": "/library/firefunction-v2:latest",
+    "href": "https://ollama.com/library/firefunction-v2:latest",
     "name": "firefunction-v2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "40GB"
+    "context_window_num": 8000,
+    "size_str": "40GB",
+    "size_num": 40000000000
   },
   "3f7fd585d60c": {
-    "href": "/library/firefunction-v2:70b-q2_K",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q2_K",
     "name": "firefunction-v2:70b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "26GB"
+    "context_window_num": 8000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   },
   "474005ee9e26": {
-    "href": "/library/firefunction-v2:70b-q3_K_S",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q3_K_S",
     "name": "firefunction-v2:70b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "31GB"
+    "context_window_num": 8000,
+    "size_str": "31GB",
+    "size_num": 31000000000
   },
   "80e79abf27be": {
-    "href": "/library/firefunction-v2:70b-q3_K_M",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q3_K_M",
     "name": "firefunction-v2:70b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "34GB"
+    "context_window_num": 8000,
+    "size_str": "34GB",
+    "size_num": 34000000000
   },
   "3e634098cae4": {
-    "href": "/library/firefunction-v2:70b-q3_K_L",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q3_K_L",
     "name": "firefunction-v2:70b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "37GB"
+    "context_window_num": 8000,
+    "size_str": "37GB",
+    "size_num": 37000000000
   },
   "15defaa47be1": {
-    "href": "/library/firefunction-v2:70b-q4_1",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q4_1",
     "name": "firefunction-v2:70b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "44GB"
+    "context_window_num": 8000,
+    "size_str": "44GB",
+    "size_num": 44000000000
   },
   "3bcbd6acb54d": {
-    "href": "/library/firefunction-v2:70b-q4_K_S",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q4_K_S",
     "name": "firefunction-v2:70b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "40GB"
+    "context_window_num": 8000,
+    "size_str": "40GB",
+    "size_num": 40000000000
   },
   "ea3039802f87": {
-    "href": "/library/firefunction-v2:70b-q4_K_M",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q4_K_M",
     "name": "firefunction-v2:70b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "43GB"
+    "context_window_num": 8000,
+    "size_str": "43GB",
+    "size_num": 43000000000
   },
   "13b58ce67970": {
-    "href": "/library/firefunction-v2:70b-q5_0",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q5_0",
     "name": "firefunction-v2:70b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "49GB"
+    "context_window_num": 8000,
+    "size_str": "49GB",
+    "size_num": 49000000000
   },
   "669afb8bd416": {
-    "href": "/library/firefunction-v2:70b-q5_1",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q5_1",
     "name": "firefunction-v2:70b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "53GB"
+    "context_window_num": 8000,
+    "size_str": "53GB",
+    "size_num": 53000000000
   },
   "fd0487aef428": {
-    "href": "/library/firefunction-v2:70b-q5_K_S",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q5_K_S",
     "name": "firefunction-v2:70b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "49GB"
+    "context_window_num": 8000,
+    "size_str": "49GB",
+    "size_num": 49000000000
   },
   "e74b3ca1941f": {
-    "href": "/library/firefunction-v2:70b-q5_K_M",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q5_K_M",
     "name": "firefunction-v2:70b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "50GB"
+    "context_window_num": 8000,
+    "size_str": "50GB",
+    "size_num": 50000000000
   },
   "918017f6fcca": {
-    "href": "/library/firefunction-v2:70b-q6_K",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q6_K",
     "name": "firefunction-v2:70b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "58GB"
+    "context_window_num": 8000,
+    "size_str": "58GB",
+    "size_num": 58000000000
   },
   "b260af5d90a5": {
-    "href": "/library/firefunction-v2:70b-q8_0",
+    "href": "https://ollama.com/library/firefunction-v2:70b-q8_0",
     "name": "firefunction-v2:70b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "75GB"
+    "context_window_num": 8000,
+    "size_str": "75GB",
+    "size_num": 75000000000
   },
   "060676f6564d": {
-    "href": "/library/firefunction-v2:70b-fp16",
+    "href": "https://ollama.com/library/firefunction-v2:70b-fp16",
     "name": "firefunction-v2:70b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "141GB"
+    "context_window_num": 8000,
+    "size_str": "141GB",
+    "size_num": 141000000000
   }
 }

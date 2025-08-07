@@ -1,32 +1,41 @@
 {
   "0031bcf7459f": {
-    "href": "/library/deepscaler:latest",
+    "href": "https://ollama.com/library/deepscaler:latest",
     "name": "deepscaler:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "3.6GB"
+    "context_window_num": 128000,
+    "size_str": "3.6GB",
+    "size_num": 3600000000
   },
   "305c4a53269d": {
-    "href": "/library/deepscaler:1.5b-preview-q4_K_M",
+    "href": "https://ollama.com/library/deepscaler:1.5b-preview-q4_K_M",
     "name": "deepscaler:1.5b-preview-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "37b8148c7f55": {
-    "href": "/library/deepscaler:1.5b-preview-q8_0",
+    "href": "https://ollama.com/library/deepscaler:1.5b-preview-q8_0",
     "name": "deepscaler:1.5b-preview-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "1.9GB"
+    "context_window_num": 128000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   }
 }

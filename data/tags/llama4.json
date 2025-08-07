@@ -1,68 +1,86 @@
 {
   "bf31604e25c2": {
-    "href": "/library/llama4:latest",
+    "href": "https://ollama.com/library/llama4:latest",
     "name": "llama4:latest",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "10M",
-    "size_str": "67GB"
+    "context_window_num": 10000000,
+    "size_str": "67GB",
+    "size_num": 67000000000
   },
   "b4832b93e292": {
-    "href": "/library/llama4:maverick",
+    "href": "https://ollama.com/library/llama4:maverick",
     "name": "llama4:maverick",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "1M",
-    "size_str": "245GB"
+    "context_window_num": 1000000,
+    "size_str": "245GB",
+    "size_num": 245000000000
   },
   "7fb6f3e69a28": {
-    "href": "/library/llama4:17b-maverick-128e-instruct-q8_0",
+    "href": "https://ollama.com/library/llama4:17b-maverick-128e-instruct-q8_0",
     "name": "llama4:17b-maverick-128e-instruct-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "1M",
-    "size_str": "428GB"
+    "context_window_num": 1000000,
+    "size_str": "428GB",
+    "size_num": 428000000000
   },
   "c9a3a4d149af": {
-    "href": "/library/llama4:17b-maverick-128e-instruct-fp16",
+    "href": "https://ollama.com/library/llama4:17b-maverick-128e-instruct-fp16",
     "name": "llama4:17b-maverick-128e-instruct-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "1M",
-    "size_str": "803GB"
+    "context_window_num": 1000000,
+    "size_str": "803GB",
+    "size_num": 803000000000
   },
   "244249e6cd64": {
-    "href": "/library/llama4:17b-scout-16e-instruct-q8_0",
+    "href": "https://ollama.com/library/llama4:17b-scout-16e-instruct-q8_0",
     "name": "llama4:17b-scout-16e-instruct-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "10M",
-    "size_str": "117GB"
+    "context_window_num": 10000000,
+    "size_str": "117GB",
+    "size_num": 117000000000
   },
   "f390ec6c1a81": {
-    "href": "/library/llama4:17b-scout-16e-instruct-fp16",
+    "href": "https://ollama.com/library/llama4:17b-scout-16e-instruct-fp16",
     "name": "llama4:17b-scout-16e-instruct-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "10M",
-    "size_str": "217GB"
+    "context_window_num": 10000000,
+    "size_str": "217GB",
+    "size_num": 217000000000
   }
 }

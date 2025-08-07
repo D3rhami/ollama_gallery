@@ -1,452 +1,587 @@
 {
   "89fa737d3b85": {
-    "href": "/library/neural-chat:latest",
+    "href": "https://ollama.com/library/neural-chat:latest",
     "name": "neural-chat:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "73940af9fe02": {
-    "href": "/library/neural-chat:7b-v3.1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1",
     "name": "neural-chat:7b-v3.1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "620f8a81424b": {
-    "href": "/library/neural-chat:7b-v3.1-q2_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q2_K",
     "name": "neural-chat:7b-v3.1-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "7825c6bd7656": {
-    "href": "/library/neural-chat:7b-v3.1-q3_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q3_K_S",
     "name": "neural-chat:7b-v3.1-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "cf3dc2d014a5": {
-    "href": "/library/neural-chat:7b-v3.1-q3_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q3_K_M",
     "name": "neural-chat:7b-v3.1-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "acf7b66e2aee": {
-    "href": "/library/neural-chat:7b-v3.1-q3_K_L",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q3_K_L",
     "name": "neural-chat:7b-v3.1-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "e94062f979ad": {
-    "href": "/library/neural-chat:7b-v3.1-q4_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q4_1",
     "name": "neural-chat:7b-v3.1-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "7d8b92a60fab": {
-    "href": "/library/neural-chat:7b-v3.1-q4_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q4_K_S",
     "name": "neural-chat:7b-v3.1-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "d2fbc68137fc": {
-    "href": "/library/neural-chat:7b-v3.1-q4_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q4_K_M",
     "name": "neural-chat:7b-v3.1-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "b31c14a4bfcf": {
-    "href": "/library/neural-chat:7b-v3.1-q5_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q5_0",
     "name": "neural-chat:7b-v3.1-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "874ed3640927": {
-    "href": "/library/neural-chat:7b-v3.1-q5_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q5_1",
     "name": "neural-chat:7b-v3.1-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "d2c083566569": {
-    "href": "/library/neural-chat:7b-v3.1-q5_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q5_K_S",
     "name": "neural-chat:7b-v3.1-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "f36c54b7e769": {
-    "href": "/library/neural-chat:7b-v3.1-q5_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q5_K_M",
     "name": "neural-chat:7b-v3.1-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "824a1e326c89": {
-    "href": "/library/neural-chat:7b-v3.1-q6_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q6_K",
     "name": "neural-chat:7b-v3.1-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "2965939336f6": {
-    "href": "/library/neural-chat:7b-v3.1-q8_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-q8_0",
     "name": "neural-chat:7b-v3.1-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "1b3251040972": {
-    "href": "/library/neural-chat:7b-v3.1-fp16",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.1-fp16",
     "name": "neural-chat:7b-v3.1-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "f4c6a8e532e8": {
-    "href": "/library/neural-chat:7b-v3.2",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2",
     "name": "neural-chat:7b-v3.2",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "103bcb6b16f2": {
-    "href": "/library/neural-chat:7b-v3.2-q2_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q2_K",
     "name": "neural-chat:7b-v3.2-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "aac750b8a41e": {
-    "href": "/library/neural-chat:7b-v3.2-q3_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q3_K_S",
     "name": "neural-chat:7b-v3.2-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "f719737f98a2": {
-    "href": "/library/neural-chat:7b-v3.2-q3_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q3_K_M",
     "name": "neural-chat:7b-v3.2-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "66750b08787d": {
-    "href": "/library/neural-chat:7b-v3.2-q3_K_L",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q3_K_L",
     "name": "neural-chat:7b-v3.2-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "7a06e87d4696": {
-    "href": "/library/neural-chat:7b-v3.2-q4_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q4_1",
     "name": "neural-chat:7b-v3.2-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "4a8f50c4525a": {
-    "href": "/library/neural-chat:7b-v3.2-q4_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q4_K_S",
     "name": "neural-chat:7b-v3.2-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "33172df918d2": {
-    "href": "/library/neural-chat:7b-v3.2-q4_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q4_K_M",
     "name": "neural-chat:7b-v3.2-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "070678810598": {
-    "href": "/library/neural-chat:7b-v3.2-q5_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q5_0",
     "name": "neural-chat:7b-v3.2-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "379f3f601243": {
-    "href": "/library/neural-chat:7b-v3.2-q5_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q5_1",
     "name": "neural-chat:7b-v3.2-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "79ae554db28d": {
-    "href": "/library/neural-chat:7b-v3.2-q5_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q5_K_S",
     "name": "neural-chat:7b-v3.2-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "4f8475c82182": {
-    "href": "/library/neural-chat:7b-v3.2-q5_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q5_K_M",
     "name": "neural-chat:7b-v3.2-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "9c0c2ea9c046": {
-    "href": "/library/neural-chat:7b-v3.2-q6_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q6_K",
     "name": "neural-chat:7b-v3.2-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "6e958fe1fd6e": {
-    "href": "/library/neural-chat:7b-v3.2-q8_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-q8_0",
     "name": "neural-chat:7b-v3.2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "f5256ca4757e": {
-    "href": "/library/neural-chat:7b-v3.2-fp16",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.2-fp16",
     "name": "neural-chat:7b-v3.2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "85dca14ccac6": {
-    "href": "/library/neural-chat:7b-v3.3-q2_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q2_K",
     "name": "neural-chat:7b-v3.3-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "645fb17707c9": {
-    "href": "/library/neural-chat:7b-v3.3-q3_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q3_K_S",
     "name": "neural-chat:7b-v3.3-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "189d5ae31c17": {
-    "href": "/library/neural-chat:7b-v3.3-q3_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q3_K_M",
     "name": "neural-chat:7b-v3.3-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "5b9c964d9ac8": {
-    "href": "/library/neural-chat:7b-v3.3-q3_K_L",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q3_K_L",
     "name": "neural-chat:7b-v3.3-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "e081f623106e": {
-    "href": "/library/neural-chat:7b-v3.3-q4_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q4_1",
     "name": "neural-chat:7b-v3.3-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "07c6aaab950b": {
-    "href": "/library/neural-chat:7b-v3.3-q4_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q4_K_S",
     "name": "neural-chat:7b-v3.3-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "b1a7b3b85566": {
-    "href": "/library/neural-chat:7b-v3.3-q4_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q4_K_M",
     "name": "neural-chat:7b-v3.3-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "f5372fe561c2": {
-    "href": "/library/neural-chat:7b-v3.3-q5_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q5_0",
     "name": "neural-chat:7b-v3.3-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "b8ba685c1303": {
-    "href": "/library/neural-chat:7b-v3.3-q5_1",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q5_1",
     "name": "neural-chat:7b-v3.3-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "fb872be705fd": {
-    "href": "/library/neural-chat:7b-v3.3-q5_K_S",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q5_K_S",
     "name": "neural-chat:7b-v3.3-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "6e7f6242bbec": {
-    "href": "/library/neural-chat:7b-v3.3-q5_K_M",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q5_K_M",
     "name": "neural-chat:7b-v3.3-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "3098763b2a1d": {
-    "href": "/library/neural-chat:7b-v3.3-q6_K",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q6_K",
     "name": "neural-chat:7b-v3.3-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "fc8c63cac8c7": {
-    "href": "/library/neural-chat:7b-v3.3-q8_0",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-q8_0",
     "name": "neural-chat:7b-v3.3-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "7b7e1b58d372": {
-    "href": "/library/neural-chat:7b-v3.3-fp16",
+    "href": "https://ollama.com/library/neural-chat:7b-v3.3-fp16",
     "name": "neural-chat:7b-v3.3-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

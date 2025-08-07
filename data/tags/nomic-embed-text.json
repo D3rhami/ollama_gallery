@@ -1,12 +1,15 @@
 {
   "0a109f422b47": {
-    "href": "/library/nomic-embed-text:latest",
+    "href": "https://ollama.com/library/nomic-embed-text:latest",
     "name": "nomic-embed-text:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "274MB"
+    "context_window_num": 2000,
+    "size_str": "274MB",
+    "size_num": 274000000
   }
 }

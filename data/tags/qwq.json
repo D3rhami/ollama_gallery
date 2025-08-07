@@ -1,62 +1,80 @@
 {
   "009cb3f08d74": {
-    "href": "/library/qwq:latest",
+    "href": "https://ollama.com/library/qwq:latest",
     "name": "qwq:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "40K",
-    "size_str": "20GB"
+    "context_window_num": 40000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "46407beda5c0": {
-    "href": "/library/qwq:32b-preview-q4_K_M",
+    "href": "https://ollama.com/library/qwq:32b-preview-q4_K_M",
     "name": "qwq:32b-preview-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "20GB"
+    "context_window_num": 32000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "9c62a2e770b7": {
-    "href": "/library/qwq:32b-preview-q8_0",
+    "href": "https://ollama.com/library/qwq:32b-preview-q8_0",
     "name": "qwq:32b-preview-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "35GB"
+    "context_window_num": 32000,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "44d5ed096b85": {
-    "href": "/library/qwq:32b-preview-fp16",
+    "href": "https://ollama.com/library/qwq:32b-preview-fp16",
     "name": "qwq:32b-preview-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "66GB"
+    "context_window_num": 32000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   },
   "cd10f42e6c58": {
-    "href": "/library/qwq:32b-q8_0",
+    "href": "https://ollama.com/library/qwq:32b-q8_0",
     "name": "qwq:32b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "40K",
-    "size_str": "35GB"
+    "context_window_num": 40000,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "034d83f95090": {
-    "href": "/library/qwq:32b-fp16",
+    "href": "https://ollama.com/library/qwq:32b-fp16",
     "name": "qwq:32b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "40K",
-    "size_str": "66GB"
+    "context_window_num": 40000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   }
 }

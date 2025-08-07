@@ -1,152 +1,197 @@
 {
   "12dc6acc14d0": {
-    "href": "/library/mistral-openorca:latest",
+    "href": "https://ollama.com/library/mistral-openorca:latest",
     "name": "mistral-openorca:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "977fdfe52b7c": {
-    "href": "/library/mistral-openorca:7b-q2_K",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q2_K",
     "name": "mistral-openorca:7b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "2274bf658e73": {
-    "href": "/library/mistral-openorca:7b-q3_K_S",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q3_K_S",
     "name": "mistral-openorca:7b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "1c71a3f469da": {
-    "href": "/library/mistral-openorca:7b-q3_K_M",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q3_K_M",
     "name": "mistral-openorca:7b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "e80eba13740d": {
-    "href": "/library/mistral-openorca:7b-q3_K_L",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q3_K_L",
     "name": "mistral-openorca:7b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "185461182e00": {
-    "href": "/library/mistral-openorca:7b-q4_1",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q4_1",
     "name": "mistral-openorca:7b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "b8b68de9a6c0": {
-    "href": "/library/mistral-openorca:7b-q4_K_S",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q4_K_S",
     "name": "mistral-openorca:7b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "d4fd6870e8eb": {
-    "href": "/library/mistral-openorca:7b-q4_K_M",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q4_K_M",
     "name": "mistral-openorca:7b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "da128676aa71": {
-    "href": "/library/mistral-openorca:7b-q5_0",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q5_0",
     "name": "mistral-openorca:7b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "864f8be0fd03": {
-    "href": "/library/mistral-openorca:7b-q5_1",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q5_1",
     "name": "mistral-openorca:7b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "dc071e3647c7": {
-    "href": "/library/mistral-openorca:7b-q5_K_S",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q5_K_S",
     "name": "mistral-openorca:7b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "30b5e000fa20": {
-    "href": "/library/mistral-openorca:7b-q5_K_M",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q5_K_M",
     "name": "mistral-openorca:7b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "74e3eb59f041": {
-    "href": "/library/mistral-openorca:7b-q6_K",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q6_K",
     "name": "mistral-openorca:7b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "d7fd37191d96": {
-    "href": "/library/mistral-openorca:7b-q8_0",
+    "href": "https://ollama.com/library/mistral-openorca:7b-q8_0",
     "name": "mistral-openorca:7b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "c3544390282f": {
-    "href": "/library/mistral-openorca:7b-fp16",
+    "href": "https://ollama.com/library/mistral-openorca:7b-fp16",
     "name": "mistral-openorca:7b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

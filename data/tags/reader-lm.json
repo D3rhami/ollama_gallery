@@ -1,302 +1,392 @@
 {
   "33da2b9e0afe": {
-    "href": "/library/reader-lm:latest",
+    "href": "https://ollama.com/library/reader-lm:latest",
     "name": "reader-lm:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "935MB"
+    "context_window_num": 250000,
+    "size_str": "935MB",
+    "size_num": 935000000
   },
   "5142df586645": {
-    "href": "/library/reader-lm:0.5b",
+    "href": "https://ollama.com/library/reader-lm:0.5b",
     "name": "reader-lm:0.5b",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "352MB"
+    "context_window_num": 250000,
+    "size_str": "352MB",
+    "size_num": 352000000
   },
   "af34eb77b23c": {
-    "href": "/library/reader-lm:0.5b-q2_K",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q2_K",
     "name": "reader-lm:0.5b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "339MB"
+    "context_window_num": 250000,
+    "size_str": "339MB",
+    "size_num": 339000000
   },
   "c15f8240fdfd": {
-    "href": "/library/reader-lm:0.5b-q3_K_S",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q3_K_S",
     "name": "reader-lm:0.5b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "338MB"
+    "context_window_num": 250000,
+    "size_str": "338MB",
+    "size_num": 338000000
   },
   "bd8861b9b8b6": {
-    "href": "/library/reader-lm:0.5b-q3_K_M",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q3_K_M",
     "name": "reader-lm:0.5b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "355MB"
+    "context_window_num": 250000,
+    "size_str": "355MB",
+    "size_num": 355000000
   },
   "19b158ce5d4f": {
-    "href": "/library/reader-lm:0.5b-q3_K_L",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q3_K_L",
     "name": "reader-lm:0.5b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "369MB"
+    "context_window_num": 250000,
+    "size_str": "369MB",
+    "size_num": 369000000
   },
   "ebc58a28e21a": {
-    "href": "/library/reader-lm:0.5b-q4_1",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q4_1",
     "name": "reader-lm:0.5b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "375MB"
+    "context_window_num": 250000,
+    "size_str": "375MB",
+    "size_num": 375000000
   },
   "7c27ad8cf758": {
-    "href": "/library/reader-lm:0.5b-q4_K_S",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q4_K_S",
     "name": "reader-lm:0.5b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "385MB"
+    "context_window_num": 250000,
+    "size_str": "385MB",
+    "size_num": 385000000
   },
   "cd9cdd312854": {
-    "href": "/library/reader-lm:0.5b-q4_K_M",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q4_K_M",
     "name": "reader-lm:0.5b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "398MB"
+    "context_window_num": 250000,
+    "size_str": "398MB",
+    "size_num": 398000000
   },
   "f2c2c123b1f8": {
-    "href": "/library/reader-lm:0.5b-q5_0",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q5_0",
     "name": "reader-lm:0.5b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "397MB"
+    "context_window_num": 250000,
+    "size_str": "397MB",
+    "size_num": 397000000
   },
   "85e8705b05b2": {
-    "href": "/library/reader-lm:0.5b-q5_1",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q5_1",
     "name": "reader-lm:0.5b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "419MB"
+    "context_window_num": 250000,
+    "size_str": "419MB",
+    "size_num": 419000000
   },
   "8f77463504e7": {
-    "href": "/library/reader-lm:0.5b-q5_K_S",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q5_K_S",
     "name": "reader-lm:0.5b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "413MB"
+    "context_window_num": 250000,
+    "size_str": "413MB",
+    "size_num": 413000000
   },
   "b6b1a83de2ae": {
-    "href": "/library/reader-lm:0.5b-q5_K_M",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q5_K_M",
     "name": "reader-lm:0.5b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "420MB"
+    "context_window_num": 250000,
+    "size_str": "420MB",
+    "size_num": 420000000
   },
   "6f8291aee62f": {
-    "href": "/library/reader-lm:0.5b-q6_K",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q6_K",
     "name": "reader-lm:0.5b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "506MB"
+    "context_window_num": 250000,
+    "size_str": "506MB",
+    "size_num": 506000000
   },
   "4dc1ed29ebba": {
-    "href": "/library/reader-lm:0.5b-q8_0",
+    "href": "https://ollama.com/library/reader-lm:0.5b-q8_0",
     "name": "reader-lm:0.5b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "531MB"
+    "context_window_num": 250000,
+    "size_str": "531MB",
+    "size_num": 531000000
   },
   "372bede54f00": {
-    "href": "/library/reader-lm:0.5b-fp16",
+    "href": "https://ollama.com/library/reader-lm:0.5b-fp16",
     "name": "reader-lm:0.5b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "994MB"
+    "context_window_num": 250000,
+    "size_str": "994MB",
+    "size_num": 994000000
   },
   "21617a48e1b9": {
-    "href": "/library/reader-lm:1.5b-q2_K",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q2_K",
     "name": "reader-lm:1.5b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "676MB"
+    "context_window_num": 250000,
+    "size_str": "676MB",
+    "size_num": 676000000
   },
   "4e71ee323763": {
-    "href": "/library/reader-lm:1.5b-q3_K_S",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q3_K_S",
     "name": "reader-lm:1.5b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "761MB"
+    "context_window_num": 250000,
+    "size_str": "761MB",
+    "size_num": 761000000
   },
   "04d6fa1b5675": {
-    "href": "/library/reader-lm:1.5b-q3_K_M",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q3_K_M",
     "name": "reader-lm:1.5b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "824MB"
+    "context_window_num": 250000,
+    "size_str": "824MB",
+    "size_num": 824000000
   },
   "e6d39acdf3bd": {
-    "href": "/library/reader-lm:1.5b-q3_K_L",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q3_K_L",
     "name": "reader-lm:1.5b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "880MB"
+    "context_window_num": 250000,
+    "size_str": "880MB",
+    "size_num": 880000000
   },
   "2fa8a5bbd70b": {
-    "href": "/library/reader-lm:1.5b-q4_1",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q4_1",
     "name": "reader-lm:1.5b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.0GB"
+    "context_window_num": 250000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
   },
   "61de2f1c665b": {
-    "href": "/library/reader-lm:1.5b-q4_K_S",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q4_K_S",
     "name": "reader-lm:1.5b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "940MB"
+    "context_window_num": 250000,
+    "size_str": "940MB",
+    "size_num": 940000000
   },
   "b86722567954": {
-    "href": "/library/reader-lm:1.5b-q4_K_M",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q4_K_M",
     "name": "reader-lm:1.5b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "986MB"
+    "context_window_num": 250000,
+    "size_str": "986MB",
+    "size_num": 986000000
   },
   "890000830ffe": {
-    "href": "/library/reader-lm:1.5b-q5_0",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q5_0",
     "name": "reader-lm:1.5b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.1GB"
+    "context_window_num": 250000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "4640a36a6d05": {
-    "href": "/library/reader-lm:1.5b-q5_1",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q5_1",
     "name": "reader-lm:1.5b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.2GB"
+    "context_window_num": 250000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "ca910efc76a3": {
-    "href": "/library/reader-lm:1.5b-q5_K_S",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q5_K_S",
     "name": "reader-lm:1.5b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.1GB"
+    "context_window_num": 250000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "c7f1ea450e9b": {
-    "href": "/library/reader-lm:1.5b-q5_K_M",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q5_K_M",
     "name": "reader-lm:1.5b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.1GB"
+    "context_window_num": 250000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "9c5fd0c488ad": {
-    "href": "/library/reader-lm:1.5b-q6_K",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q6_K",
     "name": "reader-lm:1.5b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.3GB"
+    "context_window_num": 250000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "39ec9eda0492": {
-    "href": "/library/reader-lm:1.5b-q8_0",
+    "href": "https://ollama.com/library/reader-lm:1.5b-q8_0",
     "name": "reader-lm:1.5b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "1.6GB"
+    "context_window_num": 250000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "a099cb640088": {
-    "href": "/library/reader-lm:1.5b-fp16",
+    "href": "https://ollama.com/library/reader-lm:1.5b-fp16",
     "name": "reader-lm:1.5b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "250K",
-    "size_str": "3.1GB"
+    "context_window_num": 250000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   }
 }

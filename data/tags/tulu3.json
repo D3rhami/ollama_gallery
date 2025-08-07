@@ -1,62 +1,80 @@
 {
   "7119be59a531": {
-    "href": "/library/tulu3:latest",
+    "href": "https://ollama.com/library/tulu3:latest",
     "name": "tulu3:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "4.9GB"
+    "context_window_num": 128000,
+    "size_str": "4.9GB",
+    "size_num": 4900000000
   },
   "fa6de45f539f": {
-    "href": "/library/tulu3:70b",
+    "href": "https://ollama.com/library/tulu3:70b",
     "name": "tulu3:70b",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "43GB"
+    "context_window_num": 128000,
+    "size_str": "43GB",
+    "size_num": 43000000000
   },
   "ee4b41854819": {
-    "href": "/library/tulu3:8b-q8_0",
+    "href": "https://ollama.com/library/tulu3:8b-q8_0",
     "name": "tulu3:8b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "8.5GB"
+    "context_window_num": 128000,
+    "size_str": "8.5GB",
+    "size_num": 8500000000
   },
   "67f115a19953": {
-    "href": "/library/tulu3:8b-fp16",
+    "href": "https://ollama.com/library/tulu3:8b-fp16",
     "name": "tulu3:8b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "16GB"
+    "context_window_num": 128000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "f0f50dadc000": {
-    "href": "/library/tulu3:70b-q8_0",
+    "href": "https://ollama.com/library/tulu3:70b-q8_0",
     "name": "tulu3:70b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "75GB"
+    "context_window_num": 128000,
+    "size_str": "75GB",
+    "size_num": 75000000000
   },
   "662b84aaedbb": {
-    "href": "/library/tulu3:70b-fp16",
+    "href": "https://ollama.com/library/tulu3:70b-fp16",
     "name": "tulu3:70b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "128K",
-    "size_str": "141GB"
+    "context_window_num": 128000,
+    "size_str": "141GB",
+    "size_num": 141000000000
   }
 }

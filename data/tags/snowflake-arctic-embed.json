@@ -1,52 +1,67 @@
 {
   "21ab8b9b0545": {
-    "href": "/library/snowflake-arctic-embed:latest",
+    "href": "https://ollama.com/library/snowflake-arctic-embed:latest",
     "name": "snowflake-arctic-embed:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "512",
-    "size_str": "669MB"
+    "context_window_num": 512,
+    "size_str": "669MB",
+    "size_num": 669000000
   },
   "8a0d86a3ca1d": {
-    "href": "/library/snowflake-arctic-embed:m",
+    "href": "https://ollama.com/library/snowflake-arctic-embed:m",
     "name": "snowflake-arctic-embed:m",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "512",
-    "size_str": "219MB"
+    "context_window_num": 512,
+    "size_str": "219MB",
+    "size_num": 219000000
   },
   "e8db018629b4": {
-    "href": "/library/snowflake-arctic-embed:s",
+    "href": "https://ollama.com/library/snowflake-arctic-embed:s",
     "name": "snowflake-arctic-embed:s",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "512",
-    "size_str": "67MB"
+    "context_window_num": 512,
+    "size_str": "67MB",
+    "size_num": 67000000
   },
   "bf75350e1752": {
-    "href": "/library/snowflake-arctic-embed:xs",
+    "href": "https://ollama.com/library/snowflake-arctic-embed:xs",
     "name": "snowflake-arctic-embed:xs",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "512",
-    "size_str": "46MB"
+    "context_window_num": 512,
+    "size_str": "46MB",
+    "size_num": 46000000
   },
   "12616299a158": {
-    "href": "/library/snowflake-arctic-embed:137m",
+    "href": "https://ollama.com/library/snowflake-arctic-embed:137m",
     "name": "snowflake-arctic-embed:137m",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "274MB"
+    "context_window_num": 2000,
+    "size_str": "274MB",
+    "size_num": 274000000
   }
 }

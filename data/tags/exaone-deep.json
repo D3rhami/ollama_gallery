@@ -1,92 +1,119 @@
 {
   "106afe416a9e": {
-    "href": "/library/exaone-deep:latest",
+    "href": "https://ollama.com/library/exaone-deep:latest",
     "name": "exaone-deep:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "4.8GB"
+    "context_window_num": 32000,
+    "size_str": "4.8GB",
+    "size_num": 4800000000
   },
   "37d6b495c16c": {
-    "href": "/library/exaone-deep:2.4b",
+    "href": "https://ollama.com/library/exaone-deep:2.4b",
     "name": "exaone-deep:2.4b",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "1.6GB"
+    "context_window_num": 32000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "a9422f9a5071": {
-    "href": "/library/exaone-deep:32b",
+    "href": "https://ollama.com/library/exaone-deep:32b",
     "name": "exaone-deep:32b",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "19GB"
+    "context_window_num": 32000,
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "1ef8421dff40": {
-    "href": "/library/exaone-deep:2.4b-q8_0",
+    "href": "https://ollama.com/library/exaone-deep:2.4b-q8_0",
     "name": "exaone-deep:2.4b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "2.8GB"
+    "context_window_num": 32000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
   },
   "e62ec685eda1": {
-    "href": "/library/exaone-deep:2.4b-fp16",
+    "href": "https://ollama.com/library/exaone-deep:2.4b-fp16",
     "name": "exaone-deep:2.4b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "5.3GB"
+    "context_window_num": 32000,
+    "size_str": "5.3GB",
+    "size_num": 5300000000
   },
   "b1c039797694": {
-    "href": "/library/exaone-deep:7.8b-q8_0",
+    "href": "https://ollama.com/library/exaone-deep:7.8b-q8_0",
     "name": "exaone-deep:7.8b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "8.3GB"
+    "context_window_num": 32000,
+    "size_str": "8.3GB",
+    "size_num": 8300000000
   },
   "3445461cbc49": {
-    "href": "/library/exaone-deep:7.8b-fp16",
+    "href": "https://ollama.com/library/exaone-deep:7.8b-fp16",
     "name": "exaone-deep:7.8b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "16GB"
+    "context_window_num": 32000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "e400e2287c21": {
-    "href": "/library/exaone-deep:32b-q8_0",
+    "href": "https://ollama.com/library/exaone-deep:32b-q8_0",
     "name": "exaone-deep:32b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "34GB"
+    "context_window_num": 32000,
+    "size_str": "34GB",
+    "size_num": 34000000000
   },
   "3c652371e959": {
-    "href": "/library/exaone-deep:32b-fp16",
+    "href": "https://ollama.com/library/exaone-deep:32b-fp16",
     "name": "exaone-deep:32b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "64GB"
+    "context_window_num": 32000,
+    "size_str": "64GB",
+    "size_num": 64000000000
   }
 }

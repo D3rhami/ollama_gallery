@@ -1,32 +1,41 @@
 {
   "4752e62baa0a": {
-    "href": "/library/marco-o1:latest",
+    "href": "https://ollama.com/library/marco-o1:latest",
     "name": "marco-o1:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "4.7GB"
+    "context_window_num": 32000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "45f9391dde04": {
-    "href": "/library/marco-o1:7b-q8_0",
+    "href": "https://ollama.com/library/marco-o1:7b-q8_0",
     "name": "marco-o1:7b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "8.1GB"
+    "context_window_num": 32000,
+    "size_str": "8.1GB",
+    "size_num": 8100000000
   },
   "c911a6aaee29": {
-    "href": "/library/marco-o1:7b-fp16",
+    "href": "https://ollama.com/library/marco-o1:7b-fp16",
     "name": "marco-o1:7b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "15GB"
+    "context_window_num": 32000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   }
 }

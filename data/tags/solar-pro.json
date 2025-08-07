@@ -1,152 +1,197 @@
 {
   "9a8c71c441ca": {
-    "href": "/library/solar-pro:latest",
+    "href": "https://ollama.com/library/solar-pro:latest",
     "name": "solar-pro:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "13GB"
+    "context_window_num": 4000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "565afa7ef255": {
-    "href": "/library/solar-pro:22b-preview-instruct-q2_K",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q2_K",
     "name": "solar-pro:22b-preview-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "8.2GB"
+    "context_window_num": 4000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "f3047ccbe196": {
-    "href": "/library/solar-pro:22b-preview-instruct-q3_K_S",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q3_K_S",
     "name": "solar-pro:22b-preview-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "9.6GB"
+    "context_window_num": 4000,
+    "size_str": "9.6GB",
+    "size_num": 9600000000
   },
   "061df9bbeb2e": {
-    "href": "/library/solar-pro:22b-preview-instruct-q3_K_M",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q3_K_M",
     "name": "solar-pro:22b-preview-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "11GB"
+    "context_window_num": 4000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "8e88c5664027": {
-    "href": "/library/solar-pro:22b-preview-instruct-q3_K_L",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q3_K_L",
     "name": "solar-pro:22b-preview-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "12GB"
+    "context_window_num": 4000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "8f665c54f08a": {
-    "href": "/library/solar-pro:22b-preview-instruct-q4_0",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q4_0",
     "name": "solar-pro:22b-preview-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "12GB"
+    "context_window_num": 4000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "4a090dbef5c4": {
-    "href": "/library/solar-pro:22b-preview-instruct-q4_1",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q4_1",
     "name": "solar-pro:22b-preview-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "14GB"
+    "context_window_num": 4000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "d9240858384a": {
-    "href": "/library/solar-pro:22b-preview-instruct-q4_K_S",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q4_K_S",
     "name": "solar-pro:22b-preview-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "13GB"
+    "context_window_num": 4000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "7a6422ffbdbb": {
-    "href": "/library/solar-pro:22b-preview-instruct-q5_0",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q5_0",
     "name": "solar-pro:22b-preview-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "15GB"
+    "context_window_num": 4000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "e84e5da3da89": {
-    "href": "/library/solar-pro:22b-preview-instruct-q5_1",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q5_1",
     "name": "solar-pro:22b-preview-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "17GB"
+    "context_window_num": 4000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "676df95b0bea": {
-    "href": "/library/solar-pro:22b-preview-instruct-q5_K_S",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q5_K_S",
     "name": "solar-pro:22b-preview-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "15GB"
+    "context_window_num": 4000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "020a0e79be2e": {
-    "href": "/library/solar-pro:22b-preview-instruct-q5_K_M",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q5_K_M",
     "name": "solar-pro:22b-preview-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "16GB"
+    "context_window_num": 4000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "d59107fc3b57": {
-    "href": "/library/solar-pro:22b-preview-instruct-q6_K",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q6_K",
     "name": "solar-pro:22b-preview-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "18GB"
+    "context_window_num": 4000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "2cc310f73c41": {
-    "href": "/library/solar-pro:22b-preview-instruct-q8_0",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-q8_0",
     "name": "solar-pro:22b-preview-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "24GB"
+    "context_window_num": 4000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "7f6010e2ba0f": {
-    "href": "/library/solar-pro:22b-preview-instruct-fp16",
+    "href": "https://ollama.com/library/solar-pro:22b-preview-instruct-fp16",
     "name": "solar-pro:22b-preview-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "4K",
-    "size_str": "44GB"
+    "context_window_num": 4000,
+    "size_str": "44GB",
+    "size_num": 44000000000
   }
 }

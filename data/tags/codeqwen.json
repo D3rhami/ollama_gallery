@@ -1,212 +1,275 @@
 {
   "df352abf55b1": {
-    "href": "/library/codeqwen:latest",
+    "href": "https://ollama.com/library/codeqwen:latest",
     "name": "codeqwen:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.2GB"
+    "context_window_num": 64000,
+    "size_str": "4.2GB",
+    "size_num": 4200000000
   },
   "d469cddb7d04": {
-    "href": "/library/codeqwen:code",
+    "href": "https://ollama.com/library/codeqwen:code",
     "name": "codeqwen:code",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.2GB"
+    "context_window_num": 64000,
+    "size_str": "4.2GB",
+    "size_num": 4200000000
   },
   "58bf9e268b33": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q2_K",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q2_K",
     "name": "codeqwen:7b-chat-v1.5-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "3.1GB"
+    "context_window_num": 64000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "8ac6e4f8622c": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q3_K_S",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q3_K_S",
     "name": "codeqwen:7b-chat-v1.5-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "3.5GB"
+    "context_window_num": 64000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "60e192727d09": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q3_K_M",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q3_K_M",
     "name": "codeqwen:7b-chat-v1.5-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "3.8GB"
+    "context_window_num": 64000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "3dc83ecb767e": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q3_K_L",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q3_K_L",
     "name": "codeqwen:7b-chat-v1.5-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.0GB"
+    "context_window_num": 64000,
+    "size_str": "4.0GB",
+    "size_num": 4000000000
   },
   "659a8d7026c9": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q4_1",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q4_1",
     "name": "codeqwen:7b-chat-v1.5-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.6GB"
+    "context_window_num": 64000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "bafc9e528fc3": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q4_K_S",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q4_K_S",
     "name": "codeqwen:7b-chat-v1.5-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.4GB"
+    "context_window_num": 64000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "9cb4225e1c5d": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q4_K_M",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q4_K_M",
     "name": "codeqwen:7b-chat-v1.5-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.7GB"
+    "context_window_num": 64000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "5fa058937b9d": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q5_0",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q5_0",
     "name": "codeqwen:7b-chat-v1.5-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.0GB"
+    "context_window_num": 64000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "656f0c7923b8": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q5_1",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q5_1",
     "name": "codeqwen:7b-chat-v1.5-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.5GB"
+    "context_window_num": 64000,
+    "size_str": "5.5GB",
+    "size_num": 5500000000
   },
   "353c5070c5db": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q5_K_S",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q5_K_S",
     "name": "codeqwen:7b-chat-v1.5-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.1GB"
+    "context_window_num": 64000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "1e38f440836a": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q5_K_M",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q5_K_M",
     "name": "codeqwen:7b-chat-v1.5-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.4GB"
+    "context_window_num": 64000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "1140b50f25a0": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q6_K",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q6_K",
     "name": "codeqwen:7b-chat-v1.5-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "6.4GB"
+    "context_window_num": 64000,
+    "size_str": "6.4GB",
+    "size_num": 6400000000
   },
   "19343b80cbc6": {
-    "href": "/library/codeqwen:7b-chat-v1.5-q8_0",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-q8_0",
     "name": "codeqwen:7b-chat-v1.5-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "7.7GB"
+    "context_window_num": 64000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "f1b41fd8b5cc": {
-    "href": "/library/codeqwen:7b-chat-v1.5-fp16",
+    "href": "https://ollama.com/library/codeqwen:7b-chat-v1.5-fp16",
     "name": "codeqwen:7b-chat-v1.5-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "15GB"
+    "context_window_num": 64000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "1054e6ce1430": {
-    "href": "/library/codeqwen:7b-code-v1.5-q4_1",
+    "href": "https://ollama.com/library/codeqwen:7b-code-v1.5-q4_1",
     "name": "codeqwen:7b-code-v1.5-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "4.6GB"
+    "context_window_num": 64000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "df00ae037785": {
-    "href": "/library/codeqwen:7b-code-v1.5-q5_0",
+    "href": "https://ollama.com/library/codeqwen:7b-code-v1.5-q5_0",
     "name": "codeqwen:7b-code-v1.5-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.0GB"
+    "context_window_num": 64000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "f9f1cdb01bda": {
-    "href": "/library/codeqwen:7b-code-v1.5-q5_1",
+    "href": "https://ollama.com/library/codeqwen:7b-code-v1.5-q5_1",
     "name": "codeqwen:7b-code-v1.5-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "5.5GB"
+    "context_window_num": 64000,
+    "size_str": "5.5GB",
+    "size_num": 5500000000
   },
   "f076b41b0d2e": {
-    "href": "/library/codeqwen:7b-code-v1.5-q8_0",
+    "href": "https://ollama.com/library/codeqwen:7b-code-v1.5-q8_0",
     "name": "codeqwen:7b-code-v1.5-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "7.7GB"
+    "context_window_num": 64000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "18f779849b86": {
-    "href": "/library/codeqwen:7b-code-v1.5-fp16",
+    "href": "https://ollama.com/library/codeqwen:7b-code-v1.5-fp16",
     "name": "codeqwen:7b-code-v1.5-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "64K",
-    "size_str": "15GB"
+    "context_window_num": 64000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   }
 }

@@ -1,32 +1,41 @@
 {
   "27bcbbf6d324": {
-    "href": "/library/magistral:latest",
+    "href": "https://ollama.com/library/magistral:latest",
     "name": "magistral:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "39K",
-    "size_str": "14GB"
+    "context_window_num": 39000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "02423f83f1a1": {
-    "href": "/library/magistral:24b-small-2506-q8_0",
+    "href": "https://ollama.com/library/magistral:24b-small-2506-q8_0",
     "name": "magistral:24b-small-2506-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "39K",
-    "size_str": "25GB"
+    "context_window_num": 39000,
+    "size_str": "25GB",
+    "size_num": 25000000000
   },
   "0a0e2be3b6c4": {
-    "href": "/library/magistral:24b-small-2506-fp16",
+    "href": "https://ollama.com/library/magistral:24b-small-2506-fp16",
     "name": "magistral:24b-small-2506-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "39K",
-    "size_str": "47GB"
+    "context_window_num": 39000,
+    "size_str": "47GB",
+    "size_num": 47000000000
   }
 }

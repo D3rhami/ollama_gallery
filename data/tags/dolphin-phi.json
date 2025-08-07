@@ -1,122 +1,158 @@
 {
   "c5761fc77240": {
-    "href": "/library/dolphin-phi:latest",
+    "href": "https://ollama.com/library/dolphin-phi:latest",
     "name": "dolphin-phi:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.6GB"
+    "context_window_num": 2000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "7f54cec626b6": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q2_K",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q2_K",
     "name": "dolphin-phi:2.7b-v2.6-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.2GB"
+    "context_window_num": 2000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "5c03deb374c8": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q3_K_S",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q3_K_S",
     "name": "dolphin-phi:2.7b-v2.6-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.3GB"
+    "context_window_num": 2000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "5e99163c66d3": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q3_K_M",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q3_K_M",
     "name": "dolphin-phi:2.7b-v2.6-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.5GB"
+    "context_window_num": 2000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
   },
   "60c080a5bd9a": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q3_K_L",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q3_K_L",
     "name": "dolphin-phi:2.7b-v2.6-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.6GB"
+    "context_window_num": 2000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "9ce1a8be68f2": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q4_K_S",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q4_K_S",
     "name": "dolphin-phi:2.7b-v2.6-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.6GB"
+    "context_window_num": 2000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "cff9506fc46b": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q4_K_M",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q4_K_M",
     "name": "dolphin-phi:2.7b-v2.6-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.8GB"
+    "context_window_num": 2000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "7346eb8f523d": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q5_0",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q5_0",
     "name": "dolphin-phi:2.7b-v2.6-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.9GB"
+    "context_window_num": 2000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "3284ea06df25": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q5_K_S",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q5_K_S",
     "name": "dolphin-phi:2.7b-v2.6-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.9GB"
+    "context_window_num": 2000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "175d2f641dea": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q5_K_M",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q5_K_M",
     "name": "dolphin-phi:2.7b-v2.6-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.1GB"
+    "context_window_num": 2000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "4a7162481650": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q6_K",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q6_K",
     "name": "dolphin-phi:2.7b-v2.6-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.3GB"
+    "context_window_num": 2000,
+    "size_str": "2.3GB",
+    "size_num": 2300000000
   },
   "b6ba7363045d": {
-    "href": "/library/dolphin-phi:2.7b-v2.6-q8_0",
+    "href": "https://ollama.com/library/dolphin-phi:2.7b-v2.6-q8_0",
     "name": "dolphin-phi:2.7b-v2.6-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "3.0GB"
+    "context_window_num": 2000,
+    "size_str": "3.0GB",
+    "size_num": 3000000000
   }
 }

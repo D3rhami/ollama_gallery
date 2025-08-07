@@ -1,152 +1,197 @@
 {
   "0a108dbd846e": {
-    "href": "/library/stablelm-zephyr:latest",
+    "href": "https://ollama.com/library/stablelm-zephyr:latest",
     "name": "stablelm-zephyr:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.6GB"
+    "context_window_num": 4000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "5bac743c919f": {
-    "href": "/library/stablelm-zephyr:3b-q2_K",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q2_K",
     "name": "stablelm-zephyr:3b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.2GB"
+    "context_window_num": 4000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "e3701c5f77dc": {
-    "href": "/library/stablelm-zephyr:3b-q3_K_S",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q3_K_S",
     "name": "stablelm-zephyr:3b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.3GB"
+    "context_window_num": 4000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "c7711232e7f3": {
-    "href": "/library/stablelm-zephyr:3b-q3_K_M",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q3_K_M",
     "name": "stablelm-zephyr:3b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.4GB"
+    "context_window_num": 4000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "e1c8dc5c8d34": {
-    "href": "/library/stablelm-zephyr:3b-q3_K_L",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q3_K_L",
     "name": "stablelm-zephyr:3b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.5GB"
+    "context_window_num": 4000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
   },
   "cd0ff50645c6": {
-    "href": "/library/stablelm-zephyr:3b-q4_1",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q4_1",
     "name": "stablelm-zephyr:3b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.8GB"
+    "context_window_num": 4000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "582279ce4228": {
-    "href": "/library/stablelm-zephyr:3b-q4_K_S",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q4_K_S",
     "name": "stablelm-zephyr:3b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.6GB"
+    "context_window_num": 4000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "309d69b91219": {
-    "href": "/library/stablelm-zephyr:3b-q4_K_M",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q4_K_M",
     "name": "stablelm-zephyr:3b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.7GB"
+    "context_window_num": 4000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "edeb9aa03418": {
-    "href": "/library/stablelm-zephyr:3b-q5_0",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q5_0",
     "name": "stablelm-zephyr:3b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.9GB"
+    "context_window_num": 4000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "eabd69d2ce14": {
-    "href": "/library/stablelm-zephyr:3b-q5_1",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q5_1",
     "name": "stablelm-zephyr:3b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.1GB"
+    "context_window_num": 4000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "71033947149d": {
-    "href": "/library/stablelm-zephyr:3b-q5_K_S",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q5_K_S",
     "name": "stablelm-zephyr:3b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.9GB"
+    "context_window_num": 4000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "d8f94059df64": {
-    "href": "/library/stablelm-zephyr:3b-q5_K_M",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q5_K_M",
     "name": "stablelm-zephyr:3b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.0GB"
+    "context_window_num": 4000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "686dc198f785": {
-    "href": "/library/stablelm-zephyr:3b-q6_K",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q6_K",
     "name": "stablelm-zephyr:3b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.3GB"
+    "context_window_num": 4000,
+    "size_str": "2.3GB",
+    "size_num": 2300000000
   },
   "8e11ffa757f3": {
-    "href": "/library/stablelm-zephyr:3b-q8_0",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-q8_0",
     "name": "stablelm-zephyr:3b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "3.0GB"
+    "context_window_num": 4000,
+    "size_str": "3.0GB",
+    "size_num": 3000000000
   },
   "2d27f99af6a5": {
-    "href": "/library/stablelm-zephyr:3b-fp16",
+    "href": "https://ollama.com/library/stablelm-zephyr:3b-fp16",
     "name": "stablelm-zephyr:3b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "5.6GB"
+    "context_window_num": 4000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   }
 }

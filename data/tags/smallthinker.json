@@ -1,32 +1,41 @@
 {
   "945eb1864589": {
-    "href": "/library/smallthinker:latest",
+    "href": "https://ollama.com/library/smallthinker:latest",
     "name": "smallthinker:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "3.6GB"
+    "context_window_num": 32000,
+    "size_str": "3.6GB",
+    "size_num": 3600000000
   },
   "b136f0e0ef96": {
-    "href": "/library/smallthinker:3b-preview-q4_K_M",
+    "href": "https://ollama.com/library/smallthinker:3b-preview-q4_K_M",
     "name": "smallthinker:3b-preview-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "2.1GB"
+    "context_window_num": 32000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "71cf19d4f87a": {
-    "href": "/library/smallthinker:3b-preview-fp16",
+    "href": "https://ollama.com/library/smallthinker:3b-preview-fp16",
     "name": "smallthinker:3b-preview-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "6.8GB"
+    "context_window_num": 32000,
+    "size_str": "6.8GB",
+    "size_num": 6800000000
   }
 }

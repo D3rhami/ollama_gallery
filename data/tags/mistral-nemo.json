@@ -1,152 +1,197 @@
 {
   "e7e06d107c6c": {
-    "href": "/library/mistral-nemo:latest",
+    "href": "https://ollama.com/library/mistral-nemo:latest",
     "name": "mistral-nemo:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "7.1GB"
+    "context_window_num": 1000000,
+    "size_str": "7.1GB",
+    "size_num": 7100000000
   },
   "868f6ba4dbda": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q2_K",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q2_K",
     "name": "mistral-nemo:12b-instruct-2407-q2_K",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "4.8GB"
+    "context_window_num": 1000000,
+    "size_str": "4.8GB",
+    "size_num": 4800000000
   },
   "5bba7a13afef": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q3_K_S",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q3_K_S",
     "name": "mistral-nemo:12b-instruct-2407-q3_K_S",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "5.5GB"
+    "context_window_num": 1000000,
+    "size_str": "5.5GB",
+    "size_num": 5500000000
   },
   "0549a17f596f": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q3_K_M",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q3_K_M",
     "name": "mistral-nemo:12b-instruct-2407-q3_K_M",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "6.1GB"
+    "context_window_num": 1000000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "8dc575f2f1d9": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q3_K_L",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q3_K_L",
     "name": "mistral-nemo:12b-instruct-2407-q3_K_L",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "6.6GB"
+    "context_window_num": 1000000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
   },
   "243f0861c69b": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q4_1",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q4_1",
     "name": "mistral-nemo:12b-instruct-2407-q4_1",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "7.8GB"
+    "context_window_num": 1000000,
+    "size_str": "7.8GB",
+    "size_num": 7800000000
   },
   "fe6fcaf0d26f": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q4_K_S",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q4_K_S",
     "name": "mistral-nemo:12b-instruct-2407-q4_K_S",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "7.1GB"
+    "context_window_num": 1000000,
+    "size_str": "7.1GB",
+    "size_num": 7100000000
   },
   "daf673741712": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q4_K_M",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q4_K_M",
     "name": "mistral-nemo:12b-instruct-2407-q4_K_M",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "7.5GB"
+    "context_window_num": 1000000,
+    "size_str": "7.5GB",
+    "size_num": 7500000000
   },
   "dab3cfa34f38": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q5_0",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q5_0",
     "name": "mistral-nemo:12b-instruct-2407-q5_0",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "8.5GB"
+    "context_window_num": 1000000,
+    "size_str": "8.5GB",
+    "size_num": 8500000000
   },
   "8898d5e38428": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q5_1",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q5_1",
     "name": "mistral-nemo:12b-instruct-2407-q5_1",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "9.2GB"
+    "context_window_num": 1000000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "40374746451f": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q5_K_S",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q5_K_S",
     "name": "mistral-nemo:12b-instruct-2407-q5_K_S",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "8.5GB"
+    "context_window_num": 1000000,
+    "size_str": "8.5GB",
+    "size_num": 8500000000
   },
   "cf4d8cc50281": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q5_K_M",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q5_K_M",
     "name": "mistral-nemo:12b-instruct-2407-q5_K_M",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "8.7GB"
+    "context_window_num": 1000000,
+    "size_str": "8.7GB",
+    "size_num": 8700000000
   },
   "b6435edbd791": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q6_K",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q6_K",
     "name": "mistral-nemo:12b-instruct-2407-q6_K",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "10GB"
+    "context_window_num": 1000000,
+    "size_str": "10GB",
+    "size_num": 10000000000
   },
   "e9b8ba00d2a1": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-q8_0",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-q8_0",
     "name": "mistral-nemo:12b-instruct-2407-q8_0",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "13GB"
+    "context_window_num": 1000000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "412dcb6ec5f9": {
-    "href": "/library/mistral-nemo:12b-instruct-2407-fp16",
+    "href": "https://ollama.com/library/mistral-nemo:12b-instruct-2407-fp16",
     "name": "mistral-nemo:12b-instruct-2407-fp16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
+    "updated_str": "2 weeks ago",
+    "update_date": "2025-07-24",
     "context_window": "1000K",
-    "size_str": "25GB"
+    "context_window_num": 1000000,
+    "size_str": "25GB",
+    "size_num": 25000000000
   }
 }

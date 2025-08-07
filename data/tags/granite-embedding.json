@@ -1,22 +1,28 @@
 {
   "eb4c533ba6f7": {
-    "href": "/library/granite-embedding:latest",
+    "href": "https://ollama.com/library/granite-embedding:latest",
     "name": "granite-embedding:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "512",
-    "size_str": "63MB"
+    "context_window_num": 512,
+    "size_str": "63MB",
+    "size_num": 63000000
   },
   "1a37926bf842": {
-    "href": "/library/granite-embedding:278m",
+    "href": "https://ollama.com/library/granite-embedding:278m",
     "name": "granite-embedding:278m",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "512",
-    "size_str": "563MB"
+    "context_window_num": 512,
+    "size_str": "563MB",
+    "size_num": 563000000
   }
 }

@@ -1,42 +1,54 @@
 {
   "36800d8d3a28": {
-    "href": "/library/dbrx:latest",
+    "href": "https://ollama.com/library/dbrx:latest",
     "name": "dbrx:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "74GB"
+    "context_window_num": 32000,
+    "size_str": "74GB",
+    "size_num": 74000000000
   },
   "e2554a95cc76": {
-    "href": "/library/dbrx:132b-instruct-q2_K",
+    "href": "https://ollama.com/library/dbrx:132b-instruct-q2_K",
     "name": "dbrx:132b-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "48GB"
+    "context_window_num": 32000,
+    "size_str": "48GB",
+    "size_num": 48000000000
   },
   "4fca83b20ba0": {
-    "href": "/library/dbrx:132b-instruct-q8_0",
+    "href": "https://ollama.com/library/dbrx:132b-instruct-q8_0",
     "name": "dbrx:132b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "140GB"
+    "context_window_num": 32000,
+    "size_str": "140GB",
+    "size_num": 140000000000
   },
   "2bacc27fc29a": {
-    "href": "/library/dbrx:132b-instruct-fp16",
+    "href": "https://ollama.com/library/dbrx:132b-instruct-fp16",
     "name": "dbrx:132b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "263GB"
+    "context_window_num": 32000,
+    "size_str": "263GB",
+    "size_num": 263000000000
   }
 }

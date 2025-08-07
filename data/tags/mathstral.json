@@ -1,152 +1,197 @@
 {
   "4ee7052be55a": {
-    "href": "/library/mathstral:latest",
+    "href": "https://ollama.com/library/mathstral:latest",
     "name": "mathstral:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "5137b80a2f9f": {
-    "href": "/library/mathstral:7b-v0.1-q2_K",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q2_K",
     "name": "mathstral:7b-v0.1-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "2.7GB"
+    "context_window_num": 32000,
+    "size_str": "2.7GB",
+    "size_num": 2700000000
   },
   "b75c7eed8cf3": {
-    "href": "/library/mathstral:7b-v0.1-q3_K_S",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q3_K_S",
     "name": "mathstral:7b-v0.1-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "67dafe37f729": {
-    "href": "/library/mathstral:7b-v0.1-q3_K_M",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q3_K_M",
     "name": "mathstral:7b-v0.1-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "f1a0d196fc05": {
-    "href": "/library/mathstral:7b-v0.1-q3_K_L",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q3_K_L",
     "name": "mathstral:7b-v0.1-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "7d1005348e61": {
-    "href": "/library/mathstral:7b-v0.1-q4_1",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q4_1",
     "name": "mathstral:7b-v0.1-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "4c06df180823": {
-    "href": "/library/mathstral:7b-v0.1-q4_K_S",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q4_K_S",
     "name": "mathstral:7b-v0.1-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "8cf37cd9128d": {
-    "href": "/library/mathstral:7b-v0.1-q4_K_M",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q4_K_M",
     "name": "mathstral:7b-v0.1-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "c766c6cbd32e": {
-    "href": "/library/mathstral:7b-v0.1-q5_0",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q5_0",
     "name": "mathstral:7b-v0.1-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "f0082439d2ba": {
-    "href": "/library/mathstral:7b-v0.1-q5_1",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q5_1",
     "name": "mathstral:7b-v0.1-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "e37cf555b2ed": {
-    "href": "/library/mathstral:7b-v0.1-q5_K_S",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q5_K_S",
     "name": "mathstral:7b-v0.1-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "562985e7a5a8": {
-    "href": "/library/mathstral:7b-v0.1-q5_K_M",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q5_K_M",
     "name": "mathstral:7b-v0.1-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "696c00e5bba0": {
-    "href": "/library/mathstral:7b-v0.1-q6_K",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q6_K",
     "name": "mathstral:7b-v0.1-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "939f2d6f06c5": {
-    "href": "/library/mathstral:7b-v0.1-q8_0",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-q8_0",
     "name": "mathstral:7b-v0.1-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "ce1616d5e8c6": {
-    "href": "/library/mathstral:7b-v0.1-fp16",
+    "href": "https://ollama.com/library/mathstral:7b-v0.1-fp16",
     "name": "mathstral:7b-v0.1-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

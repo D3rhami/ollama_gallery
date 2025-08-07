@@ -1,602 +1,782 @@
 {
   "39c63e7675d7": {
-    "href": "/library/yi-coder:latest",
+    "href": "https://ollama.com/library/yi-coder:latest",
     "name": "yi-coder:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "5.0GB"
+    "context_window_num": 128000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "186c460ee707": {
-    "href": "/library/yi-coder:1.5b",
+    "href": "https://ollama.com/library/yi-coder:1.5b",
     "name": "yi-coder:1.5b",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "866MB"
+    "context_window_num": 128000,
+    "size_str": "866MB",
+    "size_num": 866000000
   },
   "3ae9e5590c53": {
-    "href": "/library/yi-coder:1.5b-base",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base",
     "name": "yi-coder:1.5b-base",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "866MB"
+    "context_window_num": 128000,
+    "size_str": "866MB",
+    "size_num": 866000000
   },
   "72bcbb9a9ae9": {
-    "href": "/library/yi-coder:1.5b-base-q2_K",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q2_K",
     "name": "yi-coder:1.5b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "635MB"
+    "context_window_num": 128000,
+    "size_str": "635MB",
+    "size_num": 635000000
   },
   "6c35f0ea217b": {
-    "href": "/library/yi-coder:1.5b-base-q3_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q3_K_S",
     "name": "yi-coder:1.5b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "723MB"
+    "context_window_num": 128000,
+    "size_str": "723MB",
+    "size_num": 723000000
   },
   "b5470df6d3e7": {
-    "href": "/library/yi-coder:1.5b-base-q3_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q3_K_M",
     "name": "yi-coder:1.5b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "786MB"
+    "context_window_num": 128000,
+    "size_str": "786MB",
+    "size_num": 786000000
   },
   "5185a5d9d3ca": {
-    "href": "/library/yi-coder:1.5b-base-q3_K_L",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q3_K_L",
     "name": "yi-coder:1.5b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "826MB"
+    "context_window_num": 128000,
+    "size_str": "826MB",
+    "size_num": 826000000
   },
   "5cb7b8cc1097": {
-    "href": "/library/yi-coder:1.5b-base-q4_1",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q4_1",
     "name": "yi-coder:1.5b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "950MB"
+    "context_window_num": 128000,
+    "size_str": "950MB",
+    "size_num": 950000000
   },
   "fb5f9df9ed8a": {
-    "href": "/library/yi-coder:1.5b-base-q4_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q4_K_S",
     "name": "yi-coder:1.5b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "904MB"
+    "context_window_num": 128000,
+    "size_str": "904MB",
+    "size_num": 904000000
   },
   "f833af8a9c24": {
-    "href": "/library/yi-coder:1.5b-base-q4_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q4_K_M",
     "name": "yi-coder:1.5b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "964MB"
+    "context_window_num": 128000,
+    "size_str": "964MB",
+    "size_num": 964000000
   },
   "6cb7ed11413c": {
-    "href": "/library/yi-coder:1.5b-base-q5_0",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q5_0",
     "name": "yi-coder:1.5b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.0GB"
+    "context_window_num": 128000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
   },
   "da6135e2b7dc": {
-    "href": "/library/yi-coder:1.5b-base-q5_1",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q5_1",
     "name": "yi-coder:1.5b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "66d47c26a364": {
-    "href": "/library/yi-coder:1.5b-base-q5_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q5_K_S",
     "name": "yi-coder:1.5b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "5b70d32eb00f": {
-    "href": "/library/yi-coder:1.5b-base-q5_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q5_K_M",
     "name": "yi-coder:1.5b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "25f35d89eb70": {
-    "href": "/library/yi-coder:1.5b-base-q6_K",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q6_K",
     "name": "yi-coder:1.5b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.3GB"
+    "context_window_num": 128000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "5c692daa00cf": {
-    "href": "/library/yi-coder:1.5b-base-q8_0",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-q8_0",
     "name": "yi-coder:1.5b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "1.6GB"
+    "context_window_num": 128000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "e5e7bac55898": {
-    "href": "/library/yi-coder:1.5b-base-fp16",
+    "href": "https://ollama.com/library/yi-coder:1.5b-base-fp16",
     "name": "yi-coder:1.5b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "3.0GB"
+    "context_window_num": 128000,
+    "size_str": "3.0GB",
+    "size_num": 3000000000
   },
   "39d4d341cff8": {
-    "href": "/library/yi-coder:1.5b-chat-q2_K",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q2_K",
     "name": "yi-coder:1.5b-chat-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "635MB"
+    "context_window_num": 128000,
+    "size_str": "635MB",
+    "size_num": 635000000
   },
   "71fbe88ebe81": {
-    "href": "/library/yi-coder:1.5b-chat-q3_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q3_K_S",
     "name": "yi-coder:1.5b-chat-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "723MB"
+    "context_window_num": 128000,
+    "size_str": "723MB",
+    "size_num": 723000000
   },
   "63478a7e797f": {
-    "href": "/library/yi-coder:1.5b-chat-q3_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q3_K_M",
     "name": "yi-coder:1.5b-chat-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "786MB"
+    "context_window_num": 128000,
+    "size_str": "786MB",
+    "size_num": 786000000
   },
   "3897d2133f5c": {
-    "href": "/library/yi-coder:1.5b-chat-q3_K_L",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q3_K_L",
     "name": "yi-coder:1.5b-chat-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "826MB"
+    "context_window_num": 128000,
+    "size_str": "826MB",
+    "size_num": 826000000
   },
   "8d4bdf342be6": {
-    "href": "/library/yi-coder:1.5b-chat-q4_1",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q4_1",
     "name": "yi-coder:1.5b-chat-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "950MB"
+    "context_window_num": 128000,
+    "size_str": "950MB",
+    "size_num": 950000000
   },
   "0fb60923856d": {
-    "href": "/library/yi-coder:1.5b-chat-q4_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q4_K_S",
     "name": "yi-coder:1.5b-chat-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "904MB"
+    "context_window_num": 128000,
+    "size_str": "904MB",
+    "size_num": 904000000
   },
   "18173f4b9642": {
-    "href": "/library/yi-coder:1.5b-chat-q4_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q4_K_M",
     "name": "yi-coder:1.5b-chat-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "964MB"
+    "context_window_num": 128000,
+    "size_str": "964MB",
+    "size_num": 964000000
   },
   "21e2d2d7f308": {
-    "href": "/library/yi-coder:1.5b-chat-q5_0",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q5_0",
     "name": "yi-coder:1.5b-chat-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.0GB"
+    "context_window_num": 128000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
   },
   "58fbc0fac95a": {
-    "href": "/library/yi-coder:1.5b-chat-q5_1",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q5_1",
     "name": "yi-coder:1.5b-chat-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "284b8efecc30": {
-    "href": "/library/yi-coder:1.5b-chat-q5_K_S",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q5_K_S",
     "name": "yi-coder:1.5b-chat-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "585d2aa06889": {
-    "href": "/library/yi-coder:1.5b-chat-q5_K_M",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q5_K_M",
     "name": "yi-coder:1.5b-chat-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.1GB"
+    "context_window_num": 128000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "2bbe996b550c": {
-    "href": "/library/yi-coder:1.5b-chat-q6_K",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q6_K",
     "name": "yi-coder:1.5b-chat-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.3GB"
+    "context_window_num": 128000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "f182b38e0035": {
-    "href": "/library/yi-coder:1.5b-chat-q8_0",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-q8_0",
     "name": "yi-coder:1.5b-chat-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "1.6GB"
+    "context_window_num": 128000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "d1abd5321dc6": {
-    "href": "/library/yi-coder:1.5b-chat-fp16",
+    "href": "https://ollama.com/library/yi-coder:1.5b-chat-fp16",
     "name": "yi-coder:1.5b-chat-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "3.0GB"
+    "context_window_num": 128000,
+    "size_str": "3.0GB",
+    "size_num": 3000000000
   },
   "ddb06590020f": {
-    "href": "/library/yi-coder:9b-base",
+    "href": "https://ollama.com/library/yi-coder:9b-base",
     "name": "yi-coder:9b-base",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "5.0GB"
+    "context_window_num": 128000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "876912d1a17f": {
-    "href": "/library/yi-coder:9b-base-q2_K",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q2_K",
     "name": "yi-coder:9b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "3.4GB"
+    "context_window_num": 128000,
+    "size_str": "3.4GB",
+    "size_num": 3400000000
   },
   "9578a235ec51": {
-    "href": "/library/yi-coder:9b-base-q3_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q3_K_S",
     "name": "yi-coder:9b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "3.9GB"
+    "context_window_num": 128000,
+    "size_str": "3.9GB",
+    "size_num": 3900000000
   },
   "870580db544a": {
-    "href": "/library/yi-coder:9b-base-q3_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q3_K_M",
     "name": "yi-coder:9b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "4.3GB"
+    "context_window_num": 128000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "9929a56a3b42": {
-    "href": "/library/yi-coder:9b-base-q3_K_L",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q3_K_L",
     "name": "yi-coder:9b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "4.7GB"
+    "context_window_num": 128000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "1b5c8ffbba06": {
-    "href": "/library/yi-coder:9b-base-q4_1",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q4_1",
     "name": "yi-coder:9b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "5.6GB"
+    "context_window_num": 128000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   },
   "75319e66c008": {
-    "href": "/library/yi-coder:9b-base-q4_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q4_K_S",
     "name": "yi-coder:9b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "5.1GB"
+    "context_window_num": 128000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "41db33a6f556": {
-    "href": "/library/yi-coder:9b-base-q4_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q4_K_M",
     "name": "yi-coder:9b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "5.3GB"
+    "context_window_num": 128000,
+    "size_str": "5.3GB",
+    "size_num": 5300000000
   },
   "e427662e4bb0": {
-    "href": "/library/yi-coder:9b-base-q5_0",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q5_0",
     "name": "yi-coder:9b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "6.1GB"
+    "context_window_num": 128000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "d887d7e655ef": {
-    "href": "/library/yi-coder:9b-base-q5_1",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q5_1",
     "name": "yi-coder:9b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "6.6GB"
+    "context_window_num": 128000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
   },
   "f8c19324bb7e": {
-    "href": "/library/yi-coder:9b-base-q5_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q5_K_S",
     "name": "yi-coder:9b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "6.1GB"
+    "context_window_num": 128000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "b948d974d5a3": {
-    "href": "/library/yi-coder:9b-base-q5_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q5_K_M",
     "name": "yi-coder:9b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "6.3GB"
+    "context_window_num": 128000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "ab6cfd4955f9": {
-    "href": "/library/yi-coder:9b-base-q6_K",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q6_K",
     "name": "yi-coder:9b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "7.2GB"
+    "context_window_num": 128000,
+    "size_str": "7.2GB",
+    "size_num": 7200000000
   },
   "eea07012d69e": {
-    "href": "/library/yi-coder:9b-base-q8_0",
+    "href": "https://ollama.com/library/yi-coder:9b-base-q8_0",
     "name": "yi-coder:9b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "9.4GB"
+    "context_window_num": 128000,
+    "size_str": "9.4GB",
+    "size_num": 9400000000
   },
   "bfc135887310": {
-    "href": "/library/yi-coder:9b-base-fp16",
+    "href": "https://ollama.com/library/yi-coder:9b-base-fp16",
     "name": "yi-coder:9b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "128K",
-    "size_str": "18GB"
+    "context_window_num": 128000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "48bf607b45fd": {
-    "href": "/library/yi-coder:9b-chat-q2_K",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q2_K",
     "name": "yi-coder:9b-chat-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "3.4GB"
+    "context_window_num": 128000,
+    "size_str": "3.4GB",
+    "size_num": 3400000000
   },
   "d9706e23f3b9": {
-    "href": "/library/yi-coder:9b-chat-q3_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q3_K_S",
     "name": "yi-coder:9b-chat-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "3.9GB"
+    "context_window_num": 128000,
+    "size_str": "3.9GB",
+    "size_num": 3900000000
   },
   "e0bd3d693e5e": {
-    "href": "/library/yi-coder:9b-chat-q3_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q3_K_M",
     "name": "yi-coder:9b-chat-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "4.3GB"
+    "context_window_num": 128000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "4cdf05e1131f": {
-    "href": "/library/yi-coder:9b-chat-q3_K_L",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q3_K_L",
     "name": "yi-coder:9b-chat-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "4.7GB"
+    "context_window_num": 128000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "150b2d132ef1": {
-    "href": "/library/yi-coder:9b-chat-q4_1",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q4_1",
     "name": "yi-coder:9b-chat-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "5.6GB"
+    "context_window_num": 128000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   },
   "67b6a93dec3c": {
-    "href": "/library/yi-coder:9b-chat-q4_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q4_K_S",
     "name": "yi-coder:9b-chat-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "5.1GB"
+    "context_window_num": 128000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "89884591b225": {
-    "href": "/library/yi-coder:9b-chat-q4_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q4_K_M",
     "name": "yi-coder:9b-chat-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "5.3GB"
+    "context_window_num": 128000,
+    "size_str": "5.3GB",
+    "size_num": 5300000000
   },
   "ede3d2c181a4": {
-    "href": "/library/yi-coder:9b-chat-q5_0",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q5_0",
     "name": "yi-coder:9b-chat-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "6.1GB"
+    "context_window_num": 128000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "301ce2e5ec7b": {
-    "href": "/library/yi-coder:9b-chat-q5_1",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q5_1",
     "name": "yi-coder:9b-chat-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "6.6GB"
+    "context_window_num": 128000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
   },
   "696e7540c8dc": {
-    "href": "/library/yi-coder:9b-chat-q5_K_S",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q5_K_S",
     "name": "yi-coder:9b-chat-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "6.1GB"
+    "context_window_num": 128000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "d4b375d4e224": {
-    "href": "/library/yi-coder:9b-chat-q5_K_M",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q5_K_M",
     "name": "yi-coder:9b-chat-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "6.3GB"
+    "context_window_num": 128000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "e020ec59c639": {
-    "href": "/library/yi-coder:9b-chat-q6_K",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q6_K",
     "name": "yi-coder:9b-chat-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "7.2GB"
+    "context_window_num": 128000,
+    "size_str": "7.2GB",
+    "size_num": 7200000000
   },
   "24620a7cf955": {
-    "href": "/library/yi-coder:9b-chat-q8_0",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-q8_0",
     "name": "yi-coder:9b-chat-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "9.4GB"
+    "context_window_num": 128000,
+    "size_str": "9.4GB",
+    "size_num": 9400000000
   },
   "fbb8b69a8909": {
-    "href": "/library/yi-coder:9b-chat-fp16",
+    "href": "https://ollama.com/library/yi-coder:9b-chat-fp16",
     "name": "yi-coder:9b-chat-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "10 months ago",
+    "update_date": "2024-10-07",
     "context_window": "128K",
-    "size_str": "18GB"
+    "context_window_num": 128000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   }
 }

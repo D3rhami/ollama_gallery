@@ -1,32 +1,41 @@
 {
   "4bbe3353e56a": {
-    "href": "/library/command-r7b-arabic:latest",
+    "href": "https://ollama.com/library/command-r7b-arabic:latest",
     "name": "command-r7b-arabic:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "16K",
-    "size_str": "5.1GB"
+    "context_window_num": 16000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "74737d27f74e": {
-    "href": "/library/command-r7b-arabic:7b-02-2025-q8_0",
+    "href": "https://ollama.com/library/command-r7b-arabic:7b-02-2025-q8_0",
     "name": "command-r7b-arabic:7b-02-2025-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "16K",
-    "size_str": "8.5GB"
+    "context_window_num": 16000,
+    "size_str": "8.5GB",
+    "size_num": 8500000000
   },
   "23f512f126d9": {
-    "href": "/library/command-r7b-arabic:7b-02-2025-fp16",
+    "href": "https://ollama.com/library/command-r7b-arabic:7b-02-2025-fp16",
     "name": "command-r7b-arabic:7b-02-2025-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "16K",
-    "size_str": "16GB"
+    "context_window_num": 16000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   }
 }

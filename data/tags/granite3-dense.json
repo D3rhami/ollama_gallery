@@ -1,302 +1,392 @@
 {
   "5c2e6f3112f4": {
-    "href": "/library/granite3-dense:latest",
+    "href": "https://ollama.com/library/granite3-dense:latest",
     "name": "granite3-dense:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.6GB"
+    "context_window_num": 4000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "199456d876ee": {
-    "href": "/library/granite3-dense:8b",
+    "href": "https://ollama.com/library/granite3-dense:8b",
     "name": "granite3-dense:8b",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "4.9GB"
+    "context_window_num": 4000,
+    "size_str": "4.9GB",
+    "size_num": 4900000000
   },
   "2261d92d6175": {
-    "href": "/library/granite3-dense:2b-instruct-q2_K",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q2_K",
     "name": "granite3-dense:2b-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.0GB"
+    "context_window_num": 4000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
   },
   "7c6af70b9f11": {
-    "href": "/library/granite3-dense:2b-instruct-q3_K_S",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q3_K_S",
     "name": "granite3-dense:2b-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.2GB"
+    "context_window_num": 4000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   },
   "c08ae454856c": {
-    "href": "/library/granite3-dense:2b-instruct-q3_K_M",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q3_K_M",
     "name": "granite3-dense:2b-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.3GB"
+    "context_window_num": 4000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "201ccf1522e8": {
-    "href": "/library/granite3-dense:2b-instruct-q3_K_L",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q3_K_L",
     "name": "granite3-dense:2b-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.4GB"
+    "context_window_num": 4000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "dd4a07b9e1b7": {
-    "href": "/library/granite3-dense:2b-instruct-q4_0",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q4_0",
     "name": "granite3-dense:2b-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.5GB"
+    "context_window_num": 4000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
   },
   "e12ad0fad2ad": {
-    "href": "/library/granite3-dense:2b-instruct-q4_1",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q4_1",
     "name": "granite3-dense:2b-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.7GB"
+    "context_window_num": 4000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "0f87f54eb387": {
-    "href": "/library/granite3-dense:2b-instruct-q4_K_S",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q4_K_S",
     "name": "granite3-dense:2b-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.5GB"
+    "context_window_num": 4000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
   },
   "db3fbcdec89b": {
-    "href": "/library/granite3-dense:2b-instruct-q5_0",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q5_0",
     "name": "granite3-dense:2b-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.8GB"
+    "context_window_num": 4000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "bc5ed577d64f": {
-    "href": "/library/granite3-dense:2b-instruct-q5_1",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q5_1",
     "name": "granite3-dense:2b-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "2.0GB"
+    "context_window_num": 4000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "be9d8efefd30": {
-    "href": "/library/granite3-dense:2b-instruct-q5_K_S",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q5_K_S",
     "name": "granite3-dense:2b-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.8GB"
+    "context_window_num": 4000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "dcace13d6d34": {
-    "href": "/library/granite3-dense:2b-instruct-q5_K_M",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q5_K_M",
     "name": "granite3-dense:2b-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.9GB"
+    "context_window_num": 4000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "7f374efdad9b": {
-    "href": "/library/granite3-dense:2b-instruct-q6_K",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q6_K",
     "name": "granite3-dense:2b-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "2.2GB"
+    "context_window_num": 4000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "f35cd2e1e433": {
-    "href": "/library/granite3-dense:2b-instruct-q8_0",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-q8_0",
     "name": "granite3-dense:2b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "2.8GB"
+    "context_window_num": 4000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
   },
   "24e5c0a35f78": {
-    "href": "/library/granite3-dense:2b-instruct-fp16",
+    "href": "https://ollama.com/library/granite3-dense:2b-instruct-fp16",
     "name": "granite3-dense:2b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "5.3GB"
+    "context_window_num": 4000,
+    "size_str": "5.3GB",
+    "size_num": 5300000000
   },
   "2ea57f8bc8fd": {
-    "href": "/library/granite3-dense:8b-instruct-q2_K",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q2_K",
     "name": "granite3-dense:8b-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "3.1GB"
+    "context_window_num": 4000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "4c5f0dba11a8": {
-    "href": "/library/granite3-dense:8b-instruct-q3_K_S",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q3_K_S",
     "name": "granite3-dense:8b-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "3.6GB"
+    "context_window_num": 4000,
+    "size_str": "3.6GB",
+    "size_num": 3600000000
   },
   "c1a94d47b25c": {
-    "href": "/library/granite3-dense:8b-instruct-q3_K_M",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q3_K_M",
     "name": "granite3-dense:8b-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "4.0GB"
+    "context_window_num": 4000,
+    "size_str": "4.0GB",
+    "size_num": 4000000000
   },
   "c74b04a2513f": {
-    "href": "/library/granite3-dense:8b-instruct-q3_K_L",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q3_K_L",
     "name": "granite3-dense:8b-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "4.3GB"
+    "context_window_num": 4000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "16473222519f": {
-    "href": "/library/granite3-dense:8b-instruct-q4_0",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q4_0",
     "name": "granite3-dense:8b-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "4.7GB"
+    "context_window_num": 4000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "8a47472a11f2": {
-    "href": "/library/granite3-dense:8b-instruct-q4_1",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q4_1",
     "name": "granite3-dense:8b-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "5.1GB"
+    "context_window_num": 4000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "8fc1ce76b8f2": {
-    "href": "/library/granite3-dense:8b-instruct-q4_K_S",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q4_K_S",
     "name": "granite3-dense:8b-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "4.7GB"
+    "context_window_num": 4000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "449cddb1864d": {
-    "href": "/library/granite3-dense:8b-instruct-q5_0",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q5_0",
     "name": "granite3-dense:8b-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "5.6GB"
+    "context_window_num": 4000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   },
   "ae4ab94be005": {
-    "href": "/library/granite3-dense:8b-instruct-q5_1",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q5_1",
     "name": "granite3-dense:8b-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "6.1GB"
+    "context_window_num": 4000,
+    "size_str": "6.1GB",
+    "size_num": 6100000000
   },
   "49055e666925": {
-    "href": "/library/granite3-dense:8b-instruct-q5_K_S",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q5_K_S",
     "name": "granite3-dense:8b-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "5.6GB"
+    "context_window_num": 4000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   },
   "e85361d1973c": {
-    "href": "/library/granite3-dense:8b-instruct-q5_K_M",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q5_K_M",
     "name": "granite3-dense:8b-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "5.8GB"
+    "context_window_num": 4000,
+    "size_str": "5.8GB",
+    "size_num": 5800000000
   },
   "ec258d53940b": {
-    "href": "/library/granite3-dense:8b-instruct-q6_K",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q6_K",
     "name": "granite3-dense:8b-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "6.7GB"
+    "context_window_num": 4000,
+    "size_str": "6.7GB",
+    "size_num": 6700000000
   },
   "f1466e70a7be": {
-    "href": "/library/granite3-dense:8b-instruct-q8_0",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-q8_0",
     "name": "granite3-dense:8b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "8.7GB"
+    "context_window_num": 4000,
+    "size_str": "8.7GB",
+    "size_num": 8700000000
   },
   "d3a4062e339e": {
-    "href": "/library/granite3-dense:8b-instruct-fp16",
+    "href": "https://ollama.com/library/granite3-dense:8b-instruct-fp16",
     "name": "granite3-dense:8b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "16GB"
+    "context_window_num": 4000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   }
 }

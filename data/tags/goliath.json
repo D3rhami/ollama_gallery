@@ -1,152 +1,197 @@
 {
   "61088afdc9fd": {
-    "href": "/library/goliath:latest",
+    "href": "https://ollama.com/library/goliath:latest",
     "name": "goliath:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "66GB"
+    "context_window_num": 4000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   },
   "1ffc35257417": {
-    "href": "/library/goliath:120b-q2_K",
+    "href": "https://ollama.com/library/goliath:120b-q2_K",
     "name": "goliath:120b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "50GB"
+    "context_window_num": 4000,
+    "size_str": "50GB",
+    "size_num": 50000000000
   },
   "9736546f52bd": {
-    "href": "/library/goliath:120b-q3_K_S",
+    "href": "https://ollama.com/library/goliath:120b-q3_K_S",
     "name": "goliath:120b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "51GB"
+    "context_window_num": 4000,
+    "size_str": "51GB",
+    "size_num": 51000000000
   },
   "3c4e3910d80b": {
-    "href": "/library/goliath:120b-q3_K_M",
+    "href": "https://ollama.com/library/goliath:120b-q3_K_M",
     "name": "goliath:120b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "56GB"
+    "context_window_num": 4000,
+    "size_str": "56GB",
+    "size_num": 56000000000
   },
   "6921e27086ee": {
-    "href": "/library/goliath:120b-q3_K_L",
+    "href": "https://ollama.com/library/goliath:120b-q3_K_L",
     "name": "goliath:120b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "62GB"
+    "context_window_num": 4000,
+    "size_str": "62GB",
+    "size_num": 62000000000
   },
   "3a37bd33b099": {
-    "href": "/library/goliath:120b-q4_1",
+    "href": "https://ollama.com/library/goliath:120b-q4_1",
     "name": "goliath:120b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "74GB"
+    "context_window_num": 4000,
+    "size_str": "74GB",
+    "size_num": 74000000000
   },
   "e81666e3d986": {
-    "href": "/library/goliath:120b-q4_K_S",
+    "href": "https://ollama.com/library/goliath:120b-q4_K_S",
     "name": "goliath:120b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "66GB"
+    "context_window_num": 4000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   },
   "de4de972c743": {
-    "href": "/library/goliath:120b-q4_K_M",
+    "href": "https://ollama.com/library/goliath:120b-q4_K_M",
     "name": "goliath:120b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "71GB"
+    "context_window_num": 4000,
+    "size_str": "71GB",
+    "size_num": 71000000000
   },
   "f4693101aaa7": {
-    "href": "/library/goliath:120b-q5_0",
+    "href": "https://ollama.com/library/goliath:120b-q5_0",
     "name": "goliath:120b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "81GB"
+    "context_window_num": 4000,
+    "size_str": "81GB",
+    "size_num": 81000000000
   },
   "94164c791a40": {
-    "href": "/library/goliath:120b-q5_1",
+    "href": "https://ollama.com/library/goliath:120b-q5_1",
     "name": "goliath:120b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "88GB"
+    "context_window_num": 4000,
+    "size_str": "88GB",
+    "size_num": 88000000000
   },
   "17f4b6a1dc09": {
-    "href": "/library/goliath:120b-q5_K_S",
+    "href": "https://ollama.com/library/goliath:120b-q5_K_S",
     "name": "goliath:120b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "81GB"
+    "context_window_num": 4000,
+    "size_str": "81GB",
+    "size_num": 81000000000
   },
   "4a1e8f98f51e": {
-    "href": "/library/goliath:120b-q5_K_M",
+    "href": "https://ollama.com/library/goliath:120b-q5_K_M",
     "name": "goliath:120b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "83GB"
+    "context_window_num": 4000,
+    "size_str": "83GB",
+    "size_num": 83000000000
   },
   "86fd8d4f456f": {
-    "href": "/library/goliath:120b-q6_K",
+    "href": "https://ollama.com/library/goliath:120b-q6_K",
     "name": "goliath:120b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "97GB"
+    "context_window_num": 4000,
+    "size_str": "97GB",
+    "size_num": 97000000000
   },
   "cb41bc287b73": {
-    "href": "/library/goliath:120b-q8_0",
+    "href": "https://ollama.com/library/goliath:120b-q8_0",
     "name": "goliath:120b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "125GB"
+    "context_window_num": 4000,
+    "size_str": "125GB",
+    "size_num": 125000000000
   },
   "f228bd4ec83c": {
-    "href": "/library/goliath:120b-fp16",
+    "href": "https://ollama.com/library/goliath:120b-fp16",
     "name": "goliath:120b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "236GB"
+    "context_window_num": 4000,
+    "size_str": "236GB",
+    "size_num": 236000000000
   }
 }

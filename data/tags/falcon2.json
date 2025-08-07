@@ -1,152 +1,197 @@
 {
   "d8c09dbc67c3": {
-    "href": "/library/falcon2:latest",
+    "href": "https://ollama.com/library/falcon2:latest",
     "name": "falcon2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "6.4GB"
+    "context_window_num": 2000,
+    "size_str": "6.4GB",
+    "size_num": 6400000000
   },
   "4051a7ef69a1": {
-    "href": "/library/falcon2:11b-q2_K",
+    "href": "https://ollama.com/library/falcon2:11b-q2_K",
     "name": "falcon2:11b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "4.3GB"
+    "context_window_num": 2000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "7e025ac717fb": {
-    "href": "/library/falcon2:11b-q3_K_S",
+    "href": "https://ollama.com/library/falcon2:11b-q3_K_S",
     "name": "falcon2:11b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "4.9GB"
+    "context_window_num": 2000,
+    "size_str": "4.9GB",
+    "size_num": 4900000000
   },
   "6650bb4b1a0e": {
-    "href": "/library/falcon2:11b-q3_K_M",
+    "href": "https://ollama.com/library/falcon2:11b-q3_K_M",
     "name": "falcon2:11b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "5.4GB"
+    "context_window_num": 2000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "63a1a26d3ddc": {
-    "href": "/library/falcon2:11b-q3_K_L",
+    "href": "https://ollama.com/library/falcon2:11b-q3_K_L",
     "name": "falcon2:11b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "5.8GB"
+    "context_window_num": 2000,
+    "size_str": "5.8GB",
+    "size_num": 5800000000
   },
   "8e785c2d36e0": {
-    "href": "/library/falcon2:11b-q4_1",
+    "href": "https://ollama.com/library/falcon2:11b-q4_1",
     "name": "falcon2:11b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.1GB"
+    "context_window_num": 2000,
+    "size_str": "7.1GB",
+    "size_num": 7100000000
   },
   "57c340e36421": {
-    "href": "/library/falcon2:11b-q4_K_S",
+    "href": "https://ollama.com/library/falcon2:11b-q4_K_S",
     "name": "falcon2:11b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "6.4GB"
+    "context_window_num": 2000,
+    "size_str": "6.4GB",
+    "size_num": 6400000000
   },
   "6aadb586b79f": {
-    "href": "/library/falcon2:11b-q4_K_M",
+    "href": "https://ollama.com/library/falcon2:11b-q4_K_M",
     "name": "falcon2:11b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "6.8GB"
+    "context_window_num": 2000,
+    "size_str": "6.8GB",
+    "size_num": 6800000000
   },
   "634fd8a33a16": {
-    "href": "/library/falcon2:11b-q5_0",
+    "href": "https://ollama.com/library/falcon2:11b-q5_0",
     "name": "falcon2:11b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.7GB"
+    "context_window_num": 2000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "227312808fcc": {
-    "href": "/library/falcon2:11b-q5_1",
+    "href": "https://ollama.com/library/falcon2:11b-q5_1",
     "name": "falcon2:11b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "8.4GB"
+    "context_window_num": 2000,
+    "size_str": "8.4GB",
+    "size_num": 8400000000
   },
   "c29ab1d2a69a": {
-    "href": "/library/falcon2:11b-q5_K_S",
+    "href": "https://ollama.com/library/falcon2:11b-q5_K_S",
     "name": "falcon2:11b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.7GB"
+    "context_window_num": 2000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "d47cbd539ec7": {
-    "href": "/library/falcon2:11b-q5_K_M",
+    "href": "https://ollama.com/library/falcon2:11b-q5_K_M",
     "name": "falcon2:11b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "8.2GB"
+    "context_window_num": 2000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "326a76087a5d": {
-    "href": "/library/falcon2:11b-q6_K",
+    "href": "https://ollama.com/library/falcon2:11b-q6_K",
     "name": "falcon2:11b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "9.2GB"
+    "context_window_num": 2000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "2d49820d6bb5": {
-    "href": "/library/falcon2:11b-q8_0",
+    "href": "https://ollama.com/library/falcon2:11b-q8_0",
     "name": "falcon2:11b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "12GB"
+    "context_window_num": 2000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "1f71755ad500": {
-    "href": "/library/falcon2:11b-fp16",
+    "href": "https://ollama.com/library/falcon2:11b-fp16",
     "name": "falcon2:11b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "22GB"
+    "context_window_num": 2000,
+    "size_str": "22GB",
+    "size_num": 22000000000
   }
 }

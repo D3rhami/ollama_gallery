@@ -1,62 +1,80 @@
 {
   "cd882db52297": {
-    "href": "/library/opencoder:latest",
+    "href": "https://ollama.com/library/opencoder:latest",
     "name": "opencoder:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "8K",
-    "size_str": "4.7GB"
+    "context_window_num": 8000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "8573dfc23c16": {
-    "href": "/library/opencoder:1.5b",
+    "href": "https://ollama.com/library/opencoder:1.5b",
     "name": "opencoder:1.5b",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "1.4GB"
+    "context_window_num": 4000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "8c1234514258": {
-    "href": "/library/opencoder:1.5b-instruct-q8_0",
+    "href": "https://ollama.com/library/opencoder:1.5b-instruct-q8_0",
     "name": "opencoder:1.5b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "2.0GB"
+    "context_window_num": 4000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "466920be6f15": {
-    "href": "/library/opencoder:1.5b-instruct-fp16",
+    "href": "https://ollama.com/library/opencoder:1.5b-instruct-fp16",
     "name": "opencoder:1.5b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "4K",
-    "size_str": "3.8GB"
+    "context_window_num": 4000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "b43cccd5b8e1": {
-    "href": "/library/opencoder:8b-instruct-q8_0",
+    "href": "https://ollama.com/library/opencoder:8b-instruct-q8_0",
     "name": "opencoder:8b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "8K",
-    "size_str": "8.3GB"
+    "context_window_num": 8000,
+    "size_str": "8.3GB",
+    "size_num": 8300000000
   },
   "51ed11a37a94": {
-    "href": "/library/opencoder:8b-instruct-fp16",
+    "href": "https://ollama.com/library/opencoder:8b-instruct-fp16",
     "name": "opencoder:8b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "8K",
-    "size_str": "16GB"
+    "context_window_num": 8000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   }
 }

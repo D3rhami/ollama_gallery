@@ -1,62 +1,80 @@
 {
   "140ea940f21d": {
-    "href": "/library/r1-1776:latest",
+    "href": "https://ollama.com/library/r1-1776:latest",
     "name": "r1-1776:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "43GB"
+    "context_window_num": 128000,
+    "size_str": "43GB",
+    "size_num": 43000000000
   },
   "dfa713736c7b": {
-    "href": "/library/r1-1776:671b",
+    "href": "https://ollama.com/library/r1-1776:671b",
     "name": "r1-1776:671b",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "4K",
-    "size_str": "404GB"
+    "context_window_num": 4000,
+    "size_str": "404GB",
+    "size_num": 404000000000
   },
   "e19a3de39ed7": {
-    "href": "/library/r1-1776:70b-distill-llama-q8_0",
+    "href": "https://ollama.com/library/r1-1776:70b-distill-llama-q8_0",
     "name": "r1-1776:70b-distill-llama-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "75GB"
+    "context_window_num": 128000,
+    "size_str": "75GB",
+    "size_num": 75000000000
   },
   "b6dc7e0e17ed": {
-    "href": "/library/r1-1776:70b-distill-llama-fp16",
+    "href": "https://ollama.com/library/r1-1776:70b-distill-llama-fp16",
     "name": "r1-1776:70b-distill-llama-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "128K",
-    "size_str": "141GB"
+    "context_window_num": 128000,
+    "size_str": "141GB",
+    "size_num": 141000000000
   },
   "83aca4100872": {
-    "href": "/library/r1-1776:671b-q8_0",
+    "href": "https://ollama.com/library/r1-1776:671b-q8_0",
     "name": "r1-1776:671b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "4K",
-    "size_str": "713GB"
+    "context_window_num": 4000,
+    "size_str": "713GB",
+    "size_num": 713000000000
   },
   "eef5438a1488": {
-    "href": "/library/r1-1776:671b-fp16",
+    "href": "https://ollama.com/library/r1-1776:671b-fp16",
     "name": "r1-1776:671b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "4K",
-    "size_str": "1.3TB"
+    "context_window_num": 4000,
+    "size_str": "1.3TB",
+    "size_num": 1300000000000
   }
 }

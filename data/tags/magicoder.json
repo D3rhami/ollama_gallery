@@ -1,152 +1,197 @@
 {
   "8007de06f5d9": {
-    "href": "/library/magicoder:latest",
+    "href": "https://ollama.com/library/magicoder:latest",
     "name": "magicoder:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "3.8GB"
+    "context_window_num": 16000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "86fd329c64b6": {
-    "href": "/library/magicoder:7b-s-cl-q2_K",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q2_K",
     "name": "magicoder:7b-s-cl-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "2.8GB"
+    "context_window_num": 16000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
   },
   "b7e2d7a303f8": {
-    "href": "/library/magicoder:7b-s-cl-q3_K_S",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q3_K_S",
     "name": "magicoder:7b-s-cl-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "2.9GB"
+    "context_window_num": 16000,
+    "size_str": "2.9GB",
+    "size_num": 2900000000
   },
   "b2a3d9987ff3": {
-    "href": "/library/magicoder:7b-s-cl-q3_K_M",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q3_K_M",
     "name": "magicoder:7b-s-cl-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "3.3GB"
+    "context_window_num": 16000,
+    "size_str": "3.3GB",
+    "size_num": 3300000000
   },
   "2bf1232fd9c1": {
-    "href": "/library/magicoder:7b-s-cl-q3_K_L",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q3_K_L",
     "name": "magicoder:7b-s-cl-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "3.6GB"
+    "context_window_num": 16000,
+    "size_str": "3.6GB",
+    "size_num": 3600000000
   },
   "b29bf322a686": {
-    "href": "/library/magicoder:7b-s-cl-q4_1",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q4_1",
     "name": "magicoder:7b-s-cl-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "4.2GB"
+    "context_window_num": 16000,
+    "size_str": "4.2GB",
+    "size_num": 4200000000
   },
   "42b56dd9b1da": {
-    "href": "/library/magicoder:7b-s-cl-q4_K_S",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q4_K_S",
     "name": "magicoder:7b-s-cl-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "3.9GB"
+    "context_window_num": 16000,
+    "size_str": "3.9GB",
+    "size_num": 3900000000
   },
   "902b6b028113": {
-    "href": "/library/magicoder:7b-s-cl-q4_K_M",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q4_K_M",
     "name": "magicoder:7b-s-cl-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "4.1GB"
+    "context_window_num": 16000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "10fa66c827ee": {
-    "href": "/library/magicoder:7b-s-cl-q5_0",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q5_0",
     "name": "magicoder:7b-s-cl-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "4.7GB"
+    "context_window_num": 16000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "7da1fdad5251": {
-    "href": "/library/magicoder:7b-s-cl-q5_1",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q5_1",
     "name": "magicoder:7b-s-cl-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.1GB"
+    "context_window_num": 16000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "ce0b81d40da6": {
-    "href": "/library/magicoder:7b-s-cl-q5_K_S",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q5_K_S",
     "name": "magicoder:7b-s-cl-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "4.7GB"
+    "context_window_num": 16000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "057c4f587f41": {
-    "href": "/library/magicoder:7b-s-cl-q5_K_M",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q5_K_M",
     "name": "magicoder:7b-s-cl-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "4.8GB"
+    "context_window_num": 16000,
+    "size_str": "4.8GB",
+    "size_num": 4800000000
   },
   "cf853951ae4a": {
-    "href": "/library/magicoder:7b-s-cl-q6_K",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q6_K",
     "name": "magicoder:7b-s-cl-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "5.5GB"
+    "context_window_num": 16000,
+    "size_str": "5.5GB",
+    "size_num": 5500000000
   },
   "96b5e4193464": {
-    "href": "/library/magicoder:7b-s-cl-q8_0",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-q8_0",
     "name": "magicoder:7b-s-cl-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "7.2GB"
+    "context_window_num": 16000,
+    "size_str": "7.2GB",
+    "size_num": 7200000000
   },
   "859e1ae4f566": {
-    "href": "/library/magicoder:7b-s-cl-fp16",
+    "href": "https://ollama.com/library/magicoder:7b-s-cl-fp16",
     "name": "magicoder:7b-s-cl-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "16K",
-    "size_str": "13GB"
+    "context_window_num": 16000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   }
 }

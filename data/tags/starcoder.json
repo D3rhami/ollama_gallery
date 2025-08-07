@@ -1,902 +1,1172 @@
 {
   "847e5a7aa26f": {
-    "href": "/library/starcoder:latest",
+    "href": "https://ollama.com/library/starcoder:latest",
     "name": "starcoder:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.8GB"
+    "context_window_num": 8000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "77e6c46054d9": {
-    "href": "/library/starcoder:1b",
+    "href": "https://ollama.com/library/starcoder:1b",
     "name": "starcoder:1b",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "726MB"
+    "context_window_num": 8000,
+    "size_str": "726MB",
+    "size_num": 726000000
   },
   "53fdbc3a2006": {
-    "href": "/library/starcoder:7b",
+    "href": "https://ollama.com/library/starcoder:7b",
     "name": "starcoder:7b",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.3GB"
+    "context_window_num": 8000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "fc59c84e00c5": {
-    "href": "/library/starcoder:15b",
+    "href": "https://ollama.com/library/starcoder:15b",
     "name": "starcoder:15b",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.0GB"
+    "context_window_num": 8000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "e611832ccc67": {
-    "href": "/library/starcoder:1b-base-q2_K",
+    "href": "https://ollama.com/library/starcoder:1b-base-q2_K",
     "name": "starcoder:1b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "552MB"
+    "context_window_num": 8000,
+    "size_str": "552MB",
+    "size_num": 552000000
   },
   "1b6492d9dc97": {
-    "href": "/library/starcoder:1b-base-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:1b-base-q3_K_S",
     "name": "starcoder:1b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "575MB"
+    "context_window_num": 8000,
+    "size_str": "575MB",
+    "size_num": 575000000
   },
   "a25e710f7119": {
-    "href": "/library/starcoder:1b-base-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:1b-base-q3_K_M",
     "name": "starcoder:1b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "661MB"
+    "context_window_num": 8000,
+    "size_str": "661MB",
+    "size_num": 661000000
   },
   "1c516b827b88": {
-    "href": "/library/starcoder:1b-base-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:1b-base-q3_K_L",
     "name": "starcoder:1b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "720MB"
+    "context_window_num": 8000,
+    "size_str": "720MB",
+    "size_num": 720000000
   },
   "3baa25250d64": {
-    "href": "/library/starcoder:1b-base-q4_1",
+    "href": "https://ollama.com/library/starcoder:1b-base-q4_1",
     "name": "starcoder:1b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "797MB"
+    "context_window_num": 8000,
+    "size_str": "797MB",
+    "size_num": 797000000
   },
   "decacc801c24": {
-    "href": "/library/starcoder:1b-base-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:1b-base-q4_K_S",
     "name": "starcoder:1b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "734MB"
+    "context_window_num": 8000,
+    "size_str": "734MB",
+    "size_num": 734000000
   },
   "04d2cea03d2d": {
-    "href": "/library/starcoder:1b-base-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:1b-base-q4_K_M",
     "name": "starcoder:1b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "792MB"
+    "context_window_num": 8000,
+    "size_str": "792MB",
+    "size_num": 792000000
   },
   "fea253550249": {
-    "href": "/library/starcoder:1b-base-q5_0",
+    "href": "https://ollama.com/library/starcoder:1b-base-q5_0",
     "name": "starcoder:1b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "868MB"
+    "context_window_num": 8000,
+    "size_str": "868MB",
+    "size_num": 868000000
   },
   "d0701711acd6": {
-    "href": "/library/starcoder:1b-base-q5_1",
+    "href": "https://ollama.com/library/starcoder:1b-base-q5_1",
     "name": "starcoder:1b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "939MB"
+    "context_window_num": 8000,
+    "size_str": "939MB",
+    "size_num": 939000000
   },
   "1dcf90992513": {
-    "href": "/library/starcoder:1b-base-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:1b-base-q5_K_S",
     "name": "starcoder:1b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "868MB"
+    "context_window_num": 8000,
+    "size_str": "868MB",
+    "size_num": 868000000
   },
   "7daf9520221a": {
-    "href": "/library/starcoder:1b-base-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:1b-base-q5_K_M",
     "name": "starcoder:1b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "910MB"
+    "context_window_num": 8000,
+    "size_str": "910MB",
+    "size_num": 910000000
   },
   "25469472b0a0": {
-    "href": "/library/starcoder:1b-base-q6_K",
+    "href": "https://ollama.com/library/starcoder:1b-base-q6_K",
     "name": "starcoder:1b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.0GB"
+    "context_window_num": 8000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
   },
   "31fa9b99844a": {
-    "href": "/library/starcoder:1b-base-q8_0",
+    "href": "https://ollama.com/library/starcoder:1b-base-q8_0",
     "name": "starcoder:1b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.3GB"
+    "context_window_num": 8000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
   },
   "aa71e6e2251f": {
-    "href": "/library/starcoder:1b-base-fp16",
+    "href": "https://ollama.com/library/starcoder:1b-base-fp16",
     "name": "starcoder:1b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.5GB"
+    "context_window_num": 8000,
+    "size_str": "2.5GB",
+    "size_num": 2500000000
   },
   "789eb7337dec": {
-    "href": "/library/starcoder:3b-base-q2_K",
+    "href": "https://ollama.com/library/starcoder:3b-base-q2_K",
     "name": "starcoder:3b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.4GB"
+    "context_window_num": 8000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "e0468499b5f9": {
-    "href": "/library/starcoder:3b-base-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:3b-base-q3_K_S",
     "name": "starcoder:3b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.4GB"
+    "context_window_num": 8000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "cf9c26ba35af": {
-    "href": "/library/starcoder:3b-base-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:3b-base-q3_K_M",
     "name": "starcoder:3b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.7GB"
+    "context_window_num": 8000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "39fd001be744": {
-    "href": "/library/starcoder:3b-base-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:3b-base-q3_K_L",
     "name": "starcoder:3b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.8GB"
+    "context_window_num": 8000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "af56c93c3815": {
-    "href": "/library/starcoder:3b-base-q4_1",
+    "href": "https://ollama.com/library/starcoder:3b-base-q4_1",
     "name": "starcoder:3b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.0GB"
+    "context_window_num": 8000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "3bc56ee8f943": {
-    "href": "/library/starcoder:3b-base-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:3b-base-q4_K_S",
     "name": "starcoder:3b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.8GB"
+    "context_window_num": 8000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "e270645e6450": {
-    "href": "/library/starcoder:3b-base-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:3b-base-q4_K_M",
     "name": "starcoder:3b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.0GB"
+    "context_window_num": 8000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "fdea54fc597a": {
-    "href": "/library/starcoder:3b-base-q5_0",
+    "href": "https://ollama.com/library/starcoder:3b-base-q5_0",
     "name": "starcoder:3b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.2GB"
+    "context_window_num": 8000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "b541e773e045": {
-    "href": "/library/starcoder:3b-base-q5_1",
+    "href": "https://ollama.com/library/starcoder:3b-base-q5_1",
     "name": "starcoder:3b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.4GB"
+    "context_window_num": 8000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "f4bfd7a34676": {
-    "href": "/library/starcoder:3b-base-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:3b-base-q5_K_S",
     "name": "starcoder:3b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.2GB"
+    "context_window_num": 8000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "70d27a352a1e": {
-    "href": "/library/starcoder:3b-base-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:3b-base-q5_K_M",
     "name": "starcoder:3b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.3GB"
+    "context_window_num": 8000,
+    "size_str": "2.3GB",
+    "size_num": 2300000000
   },
   "2a71811b199a": {
-    "href": "/library/starcoder:3b-base-q6_K",
+    "href": "https://ollama.com/library/starcoder:3b-base-q6_K",
     "name": "starcoder:3b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "2.6GB"
+    "context_window_num": 8000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
   },
   "d4d1dafca09a": {
-    "href": "/library/starcoder:3b-base-q8_0",
+    "href": "https://ollama.com/library/starcoder:3b-base-q8_0",
     "name": "starcoder:3b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.4GB"
+    "context_window_num": 8000,
+    "size_str": "3.4GB",
+    "size_num": 3400000000
   },
   "78ed447cecc0": {
-    "href": "/library/starcoder:3b-base-fp16",
+    "href": "https://ollama.com/library/starcoder:3b-base-fp16",
     "name": "starcoder:3b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.4GB"
+    "context_window_num": 8000,
+    "size_str": "6.4GB",
+    "size_num": 6400000000
   },
   "b558b1c6e76a": {
-    "href": "/library/starcoder:7b-base-q2_K",
+    "href": "https://ollama.com/library/starcoder:7b-base-q2_K",
     "name": "starcoder:7b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.2GB"
+    "context_window_num": 8000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "532e32fc6a11": {
-    "href": "/library/starcoder:7b-base-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:7b-base-q3_K_S",
     "name": "starcoder:7b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.3GB"
+    "context_window_num": 8000,
+    "size_str": "3.3GB",
+    "size_num": 3300000000
   },
   "bb8083ca1497": {
-    "href": "/library/starcoder:7b-base-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:7b-base-q3_K_M",
     "name": "starcoder:7b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.9GB"
+    "context_window_num": 8000,
+    "size_str": "3.9GB",
+    "size_num": 3900000000
   },
   "a357c486e37a": {
-    "href": "/library/starcoder:7b-base-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:7b-base-q3_K_L",
     "name": "starcoder:7b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.3GB"
+    "context_window_num": 8000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "72f4ab441abc": {
-    "href": "/library/starcoder:7b-base-q4_1",
+    "href": "https://ollama.com/library/starcoder:7b-base-q4_1",
     "name": "starcoder:7b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.8GB"
+    "context_window_num": 8000,
+    "size_str": "4.8GB",
+    "size_num": 4800000000
   },
   "f8b135eb1ff1": {
-    "href": "/library/starcoder:7b-base-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:7b-base-q4_K_S",
     "name": "starcoder:7b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.3GB"
+    "context_window_num": 8000,
+    "size_str": "4.3GB",
+    "size_num": 4300000000
   },
   "b9967b21186f": {
-    "href": "/library/starcoder:7b-base-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:7b-base-q4_K_M",
     "name": "starcoder:7b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.8GB"
+    "context_window_num": 8000,
+    "size_str": "4.8GB",
+    "size_num": 4800000000
   },
   "b69e71e71495": {
-    "href": "/library/starcoder:7b-base-q5_0",
+    "href": "https://ollama.com/library/starcoder:7b-base-q5_0",
     "name": "starcoder:7b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.2GB"
+    "context_window_num": 8000,
+    "size_str": "5.2GB",
+    "size_num": 5200000000
   },
   "8ab65d19bbae": {
-    "href": "/library/starcoder:7b-base-q5_1",
+    "href": "https://ollama.com/library/starcoder:7b-base-q5_1",
     "name": "starcoder:7b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.7GB"
+    "context_window_num": 8000,
+    "size_str": "5.7GB",
+    "size_num": 5700000000
   },
   "97f7ff66448e": {
-    "href": "/library/starcoder:7b-base-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:7b-base-q5_K_S",
     "name": "starcoder:7b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.2GB"
+    "context_window_num": 8000,
+    "size_str": "5.2GB",
+    "size_num": 5200000000
   },
   "053348db28db": {
-    "href": "/library/starcoder:7b-base-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:7b-base-q5_K_M",
     "name": "starcoder:7b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.5GB"
+    "context_window_num": 8000,
+    "size_str": "5.5GB",
+    "size_num": 5500000000
   },
   "35c46a2f3e5d": {
-    "href": "/library/starcoder:7b-base-q6_K",
+    "href": "https://ollama.com/library/starcoder:7b-base-q6_K",
     "name": "starcoder:7b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.2GB"
+    "context_window_num": 8000,
+    "size_str": "6.2GB",
+    "size_num": 6200000000
   },
   "c5b70c559022": {
-    "href": "/library/starcoder:7b-base-q8_0",
+    "href": "https://ollama.com/library/starcoder:7b-base-q8_0",
     "name": "starcoder:7b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "8.0GB"
+    "context_window_num": 8000,
+    "size_str": "8.0GB",
+    "size_num": 8000000000
   },
   "191f5e0197c9": {
-    "href": "/library/starcoder:7b-base-fp16",
+    "href": "https://ollama.com/library/starcoder:7b-base-fp16",
     "name": "starcoder:7b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "15GB"
+    "context_window_num": 8000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "d7484a05d753": {
-    "href": "/library/starcoder:15b-base",
+    "href": "https://ollama.com/library/starcoder:15b-base",
     "name": "starcoder:15b-base",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.0GB"
+    "context_window_num": 8000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "cf0025ac31a6": {
-    "href": "/library/starcoder:15b-base-q2_K",
+    "href": "https://ollama.com/library/starcoder:15b-base-q2_K",
     "name": "starcoder:15b-base-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.7GB"
+    "context_window_num": 8000,
+    "size_str": "6.7GB",
+    "size_num": 6700000000
   },
   "49fb06b2da48": {
-    "href": "/library/starcoder:15b-base-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-base-q3_K_S",
     "name": "starcoder:15b-base-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.9GB"
+    "context_window_num": 8000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "e12e2f17263b": {
-    "href": "/library/starcoder:15b-base-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-base-q3_K_M",
     "name": "starcoder:15b-base-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "8.2GB"
+    "context_window_num": 8000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "0a5f9e8bfeda": {
-    "href": "/library/starcoder:15b-base-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:15b-base-q3_K_L",
     "name": "starcoder:15b-base-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "81632886fcb2": {
-    "href": "/library/starcoder:15b-base-q4_1",
+    "href": "https://ollama.com/library/starcoder:15b-base-q4_1",
     "name": "starcoder:15b-base-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "3eefd78d54c9": {
-    "href": "/library/starcoder:15b-base-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-base-q4_K_S",
     "name": "starcoder:15b-base-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "c39ac850a90a": {
-    "href": "/library/starcoder:15b-base-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-base-q4_K_M",
     "name": "starcoder:15b-base-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "2f295880480a": {
-    "href": "/library/starcoder:15b-base-q5_0",
+    "href": "https://ollama.com/library/starcoder:15b-base-q5_0",
     "name": "starcoder:15b-base-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "32fb32a4adc3": {
-    "href": "/library/starcoder:15b-base-q5_1",
+    "href": "https://ollama.com/library/starcoder:15b-base-q5_1",
     "name": "starcoder:15b-base-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "066bfe3f8056": {
-    "href": "/library/starcoder:15b-base-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-base-q5_K_S",
     "name": "starcoder:15b-base-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "44e8a4266c9d": {
-    "href": "/library/starcoder:15b-base-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-base-q5_K_M",
     "name": "starcoder:15b-base-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "08a7fcaab005": {
-    "href": "/library/starcoder:15b-base-q6_K",
+    "href": "https://ollama.com/library/starcoder:15b-base-q6_K",
     "name": "starcoder:15b-base-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "13GB"
+    "context_window_num": 8000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "3429ab9f535c": {
-    "href": "/library/starcoder:15b-base-q8_0",
+    "href": "https://ollama.com/library/starcoder:15b-base-q8_0",
     "name": "starcoder:15b-base-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "17GB"
+    "context_window_num": 8000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "bf1c2f49c4d8": {
-    "href": "/library/starcoder:15b-base-fp16",
+    "href": "https://ollama.com/library/starcoder:15b-base-fp16",
     "name": "starcoder:15b-base-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "32GB"
+    "context_window_num": 8000,
+    "size_str": "32GB",
+    "size_num": 32000000000
   },
   "c7e5fd2a5a6e": {
-    "href": "/library/starcoder:15b-plus",
+    "href": "https://ollama.com/library/starcoder:15b-plus",
     "name": "starcoder:15b-plus",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.0GB"
+    "context_window_num": 8000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "351a28175173": {
-    "href": "/library/starcoder:15b-plus-q2_K",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q2_K",
     "name": "starcoder:15b-plus-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.7GB"
+    "context_window_num": 8000,
+    "size_str": "6.7GB",
+    "size_num": 6700000000
   },
   "8d4a59571246": {
-    "href": "/library/starcoder:15b-plus-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q3_K_S",
     "name": "starcoder:15b-plus-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.9GB"
+    "context_window_num": 8000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "5de88d9aaa0c": {
-    "href": "/library/starcoder:15b-plus-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q3_K_M",
     "name": "starcoder:15b-plus-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "8.2GB"
+    "context_window_num": 8000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "0033ce73781b": {
-    "href": "/library/starcoder:15b-plus-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q3_K_L",
     "name": "starcoder:15b-plus-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "a06561602a11": {
-    "href": "/library/starcoder:15b-plus-q4_1",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q4_1",
     "name": "starcoder:15b-plus-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "74cbc3c93052": {
-    "href": "/library/starcoder:15b-plus-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q4_K_S",
     "name": "starcoder:15b-plus-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "c3b287cf92f7": {
-    "href": "/library/starcoder:15b-plus-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q4_K_M",
     "name": "starcoder:15b-plus-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "1a9ff4beeb3a": {
-    "href": "/library/starcoder:15b-plus-q5_0",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q5_0",
     "name": "starcoder:15b-plus-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "ad34d0ac40fd": {
-    "href": "/library/starcoder:15b-plus-q5_1",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q5_1",
     "name": "starcoder:15b-plus-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "f5be3ceb423f": {
-    "href": "/library/starcoder:15b-plus-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q5_K_S",
     "name": "starcoder:15b-plus-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "ab94427f1d73": {
-    "href": "/library/starcoder:15b-plus-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q5_K_M",
     "name": "starcoder:15b-plus-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "d7b6d6d327ec": {
-    "href": "/library/starcoder:15b-plus-q6_K",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q6_K",
     "name": "starcoder:15b-plus-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "13GB"
+    "context_window_num": 8000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "1b9bd9e07437": {
-    "href": "/library/starcoder:15b-plus-q8_0",
+    "href": "https://ollama.com/library/starcoder:15b-plus-q8_0",
     "name": "starcoder:15b-plus-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "17GB"
+    "context_window_num": 8000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "385fd5b5ba4b": {
-    "href": "/library/starcoder:15b-plus-fp16",
+    "href": "https://ollama.com/library/starcoder:15b-plus-fp16",
     "name": "starcoder:15b-plus-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "32GB"
+    "context_window_num": 8000,
+    "size_str": "32GB",
+    "size_num": 32000000000
   },
   "b3077ce893c2": {
-    "href": "/library/starcoder:15b-q2_K",
+    "href": "https://ollama.com/library/starcoder:15b-q2_K",
     "name": "starcoder:15b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.7GB"
+    "context_window_num": 8000,
+    "size_str": "6.7GB",
+    "size_num": 6700000000
   },
   "96bc55850b3f": {
-    "href": "/library/starcoder:15b-q3_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-q3_K_S",
     "name": "starcoder:15b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "6.9GB"
+    "context_window_num": 8000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "40aa0dd07f6a": {
-    "href": "/library/starcoder:15b-q3_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-q3_K_M",
     "name": "starcoder:15b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "8.2GB"
+    "context_window_num": 8000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "22becd391a5a": {
-    "href": "/library/starcoder:15b-q3_K_L",
+    "href": "https://ollama.com/library/starcoder:15b-q3_K_L",
     "name": "starcoder:15b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "3e9c4131cc7e": {
-    "href": "/library/starcoder:15b-q4_1",
+    "href": "https://ollama.com/library/starcoder:15b-q4_1",
     "name": "starcoder:15b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "dadad57ccce2": {
-    "href": "/library/starcoder:15b-q4_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-q4_K_S",
     "name": "starcoder:15b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "9.1GB"
+    "context_window_num": 8000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "fc211e15d552": {
-    "href": "/library/starcoder:15b-q4_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-q4_K_M",
     "name": "starcoder:15b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "10.0GB"
+    "context_window_num": 8000,
+    "size_str": "10.0GB",
+    "size_num": 10000000000
   },
   "0a9e13e059b4": {
-    "href": "/library/starcoder:15b-q5_0",
+    "href": "https://ollama.com/library/starcoder:15b-q5_0",
     "name": "starcoder:15b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "047af3d6fc2e": {
-    "href": "/library/starcoder:15b-q5_1",
+    "href": "https://ollama.com/library/starcoder:15b-q5_1",
     "name": "starcoder:15b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "f3927d2aee49": {
-    "href": "/library/starcoder:15b-q5_K_S",
+    "href": "https://ollama.com/library/starcoder:15b-q5_K_S",
     "name": "starcoder:15b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "11GB"
+    "context_window_num": 8000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "ba547f1125e5": {
-    "href": "/library/starcoder:15b-q5_K_M",
+    "href": "https://ollama.com/library/starcoder:15b-q5_K_M",
     "name": "starcoder:15b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "12GB"
+    "context_window_num": 8000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "afbf115a27bc": {
-    "href": "/library/starcoder:15b-q6_K",
+    "href": "https://ollama.com/library/starcoder:15b-q6_K",
     "name": "starcoder:15b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "13GB"
+    "context_window_num": 8000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "ad4a34fcfa8c": {
-    "href": "/library/starcoder:15b-q8_0",
+    "href": "https://ollama.com/library/starcoder:15b-q8_0",
     "name": "starcoder:15b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "17GB"
+    "context_window_num": 8000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "ec7e7aa22c05": {
-    "href": "/library/starcoder:15b-fp16",
+    "href": "https://ollama.com/library/starcoder:15b-fp16",
     "name": "starcoder:15b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "32GB"
+    "context_window_num": 8000,
+    "size_str": "32GB",
+    "size_num": 32000000000
   }
 }

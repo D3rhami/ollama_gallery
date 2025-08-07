@@ -1,12 +1,15 @@
 {
   "790764642607": {
-    "href": "/library/bge-m3:latest",
+    "href": "https://ollama.com/library/bge-m3:latest",
     "name": "bge-m3:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "12 months ago",
+    "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "1.2GB"
+    "context_window_num": 8000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   }
 }

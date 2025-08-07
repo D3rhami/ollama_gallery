@@ -1,22 +1,28 @@
 {
-  "05afbac4bad6": {
-    "href": "/library/gpt-oss:latest",
+  "f2b8351c629c": {
+    "href": "https://ollama.com/library/gpt-oss:latest",
     "name": "gpt-oss:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "21 minutes ago",
+    "updated_str": "yesterday",
+    "update_date": "2025-08-06",
     "context_window": "128K",
-    "size_str": "14GB"
+    "context_window_num": 128000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
-  "d98fe6ba01e6": {
-    "href": "/library/gpt-oss:120b",
+  "735371f916a9": {
+    "href": "https://ollama.com/library/gpt-oss:120b",
     "name": "gpt-oss:120b",
     "input_types": [
       "Text"
     ],
-    "updated_str": "22 hours ago",
+    "updated_str": "yesterday",
+    "update_date": "2025-08-06",
     "context_window": "128K",
-    "size_str": "65GB"
+    "context_window_num": 128000,
+    "size_str": "65GB",
+    "size_num": 65000000000
   }
 }

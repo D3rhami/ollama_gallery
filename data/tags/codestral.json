@@ -1,142 +1,184 @@
 {
   "0898a8b286d5": {
-    "href": "/library/codestral:latest",
+    "href": "https://ollama.com/library/codestral:latest",
     "name": "codestral:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "13GB"
+    "context_window_num": 32000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "0e1127d332ef": {
-    "href": "/library/codestral:22b-v0.1-q2_K",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q2_K",
     "name": "codestral:22b-v0.1-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "8.3GB"
+    "context_window_num": 32000,
+    "size_str": "8.3GB",
+    "size_num": 8300000000
   },
   "435a805994fa": {
-    "href": "/library/codestral:22b-v0.1-q3_K_S",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q3_K_S",
     "name": "codestral:22b-v0.1-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "9.6GB"
+    "context_window_num": 32000,
+    "size_str": "9.6GB",
+    "size_num": 9600000000
   },
   "71655d0feff7": {
-    "href": "/library/codestral:22b-v0.1-q3_K_M",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q3_K_M",
     "name": "codestral:22b-v0.1-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "11GB"
+    "context_window_num": 32000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "40e96062aff7": {
-    "href": "/library/codestral:22b-v0.1-q3_K_L",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q3_K_L",
     "name": "codestral:22b-v0.1-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "12GB"
+    "context_window_num": 32000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "112589019335": {
-    "href": "/library/codestral:22b-v0.1-q4_1",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q4_1",
     "name": "codestral:22b-v0.1-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "98d819ea95ec": {
-    "href": "/library/codestral:22b-v0.1-q4_K_S",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q4_K_S",
     "name": "codestral:22b-v0.1-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "13GB"
+    "context_window_num": 32000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "9a43e868fd2c": {
-    "href": "/library/codestral:22b-v0.1-q4_K_M",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q4_K_M",
     "name": "codestral:22b-v0.1-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "13GB"
+    "context_window_num": 32000,
+    "size_str": "13GB",
+    "size_num": 13000000000
   },
   "05c0a78fd842": {
-    "href": "/library/codestral:22b-v0.1-q5_0",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q5_0",
     "name": "codestral:22b-v0.1-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "15GB"
+    "context_window_num": 32000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "c71bfe359bcc": {
-    "href": "/library/codestral:22b-v0.1-q5_1",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q5_1",
     "name": "codestral:22b-v0.1-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "17GB"
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "937f5c4a1a20": {
-    "href": "/library/codestral:22b-v0.1-q5_K_S",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q5_K_S",
     "name": "codestral:22b-v0.1-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "15GB"
+    "context_window_num": 32000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "2df1ccc62c6a": {
-    "href": "/library/codestral:22b-v0.1-q5_K_M",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q5_K_M",
     "name": "codestral:22b-v0.1-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "16GB"
+    "context_window_num": 32000,
+    "size_str": "16GB",
+    "size_num": 16000000000
   },
   "e77ab7ec51f6": {
-    "href": "/library/codestral:22b-v0.1-q6_K",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q6_K",
     "name": "codestral:22b-v0.1-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "18GB"
+    "context_window_num": 32000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   },
   "8dde0029a91f": {
-    "href": "/library/codestral:22b-v0.1-q8_0",
+    "href": "https://ollama.com/library/codestral:22b-v0.1-q8_0",
     "name": "codestral:22b-v0.1-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "11 months ago",
+    "update_date": "2024-09-07",
     "context_window": "32K",
-    "size_str": "24GB"
+    "context_window_num": 32000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   }
 }

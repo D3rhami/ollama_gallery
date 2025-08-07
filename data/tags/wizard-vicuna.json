@@ -1,152 +1,197 @@
 {
   "a8fb469ef6bd": {
-    "href": "/library/wizard-vicuna:latest",
+    "href": "https://ollama.com/library/wizard-vicuna:latest",
     "name": "wizard-vicuna:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.4GB"
+    "context_window_num": 2000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "53b417f93f69": {
-    "href": "/library/wizard-vicuna:13b-q2_K",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q2_K",
     "name": "wizard-vicuna:13b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "5.4GB"
+    "context_window_num": 2000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "f402ed00ddb9": {
-    "href": "/library/wizard-vicuna:13b-q3_K_S",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q3_K_S",
     "name": "wizard-vicuna:13b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "5.7GB"
+    "context_window_num": 2000,
+    "size_str": "5.7GB",
+    "size_num": 5700000000
   },
   "d02e7a6ee062": {
-    "href": "/library/wizard-vicuna:13b-q3_K_M",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q3_K_M",
     "name": "wizard-vicuna:13b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "6.3GB"
+    "context_window_num": 2000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "a3a73c2bdaf5": {
-    "href": "/library/wizard-vicuna:13b-q3_K_L",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q3_K_L",
     "name": "wizard-vicuna:13b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "6.9GB"
+    "context_window_num": 2000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "46f8af4817cc": {
-    "href": "/library/wizard-vicuna:13b-q4_1",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q4_1",
     "name": "wizard-vicuna:13b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "8.2GB"
+    "context_window_num": 2000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "3af3cb8591e3": {
-    "href": "/library/wizard-vicuna:13b-q4_K_S",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q4_K_S",
     "name": "wizard-vicuna:13b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.4GB"
+    "context_window_num": 2000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "864c6cb42228": {
-    "href": "/library/wizard-vicuna:13b-q4_K_M",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q4_K_M",
     "name": "wizard-vicuna:13b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "7.9GB"
+    "context_window_num": 2000,
+    "size_str": "7.9GB",
+    "size_num": 7900000000
   },
   "d962b9bd1ae4": {
-    "href": "/library/wizard-vicuna:13b-q5_0",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q5_0",
     "name": "wizard-vicuna:13b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "9.0GB"
+    "context_window_num": 2000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "c6e46ce79965": {
-    "href": "/library/wizard-vicuna:13b-q5_1",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q5_1",
     "name": "wizard-vicuna:13b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "9.8GB"
+    "context_window_num": 2000,
+    "size_str": "9.8GB",
+    "size_num": 9800000000
   },
   "2e19ac68ead6": {
-    "href": "/library/wizard-vicuna:13b-q5_K_S",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q5_K_S",
     "name": "wizard-vicuna:13b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "9.0GB"
+    "context_window_num": 2000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "11bdc7bdd978": {
-    "href": "/library/wizard-vicuna:13b-q5_K_M",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q5_K_M",
     "name": "wizard-vicuna:13b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "9.2GB"
+    "context_window_num": 2000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "bfc227743375": {
-    "href": "/library/wizard-vicuna:13b-q6_K",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q6_K",
     "name": "wizard-vicuna:13b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "11GB"
+    "context_window_num": 2000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "4d8e29e58cdd": {
-    "href": "/library/wizard-vicuna:13b-q8_0",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-q8_0",
     "name": "wizard-vicuna:13b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "14GB"
+    "context_window_num": 2000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "cc8594c08ee8": {
-    "href": "/library/wizard-vicuna:13b-fp16",
+    "href": "https://ollama.com/library/wizard-vicuna:13b-fp16",
     "name": "wizard-vicuna:13b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "26GB"
+    "context_window_num": 2000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   }
 }

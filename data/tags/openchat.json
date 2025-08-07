@@ -1,452 +1,587 @@
 {
   "537a4e03b649": {
-    "href": "/library/openchat:latest",
+    "href": "https://ollama.com/library/openchat:latest",
     "name": "openchat:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "980eba937c08": {
-    "href": "/library/openchat:7b-v3.5",
+    "href": "https://ollama.com/library/openchat:7b-v3.5",
     "name": "openchat:7b-v3.5",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "40a9b8bdcd51": {
-    "href": "/library/openchat:7b-v3.5-0106-q2_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q2_K",
     "name": "openchat:7b-v3.5-0106-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.1GB"
+    "context_window_num": 8000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "c8a422048247": {
-    "href": "/library/openchat:7b-v3.5-q2_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q2_K",
     "name": "openchat:7b-v3.5-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.1GB"
+    "context_window_num": 8000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "43be12a77c78": {
-    "href": "/library/openchat:7b-v3.5-0106-q3_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q3_K_S",
     "name": "openchat:7b-v3.5-0106-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.2GB"
+    "context_window_num": 8000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "961a8432de51": {
-    "href": "/library/openchat:7b-v3.5-q3_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q3_K_S",
     "name": "openchat:7b-v3.5-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.2GB"
+    "context_window_num": 8000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "76cd9a0c98ff": {
-    "href": "/library/openchat:7b-v3.5-0106-q3_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q3_K_M",
     "name": "openchat:7b-v3.5-0106-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.5GB"
+    "context_window_num": 8000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "bb9a71d66b29": {
-    "href": "/library/openchat:7b-v3.5-q3_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q3_K_M",
     "name": "openchat:7b-v3.5-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.5GB"
+    "context_window_num": 8000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "7c4478e7725d": {
-    "href": "/library/openchat:7b-v3.5-0106-q3_K_L",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q3_K_L",
     "name": "openchat:7b-v3.5-0106-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.8GB"
+    "context_window_num": 8000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "cce7d2d85cc1": {
-    "href": "/library/openchat:7b-v3.5-q3_K_L",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q3_K_L",
     "name": "openchat:7b-v3.5-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.8GB"
+    "context_window_num": 8000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "029a27df0e0e": {
-    "href": "/library/openchat:7b-v3.5-0106-q4_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q4_1",
     "name": "openchat:7b-v3.5-0106-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.6GB"
+    "context_window_num": 8000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "2d59d300369b": {
-    "href": "/library/openchat:7b-v3.5-q4_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q4_1",
     "name": "openchat:7b-v3.5-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.6GB"
+    "context_window_num": 8000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "fe011350d88f": {
-    "href": "/library/openchat:7b-v3.5-0106-q4_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q4_K_S",
     "name": "openchat:7b-v3.5-0106-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "99507f29347f": {
-    "href": "/library/openchat:7b-v3.5-q4_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q4_K_S",
     "name": "openchat:7b-v3.5-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "606fbe86851f": {
-    "href": "/library/openchat:7b-v3.5-0106-q4_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q4_K_M",
     "name": "openchat:7b-v3.5-0106-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.4GB"
+    "context_window_num": 8000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "f7d0a07c2357": {
-    "href": "/library/openchat:7b-v3.5-q4_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q4_K_M",
     "name": "openchat:7b-v3.5-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.4GB"
+    "context_window_num": 8000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "bf796ce1e6e4": {
-    "href": "/library/openchat:7b-v3.5-0106-q5_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q5_0",
     "name": "openchat:7b-v3.5-0106-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "311f9cb4a2f3": {
-    "href": "/library/openchat:7b-v3.5-q5_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q5_0",
     "name": "openchat:7b-v3.5-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "87023ab68886": {
-    "href": "/library/openchat:7b-v3.5-0106-q5_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q5_1",
     "name": "openchat:7b-v3.5-0106-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.4GB"
+    "context_window_num": 8000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "bf4eb0e1d37f": {
-    "href": "/library/openchat:7b-v3.5-q5_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q5_1",
     "name": "openchat:7b-v3.5-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.4GB"
+    "context_window_num": 8000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "6ed7bb1af154": {
-    "href": "/library/openchat:7b-v3.5-0106-q5_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q5_K_S",
     "name": "openchat:7b-v3.5-0106-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "75e83c02831a": {
-    "href": "/library/openchat:7b-v3.5-0106-q5_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q5_K_M",
     "name": "openchat:7b-v3.5-0106-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.1GB"
+    "context_window_num": 8000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "068f00f96fbf": {
-    "href": "/library/openchat:7b-v3.5-0106-q6_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q6_K",
     "name": "openchat:7b-v3.5-0106-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.9GB"
+    "context_window_num": 8000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "54a3b6ecd5ec": {
-    "href": "/library/openchat:7b-v3.5-0106-q8_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-q8_0",
     "name": "openchat:7b-v3.5-0106-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "7.7GB"
+    "context_window_num": 8000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "904ff9758131": {
-    "href": "/library/openchat:7b-v3.5-0106-fp16",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-0106-fp16",
     "name": "openchat:7b-v3.5-0106-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "14GB"
+    "context_window_num": 8000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "aa6d10add428": {
-    "href": "/library/openchat:7b-v3.5-1210",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210",
     "name": "openchat:7b-v3.5-1210",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "90cfa4fd3ee4": {
-    "href": "/library/openchat:7b-v3.5-1210-q2_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q2_K",
     "name": "openchat:7b-v3.5-1210-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.1GB"
+    "context_window_num": 8000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "4a07652bf006": {
-    "href": "/library/openchat:7b-v3.5-1210-q3_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q3_K_S",
     "name": "openchat:7b-v3.5-1210-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.2GB"
+    "context_window_num": 8000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "ad84860337cb": {
-    "href": "/library/openchat:7b-v3.5-1210-q3_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q3_K_M",
     "name": "openchat:7b-v3.5-1210-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.5GB"
+    "context_window_num": 8000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "cdab528998e3": {
-    "href": "/library/openchat:7b-v3.5-1210-q3_K_L",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q3_K_L",
     "name": "openchat:7b-v3.5-1210-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "3.8GB"
+    "context_window_num": 8000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "525ce9ede1d8": {
-    "href": "/library/openchat:7b-v3.5-1210-q4_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q4_1",
     "name": "openchat:7b-v3.5-1210-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.6GB"
+    "context_window_num": 8000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "8d50e6d40482": {
-    "href": "/library/openchat:7b-v3.5-1210-q4_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q4_K_S",
     "name": "openchat:7b-v3.5-1210-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.1GB"
+    "context_window_num": 8000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "c0f6439075b8": {
-    "href": "/library/openchat:7b-v3.5-1210-q4_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q4_K_M",
     "name": "openchat:7b-v3.5-1210-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "4.4GB"
+    "context_window_num": 8000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "4c6db90c2db0": {
-    "href": "/library/openchat:7b-v3.5-1210-q5_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q5_0",
     "name": "openchat:7b-v3.5-1210-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "2185cdd08ed8": {
-    "href": "/library/openchat:7b-v3.5-1210-q5_1",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q5_1",
     "name": "openchat:7b-v3.5-1210-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.4GB"
+    "context_window_num": 8000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "f78feecd69cf": {
-    "href": "/library/openchat:7b-v3.5-1210-q5_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q5_K_S",
     "name": "openchat:7b-v3.5-1210-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "213e534d3f58": {
-    "href": "/library/openchat:7b-v3.5-q5_K_S",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q5_K_S",
     "name": "openchat:7b-v3.5-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.0GB"
+    "context_window_num": 8000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "64e4cb9bb506": {
-    "href": "/library/openchat:7b-v3.5-1210-q5_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q5_K_M",
     "name": "openchat:7b-v3.5-1210-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.1GB"
+    "context_window_num": 8000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "6b9271b7e00e": {
-    "href": "/library/openchat:7b-v3.5-q5_K_M",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q5_K_M",
     "name": "openchat:7b-v3.5-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.1GB"
+    "context_window_num": 8000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "2f844aee86ba": {
-    "href": "/library/openchat:7b-v3.5-1210-q6_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q6_K",
     "name": "openchat:7b-v3.5-1210-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.9GB"
+    "context_window_num": 8000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "95a82d202137": {
-    "href": "/library/openchat:7b-v3.5-q6_K",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q6_K",
     "name": "openchat:7b-v3.5-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "5.9GB"
+    "context_window_num": 8000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "2911bfb27389": {
-    "href": "/library/openchat:7b-v3.5-1210-q8_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-q8_0",
     "name": "openchat:7b-v3.5-1210-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "7.7GB"
+    "context_window_num": 8000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "663a54b072bf": {
-    "href": "/library/openchat:7b-v3.5-q8_0",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-q8_0",
     "name": "openchat:7b-v3.5-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "7.7GB"
+    "context_window_num": 8000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "24a0134d29f6": {
-    "href": "/library/openchat:7b-v3.5-1210-fp16",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-1210-fp16",
     "name": "openchat:7b-v3.5-1210-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "14GB"
+    "context_window_num": 8000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "b2cb2e8359a3": {
-    "href": "/library/openchat:7b-v3.5-fp16",
+    "href": "https://ollama.com/library/openchat:7b-v3.5-fp16",
     "name": "openchat:7b-v3.5-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "8K",
-    "size_str": "14GB"
+    "context_window_num": 8000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

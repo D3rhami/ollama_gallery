@@ -1,167 +1,212 @@
 {
   "55fc3abd3867": {
-    "href": "/library/moondream:latest",
+    "href": "https://ollama.com/library/moondream:latest",
     "name": "moondream:latest",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.7GB"
+    "context_window_num": 2000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "60a4fe10cc8b": {
-    "href": "/library/moondream:1.8b-v2-q2_K",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q2_K",
     "name": "moondream:1.8b-v2-q2_K",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.5GB"
+    "context_window_num": 2000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
   },
   "c1f516864beb": {
-    "href": "/library/moondream:1.8b-v2-q3_K_S",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q3_K_S",
     "name": "moondream:1.8b-v2-q3_K_S",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.6GB"
+    "context_window_num": 2000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
   },
   "b7ca95d4df05": {
-    "href": "/library/moondream:1.8b-v2-q3_K_M",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q3_K_M",
     "name": "moondream:1.8b-v2-q3_K_M",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.7GB"
+    "context_window_num": 2000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "119dd8c33e4e": {
-    "href": "/library/moondream:1.8b-v2-q3_K_L",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q3_K_L",
     "name": "moondream:1.8b-v2-q3_K_L",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.7GB"
+    "context_window_num": 2000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "d3555a3ddc4b": {
-    "href": "/library/moondream:1.8b-v2-q4_1",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q4_1",
     "name": "moondream:1.8b-v2-q4_1",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.8GB"
+    "context_window_num": 2000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "6858752db2f4": {
-    "href": "/library/moondream:1.8b-v2-q4_K_S",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q4_K_S",
     "name": "moondream:1.8b-v2-q4_K_S",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.7GB"
+    "context_window_num": 2000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "c865c80afc38": {
-    "href": "/library/moondream:1.8b-v2-q4_K_M",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q4_K_M",
     "name": "moondream:1.8b-v2-q4_K_M",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.8GB"
+    "context_window_num": 2000,
+    "size_str": "1.8GB",
+    "size_num": 1800000000
   },
   "1d82a6c34daa": {
-    "href": "/library/moondream:1.8b-v2-q5_0",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q5_0",
     "name": "moondream:1.8b-v2-q5_0",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.9GB"
+    "context_window_num": 2000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "0bc271bb633d": {
-    "href": "/library/moondream:1.8b-v2-q5_1",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q5_1",
     "name": "moondream:1.8b-v2-q5_1",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.0GB"
+    "context_window_num": 2000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "85200c02ea40": {
-    "href": "/library/moondream:1.8b-v2-q5_K_S",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q5_K_S",
     "name": "moondream:1.8b-v2-q5_K_S",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "1.9GB"
+    "context_window_num": 2000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
   },
   "521316e36d6e": {
-    "href": "/library/moondream:1.8b-v2-q5_K_M",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q5_K_M",
     "name": "moondream:1.8b-v2-q5_K_M",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.0GB"
+    "context_window_num": 2000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "5ff1472b766d": {
-    "href": "/library/moondream:1.8b-v2-q6_K",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q6_K",
     "name": "moondream:1.8b-v2-q6_K",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.1GB"
+    "context_window_num": 2000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "0e65c7807dc3": {
-    "href": "/library/moondream:1.8b-v2-q8_0",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-q8_0",
     "name": "moondream:1.8b-v2-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "2.4GB"
+    "context_window_num": 2000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "8921b6c3990a": {
-    "href": "/library/moondream:1.8b-v2-fp16",
+    "href": "https://ollama.com/library/moondream:1.8b-v2-fp16",
     "name": "moondream:1.8b-v2-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "2K",
-    "size_str": "3.7GB"
+    "context_window_num": 2000,
+    "size_str": "3.7GB",
+    "size_num": 3700000000
   }
 }

@@ -1,152 +1,197 @@
 {
   "da8c35896cff": {
-    "href": "/library/nous-hermes2-mixtral:latest",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:latest",
     "name": "nous-hermes2-mixtral:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "26GB"
+    "context_window_num": 32000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   },
   "def75f44e678": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q2_K",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q2_K",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "17GB"
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "b83102712906": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_S",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_S",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "20GB"
+    "context_window_num": 32000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "e401c6cff6ee": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_M",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_M",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "23GB"
+    "context_window_num": 32000,
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
   "d3f241b3fa43": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_L",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q3_K_L",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "24GB"
+    "context_window_num": 32000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "6b8631272ae5": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_1",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q4_1",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "29GB"
+    "context_window_num": 32000,
+    "size_str": "29GB",
+    "size_num": 29000000000
   },
   "72597fc38d4a": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_S",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_S",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "27GB"
+    "context_window_num": 32000,
+    "size_str": "27GB",
+    "size_num": 27000000000
   },
   "5ce16766078d": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_M",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q4_K_M",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "28GB"
+    "context_window_num": 32000,
+    "size_str": "28GB",
+    "size_num": 28000000000
   },
   "2d30ec45b54c": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_0",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q5_0",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "32GB"
+    "context_window_num": 32000,
+    "size_str": "32GB",
+    "size_num": 32000000000
   },
   "d37f3798cec9": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_1",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q5_1",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "35GB"
+    "context_window_num": 32000,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "78bf09c60f45": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_S",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_S",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "32GB"
+    "context_window_num": 32000,
+    "size_str": "32GB",
+    "size_num": 32000000000
   },
   "c95f2fb1bbb0": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_M",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q5_K_M",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "33GB"
+    "context_window_num": 32000,
+    "size_str": "33GB",
+    "size_num": 33000000000
   },
   "af9b1e15b356": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q6_K",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q6_K",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "38GB"
+    "context_window_num": 32000,
+    "size_str": "38GB",
+    "size_num": 38000000000
   },
   "a6f9a3257097": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-q8_0",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-q8_0",
     "name": "nous-hermes2-mixtral:8x7b-dpo-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "7 months ago",
+    "update_date": "2025-01-07",
     "context_window": "32K",
-    "size_str": "50GB"
+    "context_window_num": 32000,
+    "size_str": "50GB",
+    "size_num": 50000000000
   },
   "42c40087888d": {
-    "href": "/library/nous-hermes2-mixtral:8x7b-dpo-fp16",
+    "href": "https://ollama.com/library/nous-hermes2-mixtral:8x7b-dpo-fp16",
     "name": "nous-hermes2-mixtral:8x7b-dpo-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "93GB"
+    "context_window_num": 32000,
+    "size_str": "93GB",
+    "size_num": 93000000000
   }
 }

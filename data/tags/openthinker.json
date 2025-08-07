@@ -1,122 +1,158 @@
 {
   "4e61774f7d1c": {
-    "href": "/library/openthinker:latest",
+    "href": "https://ollama.com/library/openthinker:latest",
     "name": "openthinker:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "4.7GB"
+    "context_window_num": 32000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "04b5937dcb16": {
-    "href": "/library/openthinker:32b",
+    "href": "https://ollama.com/library/openthinker:32b",
     "name": "openthinker:32b",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "20GB"
+    "context_window_num": 32000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "452fb1b5c878": {
-    "href": "/library/openthinker:7b-v2-q8_0",
+    "href": "https://ollama.com/library/openthinker:7b-v2-q8_0",
     "name": "openthinker:7b-v2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "8.1GB"
+    "context_window_num": 32000,
+    "size_str": "8.1GB",
+    "size_num": 8100000000
   },
   "31607c6db34a": {
-    "href": "/library/openthinker:7b-v2-fp16",
+    "href": "https://ollama.com/library/openthinker:7b-v2-fp16",
     "name": "openthinker:7b-v2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "15GB"
+    "context_window_num": 32000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "aaffe05a5e2e": {
-    "href": "/library/openthinker:7b-q4_K_M",
+    "href": "https://ollama.com/library/openthinker:7b-q4_K_M",
     "name": "openthinker:7b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "32K",
-    "size_str": "4.7GB"
+    "context_window_num": 32000,
+    "size_str": "4.7GB",
+    "size_num": 4700000000
   },
   "a0b1973d2ae4": {
-    "href": "/library/openthinker:7b-q8_0",
+    "href": "https://ollama.com/library/openthinker:7b-q8_0",
     "name": "openthinker:7b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "32K",
-    "size_str": "8.1GB"
+    "context_window_num": 32000,
+    "size_str": "8.1GB",
+    "size_num": 8100000000
   },
   "51b87c56a25a": {
-    "href": "/library/openthinker:7b-fp16",
+    "href": "https://ollama.com/library/openthinker:7b-fp16",
     "name": "openthinker:7b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "32K",
-    "size_str": "15GB"
+    "context_window_num": 32000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "3d6e61f31c17": {
-    "href": "/library/openthinker:32b-v2-q8_0",
+    "href": "https://ollama.com/library/openthinker:32b-v2-q8_0",
     "name": "openthinker:32b-v2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "35GB"
+    "context_window_num": 32000,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "bedb555dcf18": {
-    "href": "/library/openthinker:32b-v2-fp16",
+    "href": "https://ollama.com/library/openthinker:32b-v2-fp16",
     "name": "openthinker:32b-v2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "32K",
-    "size_str": "66GB"
+    "context_window_num": 32000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   },
   "b3f4e577e166": {
-    "href": "/library/openthinker:32b-q4_K_M",
+    "href": "https://ollama.com/library/openthinker:32b-q4_K_M",
     "name": "openthinker:32b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "32K",
-    "size_str": "20GB"
+    "context_window_num": 32000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "58ba37ade26f": {
-    "href": "/library/openthinker:32b-q8_0",
+    "href": "https://ollama.com/library/openthinker:32b-q8_0",
     "name": "openthinker:32b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "32K",
-    "size_str": "35GB"
+    "context_window_num": 32000,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "fe656527fabb": {
-    "href": "/library/openthinker:32b-fp16",
+    "href": "https://ollama.com/library/openthinker:32b-fp16",
     "name": "openthinker:32b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "5 months ago",
+    "update_date": "2025-03-07",
     "context_window": "32K",
-    "size_str": "66GB"
+    "context_window_num": 32000,
+    "size_str": "66GB",
+    "size_num": 66000000000
   }
 }

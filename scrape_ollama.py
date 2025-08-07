@@ -2,29 +2,17 @@ import json
 import os
 import time
 from datetime import datetime
-from typing import Optional,Tuple,Dict
+from typing import Dict, Optional, Tuple
 
 import dateparser
 import requests
 from lxml import html
 
 from extract_all_tags_info import get_all_tags_data
+from utils import convert_size_str_to_num
 
 
-def convert_size_str_to_num(input_str):
-    try:
-        return int(float(input_str.strip().upper().replace(',', '').replace(' ', '')
-                         .replace('PB', 'e15').replace('TB', 'e12').replace('GB', 'e9')
-                         .replace('MB', 'e6').replace('KB', 'e3')
-                         .replace('P', 'e15').replace('T', 'e12').replace('G', 'e9')
-                         .replace('M', 'e6').replace('K', 'e3').replace('B', '')
-                         .replace('BYTE', '').replace('BYTES', '')))
-    except Exception as se:
-        print("convert_size_str_to_num failed:", se, "the input string is", input_str)
-        return 0
-
-
-def get_models_info() ->  Optional[Tuple[Dict, Dict]] :
+def get_models_info() -> Optional[Tuple[Dict, Dict]]:
     url = "https://ollama.com/library"
     response = requests.get(url)
     if response.status_code != 200:
@@ -32,7 +20,7 @@ def get_models_info() ->  Optional[Tuple[Dict, Dict]] :
         return None
     tree = html.fromstring(response.content)
 
-    div_element = tree.xpath('/html/body/main/div/main/div[3]')[0]
+    div_element = tree.xpath('/html/body/div/main/div[3]')[0]
 
     error_count = 0
     total_count = 0
@@ -118,12 +106,12 @@ if __name__ == '__main__':
 
     models_data, status = get_models_info()
     if models_data:
-        save_json('data/models.json',models_data)
-        save_json('data/models_status.json', status )
+        save_json('data/models.json', models_data)
+        save_json('data/models_status.json', status)
 
-        all_tags_data,tags_data_status = get_all_tags_data(list(models_data.keys()))
+        all_tags_data, tags_data_status = get_all_tags_data(list(models_data.keys()))
 
-        save_json('data/tags.json', all_tags_data )
-        save_json('data/tags_status.json',tags_data_status )
+        save_json('data/tags.json', all_tags_data)
+        save_json('data/tags_status.json', tags_data_status)
 
     print(f"Scraping completed in {time.time() - start_time:.2f} seconds")

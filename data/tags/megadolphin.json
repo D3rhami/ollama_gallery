@@ -1,152 +1,197 @@
 {
   "8fa55398527b": {
-    "href": "/library/megadolphin:latest",
+    "href": "https://ollama.com/library/megadolphin:latest",
     "name": "megadolphin:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "68GB"
+    "context_window_num": 4000,
+    "size_str": "68GB",
+    "size_num": 68000000000
   },
   "e1b1887eddd5": {
-    "href": "/library/megadolphin:120b-v2.2-q2_K",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q2_K",
     "name": "megadolphin:120b-v2.2-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "51GB"
+    "context_window_num": 4000,
+    "size_str": "51GB",
+    "size_num": 51000000000
   },
   "51cfd8967e4b": {
-    "href": "/library/megadolphin:120b-v2.2-q3_K_S",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q3_K_S",
     "name": "megadolphin:120b-v2.2-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "52GB"
+    "context_window_num": 4000,
+    "size_str": "52GB",
+    "size_num": 52000000000
   },
   "65fd60e22eea": {
-    "href": "/library/megadolphin:120b-v2.2-q3_K_M",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q3_K_M",
     "name": "megadolphin:120b-v2.2-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "58GB"
+    "context_window_num": 4000,
+    "size_str": "58GB",
+    "size_num": 58000000000
   },
   "a27d38e0cacc": {
-    "href": "/library/megadolphin:120b-v2.2-q3_K_L",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q3_K_L",
     "name": "megadolphin:120b-v2.2-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "63GB"
+    "context_window_num": 4000,
+    "size_str": "63GB",
+    "size_num": 63000000000
   },
   "9868ed4c72c3": {
-    "href": "/library/megadolphin:120b-v2.2-q4_1",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q4_1",
     "name": "megadolphin:120b-v2.2-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "75GB"
+    "context_window_num": 4000,
+    "size_str": "75GB",
+    "size_num": 75000000000
   },
   "62050e584c58": {
-    "href": "/library/megadolphin:120b-v2.2-q4_K_S",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q4_K_S",
     "name": "megadolphin:120b-v2.2-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "68GB"
+    "context_window_num": 4000,
+    "size_str": "68GB",
+    "size_num": 68000000000
   },
   "b92822f58f1d": {
-    "href": "/library/megadolphin:120b-v2.2-q4_K_M",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q4_K_M",
     "name": "megadolphin:120b-v2.2-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "72GB"
+    "context_window_num": 4000,
+    "size_str": "72GB",
+    "size_num": 72000000000
   },
   "83e48c89c1be": {
-    "href": "/library/megadolphin:120b-v2.2-q5_0",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q5_0",
     "name": "megadolphin:120b-v2.2-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "83GB"
+    "context_window_num": 4000,
+    "size_str": "83GB",
+    "size_num": 83000000000
   },
   "9b53d1dc0471": {
-    "href": "/library/megadolphin:120b-v2.2-q5_1",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q5_1",
     "name": "megadolphin:120b-v2.2-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "90GB"
+    "context_window_num": 4000,
+    "size_str": "90GB",
+    "size_num": 90000000000
   },
   "253565c3099b": {
-    "href": "/library/megadolphin:120b-v2.2-q5_K_S",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q5_K_S",
     "name": "megadolphin:120b-v2.2-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "83GB"
+    "context_window_num": 4000,
+    "size_str": "83GB",
+    "size_num": 83000000000
   },
   "559d2beee57b": {
-    "href": "/library/megadolphin:120b-v2.2-q5_K_M",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q5_K_M",
     "name": "megadolphin:120b-v2.2-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "85GB"
+    "context_window_num": 4000,
+    "size_str": "85GB",
+    "size_num": 85000000000
   },
   "dcaaf2d5d42c": {
-    "href": "/library/megadolphin:120b-v2.2-q6_K",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q6_K",
     "name": "megadolphin:120b-v2.2-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "99GB"
+    "context_window_num": 4000,
+    "size_str": "99GB",
+    "size_num": 99000000000
   },
   "8f2b4b5ff548": {
-    "href": "/library/megadolphin:120b-v2.2-q8_0",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-q8_0",
     "name": "megadolphin:120b-v2.2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "128GB"
+    "context_window_num": 4000,
+    "size_str": "128GB",
+    "size_num": 128000000000
   },
   "cf54e31cfdd8": {
-    "href": "/library/megadolphin:120b-v2.2-fp16",
+    "href": "https://ollama.com/library/megadolphin:120b-v2.2-fp16",
     "name": "megadolphin:120b-v2.2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "241GB"
+    "context_window_num": 4000,
+    "size_str": "241GB",
+    "size_num": 241000000000
   }
 }

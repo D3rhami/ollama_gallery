@@ -1,62 +1,80 @@
 {
   "15cb39fd9394": {
-    "href": "/library/gemma3n:latest",
+    "href": "https://ollama.com/library/gemma3n:latest",
     "name": "gemma3n:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "7.5GB"
+    "context_window_num": 32000,
+    "size_str": "7.5GB",
+    "size_num": 7500000000
   },
   "719372f8c7de": {
-    "href": "/library/gemma3n:e2b",
+    "href": "https://ollama.com/library/gemma3n:e2b",
     "name": "gemma3n:e2b",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "5.6GB"
+    "context_window_num": 32000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
   },
   "11d9a1ddb266": {
-    "href": "/library/gemma3n:e2b-it-q8_0",
+    "href": "https://ollama.com/library/gemma3n:e2b-it-q8_0",
     "name": "gemma3n:e2b-it-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "6.6GB"
+    "context_window_num": 32000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
   },
   "c202cf857d68": {
-    "href": "/library/gemma3n:e2b-it-fp16",
+    "href": "https://ollama.com/library/gemma3n:e2b-it-fp16",
     "name": "gemma3n:e2b-it-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "8.9GB"
+    "context_window_num": 32000,
+    "size_str": "8.9GB",
+    "size_num": 8900000000
   },
   "8289357f2878": {
-    "href": "/library/gemma3n:e4b-it-q8_0",
+    "href": "https://ollama.com/library/gemma3n:e4b-it-q8_0",
     "name": "gemma3n:e4b-it-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "9.5GB"
+    "context_window_num": 32000,
+    "size_str": "9.5GB",
+    "size_num": 9500000000
   },
   "153df1d47c19": {
-    "href": "/library/gemma3n:e4b-it-fp16",
+    "href": "https://ollama.com/library/gemma3n:e4b-it-fp16",
     "name": "gemma3n:e4b-it-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 month ago",
+    "update_date": "2025-07-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

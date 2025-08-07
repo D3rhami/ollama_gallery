@@ -1,152 +1,197 @@
 {
   "233ce1dee972": {
-    "href": "/library/nuextract:latest",
+    "href": "https://ollama.com/library/nuextract:latest",
     "name": "nuextract:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.2GB"
+    "context_window_num": 4000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "3ff975f1c449": {
-    "href": "/library/nuextract:3.8b-q2_K",
+    "href": "https://ollama.com/library/nuextract:3.8b-q2_K",
     "name": "nuextract:3.8b-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.4GB"
+    "context_window_num": 4000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
   },
   "7e8679715f5c": {
-    "href": "/library/nuextract:3.8b-q3_K_S",
+    "href": "https://ollama.com/library/nuextract:3.8b-q3_K_S",
     "name": "nuextract:3.8b-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "1.7GB"
+    "context_window_num": 4000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
   },
   "0bb3a0c4be0e": {
-    "href": "/library/nuextract:3.8b-q3_K_M",
+    "href": "https://ollama.com/library/nuextract:3.8b-q3_K_M",
     "name": "nuextract:3.8b-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.0GB"
+    "context_window_num": 4000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "d1c82fd1af09": {
-    "href": "/library/nuextract:3.8b-q3_K_L",
+    "href": "https://ollama.com/library/nuextract:3.8b-q3_K_L",
     "name": "nuextract:3.8b-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.1GB"
+    "context_window_num": 4000,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
   },
   "cb364d1aa272": {
-    "href": "/library/nuextract:3.8b-q4_1",
+    "href": "https://ollama.com/library/nuextract:3.8b-q4_1",
     "name": "nuextract:3.8b-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.4GB"
+    "context_window_num": 4000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "14b853e9c0c0": {
-    "href": "/library/nuextract:3.8b-q4_K_S",
+    "href": "https://ollama.com/library/nuextract:3.8b-q4_K_S",
     "name": "nuextract:3.8b-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.2GB"
+    "context_window_num": 4000,
+    "size_str": "2.2GB",
+    "size_num": 2200000000
   },
   "2e9ece488363": {
-    "href": "/library/nuextract:3.8b-q4_K_M",
+    "href": "https://ollama.com/library/nuextract:3.8b-q4_K_M",
     "name": "nuextract:3.8b-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.4GB"
+    "context_window_num": 4000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
   },
   "f2effca26a5f": {
-    "href": "/library/nuextract:3.8b-q5_0",
+    "href": "https://ollama.com/library/nuextract:3.8b-q5_0",
     "name": "nuextract:3.8b-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.6GB"
+    "context_window_num": 4000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
   },
   "e04443b0019f": {
-    "href": "/library/nuextract:3.8b-q5_1",
+    "href": "https://ollama.com/library/nuextract:3.8b-q5_1",
     "name": "nuextract:3.8b-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.9GB"
+    "context_window_num": 4000,
+    "size_str": "2.9GB",
+    "size_num": 2900000000
   },
   "1d19041cee7d": {
-    "href": "/library/nuextract:3.8b-q5_K_S",
+    "href": "https://ollama.com/library/nuextract:3.8b-q5_K_S",
     "name": "nuextract:3.8b-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.6GB"
+    "context_window_num": 4000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
   },
   "e45f9e901474": {
-    "href": "/library/nuextract:3.8b-q5_K_M",
+    "href": "https://ollama.com/library/nuextract:3.8b-q5_K_M",
     "name": "nuextract:3.8b-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "2.8GB"
+    "context_window_num": 4000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
   },
   "313af121aa51": {
-    "href": "/library/nuextract:3.8b-q6_K",
+    "href": "https://ollama.com/library/nuextract:3.8b-q6_K",
     "name": "nuextract:3.8b-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "3.1GB"
+    "context_window_num": 4000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "fac3a7e1b11b": {
-    "href": "/library/nuextract:3.8b-q8_0",
+    "href": "https://ollama.com/library/nuextract:3.8b-q8_0",
     "name": "nuextract:3.8b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "4.1GB"
+    "context_window_num": 4000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "d8bc760a64ed": {
-    "href": "/library/nuextract:3.8b-fp16",
+    "href": "https://ollama.com/library/nuextract:3.8b-fp16",
     "name": "nuextract:3.8b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "7.6GB"
+    "context_window_num": 4000,
+    "size_str": "7.6GB",
+    "size_num": 7600000000
   }
 }

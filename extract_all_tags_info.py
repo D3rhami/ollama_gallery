@@ -2,6 +2,16 @@ import json
 import time
 from concurrent.futures import as_completed, ThreadPoolExecutor
 from datetime import datetime
+import json
+import os
+import time
+from datetime import datetime
+from typing import Optional,Tuple,Dict
+
+import dateparser
+import requests
+from utils import convert_size_str_to_num
+
 
 import requests
 from lxml import html
@@ -21,7 +31,7 @@ def get_model_tags(model_name):
 
         tree = html.fromstring(response.content)
         tag_elements = tree.xpath(
-            "//div[contains(@class, 'group') and contains(@class, 'px-4') and contains(@class, 'py-3')]")
+                "//div[contains(@class, 'group') and contains(@class, 'px-4') and contains(@class, 'py-3')]")
 
         if tag_elements:
             data = {}
@@ -35,7 +45,11 @@ def get_model_tags(model_name):
                 tag_info = {}
                 href_elements = element.xpath(".//a[@href]")
                 if href_elements:
-                    tag_info['href'] = href_elements[0].get('href')
+                    link = href_elements[0].get('href')
+                    if link.startswith('/'):
+                        tag_info['href'] = f"https://ollama.com{link}"
+                    else:
+                        tag_info['href'] = link
 
                 font_medium_elements = element.xpath(".//div[contains(@class, 'font-medium')]")
                 if font_medium_elements:
@@ -48,12 +62,16 @@ def get_model_tags(model_name):
                     input_types = [str(t).strip() for t in input_types.split(",")]
                     tag_info['input_types'] = input_types
                     tag_info['updated_str'] = updated_str
+                    parsed_date = dateparser.parse(updated_str)
+                    tag_info['update_date'] = parsed_date.strftime('%Y-%m-%d') if parsed_date else None
 
                 col_span_elements = element.xpath(".//p[contains(@class, 'col-span')]")
                 if col_span_elements:
-                    size_str,context_window  = [el.text_content().strip() for el in col_span_elements][:2]
+                    size_str, context_window = [el.text_content().strip() for el in col_span_elements][:2]
                     tag_info['context_window'] = context_window.strip()
+                    tag_info['context_window_num'] = convert_size_str_to_num(context_window.strip())
                     tag_info['size_str'] = size_str.strip()
+                    tag_info['size_num'] = convert_size_str_to_num( size_str.strip())
 
                 if hash_:
                     data[hash_] = tag_info
@@ -69,13 +87,13 @@ def get_model_tags(model_name):
 
 def get_all_tags_data(model_names):
     start_time = time.time()
-    all_tags_data = { }
+    all_tags_data = {}
     successful = 0
     failed = 0
 
     with ThreadPoolExecutor(max_workers=10) as executor:
         future_to_model = {executor.submit(get_model_tags, model_name): model_name for model_name in model_names}
-        
+
         for future in as_completed(future_to_model):
             model_name = future_to_model[future]
             try:
@@ -94,11 +112,11 @@ def get_all_tags_data(model_names):
                 print(f"Exception for {model_name}: {e}")
 
     tags_data_status = {
-            "successful": successful  ,
+            "successful": successful,
             "success": True,
             "failed": failed,
             "data_updated": datetime.now().isoformat(),
             "processing_time": f"{time.time() - start_time:.2f} seconds"
     }
 
-    return all_tags_data,tags_data_status
+    return all_tags_data, tags_data_status

@@ -1,12 +1,15 @@
 {
   "5de93a84837d": {
-    "href": "/library/snowflake-arctic-embed2:latest",
+    "href": "https://ollama.com/library/snowflake-arctic-embed2:latest",
     "name": "snowflake-arctic-embed2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "8K",
-    "size_str": "1.2GB"
+    "context_window_num": 8000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
   }
 }

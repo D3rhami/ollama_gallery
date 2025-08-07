@@ -1,152 +1,197 @@
 {
   "886a369d74fc": {
-    "href": "/library/wizardlm-uncensored:latest",
+    "href": "https://ollama.com/library/wizardlm-uncensored:latest",
     "name": "wizardlm-uncensored:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "7.4GB"
+    "context_window_num": 4000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "d121c5fe7def": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q2_K",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q2_K",
     "name": "wizardlm-uncensored:13b-llama2-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "5.4GB"
+    "context_window_num": 4000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "c19a0f853fde": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_S",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q3_K_S",
     "name": "wizardlm-uncensored:13b-llama2-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "5.7GB"
+    "context_window_num": 4000,
+    "size_str": "5.7GB",
+    "size_num": 5700000000
   },
   "c7a5f73c0b10": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_M",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q3_K_M",
     "name": "wizardlm-uncensored:13b-llama2-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "6.3GB"
+    "context_window_num": 4000,
+    "size_str": "6.3GB",
+    "size_num": 6300000000
   },
   "dd676f4c69db": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q3_K_L",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q3_K_L",
     "name": "wizardlm-uncensored:13b-llama2-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "6.9GB"
+    "context_window_num": 4000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
   },
   "588ad528410f": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q4_1",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q4_1",
     "name": "wizardlm-uncensored:13b-llama2-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "8.2GB"
+    "context_window_num": 4000,
+    "size_str": "8.2GB",
+    "size_num": 8200000000
   },
   "1834c3fd3d21": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q4_K_S",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q4_K_S",
     "name": "wizardlm-uncensored:13b-llama2-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "7.4GB"
+    "context_window_num": 4000,
+    "size_str": "7.4GB",
+    "size_num": 7400000000
   },
   "f39570459d4d": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q4_K_M",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q4_K_M",
     "name": "wizardlm-uncensored:13b-llama2-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "7.9GB"
+    "context_window_num": 4000,
+    "size_str": "7.9GB",
+    "size_num": 7900000000
   },
   "37d9827a0835": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q5_0",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q5_0",
     "name": "wizardlm-uncensored:13b-llama2-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "9.0GB"
+    "context_window_num": 4000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "c229574569e6": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q5_1",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q5_1",
     "name": "wizardlm-uncensored:13b-llama2-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "9.8GB"
+    "context_window_num": 4000,
+    "size_str": "9.8GB",
+    "size_num": 9800000000
   },
   "e106a5fdba1e": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q5_K_S",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q5_K_S",
     "name": "wizardlm-uncensored:13b-llama2-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "9.0GB"
+    "context_window_num": 4000,
+    "size_str": "9.0GB",
+    "size_num": 9000000000
   },
   "3338ad97787e": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q5_K_M",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q5_K_M",
     "name": "wizardlm-uncensored:13b-llama2-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "9.2GB"
+    "context_window_num": 4000,
+    "size_str": "9.2GB",
+    "size_num": 9200000000
   },
   "0128ad0108a6": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q6_K",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q6_K",
     "name": "wizardlm-uncensored:13b-llama2-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "11GB"
+    "context_window_num": 4000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "4265729a3fca": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-q8_0",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-q8_0",
     "name": "wizardlm-uncensored:13b-llama2-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "14GB"
+    "context_window_num": 4000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   },
   "b972b4fcf399": {
-    "href": "/library/wizardlm-uncensored:13b-llama2-fp16",
+    "href": "https://ollama.com/library/wizardlm-uncensored:13b-llama2-fp16",
     "name": "wizardlm-uncensored:13b-llama2-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "4K",
-    "size_str": "26GB"
+    "context_window_num": 4000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   }
 }

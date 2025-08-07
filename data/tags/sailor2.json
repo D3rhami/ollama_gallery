@@ -1,92 +1,119 @@
 {
   "f08f378f040a": {
-    "href": "/library/sailor2:latest",
+    "href": "https://ollama.com/library/sailor2:latest",
     "name": "sailor2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "5.2GB"
+    "context_window_num": 32000,
+    "size_str": "5.2GB",
+    "size_num": 5200000000
   },
   "7b8c8f58ae99": {
-    "href": "/library/sailor2:1b",
+    "href": "https://ollama.com/library/sailor2:1b",
     "name": "sailor2:1b",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "1.1GB"
+    "context_window_num": 32000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
   },
   "b74611e7fe0d": {
-    "href": "/library/sailor2:20b",
+    "href": "https://ollama.com/library/sailor2:20b",
     "name": "sailor2:20b",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "12GB"
+    "context_window_num": 32000,
+    "size_str": "12GB",
+    "size_num": 12000000000
   },
   "50302a6d6549": {
-    "href": "/library/sailor2:1b-chat-q4_K_M",
+    "href": "https://ollama.com/library/sailor2:1b-chat-q4_K_M",
     "name": "sailor2:1b-chat-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "739MB"
+    "context_window_num": 32000,
+    "size_str": "739MB",
+    "size_num": 739000000
   },
   "415967b0fd33": {
-    "href": "/library/sailor2:1b-chat-fp16",
+    "href": "https://ollama.com/library/sailor2:1b-chat-fp16",
     "name": "sailor2:1b-chat-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "2.0GB"
+    "context_window_num": 32000,
+    "size_str": "2.0GB",
+    "size_num": 2000000000
   },
   "ba25188c847d": {
-    "href": "/library/sailor2:8b-chat-q8_0",
+    "href": "https://ollama.com/library/sailor2:8b-chat-q8_0",
     "name": "sailor2:8b-chat-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "9.1GB"
+    "context_window_num": 32000,
+    "size_str": "9.1GB",
+    "size_num": 9100000000
   },
   "9377306c17c9": {
-    "href": "/library/sailor2:8b-chat-fp16",
+    "href": "https://ollama.com/library/sailor2:8b-chat-fp16",
     "name": "sailor2:8b-chat-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "17GB"
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "d49553f04a80": {
-    "href": "/library/sailor2:20b-chat-q8_0",
+    "href": "https://ollama.com/library/sailor2:20b-chat-q8_0",
     "name": "sailor2:20b-chat-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "20GB"
+    "context_window_num": 32000,
+    "size_str": "20GB",
+    "size_num": 20000000000
   },
   "d1455f557fbd": {
-    "href": "/library/sailor2:20b-chat-fp16",
+    "href": "https://ollama.com/library/sailor2:20b-chat-fp16",
     "name": "sailor2:20b-chat-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "8 months ago",
+    "update_date": "2024-12-07",
     "context_window": "32K",
-    "size_str": "38GB"
+    "context_window_num": 32000,
+    "size_str": "38GB",
+    "size_num": 38000000000
   }
 }

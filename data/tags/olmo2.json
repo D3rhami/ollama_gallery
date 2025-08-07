@@ -1,62 +1,80 @@
 {
   "4208d3b406db": {
-    "href": "/library/olmo2:latest",
+    "href": "https://ollama.com/library/olmo2:latest",
     "name": "olmo2:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "4.5GB"
+    "context_window_num": 4000,
+    "size_str": "4.5GB",
+    "size_num": 4500000000
   },
   "6c279ebc980f": {
-    "href": "/library/olmo2:13b",
+    "href": "https://ollama.com/library/olmo2:13b",
     "name": "olmo2:13b",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "8.4GB"
+    "context_window_num": 4000,
+    "size_str": "8.4GB",
+    "size_num": 8400000000
   },
   "e75d0b293717": {
-    "href": "/library/olmo2:7b-1124-instruct-q8_0",
+    "href": "https://ollama.com/library/olmo2:7b-1124-instruct-q8_0",
     "name": "olmo2:7b-1124-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "7.8GB"
+    "context_window_num": 4000,
+    "size_str": "7.8GB",
+    "size_num": 7800000000
   },
   "fa483f2d5cc7": {
-    "href": "/library/olmo2:7b-1124-instruct-fp16",
+    "href": "https://ollama.com/library/olmo2:7b-1124-instruct-fp16",
     "name": "olmo2:7b-1124-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "15GB"
+    "context_window_num": 4000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "54d0ec72e884": {
-    "href": "/library/olmo2:13b-1124-instruct-q8_0",
+    "href": "https://ollama.com/library/olmo2:13b-1124-instruct-q8_0",
     "name": "olmo2:13b-1124-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "15GB"
+    "context_window_num": 4000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "c5cd17f69ca0": {
-    "href": "/library/olmo2:13b-1124-instruct-fp16",
+    "href": "https://ollama.com/library/olmo2:13b-1124-instruct-fp16",
     "name": "olmo2:13b-1124-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "6 months ago",
+    "update_date": "2025-02-07",
     "context_window": "4K",
-    "size_str": "27GB"
+    "context_window_num": 4000,
+    "size_str": "27GB",
+    "size_num": 27000000000
   }
 }

@@ -1,152 +1,197 @@
 {
   "5393d4f5f262": {
-    "href": "/library/mistrallite:latest",
+    "href": "https://ollama.com/library/mistrallite:latest",
     "name": "mistrallite:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "32164f7b30a5": {
-    "href": "/library/mistrallite:7b-v0.1-q2_K",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q2_K",
     "name": "mistrallite:7b-v0.1-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.1GB"
+    "context_window_num": 32000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
   },
   "ebf457323d7d": {
-    "href": "/library/mistrallite:7b-v0.1-q3_K_S",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q3_K_S",
     "name": "mistrallite:7b-v0.1-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.2GB"
+    "context_window_num": 32000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
   },
   "366ee513d776": {
-    "href": "/library/mistrallite:7b-v0.1-q3_K_M",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q3_K_M",
     "name": "mistrallite:7b-v0.1-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.5GB"
+    "context_window_num": 32000,
+    "size_str": "3.5GB",
+    "size_num": 3500000000
   },
   "bb7562f0532f": {
-    "href": "/library/mistrallite:7b-v0.1-q3_K_L",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q3_K_L",
     "name": "mistrallite:7b-v0.1-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "3.8GB"
+    "context_window_num": 32000,
+    "size_str": "3.8GB",
+    "size_num": 3800000000
   },
   "00a4a71eee8f": {
-    "href": "/library/mistrallite:7b-v0.1-q4_1",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q4_1",
     "name": "mistrallite:7b-v0.1-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.6GB"
+    "context_window_num": 32000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
   },
   "81a8a1744387": {
-    "href": "/library/mistrallite:7b-v0.1-q4_K_S",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q4_K_S",
     "name": "mistrallite:7b-v0.1-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.1GB"
+    "context_window_num": 32000,
+    "size_str": "4.1GB",
+    "size_num": 4100000000
   },
   "d73bbd6b49d1": {
-    "href": "/library/mistrallite:7b-v0.1-q4_K_M",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q4_K_M",
     "name": "mistrallite:7b-v0.1-q4_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "4.4GB"
+    "context_window_num": 32000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
   },
   "751a158ec222": {
-    "href": "/library/mistrallite:7b-v0.1-q5_0",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q5_0",
     "name": "mistrallite:7b-v0.1-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "e09d24104dd5": {
-    "href": "/library/mistrallite:7b-v0.1-q5_1",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q5_1",
     "name": "mistrallite:7b-v0.1-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.4GB"
+    "context_window_num": 32000,
+    "size_str": "5.4GB",
+    "size_num": 5400000000
   },
   "6b71023e7195": {
-    "href": "/library/mistrallite:7b-v0.1-q5_K_S",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q5_K_S",
     "name": "mistrallite:7b-v0.1-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.0GB"
+    "context_window_num": 32000,
+    "size_str": "5.0GB",
+    "size_num": 5000000000
   },
   "7a3f8c87136f": {
-    "href": "/library/mistrallite:7b-v0.1-q5_K_M",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q5_K_M",
     "name": "mistrallite:7b-v0.1-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.1GB"
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
   },
   "c63d67539934": {
-    "href": "/library/mistrallite:7b-v0.1-q6_K",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q6_K",
     "name": "mistrallite:7b-v0.1-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "5.9GB"
+    "context_window_num": 32000,
+    "size_str": "5.9GB",
+    "size_num": 5900000000
   },
   "8856fb347897": {
-    "href": "/library/mistrallite:7b-v0.1-q8_0",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-q8_0",
     "name": "mistrallite:7b-v0.1-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "7.7GB"
+    "context_window_num": 32000,
+    "size_str": "7.7GB",
+    "size_num": 7700000000
   },
   "a6c59d49e2a9": {
-    "href": "/library/mistrallite:7b-v0.1-fp16",
+    "href": "https://ollama.com/library/mistrallite:7b-v0.1-fp16",
     "name": "mistrallite:7b-v0.1-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "1 year ago",
+    "update_date": "2024-08-07",
     "context_window": "32K",
-    "size_str": "14GB"
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
   }
 }

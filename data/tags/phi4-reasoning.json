@@ -1,62 +1,80 @@
 {
   "47e2630ccbcd": {
-    "href": "/library/phi4-reasoning:latest",
+    "href": "https://ollama.com/library/phi4-reasoning:latest",
     "name": "phi4-reasoning:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "11GB"
+    "context_window_num": 32000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "f0ad3edce8e4": {
-    "href": "/library/phi4-reasoning:plus",
+    "href": "https://ollama.com/library/phi4-reasoning:plus",
     "name": "phi4-reasoning:plus",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "11GB"
+    "context_window_num": 32000,
+    "size_str": "11GB",
+    "size_num": 11000000000
   },
   "ecd8f64ff877": {
-    "href": "/library/phi4-reasoning:14b-plus-q8_0",
+    "href": "https://ollama.com/library/phi4-reasoning:14b-plus-q8_0",
     "name": "phi4-reasoning:14b-plus-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "17GB"
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "561e2e2df29e": {
-    "href": "/library/phi4-reasoning:14b-plus-fp16",
+    "href": "https://ollama.com/library/phi4-reasoning:14b-plus-fp16",
     "name": "phi4-reasoning:14b-plus-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "29GB"
+    "context_window_num": 32000,
+    "size_str": "29GB",
+    "size_num": 29000000000
   },
   "30b78bf47222": {
-    "href": "/library/phi4-reasoning:14b-q8_0",
+    "href": "https://ollama.com/library/phi4-reasoning:14b-q8_0",
     "name": "phi4-reasoning:14b-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "17GB"
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
   },
   "d990c3364a6c": {
-    "href": "/library/phi4-reasoning:14b-fp16",
+    "href": "https://ollama.com/library/phi4-reasoning:14b-fp16",
     "name": "phi4-reasoning:14b-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "3 months ago",
+    "update_date": "2025-05-07",
     "context_window": "32K",
-    "size_str": "29GB"
+    "context_window_num": 32000,
+    "size_str": "29GB",
+    "size_num": 29000000000
   }
 }

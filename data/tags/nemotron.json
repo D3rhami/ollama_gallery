@@ -1,152 +1,197 @@
 {
   "2262f047a28a": {
-    "href": "/library/nemotron:latest",
+    "href": "https://ollama.com/library/nemotron:latest",
     "name": "nemotron:latest",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "43GB"
+    "context_window_num": 128000,
+    "size_str": "43GB",
+    "size_num": 43000000000
   },
   "f4743c4c6e52": {
-    "href": "/library/nemotron:70b-instruct-q2_K",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q2_K",
     "name": "nemotron:70b-instruct-q2_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "26GB"
+    "context_window_num": 128000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   },
   "49258a4a766a": {
-    "href": "/library/nemotron:70b-instruct-q3_K_S",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q3_K_S",
     "name": "nemotron:70b-instruct-q3_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "31GB"
+    "context_window_num": 128000,
+    "size_str": "31GB",
+    "size_num": 31000000000
   },
   "a0a786c3dc39": {
-    "href": "/library/nemotron:70b-instruct-q3_K_M",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q3_K_M",
     "name": "nemotron:70b-instruct-q3_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "34GB"
+    "context_window_num": 128000,
+    "size_str": "34GB",
+    "size_num": 34000000000
   },
   "a6c94d07d7c9": {
-    "href": "/library/nemotron:70b-instruct-q3_K_L",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q3_K_L",
     "name": "nemotron:70b-instruct-q3_K_L",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "37GB"
+    "context_window_num": 128000,
+    "size_str": "37GB",
+    "size_num": 37000000000
   },
   "aade1b26eba3": {
-    "href": "/library/nemotron:70b-instruct-q4_0",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q4_0",
     "name": "nemotron:70b-instruct-q4_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "40GB"
+    "context_window_num": 128000,
+    "size_str": "40GB",
+    "size_num": 40000000000
   },
   "c463f99d4c5e": {
-    "href": "/library/nemotron:70b-instruct-q4_1",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q4_1",
     "name": "nemotron:70b-instruct-q4_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "44GB"
+    "context_window_num": 128000,
+    "size_str": "44GB",
+    "size_num": 44000000000
   },
   "0e32f30ad742": {
-    "href": "/library/nemotron:70b-instruct-q4_K_S",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q4_K_S",
     "name": "nemotron:70b-instruct-q4_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "40GB"
+    "context_window_num": 128000,
+    "size_str": "40GB",
+    "size_num": 40000000000
   },
   "4c83a56211a0": {
-    "href": "/library/nemotron:70b-instruct-q5_0",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q5_0",
     "name": "nemotron:70b-instruct-q5_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "49GB"
+    "context_window_num": 128000,
+    "size_str": "49GB",
+    "size_num": 49000000000
   },
   "32ce9fe7477b": {
-    "href": "/library/nemotron:70b-instruct-q5_1",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q5_1",
     "name": "nemotron:70b-instruct-q5_1",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "53GB"
+    "context_window_num": 128000,
+    "size_str": "53GB",
+    "size_num": 53000000000
   },
   "c5dfebb28f5f": {
-    "href": "/library/nemotron:70b-instruct-q5_K_S",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q5_K_S",
     "name": "nemotron:70b-instruct-q5_K_S",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "49GB"
+    "context_window_num": 128000,
+    "size_str": "49GB",
+    "size_num": 49000000000
   },
   "def2cefbe818": {
-    "href": "/library/nemotron:70b-instruct-q5_K_M",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q5_K_M",
     "name": "nemotron:70b-instruct-q5_K_M",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "50GB"
+    "context_window_num": 128000,
+    "size_str": "50GB",
+    "size_num": 50000000000
   },
   "8d12c48f836a": {
-    "href": "/library/nemotron:70b-instruct-q6_K",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q6_K",
     "name": "nemotron:70b-instruct-q6_K",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "58GB"
+    "context_window_num": 128000,
+    "size_str": "58GB",
+    "size_num": 58000000000
   },
   "8865b9ab3285": {
-    "href": "/library/nemotron:70b-instruct-q8_0",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-q8_0",
     "name": "nemotron:70b-instruct-q8_0",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "75GB"
+    "context_window_num": 128000,
+    "size_str": "75GB",
+    "size_num": 75000000000
   },
   "e02a46ff1109": {
-    "href": "/library/nemotron:70b-instruct-fp16",
+    "href": "https://ollama.com/library/nemotron:70b-instruct-fp16",
     "name": "nemotron:70b-instruct-fp16",
     "input_types": [
       "Text"
     ],
     "updated_str": "9 months ago",
+    "update_date": "2024-11-07",
     "context_window": "128K",
-    "size_str": "141GB"
+    "context_window_num": 128000,
+    "size_str": "141GB",
+    "size_num": 141000000000
   }
 }

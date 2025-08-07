@@ -1,35 +1,44 @@
 {
   "b9aaf0c2586a": {
-    "href": "/library/mistral-small3.1:latest",
+    "href": "https://ollama.com/library/mistral-small3.1:latest",
     "name": "mistral-small3.1:latest",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "128K",
-    "size_str": "15GB"
+    "context_window_num": 128000,
+    "size_str": "15GB",
+    "size_num": 15000000000
   },
   "79252b8a3eb5": {
-    "href": "/library/mistral-small3.1:24b-instruct-2503-q8_0",
+    "href": "https://ollama.com/library/mistral-small3.1:24b-instruct-2503-q8_0",
     "name": "mistral-small3.1:24b-instruct-2503-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "128K",
-    "size_str": "26GB"
+    "context_window_num": 128000,
+    "size_str": "26GB",
+    "size_num": 26000000000
   },
   "5b05d65a969a": {
-    "href": "/library/mistral-small3.1:24b-instruct-2503-fp16",
+    "href": "https://ollama.com/library/mistral-small3.1:24b-instruct-2503-fp16",
     "name": "mistral-small3.1:24b-instruct-2503-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
     "updated_str": "4 months ago",
+    "update_date": "2025-04-07",
     "context_window": "128K",
-    "size_str": "48GB"
+    "context_window_num": 128000,
+    "size_str": "48GB",
+    "size_num": 48000000000
   }
 }
