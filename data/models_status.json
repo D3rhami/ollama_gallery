@@ -1,8 +1,8 @@
 {
-  "total_count": 177,
+  "total_count": 179,
   "success": true,
   "error": 0,
-  "data_updated": "2025-08-07T15:19:23.439612",
+  "data_updated": "2025-09-14T13:35:24.247314",
   "cap_list": [
     "embedding",
     "thinking",
@@ -49,10 +49,12 @@
     "235b",
     "236b",
     "24b",
+    "270m",
     "278m",
     "27b",
     "2b",
     "3.8b",
+    "300m",
     "30b",
     "30m",
     "32b",
@@ -65,6 +67,7 @@
     "3b",
     "405b",
     "40b",
+    "480b",
     "4b",
     "567m",
     "568m",
@@ -84,5 +87,5 @@
     "e2b",
     "e4b"
   ],
-  "processing_time": "2.59 seconds"
+  "processing_time": "2.95 seconds"
 }
