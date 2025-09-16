@@ -226,7 +226,7 @@ def main():
             if prev_date:
                 try:
                     prev_comp_date = (
-                            datetime.strptime(prev_date, '%Y-%m-%d') - timedelta(days=102)).date().isoformat()#todo fix to 1
+                            datetime.strptime(prev_date, '%Y-%m-%d') - timedelta(days=101)).date().isoformat()#todo fix to 1
                 except:
                     prev_comp_date = prev_date
         except:
