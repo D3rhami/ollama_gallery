@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded',()=>{
                     <div class="content-section">
                         <div class="ollama-info">
                             <div class="ollama-header">
-                                <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250916T045300Z&X-Amz-Expires=300&X-Amz-Signature=196444cbc2082129718f7e8e8ec158180ba33b7d982730d933d3a4431238cabe&X-Amz-SignedHeaders=host" alt="Ollama Logo" class="ollama-logo">
+                                <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/3325447/254932576-0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250916T045300Z&X-Amz-Expires=300&X-Amz-Signature=196444cbc2082129718f7e8e8ec158180ba33b7d982730d933d3a4431238cabe&X-Amz-SignedHeaders=host" alt="Ollama Logo" class="ollama-logo" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/ollama_logo.png';">
                                 <div class="ollama-title">
                                     <h2>Ollama</h2>
                                     <p>Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.</p>
