@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          persist-credentials: false  # important to allow using PAT for push
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -33,19 +33,19 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python scrape_ollama.py
 
-      - name: Ensure remote uses token
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-
-      - name: Commit and push changes
+      - name: Configure Git to use PAT
+        env:
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/${{ github.repository }}.git
+
+      - name: Commit and push changes
+        run: |
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "✨ Data update at $(date -u '+%Y-%m-%d')"
             git push
           else
             echo "No changes to commit"
-          fi
-
