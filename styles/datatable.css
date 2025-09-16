@@ -1,0 +1,423 @@
+/* DataTable specific styles */
+.dataTables_wrapper {
+    background-color: var(--color-background-primary);
+    color: var(--color-text-primary);
+    overflow: visible !important; /* Allow tooltips to appear outside */
+    position: relative;
+}
+
+.dataTables_length,
+.dataTables_info,
+.dataTables_paginate {
+    color: var(--color-text-primary);
+}
+
+.dataTables_length select,
+.dataTables_filter input {
+    background-color: var(--color-background-secondary);
+    color: var(--color-text-primary);
+    border-color: var(--color-border-default);
+}
+
+.dataTables_scroll {
+    background-color: var(--color-background-primary);
+    overflow: visible !important; /* Allow tooltips to appear outside */
+}
+
+.dataTables_scrollHead {
+    background-color: var(--color-background-secondary);
+    overflow: visible !important; /* Allow tooltips to appear outside */
+}
+
+.dataTables_scrollBody {
+    background-color: var(--color-background-primary);
+    overflow: visible !important; /* Allow tooltips to appear outside */
+}
+
+.dataTables_scrollFoot {
+    background-color: var(--color-background-secondary);
+    overflow: visible !important; /* Allow tooltips to appear outside */
+}
+
+/* Ensure all DataTable containers allow overflow */
+.dataTables_wrapper * {
+    overflow: visible !important;
+}
+
+.dataTables_wrapper .dataTables_scrollHead,
+.dataTables_wrapper .dataTables_scrollBody,
+.dataTables_wrapper .dataTables_scrollFoot {
+    overflow: visible !important;
+}
+
+/* Table container specific overflow settings */
+.table-scroll-container {
+    overflow: visible !important;
+}
+
+.file-input-container {
+    overflow: visible !important;
+}
+
+.table tfoot th {
+    background-color: var(--color-background-secondary);
+    color: var(--color-text-primary);
+    border-color: var(--color-border-default);
+}
+
+.table,
+.table-bordered,
+.table-striped {
+    background-color: var(--color-background-primary);
+    color: var(--color-text-primary);
+}
+
+.table-bordered {
+    border-color: var(--color-border-default);
+}
+
+.table-bordered th,
+.table-bordered td {
+    border-color: var(--color-border-default);
+}
+
+.table-responsive {
+    background-color: var(--color-background-primary);
+    overflow: visible; /* Allow tooltips to appear outside */
+}
+
+#models-table-container {
+    background-color: var(--color-background-primary);
+    overflow: visible; /* Allow tooltips to appear outside */
+}
+
+#tags-table-container {
+    background-color: var(--color-background-primary);
+    overflow: visible; /* Allow tooltips to appear outside */
+}
+
+.table * {
+    border-color: var(--color-border-default);
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background-color: var(--color-background-secondary);
+}
+
+::-webkit-scrollbar-track {
+    background: var(--color-background-secondary);
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--color-border-default);
+    border-radius: 6px;
+    border: 2px solid var(--color-background-secondary);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--color-background-tertiary);
+}
+
+::-webkit-scrollbar-corner {
+    background: var(--color-background-secondary);
+}
+
+body {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-border-default) var(--color-background-secondary);
+}
+
+.dataTables_scrollBody::-webkit-scrollbar {
+    height: 12px;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-track {
+    background: var(--color-background-secondary);
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-thumb {
+    background: var(--color-border-default);
+    border-radius: 6px;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-thumb:hover {
+    background: var(--color-background-tertiary);
+}
+
+/* Bottom elements layout */
+.bottom-elements {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 0;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.bottom-info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex: 1;
+    min-width: 200px;
+    text-align: left;
+}
+
+.bottom-pagination {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+    min-width: 200px;
+}
+
+.dt-info {
+    white-space: nowrap;
+    text-align: center;
+    margin: 0;
+    padding: 5px 0;
+}
+
+.dt-paging {
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin: 0;
+    padding: 5px 0;
+}
+
+.dt-paging .page-link {
+    margin: 0 2px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.dt-paging .page-item.active .page-link {
+    background-color: var(--color-background-tertiary);
+    border-color: var(--color-border-default);
+    color: var(--color-text-primary);
+}
+
+.dt-paging .page-link:hover {
+    background-color: var(--color-background-secondary);
+    border-color: var(--color-border-default);
+    color: var(--color-text-primary);
+}
+
+.dataTables_wrapper .row:has(.dt-info) {
+    display: contents;
+}
+
+.dataTables_wrapper .bottom-info,
+.dataTables_wrapper .bottom-pagination {
+    clear: both;
+    width: 100%;
+    display: block;
+}
+
+.dataTables_wrapper .bottom-elements {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+    padding: 10px 0 !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+}
+
+.dataTables_wrapper .bottom-elements .dt-info {
+    flex: 1 !important;
+    min-width: 200px !important;
+    text-align: left !important;
+}
+
+.dataTables_wrapper .bottom-elements .dt-paging {
+    flex: 1 !important;
+    min-width: 200px !important;
+    text-align: right !important;
+}
+
+@media (max-width: 768px) {
+    .dataTables_wrapper .bottom-elements {
+        flex-direction: column !important;
+        gap: 15px !important;
+    }
+    
+    .dataTables_wrapper .bottom-elements .dt-info,
+    .dataTables_wrapper .bottom-elements .dt-paging {
+        flex: none !important;
+        min-width: auto !important;
+        text-align: center !important;
+        width: 100% !important;
+    }
+}
+
+/* Hide default DataTable filter */
+.dataTables_filter {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    opacity: 0 !important;
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+#models-table_filter,
+.dataTables_wrapper .dataTables_filter input {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    opacity: 0 !important;
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+/* Search input styles */
+.search-input {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.search-input.search-error {
+    box-shadow: 0 0 0 2px #d63031 !important;
+    background-color: transparent !important;
+    color: #d63031 !important;
+    font-weight: bold !important;
+}
+
+.search-input.search-error::placeholder {
+    color: #d63031 !important;
+    font-weight: bold !important;
+}
+
+/* Highlight styles */
+mark.highlight {
+    background-color: #FF7F50 !important;
+    color: #000 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 2px !important;
+}
+
+mark {
+    display: inline !important;
+    line-height: inherit !important;
+}
+
+/* Table header styles */
+.dataTables_wrapper .table thead th {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    max-width: 200px !important;
+    padding: 10px !important;
+    vertical-align: middle !important;
+    text-align: center !important;
+    height: 50px !important;
+    font-weight: 600 !important;
+}
+
+#models-table thead th {
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-weight: 600 !important;
+}
+
+/* Sorting styles */
+.dataTables_wrapper .sorting,
+.dataTables_wrapper .sorting_asc,
+.dataTables_wrapper .sorting_desc {
+    position: relative !important;
+    padding-right: 20px !important;
+}
+
+.dataTables_wrapper .sorting::after,
+.dataTables_wrapper .sorting_asc::after,
+.dataTables_wrapper .sorting_desc::after {
+    position: absolute !important;
+    top: 50% !important;
+    right: 5px !important;
+    transform: translateY(-50%) !important;
+}
+
+/* Table cell alignment */
+.table tbody td {
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-weight: 500 !important;
+}
+
+.table thead th {
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-weight: 600 !important;
+}
+
+/* Specific column alignments */
+#models-table tbody td[data-column="model"],
+#models-table thead th[data-column="model"] {
+    text-align: justify !important;
+    min-width: 160px !important;
+}
+
+#models-table tbody td[data-column="description"],
+#models-table thead th[data-column="description"] {
+    text-align: justify !important;
+    min-width: 260px !important;
+}
+
+/* URL link tooltip - Disabled CSS tooltip in favor of JavaScript */
+.url-link {
+    position: relative;
+    display: inline-block;
+}
+
+.url-link:hover::after {
+    display: none; /* Disabled CSS tooltip */
+}
+
+/* Model name copy functionality - Disabled CSS tooltip in favor of JavaScript */
+.model-name-copy {
+    position: relative;
+    display: inline-block;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.model-name-copy:hover {
+    color: var(--color-text-primary) !important;
+    text-decoration: underline !important;
+}
+
+.model-name-copy:hover::after {
+    display: none; /* Disabled CSS tooltip */
+}
+
+/* Tooltip base styles for JavaScript-based tooltips */
+.url-tooltip,
+.model-tooltip,
+.update-tooltip {
+    font-weight: bold !important;
+}
+
+/* Dark mode tooltip styles for JavaScript-based tooltips */
+body.dark-mode .url-tooltip,
+body.dark-mode .model-tooltip,
+body.dark-mode .update-tooltip {
+    background-color: rgba(45, 55, 72, 0.95) !important;
+    color: #ffffff !important;
+} 

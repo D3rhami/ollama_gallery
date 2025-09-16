@@ -1,0 +1,152 @@
+.footer_c1 {
+    background-color: var(--color-background-secondary);
+    border-top: var(--border-thin) var(--color-border-light);
+}
+
+.footer_c2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 10px 20px;
+}
+
+.footer_desc {
+    min-width: 250px;
+    flex: 1;
+}
+
+.footer_desc p {
+    color: var(--color-neutral-gray700);
+    line-height: var(--line-height-relaxed);
+    font-size: var(--font-size-sm);
+    text-align: justify;
+    padding: 10px 20px;
+}
+
+.footer_links { 
+    width: 390px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.footer_links a {
+    color: var(--color-neutral-gray700);
+    text-decoration: none;
+    font-size: var(--font-size-base);
+    font-weight: var(--font-weight-medium);
+    display: grid;
+    grid-template-columns: 20px 1fr;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer_links a:hover {
+    color: var(--color-primary-500);
+}
+
+.footer_links a:hover span {
+    text-decoration: underline;
+}
+
+.footer_links i {
+    color: #333;
+    font-size: var(--font-size-base);
+}
+
+.footer_links h4 {
+    color: var(--color-neutral-gray900);
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-bold);
+    text-align: center;
+}
+
+.footer_links ul {
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+    text-align: left;
+}
+
+.footer_links ul li {
+    margin-bottom: 10px;
+}
+ 
+.footer-icon-blog i {
+    color: #FF6B35;
+}
+
+.footer-icon-download i {
+    color: #28A745;
+}
+
+.footer-icon-docs i {
+    color: #6C757D;
+}
+
+.footer-icon-github i {
+    color: #333;
+}
+
+.dark-mode .footer-icon-github i {
+    color: #F0F6FC;
+}
+
+.footer-icon-discord i {
+    color: #5865F2;
+}
+
+.footer-icon-twitter i {
+    color: #1DA1F2;
+}
+
+.footer-icon-meetups i {
+    color: #FF6B6B;
+}
+
+.footer-icon-search i {
+    color: #17A2B8;
+}
+
+.footer-icon-library i {
+    color: #6F42C1;
+}
+
+.footer-icon-signin i {
+    color: #FD7E14;
+}
+
+.footer-icon-readme i {
+    color: #20C997;
+}
+
+/* Responsive: Switch to column when there's not enough space for both in one row */
+@media (max-width: 700px) {
+    .footer_c2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    .footer_desc {
+        min-width: auto;
+        width: 100%;
+        max-width: 500px;
+    }
+    
+    .footer_links {
+        width: 100%;
+        max-width: 500px;
+    }
+}
+
+.footer-bottom {
+    border-top: var(--border-thin) var(--color-border-light);
+    text-align: center;
+}
+
+.footer-bottom p {
+    color: var(--color-neutral-gray600);
+    font-size: var(--font-size-sm);
+} 

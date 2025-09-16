@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ollama Gallery</title>
+    <link rel="stylesheet" href="styles/base.css">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/footer.css">
+    <link rel="stylesheet" href="styles/search-bar.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.bootstrap5.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/colreorder/2.0.0/css/colReorder.bootstrap5.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.css">
+    <link rel="stylesheet" href="styles/datatable.css">
+    <link rel="stylesheet" href="styles/dark-mode.css">
+    <link rel="stylesheet" href="styles/loading-animations.css">
+    <link rel="stylesheet" href="styles/filters.css">
+    <link rel="stylesheet" href="styles/ribbon.css">
+    <link rel="stylesheet" href="styles/content.css">
+    <style>.main-content{padding-top:0!important}</style>
+</head>
+<body>
+    <header class="header-container" style="padding:5px 0">
+        <div class="banner">
+            <a href="index.html" style="display: block; cursor: pointer;">
+                <img src="assets/images/banner_light.png" alt="Header Banner">
+            </a>
+        </div>
+        <nav class="navigation flex justify-center">
+            <ul>
+                <li><a href="#" data-view="models" class="nav-link active">Models</a></li>
+                <li><a href="#" data-view="tags" class="nav-link">Tags</a></li>
+                <li><a href="#" data-view="about" class="nav-link">About Me</a></li>
+                <li><a href="#" data-view="apis" class="nav-link">APIs</a></li>
+                <li><a href="#" data-view="ollama" class="nav-link">Ollama</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions">
+            <div class="theme-toggle-container">
+                <button id="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="theme-toggle-track">
+                        <span class="theme-toggle-thumb"></span>
+                        <span class="theme-toggle-suncloud">
+                            <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                <defs>
+                                    <filter id="sun-shadow" x="-50%" y="-50%" width="200%" height="200%">
+                                        <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="rgba(0,0,0,0.3)"/>
+                                    </filter>
+                                </defs>
+                                <circle cx="16" cy="16" r="10" fill="#FFD600" filter="url(#sun-shadow)"/>
+                                <ellipse cx="22" cy="20" rx="6" ry="3" fill="#fff"/>
+                                <ellipse cx="8" cy="17" rx="4" ry="2" fill="#fff"/>
+                                <ellipse cx="26" cy="14" rx="3" ry="2" fill="#fff"/>
+                            </svg>
+                        </span>
+                        <span class="theme-toggle-moonstars">
+                            <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                <defs>
+                                    <filter id="moon-shadow" x="-50%" y="-50%" width="200%" height="200%">
+                                        <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="rgba(0,0,0,0.3)"/>
+                                    </filter>
+                                </defs>
+                                <circle cx="18" cy="16" r="10" fill="#90caf9" filter="url(#moon-shadow)"/>
+                                <circle cx="24" cy="12" r="1.5" fill="#fff"/>
+                                <circle cx="18" cy="22" r="1" fill="#fff"/>
+                                <circle cx="26" cy="20" r="0.7" fill="#fff"/>
+                            </svg>
+                        </span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </header>
+    <main class="main-content">
+        <div class="file-input-container" style="margin-top:0">
+            <div class="search-bar-container" style="display:flex">
+                <input type="text" class="search-input" placeholder="Search...">
+                <button class="search-button">Search</button>
+                <button class="filters-button" aria-label="Filters Hub"><i class="fas fa-wand-magic-sparkles"></i><span>Filters Hub</span></button>
+            </div>
+            <div class="filter-chips-ribbon" style="display:none"></div>
+            <!-- Dynamic Table Container -->
+            <div id="table-container">
+                <!-- Tables will be dynamically created here -->
+            </div>
+            <!-- Content Container for other pages -->
+            <div id="content-container" style="display:none">
+                <!-- Dynamic content will be loaded here -->
+            </div>
+        </div>
+    </main>
+    <footer class="footer_c1">
+        <div class="footer_c2">
+            <div class="footer_desc">
+                <p>This platform simplifies your interaction with Ollama models, offering a streamlined way to explore, sort, and filter a vast library of AI models. Our design focuses on efficiency, enabling you to quickly locate and utilize the specific models you need. My goal is to eliminate unnecessary complexities, offering a clear and straightforward path to the Ollama models you need. This ensures a more focused and productive experience, freeing you to concentrate on your core objectives.</p>
+            </div>
+            <div class="footer_links">
+                <div>
+                    <h4>Community</h4>
+                    <ul>
+                        <li><a class="footer-icon-blog" href="https://ollama.com/blog"><i class="fas fa-blog"></i><span>Blog</span></a></li>
+                        <li><a class="footer-icon-download" href="https://ollama.com/download"><i class="fas fa-download"></i><span>Download</span></a></li>
+                        <li><a class="footer-icon-docs" href="https://github.com/ollama/ollama/tree/main/docs"><i class="fas fa-file-alt"></i><span>Docs</span></a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Connect</h4>
+                    <ul>
+                        <li><a class="footer-icon-github" href="https://github.com/ollama/ollama"><i class="fab fa-github"></i><span>GitHub</span></a></li>
+                        <li><a class="footer-icon-discord" href="https://discord.com/invite/ollama"><i class="fab fa-discord"></i><span>Discord</span></a></li>
+                        <li><a class="footer-icon-twitter" href="https://twitter.com/ollama"><i class="fab fa-twitter"></i><span>X (Twitter)</span></a></li>
+                        <li><a class="footer-icon-meetups" href="https://lu.ma/ollama"><i class="fas fa-users"></i><span>Meetups</span></a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Ollama</h4>
+                    <ul>
+                        <li><a class="footer-icon-search" href="https://ollama.com/search"><i class="fas fa-search"></i><span>Search</span></a></li>
+                        <li><a class="footer-icon-library" href="https://ollama.com/library"><i class="fas fa-book"></i><span>Library</span></a></li>
+                        <li><a class="footer-icon-signin" href="https://ollama.com/signin"><i class="fas fa-sign-in-alt"></i><span>Sign In</span></a></li>
+                        <li><a class="footer-icon-readme" href="https://raw.githubusercontent.com/ollama/ollama/refs/heads/main/README.md"><i class="fas fa-file-code"></i><span>README</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>I create this website with ❤️ and with the help of AI.</p>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>window.jQuery||document.write('<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"><\\/script>')</script>
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.8/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/colreorder/2.0.0/js/dataTables.colReorder.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.6/dist/purify.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-tomorrow.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-json.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-javascript.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-markup.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-bash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-python.min.js"></script>
+    <script src="scripts/utils.js"></script>
+    <script src="scripts/table-manager.js"></script>
+    <script src="scripts/ribbon-manager.js"></script>
+    <script src="scripts/filters_panel_cards/loading-wrapper.js"></script>
+    <script src="scripts/filters_panel_cards/capabilities-card.js"></script>
+    <script src="scripts/filters_panel_cards/parameters-card.js"></script>
+    <script src="scripts/filters_panel_cards/entries-per-page-card.js"></script>
+    <script src="scripts/filters_panel_cards/include-terms-card.js"></script>
+    <script src="scripts/filters_panel_cards/exclude-terms-card.js"></script>
+    <script src="scripts/filters_panel_cards/updated-range-base.js"></script>
+    <script src="scripts/filters_panel_cards/updated-range-models.js"></script>
+    <script src="scripts/filters_panel_cards/updated-range-tags.js"></script>
+    <script src="scripts/filters_panel_cards/input-types-card.js"></script>
+    <script src="scripts/filters_panel_cards/context-window-card.js"></script>
+    <script src="scripts/filters_panel_cards/size-card.js"></script>
+    <script src="scripts/filters-panel.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/loading-animation.js"></script>
+    <script src="scripts/search.js"></script>
+    <script src="scripts/theme-toggle.js"></script>
+    <script src="scripts/table-utils.js"></script>
+    <script src="scripts/model-table.js"></script>
+    <script src="scripts/tags-table.js"></script>
+    <div class="filters-modal" aria-hidden="true">
+        <div class="filters-modal-inner">
+            <div class="filters-header">
+                <div class="filters-title">Filters Hub Table: <span id="table-name">Models</span></div>
+                <div class="filters-actions">
+                    <button class="filters-expand" aria-label="Expand"><i class="fas fa-up-right-and-down-left-from-center"></i></button>
+                    <button class="filters-close" aria-label="Close"><i class="fas fa-times"></i></button>
+                </div>
+            </div>
+            <div class="filters-content"> 
+                <div class="filter-section include-terms-card"></div>
+                <div class="filter-section exclude-terms-card"></div>
+                <div class="filter-section capabilities-card"></div>
+                <div class="filter-section parameters-card"></div>
+                <div class="filter-section entries-per-page-card"></div>
+                <div class="filter-section updated-range-card"></div>
+            </div>
+            <div class="filters-footer">
+                <button class="filters-clear">Clear</button>
+                <button class="filters-apply">Apply</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 

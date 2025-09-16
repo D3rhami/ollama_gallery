@@ -1,0 +1,255 @@
+/* Dark mode color variables */
+:root {
+    --color-background-primary: #ffffff;
+    --color-background-secondary: #f8f9fa;
+    --color-background-tertiary: #e9ecef;
+    --color-text-primary: #212529;
+    --color-text-secondary: #6c757d;
+    --color-border-light: #dee2e6;
+    --color-border-default: #ced4da;
+}
+
+body.dark-mode {
+    --color-background-primary: #1a1a1a;
+    --color-background-secondary: #2d2d2d;
+    --color-background-tertiary: #404040;
+    --color-text-primary: #ffffff;
+    --color-text-secondary: #b0b0b0;
+    --color-border-light: #404040;
+    --color-border-default: #555555;
+}
+
+/* Dark mode specific styles */
+body.dark-mode .table {
+    background-color: #1f2631 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .table thead th {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .table tbody td {
+    background-color: #1f2631 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #1f2631 !important;
+}
+
+body.dark-mode .table-striped tbody tr:nth-of-type(even) {
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode .table-hover tbody tr:hover {
+    background-color: #4a5568 !important;
+}
+
+body.dark-mode .search-input {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+    font-weight: 600 !important;
+}
+
+body.dark-mode .search-input::placeholder {
+    color: #a0aec0 !important;
+}
+
+body.dark-mode .search-button {
+    background-color: #4a5568 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .dataTables_wrapper {
+    background-color: #1f2631 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .dataTables_length,
+body.dark-mode .dataTables_info,
+body.dark-mode .dataTables_paginate {
+    color: #ffffff !important;
+}
+
+body.dark-mode .dataTables_length select,
+body.dark-mode .dataTables_filter input {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .page-link {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .page-link:hover {
+    background-color: #4a5568 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .page-item.active .page-link {
+    background-color: #4a5568 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .table tfoot th {
+    background-color: #2d3748 !important;
+    color: #ffffff !important;
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .dataTables_scroll {
+    background-color: #1f2631 !important;
+}
+
+body.dark-mode .dataTables_scrollHead {
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode .dataTables_scrollBody {
+    background-color: #1f2631 !important;
+}
+
+body.dark-mode .dataTables_scrollFoot {
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode .table,
+body.dark-mode .table-bordered,
+body.dark-mode .table-striped {
+    background-color: #1f2631 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .table-bordered {
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .table-bordered th,
+body.dark-mode .table-bordered td {
+    border-color: #4a5568 !important;
+}
+
+body.dark-mode .dataTables_wrapper {
+    background-color: #1f2631 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .table-responsive {
+    background-color: #1f2631 !important;
+}
+
+body.dark-mode #models-table-container {
+    background-color: #1f2631 !important;
+}
+
+body.dark-mode .table * {
+    background-color: inherit !important;
+}
+
+/* Dark mode scrollbar styles */
+body.dark-mode ::-webkit-scrollbar {
+    width: 12px !important;
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode ::-webkit-scrollbar-track {
+    background-color: #2d3748 !important;
+    border-radius: 6px !important;
+}
+
+body.dark-mode ::-webkit-scrollbar-thumb {
+    background-color: #4a5568 !important;
+    border-radius: 6px !important;
+    border: 2px solid #2d3748 !important;
+}
+
+body.dark-mode ::-webkit-scrollbar-thumb:hover {
+    background-color: #718096 !important;
+}
+
+body.dark-mode ::-webkit-scrollbar-corner {
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode {
+    scrollbar-width: thin !important;
+    scrollbar-color: #4a5568 #2d3748 !important;
+}
+
+body.dark-mode .dataTables_scrollBody::-webkit-scrollbar {
+    height: 12px !important;
+}
+
+body.dark-mode .dataTables_scrollBody::-webkit-scrollbar-track {
+    background-color: #2d3748 !important;
+}
+
+body.dark-mode .dataTables_scrollBody::-webkit-scrollbar-thumb {
+    background-color: #4a5568 !important;
+    border-radius: 6px !important;
+}
+
+body.dark-mode .dataTables_scrollBody::-webkit-scrollbar-thumb:hover {
+    background-color: #718096 !important;
+}
+
+/* Dark mode search error styles */
+body.dark-mode .search-input.search-error {
+    box-shadow: 0 0 0 2px #FF7F50 !important;
+    background-color: transparent !important;
+    color: #FF7F50 !important;
+    font-weight: bold !important;
+}
+
+body.dark-mode .search-input.search-error::placeholder {
+    color: #FF7F50 !important;
+    font-weight: bold !important;
+}
+
+/* Dark mode URL link tooltip */
+body.dark-mode .url-link:hover::after {
+    background-color: rgba(45, 55, 72, 0.95);
+    color: #ffffff;
+}
+
+/* Dark mode theme toggle */
+body.dark-mode .theme-toggle-thumb {
+    left: 42px !important;
+    transform: none !important;
+}
+
+body.dark-mode .theme-toggle-suncloud {
+    opacity: 0;
+}
+
+body.dark-mode .theme-toggle-moonstars {
+    opacity: 1;
+}
+
+/* Dark mode highlight styles - keep same colors as light mode */
+body.dark-mode mark.highlight {
+    background-color: #FF7F50 !important;
+    color: #000 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 2px !important;
+}
+
+body.dark-mode mark {
+    display: inline !important;
+    line-height: inherit !important;
+}
+   
+
+body.dark-mode .table .search-highlight-cell {
+    background-color: rgba(181, 230, 29, 0.1) !important;
+} 

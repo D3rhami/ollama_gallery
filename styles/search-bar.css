@@ -1,0 +1,7 @@
+.search-bar-container{width:100%;min-width:60%;display:flex;justify-content:center;align-items:center;margin-top:var(--spacing-lg);padding:var(--spacing-md) 0;flex-wrap:nowrap;gap:8px}
+.search-bar-container .search-input{flex:1;min-width:10%;max-width:40%;padding:var(--spacing-md) var(--spacing-lg);border:var(--border-thin) var(--color-border-default);border-radius:var(--border-radius-lg);font-size:var(--font-size-base);transition:background-color 0.3s ease,color 0.3s ease;background-color:#ffffff;font-weight:600}
+.search-input.search-error{background-color:#ffcccc!important;color:#d63031!important;font-weight:600!important}
+.search-input.search-error::placeholder{color:#d63031!important;font-weight:600!important}
+.search-bar-container .search-button{background-color:var(--color-primary-500);color:var(--color-neutral-white);padding:var(--spacing-md) var(--spacing-lg);border-radius:var(--border-radius-lg);font-weight:var(--font-weight-medium);flex-shrink:0;white-space:nowrap}
+.search-bar-container .search-button:hover{background-color:var(--color-primary-900)}
+@media (max-width:768px){.search-bar-container{margin-top:var(--spacing-xl)}.search-bar-container .search-input{width:70%}} 
