@@ -1,0 +1,16 @@
+{
+  "description": "A state-of-the-art 12B model with 128k context length, built by Mistral AI in collaboration with NVIDIA.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "12b"
+  ],
+  "pull_str": "2.6M",
+  "pull": 2600000,
+  "tag_count": "17",
+  "updated": "1 month ago",
+  "update_date": "2025-08-16",
+  "link": "https://ollama.com/library/mistral-nemo",
+  "popularity": 28
+}

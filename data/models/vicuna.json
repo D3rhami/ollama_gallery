@@ -1,0 +1,16 @@
+{
+  "description": "General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.",
+  "capabilities": [],
+  "parameters": [
+    "7b",
+    "13b",
+    "33b"
+  ],
+  "pull_str": "199.6K",
+  "pull": 199600,
+  "tag_count": "111",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/vicuna",
+  "popularity": 83
+}

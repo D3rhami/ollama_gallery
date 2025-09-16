@@ -1,0 +1,14 @@
+{
+  "description": "Fine-tuned Llama 2 model to answer medical questions based on an open source medical dataset.",
+  "capabilities": [],
+  "parameters": [
+    "7b"
+  ],
+  "pull_str": "74.4K",
+  "pull": 74400,
+  "tag_count": "17",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/medllama2",
+  "popularity": 144
+}

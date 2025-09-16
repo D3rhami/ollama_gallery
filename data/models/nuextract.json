@@ -1,0 +1,14 @@
+{
+  "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
+  "capabilities": [],
+  "parameters": [
+    "3.8b"
+  ],
+  "pull_str": "40.5K",
+  "pull": 40500,
+  "tag_count": "17",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/nuextract",
+  "popularity": 168
+}

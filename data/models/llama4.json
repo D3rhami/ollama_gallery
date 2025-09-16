@@ -1,0 +1,18 @@
+{
+  "description": "Meta's latest collection of multimodal models.",
+  "capabilities": [
+    "vision",
+    "tools"
+  ],
+  "parameters": [
+    "16x17b",
+    "128x17b"
+  ],
+  "pull_str": "672.6K",
+  "pull": 672600,
+  "tag_count": "11",
+  "updated": "3 months ago",
+  "update_date": "2025-06-16",
+  "link": "https://ollama.com/library/llama4",
+  "popularity": 47
+}

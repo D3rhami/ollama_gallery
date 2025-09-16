@@ -1,0 +1,20 @@
+{
+  "description": "A suite of text embedding models by Snowflake, optimized for performance.",
+  "capabilities": [
+    "embedding"
+  ],
+  "parameters": [
+    "22m",
+    "33m",
+    "110m",
+    "137m",
+    "335m"
+  ],
+  "pull_str": "865.6K",
+  "pull": 865600,
+  "tag_count": "16",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/snowflake-arctic-embed",
+  "popularity": 44
+}

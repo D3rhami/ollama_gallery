@@ -1,0 +1,16 @@
+{
+  "description": "ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.",
+  "capabilities": [],
+  "parameters": [
+    "2b",
+    "9b",
+    "27b"
+  ],
+  "pull_str": "55.7K",
+  "pull": 55700,
+  "tag_count": "49",
+  "updated": "11 months ago",
+  "update_date": "2024-10-16",
+  "link": "https://ollama.com/library/shieldgemma",
+  "popularity": 151
+}

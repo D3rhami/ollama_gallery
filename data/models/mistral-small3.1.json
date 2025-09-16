@@ -1,0 +1,17 @@
+{
+  "description": "Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.",
+  "capabilities": [
+    "vision",
+    "tools"
+  ],
+  "parameters": [
+    "24b"
+  ],
+  "pull_str": "269.7K",
+  "pull": 269700,
+  "tag_count": "5",
+  "updated": "5 months ago",
+  "update_date": "2025-04-16",
+  "link": "https://ollama.com/library/mistral-small3.1",
+  "popularity": 76
+}

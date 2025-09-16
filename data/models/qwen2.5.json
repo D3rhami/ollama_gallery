@@ -1,0 +1,22 @@
+{
+  "description": "Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "0.5b",
+    "1.5b",
+    "3b",
+    "7b",
+    "14b",
+    "32b",
+    "72b"
+  ],
+  "pull_str": "13.8M",
+  "pull": 13800000,
+  "tag_count": "133",
+  "updated": "12 months ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/qwen2.5",
+  "popularity": 11
+}

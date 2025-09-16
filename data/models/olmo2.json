@@ -1,0 +1,15 @@
+{
+  "description": "OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.",
+  "capabilities": [],
+  "parameters": [
+    "7b",
+    "13b"
+  ],
+  "pull_str": "2.7M",
+  "pull": 2700000,
+  "tag_count": "9",
+  "updated": "8 months ago",
+  "update_date": "2025-01-16",
+  "link": "https://ollama.com/library/olmo2",
+  "popularity": 27
+}

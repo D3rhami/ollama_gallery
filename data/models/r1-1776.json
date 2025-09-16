@@ -1,0 +1,15 @@
+{
+  "description": "A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.",
+  "capabilities": [],
+  "parameters": [
+    "70b",
+    "671b"
+  ],
+  "pull_str": "106.9K",
+  "pull": 106900,
+  "tag_count": "9",
+  "updated": "6 months ago",
+  "update_date": "2025-03-16",
+  "link": "https://ollama.com/library/r1-1776",
+  "popularity": 120
+}

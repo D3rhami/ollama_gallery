@@ -1,0 +1,16 @@
+{
+  "description": "Command R is a Large Language Model optimized for conversational interaction and long context tasks.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "35b"
+  ],
+  "pull_str": "343.3K",
+  "pull": 343300,
+  "tag_count": "32",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/command-r",
+  "popularity": 67
+}

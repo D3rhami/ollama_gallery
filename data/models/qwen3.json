@@ -1,0 +1,24 @@
+{
+  "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "0.6b",
+    "1.7b",
+    "4b",
+    "8b",
+    "14b",
+    "30b",
+    "32b",
+    "235b"
+  ],
+  "pull_str": "8.2M",
+  "pull": 8200000,
+  "tag_count": "56",
+  "updated": "1 month ago",
+  "update_date": "2025-08-16",
+  "link": "https://ollama.com/library/qwen3",
+  "popularity": 5
+}

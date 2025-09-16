@@ -1,0 +1,17 @@
+{
+  "description": "StarCoder is a code generation model trained on 80+ programming languages.",
+  "capabilities": [],
+  "parameters": [
+    "1b",
+    "3b",
+    "7b",
+    "15b"
+  ],
+  "pull_str": "221.3K",
+  "pull": 221300,
+  "tag_count": "100",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/starcoder",
+  "popularity": 81
+}

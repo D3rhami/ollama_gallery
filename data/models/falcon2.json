@@ -1,0 +1,14 @@
+{
+  "description": "Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.",
+  "capabilities": [],
+  "parameters": [
+    "11b"
+  ],
+  "pull_str": "45.9K",
+  "pull": 45900,
+  "tag_count": "17",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/falcon2",
+  "popularity": 163
+}

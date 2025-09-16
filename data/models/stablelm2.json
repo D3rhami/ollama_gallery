@@ -1,0 +1,15 @@
+{
+  "description": "Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.",
+  "capabilities": [],
+  "parameters": [
+    "1.6b",
+    "12b"
+  ],
+  "pull_str": "128.2K",
+  "pull": 128200,
+  "tag_count": "84",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/stablelm2",
+  "popularity": 109
+}

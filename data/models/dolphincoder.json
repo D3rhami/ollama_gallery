@@ -1,0 +1,15 @@
+{
+  "description": "A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.",
+  "capabilities": [],
+  "parameters": [
+    "7b",
+    "15b"
+  ],
+  "pull_str": "106.8K",
+  "pull": 106800,
+  "tag_count": "35",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/dolphincoder",
+  "popularity": 121
+}

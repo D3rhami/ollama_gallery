@@ -1,0 +1,16 @@
+{
+  "description": "EmbeddingGemma is a 300M parameter embedding model from Google.",
+  "capabilities": [
+    "embedding"
+  ],
+  "parameters": [
+    "300m"
+  ],
+  "pull_str": "24.1K",
+  "pull": 24100,
+  "tag_count": "5",
+  "updated": "1 week ago",
+  "update_date": "2025-09-09",
+  "link": "https://ollama.com/library/embeddinggemma",
+  "popularity": 4
+}

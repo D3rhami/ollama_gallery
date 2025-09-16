@@ -1,0 +1,16 @@
+{
+  "description": "A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.",
+  "capabilities": [],
+  "parameters": [
+    "7b",
+    "40b",
+    "180b"
+  ],
+  "pull_str": "159.5K",
+  "pull": 159500,
+  "tag_count": "38",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/falcon",
+  "popularity": 96
+}

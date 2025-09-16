@@ -1,0 +1,16 @@
+{
+  "description": "QwQ is the reasoning model of the Qwen series.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "32b"
+  ],
+  "pull_str": "1.6M",
+  "pull": 1600000,
+  "tag_count": "8",
+  "updated": "6 months ago",
+  "update_date": "2025-03-16",
+  "link": "https://ollama.com/library/qwq",
+  "popularity": 36
+}

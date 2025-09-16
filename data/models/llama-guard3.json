@@ -1,0 +1,15 @@
+{
+  "description": "Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.",
+  "capabilities": [],
+  "parameters": [
+    "1b",
+    "8b"
+  ],
+  "pull_str": "79.4K",
+  "pull": 79400,
+  "tag_count": "33",
+  "updated": "11 months ago",
+  "update_date": "2024-10-16",
+  "link": "https://ollama.com/library/llama-guard3",
+  "popularity": 141
+}

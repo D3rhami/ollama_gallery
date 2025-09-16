@@ -1,0 +1,16 @@
+{
+  "description": "Mistral Large 2 is Mistral's new flagship model that is significantly more capable in code generation, mathematics, and reasoning with 128k context window and support for dozens of languages.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "123b"
+  ],
+  "pull_str": "256.5K",
+  "pull": 256500,
+  "tag_count": "32",
+  "updated": "9 months ago",
+  "update_date": "2024-12-16",
+  "link": "https://ollama.com/library/mistral-large",
+  "popularity": 77
+}

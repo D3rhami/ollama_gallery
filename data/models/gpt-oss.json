@@ -1,0 +1,18 @@
+{
+  "description": "OpenAI’s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "20b",
+    "120b"
+  ],
+  "pull_str": "2.3M",
+  "pull": 2300000,
+  "tag_count": "3",
+  "updated": "1 month ago",
+  "update_date": "2025-08-16",
+  "link": "https://ollama.com/library/gpt-oss",
+  "popularity": 1
+}

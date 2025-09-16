@@ -1,0 +1,17 @@
+{
+  "description": "IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "2b",
+    "8b"
+  ],
+  "pull_str": "468.3K",
+  "pull": 468300,
+  "tag_count": "3",
+  "updated": "5 months ago",
+  "update_date": "2025-04-16",
+  "link": "https://ollama.com/library/granite3.3",
+  "popularity": 54
+}

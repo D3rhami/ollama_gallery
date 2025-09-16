@@ -1,0 +1,17 @@
+{
+  "description": "Meta's Llama 3.2 goes small with 1B and 3B models.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "1b",
+    "3b"
+  ],
+  "pull_str": "35M",
+  "pull": 35000000,
+  "tag_count": "63",
+  "updated": "11 months ago",
+  "update_date": "2024-10-16",
+  "link": "https://ollama.com/library/llama3.2",
+  "popularity": 9
+}

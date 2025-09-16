@@ -1,0 +1,14 @@
+{
+  "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
+  "capabilities": [],
+  "parameters": [
+    "1.5b"
+  ],
+  "pull_str": "333.3K",
+  "pull": 333300,
+  "tag_count": "5",
+  "updated": "7 months ago",
+  "update_date": "2025-02-16",
+  "link": "https://ollama.com/library/deepscaler",
+  "popularity": 69
+}

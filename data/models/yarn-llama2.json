@@ -1,0 +1,15 @@
+{
+  "description": "An extension of Llama 2 that supports a context of up to 128k tokens.",
+  "capabilities": [],
+  "parameters": [
+    "7b",
+    "13b"
+  ],
+  "pull_str": "91.2K",
+  "pull": 91200,
+  "tag_count": "67",
+  "updated": "1 year ago",
+  "update_date": "2024-09-16",
+  "link": "https://ollama.com/library/yarn-llama2",
+  "popularity": 135
+}

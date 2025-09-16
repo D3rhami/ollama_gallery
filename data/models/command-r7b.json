@@ -1,0 +1,16 @@
+{
+  "description": "The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "7b"
+  ],
+  "pull_str": "55.6K",
+  "pull": 55600,
+  "tag_count": "5",
+  "updated": "8 months ago",
+  "update_date": "2025-01-16",
+  "link": "https://ollama.com/library/command-r7b",
+  "popularity": 152
+}

@@ -1,0 +1,16 @@
+{
+  "description": "The 7B model released by Mistral AI, updated to version 0.3.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "7b"
+  ],
+  "pull_str": "19.2M",
+  "pull": 19200000,
+  "tag_count": "84",
+  "updated": "2 months ago",
+  "update_date": "2025-07-16",
+  "link": "https://ollama.com/library/mistral",
+  "popularity": 10
+}

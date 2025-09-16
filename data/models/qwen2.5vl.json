@@ -1,0 +1,19 @@
+{
+  "description": "Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.",
+  "capabilities": [
+    "vision"
+  ],
+  "parameters": [
+    "3b",
+    "7b",
+    "32b",
+    "72b"
+  ],
+  "pull_str": "581.3K",
+  "pull": 581300,
+  "tag_count": "17",
+  "updated": "3 months ago",
+  "update_date": "2025-06-16",
+  "link": "https://ollama.com/library/qwen2.5vl",
+  "popularity": 50
+}
