@@ -236,7 +236,7 @@ def main():
         if prev_comp_date and prev_success:
             filtered_models = {name: info for name, info in models_data.items() if
                                info.get('update_date') and info.get('update_date') >= prev_comp_date}
-        print(f"! prev data was {prev_comp_date} and f:{len(filtered_models)} m:{len(filtered_models)}")
+        print(f"! prev data was {prev_comp_date} and f:{len(filtered_models)} m:{len(models_data)}")
         all_tags_data, tags_data_status = get_all_tags_data(filtered_models or models_data)
         count_tags = {m: len(tags_info) for m, tags_info in all_tags_data.items()}
         models_data = {m: {**model_info, "tag_count": count_tags.get(m)} if count_tags.get(m, None) else model_info
