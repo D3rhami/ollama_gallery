@@ -109,7 +109,7 @@ def get_all_tags_data(models_data):
             "successful": successful,
             "success": True,
             "failed": failed,
-            "api_data_updated": datetime.now().isoformat(),
+            "api_data_updated": datetime.now().date().isoformat(),
             "processing_time": f"{time.time() - start_time:.2f} seconds"
     }
     return all_tags_data, tags_data_status
@@ -188,7 +188,7 @@ def get_models_info() -> Optional[Tuple[Dict, Dict]]:
             "total_count": total_count,
             "success": True,
             "error": error_count,
-            "api_data_updated": datetime.now().isoformat(),
+            "api_data_updated": datetime.now().date().isoformat(),
             "cap_list": sorted(list(all_capabilities)),
             "pars_list": sorted(list(all_parameters)),
             "processing_time": f"{time.time() - start_time:.2f} seconds"
@@ -219,7 +219,7 @@ def main():
             if resp.status_code == 200:
                 obj = resp.json()
                 prev_success = obj.get("success")
-                prev_date = str(obj.get("api_data_updated") or obj.get("data_updated")).split('T')[0]
+                prev_date = obj.get("api_data_updated") or obj.get("data_updated")
 
             if prev_date:
                 try:
@@ -235,11 +235,14 @@ def main():
             filtered_models = {name: info for name, info in models_data.items() if
                                info.get('update_date') and info.get('update_date') >= prev_comp_date}
 
+        all_tags_data, tags_data_status = get_all_tags_data(filtered_models)
+        count_tags = {m: len(tags_info) for m, tags_info in all_tags_data.items()}
+        filtered_models = {m: {**model_info, "tag_count": count_tags.get(m)} if count_tags.get(m, None) else model_info
+                           for m, model_info in filtered_models.items()}
+
         for model_name, model_info in filtered_models.items():
             file_name = model_name + '.json'
             save_json(os.path.join('data', 'models', file_name), model_info)
-
-        all_tags_data, tags_data_status = get_all_tags_data(filtered_models)
 
         for model_name, tags in all_tags_data.items():
             save_json(os.path.join('data', 'tags', f"{model_name}.json"), tags)
