@@ -2,7 +2,7 @@
 
 - 📑 Static JSON endpoints scraped daily from the Ollama Library and kept up to date via automation ✨.
 - 📦 Source: https://ollama.com/library
- 
+ ---
 ### 🏷️ All Tags
 * JSON mapping of tag → versions metadata for all tags.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags.json
@@ -24,7 +24,7 @@
   }
 }
 ```
-
+---
 ### 🔖 Specific Tag
 * Versions metadata for a single tag.
 - **Link pattern**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/{tag}.json
@@ -66,7 +66,7 @@
   }
 }
 ```
-
+---
 ### 📚 All Models
 * Aggregated index of models with latest metadata.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models.json
@@ -81,7 +81,7 @@
   }
 }
 ```
-
+---
 ### 🎯 Specific Model
 Metadata for a single model.
 - **Link pattern**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models/{model}.json
@@ -110,7 +110,7 @@ Metadata for a single model.
   "size_num": 14000000000
 }
 ```
-
+---
 ### 📊 Tags Status
 * Scrape status summary for tags.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags_status.json
@@ -124,7 +124,7 @@ Metadata for a single model.
   "processing_time": "27.02 seconds"
 }
 ```
-
+---
 ### 📊 Models Status
 * Scrape status summary for models, including capability and parameter lists.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models_status.json
