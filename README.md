@@ -1,12 +1,14 @@
-<div align="center" style="background:#fffce9;padding:16px;">
-  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner" width="960" />
+<div style="background:#fffce9;padding:2px;">
+  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner" style="height:210px;object-fit:cover;" />
 </div>
 
 🌌 Ollama Gallery — The Ultimate Community Models Explorer
 
 A fast, nice‑looking web app to discover, filter, sort, and explore the Ollama models and tags ecosystem with smooth tables and daily‑updated JSON APIs.
 
+- Website: (https://d3rhami.github.io/ollama_gallery/)
 ---
+
 
 ### ✨ Overview
 Ollama Gallery is a fast and friendly explorer for community models and tags. Data refreshes daily. A static JSON API is available. The UI is nice‑looking, with advanced filters, instant search, and dark mode to help you track models, tags, sizes, context windows, capabilities, and more.
@@ -69,19 +71,19 @@ Curated JSON is updated daily and consumable directly from GitHub raw URLs.
 - See: [API_DOC.md](API_DOC.md) — also rendered under the “APIs” tab in the site
 
 #### 🏷️ All Tags
-- Link: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags.json)
+- Link: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags.json`
 - Structure: a map of `tag → versions`, each version entry containing `input_types`, `updated_str`, `update_date`, `context_window(_num)`, `size(_num)`, and `href`.
 
 #### 🔖 Tag By Name
-- Pattern: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags/{tag}.json)
+- Pattern: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags/{tag}.json`
 - Keys: `href`, `name`, `input_types`, `updated_str`, `update_date`, `context_window(_num)`, `size(_num)`.
 
 #### 📚 All Models
-- Link: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models.json)
+- Link: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models.json`
 - Fields: `capabilities`, `parameters`, `pull(_str)`, `tag_count`, `updated(_date)`, `link`, `description`.
 
 #### 🎯 Model By Name
-- Pattern: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models/{model}.json)
+- Pattern: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models/{model}.json`
 - Use with tag data for richer joins (e.g., versions, sizes, context windows).
  
  
