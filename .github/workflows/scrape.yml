@@ -33,6 +33,10 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python scrape_ollama.py
 
+      - name: Ensure remote uses token
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
       - name: Commit and push changes
         run: |
           git config user.name github-actions

@@ -114,6 +114,8 @@ def get_all_tags_data(models_data):
             "api_data_updated": datetime.now().date().isoformat(),
             "processing_time": f"{time.time() - start_time:.2f} seconds"
     }
+    print(f"Total Tags: {len(all_tags_data)}  time:{time.time() - start_time}")
+
     return all_tags_data, tags_data_status
 
 
@@ -196,7 +198,7 @@ def get_models_info() -> Optional[Tuple[Dict, Dict]]:
             "processing_time": f"{time.time() - start_time:.2f} seconds"
     }
 
-    # print(f"Total models: {total_count}, Errors: {error_count} time:{time.time() - start_time}")
+    print(f"Total models: {total_count}, Errors: {error_count} time:{time.time() - start_time}")
     return models, status
 
 
@@ -206,7 +208,7 @@ def save_json(file_path: str, data) -> None:
 
 
 def main():
-    #start_time = time.time()
+    start_time = time.time()
     models_data, status = get_models_info()
     if models_data:
         prev_success = False
@@ -251,7 +253,7 @@ def main():
 
         save_json('data/tags.json', all_tags_data)
         save_json('data/tags_status.json', tags_data_status)
-    # print(f"Scraping completed in {time.time() - start_time:.2f} seconds")
+    print(f"Scraping completed in {time.time() - start_time:.2f} seconds")
 
 
 if __name__ == '__main__':
