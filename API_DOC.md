@@ -1,11 +1,11 @@
 ### 🗂️ API: Ollama Gallery JSON
 
 - 📑 Static JSON endpoints scraped daily from the Ollama Library and kept up to date via automation ✨.
-- 📦 Source: https://ollama.com/library
+- 📦 Source: `https://ollama.com/library`
  ---
 ### 🏷️ All Tags
 * JSON mapping of tag → versions metadata for all tags.
-- **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags.json
+- **Link**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags.json`
 - **Expected example** (truncated):
 ```json
 {
@@ -27,8 +27,8 @@
 ---
 ### 🔖 Specific Tag
 * Versions metadata for a single tag.
-- **Link pattern**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/{tag}.json
-- **Example**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/gpt-oss.json
+- **Link pattern**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/{tag}.json`
+- **Example**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/gpt-oss.json`
 - **Keys**:
   - `href`: source page URL of the tag or model variant.
   - `name`: full tag identifier, often `tag:variant`.
@@ -69,7 +69,7 @@
 ---
 ### 📚 All Models
 * Aggregated index of models with latest metadata.
-- **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models.json
+- **Link**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models.json`
 - **Expected example** (truncated):
 ```json
 {
@@ -84,8 +84,8 @@
 ---
 ### 🎯 Specific Model
 Metadata for a single model.
-- **Link pattern**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models/{model}.json
-- **Example**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models/gpt-oss.json
+- **Link pattern**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models/{model}.json`
+- **Example**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models/gpt-oss.json`
 - **Keys**:
   - `href`: source page URL of the specific model tag/variant.
   - `name`: model identifier, often `model:variant`.
@@ -113,7 +113,7 @@ Metadata for a single model.
 ---
 ### 📊 Tags Status
 * Scrape status summary for tags.
-- **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags_status.json
+- **Link**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags_status.json`
 - **Expected example**:
 ```json
 {
@@ -127,7 +127,7 @@ Metadata for a single model.
 ---
 ### 📊 Models Status
 * Scrape status summary for models, including capability and parameter lists.
-- **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models_status.json
+- **Link**: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models_status.json`
 - **Expected example** (truncated):
 ```json
 {

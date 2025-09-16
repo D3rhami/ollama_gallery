@@ -69,19 +69,19 @@ Curated JSON is updated daily and consumable directly from GitHub raw URLs.
 - See: [API_DOC.md](API_DOC.md) — also rendered under the “APIs” tab in the site
 
 #### 🏷️ All Tags
-- Link: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags.json)
+- Link: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags.json`
 - Structure: a map of `tag → versions`, each version entry containing `input_types`, `updated_str`, `update_date`, `context_window(_num)`, `size(_num)`, and `href`.
 
 #### 🔖 Tag By Name
-- Pattern: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags/{tag}.json)
+- Pattern: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/tags/{tag}.json`
 - Keys: `href`, `name`, `input_types`, `updated_str`, `update_date`, `context_window(_num)`, `size(_num)`.
 
 #### 📚 All Models
-- Link: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models.json)
+- Link: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models.json`
 - Fields: `capabilities`, `parameters`, `pull(_str)`, `tag_count`, `updated(_date)`, `link`, `description`.
 
 #### 🎯 Model By Name
-- Pattern: [Open](https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models/{model}.json)
+- Pattern: `https://raw.githubusercontent.com/D3rhami/ollama_gallery/main/data/models/{model}.json`
 - Use with tag data for richer joins (e.g., versions, sizes, context windows).
  
  
