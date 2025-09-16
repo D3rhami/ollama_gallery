@@ -223,7 +223,7 @@ body.dark-mode .url-link:hover::after {
 
 /* Dark mode theme toggle */
 body.dark-mode .theme-toggle-thumb {
-    left: 42px !important;
+    left: 4px !important;
     transform: none !important;
 }
 

@@ -239,7 +239,7 @@ body.dark-mode .theme-toggle-track {
 
 .theme-toggle-thumb {
     position: absolute;
-    left: 4px;
+    left: 42px;
     top: 4px;
     width: 28px;
     height: 28px;
@@ -250,8 +250,8 @@ body.dark-mode .theme-toggle-track {
     z-index: 2;
 }
 
-body.dark-mode .theme-toggle-thumb {
-    left: 42px;
+body.dark-mode .theme-toggle-track .theme-toggle-thumb {
+    left: 4px;
     background: #23272a;
 }
 
@@ -268,11 +268,13 @@ body.dark-mode .theme-toggle-thumb {
 }
 
 .theme-toggle-suncloud {
-    right: 4px;
+    left: 4px;
+    right: auto;
 }
 
 .theme-toggle-moonstars {
     right: 4px;
+    left: auto;
 }
 
 body.dark-mode .theme-toggle-suncloud {
@@ -281,8 +283,6 @@ body.dark-mode .theme-toggle-suncloud {
 
 body.dark-mode .theme-toggle-moonstars {
     opacity: 1;
-    right: auto;
-    left: 4px;
 }
 
 body:not(.dark-mode) .theme-toggle-suncloud {
