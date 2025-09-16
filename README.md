@@ -1,5 +1,5 @@
-<div style="background:#fffce9;padding:2px;">
-  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner" style="height:210px;object-fit:cover;" />
+<div style="background:#fffde9;padding:2px;text-align:center;">
+  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner" style="height:200px;object-fit:cover;display:block;margin:0 auto;" />
 </div>
 
 🌌 Ollama Gallery — The Ultimate Community Models Explorer
