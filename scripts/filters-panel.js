@@ -386,6 +386,7 @@ class FiltersPanel {
         this.renderActiveFiltersFromPanel();
         this.updateRibbon();
         this.applyTableFiltering();
+        if (window.reapplySearchHighlight) setTimeout(()=>window.reapplySearchHighlight(),0);
         
         console.log(`✅ All filters cleared and reset to defaults`);
     }
@@ -443,6 +444,7 @@ class FiltersPanel {
         this.ensureEntriesPerPageFilter();
         
         console.log(`✅ All filters cleared for ${this.currentTable} table`);
+        if (window.reapplySearchHighlight) setTimeout(()=>window.reapplySearchHighlight(),0);
     }
 
     applyFilters() {
@@ -552,6 +554,7 @@ class FiltersPanel {
             delete this.staged.updatedRange;
         }
         this.updateRibbon();
+        if (window.reapplySearchHighlight) setTimeout(()=>window.reapplySearchHighlight(),0);
         this.closeModal();
     }
 

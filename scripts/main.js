@@ -56,7 +56,8 @@ document.addEventListener('DOMContentLoaded',()=>{
         if (searchInput) {
             searchInput.value = '';
             searchInput.classList.remove('search-error');
-            searchInput.placeholder = 'Search...';
+            const evt = new CustomEvent('updateSearchHint', { detail: { view } });
+            window.dispatchEvent(evt);
         }
         
         // Clear any existing highlights
