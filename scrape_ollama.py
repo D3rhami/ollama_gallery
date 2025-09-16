@@ -226,7 +226,7 @@ def main():
             if prev_date:
                 try:
                     prev_comp_date = (
-                            datetime.strptime(prev_date, '%Y-%m-%d') - timedelta(days=101)).date().isoformat()#todo fix to 1
+                            datetime.strptime(prev_date, '%Y-%m-%d') - timedelta(days=1)).date().isoformat()
                 except:
                     prev_comp_date = prev_date
         except:
@@ -236,7 +236,7 @@ def main():
         if prev_comp_date and prev_success:
             filtered_models = {name: info for name, info in models_data.items() if
                                info.get('update_date') and info.get('update_date') >= prev_comp_date}
-        print(f"! prev data was {prev_comp_date} and f:{len(filtered_models)} m:{len(models_data)}")
+        # print(f"! prev data was {prev_comp_date} and f:{len(filtered_models)} m:{len(models_data)}")
         all_tags_data, tags_data_status = get_all_tags_data(filtered_models or models_data)
         count_tags = {m: len(tags_info) for m, tags_info in all_tags_data.items()}
         models_data = {m: {**model_info, "tag_count": count_tags.get(m)} if count_tags.get(m, None) else model_info
@@ -248,10 +248,22 @@ def main():
             file_name = model_name + '.json'
             save_json(os.path.join('data', 'models', file_name), model_info)
 
+        prev_tags = {}
+        try:
+            prev_resp = requests.get('https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags.json', timeout=30)
+            if prev_resp.status_code == 200:
+                prev_tags = prev_resp.json() or {}
+        except:
+          pass
+
+        merged_tags = dict(prev_tags)
+        for m, tags in all_tags_data.items():
+            merged_tags[m] = tags
+
         for model_name, tags in all_tags_data.items():
             save_json(os.path.join('data', 'tags', f"{model_name}.json"), tags)
 
-        save_json('data/tags.json', all_tags_data)
+        save_json('data/tags.json', merged_tags)
         save_json('data/tags_status.json', tags_data_status)
     print(f"Scraping completed in {time.time() - start_time:.2f} seconds")
 
