@@ -7,10 +7,10 @@ let isDark=body.classList.contains('dark-mode');
 function setTheme(dark){
     if(dark){
         body.classList.add('dark-mode');
-        document.querySelector('.banner img').src='assets/images/banner.png';
+        document.querySelector('.banner img').src='assets/images/banner.svg';
     }else{
         body.classList.remove('dark-mode');
-        document.querySelector('.banner img').src='assets/images/banner_light.png';
+        document.querySelector('.banner img').src='assets/images/banner_light.svg';
     }
 }
 toggle.addEventListener('click',()=>{

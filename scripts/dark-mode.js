@@ -5,12 +5,12 @@
     const bannerImage=document.querySelector('.banner img');
     const darkModeStyles={
         light:{
-            bannerSrc:'assets/images/banner_light.png',
+            bannerSrc:'assets/images/banner_light.svg',
             bodyClass:'',
             tableClass:''
         },
         dark:{
-            bannerSrc:'assets/images/banner.png',
+            bannerSrc:'assets/images/banner.svg',
             bodyClass:'dark-mode',
             tableClass:'dark-table'
         }

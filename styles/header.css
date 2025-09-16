@@ -18,7 +18,7 @@
 }
 
 body.dark-mode .header-container {
-    background-color: #1f2631;
+    background-color: #212934;
 }
 
 body:not(.dark-mode) .header-container {
