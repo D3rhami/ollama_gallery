@@ -204,11 +204,9 @@ def save_json(file_path: str, data) -> None:
 
 
 def main():
+    #start_time = time.time()
     models_data, status = get_models_info()
     if models_data:
-        save_json('data/models.json', models_data)
-        save_json('data/models_status.json', status)
-
         prev_success = False
         prev_date = None
         prev_comp_date = None
@@ -230,17 +228,19 @@ def main():
         except:
             pass
 
-        filtered_models = models_data
+        filtered_models = None
         if prev_comp_date and prev_success:
             filtered_models = {name: info for name, info in models_data.items() if
                                info.get('update_date') and info.get('update_date') >= prev_comp_date}
 
-        all_tags_data, tags_data_status = get_all_tags_data(filtered_models)
+        all_tags_data, tags_data_status = get_all_tags_data(filtered_models or models_data)
         count_tags = {m: len(tags_info) for m, tags_info in all_tags_data.items()}
-        filtered_models = {m: {**model_info, "tag_count": count_tags.get(m)} if count_tags.get(m, None) else model_info
-                           for m, model_info in filtered_models.items()}
+        models_data = {m: {**model_info, "tag_count": count_tags.get(m)} if count_tags.get(m, None) else model_info
+                       for m, model_info in models_data.items()}
 
-        for model_name, model_info in filtered_models.items():
+        save_json('data/models.json', models_data)
+        save_json('data/models_status.json', status)
+        for model_name, model_info in models_data.items():
             file_name = model_name + '.json'
             save_json(os.path.join('data', 'models', file_name), model_info)
 
