@@ -33,7 +33,7 @@ Ollama Gallery is a fast and friendly explorer for community models and tags. Da
 
 ### 🖼️ Screenshot
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:12px;">
-  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/Screenshot1.svg" alt="App Screenshot" width="960" />
+  <img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/Screenshot1.webp" alt="App Screenshot" width="960" />
   <div style="display:flex;justify-content:center;font-weight:600;color:#64748b;font-size:13px;margin-top:8px;">Preview of the Models view — supports dark mode and light mode</div>
 </div>
 
