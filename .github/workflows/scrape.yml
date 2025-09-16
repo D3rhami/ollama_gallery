@@ -37,10 +37,17 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
+          # Configure git user
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          # Use PAT for authentication
           git remote set-url origin https://x-access-token:$GH_TOKEN@github.com/${{ github.repository }}.git
+
+          # Stage changes
           git add -A
+
+          # Commit and push if there are changes
           if ! git diff --cached --quiet; then
             git commit -m "✨ Data update at $(date -u '+%Y-%m-%d')"
             git push
