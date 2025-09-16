@@ -1,4 +1,4 @@
-<a href="https://d3rhami.github.io/ollama_gallery/"><img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner" style="height:200px;"></a>
+<a href="https://d3rhami.github.io/ollama_gallery/"><img src="https://raw.githubusercontent.com/D3rhami/ollama_gallery/heads/main/assets/images/banner_light.webp" alt="Project Banner"></a>
 
 🌌 Ollama Gallery — The Ultimate Community Models Explorer
 
