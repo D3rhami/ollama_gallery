@@ -80,6 +80,7 @@ class FiltersPanel {
         const applyBtn = this.modal.querySelector('.filters-apply');
         if (closeBtn) closeBtn.addEventListener('click', () => this.closeModal());
         if (expandBtn) expandBtn.addEventListener('click', () => this.toggleExpand());
+        if (clearBtn) clearBtn.textContent = 'Reset';
         if (clearBtn) clearBtn.addEventListener('click', () => this.clearFilters());
         if (applyBtn) applyBtn.addEventListener('click', () => this.applyFilters());
 
@@ -121,7 +122,7 @@ class FiltersPanel {
         
         // Clear filters when switching between different table types
         if (previousTable && previousTable !== this.currentTable) {
-            this.clearAllFiltersOnTableSwitch();
+            this.clearAllFiltersOnTableSwitch(previousTable);
         }
         
         // Log current table and data counts
@@ -298,6 +299,12 @@ class FiltersPanel {
         this.selectedCapabilities = [];
         this.selectedParameters = [];
         this.selectedUpdatedRange = { type: 'all', from: '', to: '' };
+        if (this.staged) {
+            delete this.staged.includeTerms;
+            delete this.staged.removeIncludeTerms;
+            delete this.staged.excludeTerms;
+            delete this.staged.removeExcludeTerms;
+        }
         
         // Clear checkboxes for visible cards
         if (this.currentTable === 'models') {
@@ -305,12 +312,67 @@ class FiltersPanel {
             this.clearParametersCheckboxes();
         }
         this.clearUpdatedRangeSelection();
+        const includeList = this.modal.querySelector('.include-terms-card .terms-list');
+        if (includeList && this.includeTermsCard) this.includeTermsCard.renderChips(includeList);
+        const excludeList = this.modal.querySelector('.exclude-terms-card .terms-list');
+        if (excludeList && this.excludeTermsCard) this.excludeTermsCard.renderChips(excludeList);
+
+        // Reset tags-specific filters: input types, context window, size
+        // Input types: uncheck all checkboxes and remove filters
+        this.modal.querySelectorAll('.inputtype-checkbox:checked').forEach(cb => cb.checked = false);
+        if (this.staged && Array.isArray(this.staged.inputTypes)) {
+            delete this.staged.inputTypes;
+        }
+        [...this.activeFilters.keys()].filter(k => k.startsWith('inputtype_')).forEach(k => {
+            this.activeFilters.delete(k);
+            if (window.ribbonManager) window.ribbonManager.removeFilter(k, this.currentTable);
+        });
+        if (window.ribbonManager) window.ribbonManager.render(this.currentTable);
+
+        // Context window: reset sliders and remove filter
+        const cwMin = this.modal.querySelector('.cw-min');
+        const cwMax = this.modal.querySelector('.cw-max');
+        const cwFill = this.modal.querySelector('.cw-fill');
+        if (cwMin && cwMax) {
+            cwMin.value = 0;
+            cwMax.value = (this.contextWindowCard?.labels?.length || 1) - 1;
+            if (cwFill && this.contextWindowCard) {
+                this.contextWindowCard.updateFill(cwFill, cwMin, cwMax);
+                this.contextWindowCard.updateLabelsActive();
+            }
+        }
+        if (this.activeFilters.has('contextwin_range')) {
+            this.activeFilters.delete('contextwin_range');
+            if (window.ribbonManager) window.ribbonManager.removeFilter('contextwin_range', this.currentTable);
+        }
+
+        // Size: reset sliders and remove filter
+        const sizeMin = this.modal.querySelector('.size-min');
+        const sizeMax = this.modal.querySelector('.size-max');
+        const sizeFill = this.modal.querySelector('.ts-fill');
+        if (sizeMin && sizeMax) {
+            sizeMin.value = 0;
+            sizeMax.value = (this.sizeCard?.buckets?.length || 1) - 1;
+            if (sizeFill && this.sizeCard) {
+                this.sizeCard.updateFill(sizeFill, sizeMin, sizeMax);
+                this.sizeCard.updateLabelsActive();
+            }
+        }
+        if (this.activeFilters.has('size_range')) {
+            this.activeFilters.delete('size_range');
+            if (window.ribbonManager) window.ribbonManager.removeFilter('size_range', this.currentTable);
+        }
         
         // Reset entries per page slider to default
         const slider = this.modal.querySelector('#entries-slider');
         if (slider) {
             slider.value = '1'; // Default to 10 entries (index 1)
             this.entriesPerPageCard?.updateEntriesLabel({ target: slider });
+            const eppFill = this.modal.querySelector('.epp-fill');
+            if (eppFill && this.entriesPerPageCard) {
+                this.entriesPerPageCard.updateFill(slider, eppFill);
+                this.entriesPerPageCard.positionLabels();
+            }
         }
         
         // Clear ribbon
@@ -338,16 +400,23 @@ class FiltersPanel {
         this.selectedParameters = [];
     }
 
-    clearAllFiltersOnTableSwitch() {
-        console.log(`🔄 Switching from ${this.currentTable} table - clearing all filters`);
+    clearAllFiltersOnTableSwitch(previousTable) {
+        console.log(`🔄 Switching from ${previousTable} to ${this.currentTable} - clearing all filters`);
         this.activeFilters.clear();
     
         this.entriesPerPage = 10; 
         this.selectedCapabilities = [];
         this.selectedParameters = [];
         this.selectedUpdatedRange = { type: 'all', from: '', to: '' };
+        if (this.staged) {
+            delete this.staged.includeTerms;
+            delete this.staged.removeIncludeTerms;
+            delete this.staged.excludeTerms;
+            delete this.staged.removeExcludeTerms;
+        }
         
         if (window.ribbonManager) {
+            if (previousTable) window.ribbonManager.clearAllFilters(previousTable);
             window.ribbonManager.clearAllFilters(this.currentTable);
         }
         
@@ -363,6 +432,10 @@ class FiltersPanel {
         
         
         this.updatedRangeCard?.clearSelection();
+        const includeList = this.modal?.querySelector('.include-terms-card .terms-list');
+        if (includeList && this.includeTermsCard) this.includeTermsCard.renderChips(includeList);
+        const excludeList = this.modal?.querySelector('.exclude-terms-card .terms-list');
+        if (excludeList && this.excludeTermsCard) this.excludeTermsCard.renderChips(excludeList);
         if (this.currentTable === 'models') {
             this.clearCapabilitiesCheckboxes();
             this.clearParametersCheckboxes();
