@@ -4,7 +4,7 @@
 - 📦 Source: https://ollama.com/library
  
 ### 🏷️ All Tags
-JSON mapping of tag → versions metadata for all tags.
+* JSON mapping of tag → versions metadata for all tags.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags.json
 - **Expected example** (truncated):
 ```json
@@ -26,7 +26,7 @@ JSON mapping of tag → versions metadata for all tags.
 ```
 
 ### 🔖 Specific Tag
-Versions metadata for a single tag.
+* Versions metadata for a single tag.
 - **Link pattern**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/{tag}.json
 - **Example**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags/gpt-oss.json
 - **Keys**:
@@ -68,7 +68,7 @@ Versions metadata for a single tag.
 ```
 
 ### 📚 All Models
-Aggregated index of models with latest metadata.
+* Aggregated index of models with latest metadata.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models.json
 - **Expected example** (truncated):
 ```json
@@ -112,7 +112,7 @@ Metadata for a single model.
 ```
 
 ### 📊 Tags Status
-Scrape status summary for tags.
+* Scrape status summary for tags.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/tags_status.json
 - **Expected example**:
 ```json
@@ -126,7 +126,7 @@ Scrape status summary for tags.
 ```
 
 ### 📊 Models Status
-Scrape status summary for models, including capability and parameter lists.
+* Scrape status summary for models, including capability and parameter lists.
 - **Link**: https://raw.githubusercontent.com/D3rhami/ollama_gallery/refs/heads/main/data/models_status.json
 - **Expected example** (truncated):
 ```json
