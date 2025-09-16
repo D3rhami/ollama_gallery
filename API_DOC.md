@@ -1,6 +1,7 @@
 ### 🗂️ API: Ollama Gallery JSON
 
-🚀 Static JSON endpoints scraped daily from the Ollama Library and kept up to date via automation. 📦 Source: https://ollama.com/library
+- 📑 Static JSON endpoints scraped daily from the Ollama Library and kept up to date via automation ✨.
+- 📦 Source: https://ollama.com/library
  
 ### 🏷️ All Tags
 JSON mapping of tag → versions metadata for all tags.
