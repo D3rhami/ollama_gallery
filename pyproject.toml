@@ -1,0 +1,16 @@
+[project]
+name = "ollama-gallery"
+version = "0.1.0"
+requires-python = ">=3.10"
+authors = [
+  { name = "Amir Hossein derhami" }
+]
+dependencies = [
+  "requests>=2.31.0",
+  "lxml>=5.2.0",
+  "dateparser>=1.2.0",
+]
+
+[tool.uv]
+dev-dependencies = []
+
