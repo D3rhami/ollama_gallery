@@ -6,11 +6,24 @@
       "Text"
     ],
     "updated_str": "2 weeks ago",
-    "update_date": "2025-09-05",
+    "update_date": "2025-09-06",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "404GB",
     "size_num": 404000000000
+  },
+  "d3749919e45f": {
+    "href": "https://ollama.com/library/deepseek-v3.1:671b-cloud",
+    "name": "deepseek-v3.1:671b-cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 hours ago",
+    "update_date": "2025-09-19",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "-",
+    "size_num": 0
   },
   "259bac2eba80": {
     "href": "https://ollama.com/library/deepseek-v3.1:671b-q8_0",
@@ -19,7 +32,7 @@
       "Text"
     ],
     "updated_str": "3 weeks ago",
-    "update_date": "2025-08-29",
+    "update_date": "2025-08-30",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "713GB",
@@ -32,7 +45,7 @@
       "Text"
     ],
     "updated_str": "3 weeks ago",
-    "update_date": "2025-08-29",
+    "update_date": "2025-08-30",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "1.3TB",
