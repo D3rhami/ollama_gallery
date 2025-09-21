@@ -32,8 +32,8 @@
       "70b",
       "671b"
     ],
-    "pull_str": "62.6M",
-    "pull": 62600000,
+    "pull_str": "62.7M",
+    "pull": 62700000,
     "tag_count": "35",
     "updated": "2 months ago",
     "update_date": "2025-07-21",
@@ -52,8 +52,8 @@
       "12b",
       "27b"
     ],
-    "pull_str": "17.2M",
-    "pull": 17200000,
+    "pull_str": "17.3M",
+    "pull": 17300000,
     "tag_count": "26",
     "updated": "1 month ago",
     "update_date": "2025-08-21",
@@ -68,8 +68,8 @@
     "parameters": [
       "300m"
     ],
-    "pull_str": "33.7K",
-    "pull": 33700,
+    "pull_str": "34K",
+    "pull": 34000,
     "tag_count": "5",
     "updated": "1 week ago",
     "update_date": "2025-09-14",
@@ -109,8 +109,8 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "59.4K",
-    "pull": 59400,
+    "pull_str": "59.8K",
+    "pull": 59800,
     "tag_count": 4,
     "updated": "yesterday",
     "update_date": "2025-09-20",
@@ -158,8 +158,8 @@
       "1b",
       "3b"
     ],
-    "pull_str": "35.8M",
-    "pull": 35800000,
+    "pull_str": "35.9M",
+    "pull": 35900000,
     "tag_count": "63",
     "updated": "12 months ago",
     "update_date": "2024-09-21",
@@ -174,8 +174,8 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "19.5M",
-    "pull": 19500000,
+    "pull_str": "19.6M",
+    "pull": 19600000,
     "tag_count": "84",
     "updated": "2 months ago",
     "update_date": "2025-07-21",
@@ -244,8 +244,8 @@
       "13b",
       "34b"
     ],
-    "pull_str": "9.7M",
-    "pull": 9700000,
+    "pull_str": "9.8M",
+    "pull": 9800000,
     "tag_count": "98",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -743,20 +743,6 @@
     "link": "https://ollama.com/library/snowflake-arctic-embed",
     "popularity": 44
   },
-  "phi": {
-    "description": "Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.",
-    "capabilities": [],
-    "parameters": [
-      "2.7b"
-    ],
-    "pull_str": "709.6K",
-    "pull": 709600,
-    "tag_count": "18",
-    "updated": "1 year ago",
-    "update_date": "2024-09-21",
-    "link": "https://ollama.com/library/phi",
-    "popularity": 45
-  },
   "orca-mini": {
     "description": "A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.",
     "capabilities": [],
@@ -766,12 +752,26 @@
       "13b",
       "70b"
     ],
-    "pull_str": "709.5K",
-    "pull": 709500,
+    "pull_str": "710.8K",
+    "pull": 710800,
     "tag_count": "119",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
     "link": "https://ollama.com/library/orca-mini",
+    "popularity": 45
+  },
+  "phi": {
+    "description": "Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.",
+    "capabilities": [],
+    "parameters": [
+      "2.7b"
+    ],
+    "pull_str": "709.7K",
+    "pull": 709700,
+    "tag_count": "18",
+    "updated": "1 year ago",
+    "update_date": "2024-09-21",
+    "link": "https://ollama.com/library/phi",
     "popularity": 46
   },
   "llama4": {
@@ -784,8 +784,8 @@
       "16x17b",
       "128x17b"
     ],
-    "pull_str": "685.7K",
-    "pull": 685700,
+    "pull_str": "686.3K",
+    "pull": 686300,
     "tag_count": "11",
     "updated": "3 months ago",
     "update_date": "2025-06-21",
@@ -803,8 +803,8 @@
       "32b",
       "72b"
     ],
-    "pull_str": "651.8K",
-    "pull": 651800,
+    "pull_str": "652.4K",
+    "pull": 652400,
     "tag_count": "17",
     "updated": "4 months ago",
     "update_date": "2025-05-21",
@@ -818,8 +818,8 @@
       "8x7b",
       "8x22b"
     ],
-    "pull_str": "642.1K",
-    "pull": 642100,
+    "pull_str": "642.2K",
+    "pull": 642200,
     "tag_count": "70",
     "updated": "9 months ago",
     "update_date": "2024-12-21",
@@ -835,8 +835,8 @@
       "7b",
       "10b"
     ],
-    "pull_str": "620.3K",
-    "pull": 620300,
+    "pull_str": "623K",
+    "pull": 623000,
     "tag_count": "17",
     "updated": "9 months ago",
     "update_date": "2024-12-21",
@@ -867,8 +867,8 @@
       "1b",
       "3b"
     ],
-    "pull_str": "585.9K",
-    "pull": 585900,
+    "pull_str": "588.5K",
+    "pull": 588500,
     "tag_count": "33",
     "updated": "8 months ago",
     "update_date": "2025-01-21",
@@ -884,8 +884,8 @@
       "2b",
       "8b"
     ],
-    "pull_str": "495.6K",
-    "pull": 495600,
+    "pull_str": "497.4K",
+    "pull": 497400,
     "tag_count": "3",
     "updated": "5 months ago",
     "update_date": "2025-04-21",
@@ -899,27 +899,13 @@
       "e2b",
       "e4b"
     ],
-    "pull_str": "477.7K",
-    "pull": 477700,
+    "pull_str": "477.9K",
+    "pull": 477900,
     "tag_count": "9",
     "updated": "2 months ago",
     "update_date": "2025-07-21",
     "link": "https://ollama.com/library/gemma3n",
     "popularity": 54
-  },
-  "phi4-reasoning": {
-    "description": "Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.",
-    "capabilities": [],
-    "parameters": [
-      "14b"
-    ],
-    "pull_str": "453.3K",
-    "pull": 453300,
-    "tag_count": "9",
-    "updated": "4 months ago",
-    "update_date": "2025-05-21",
-    "link": "https://ollama.com/library/phi4-reasoning",
-    "popularity": 55
   },
   "mistral-small3.2": {
     "description": "An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.",
@@ -930,13 +916,41 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "452.5K",
-    "pull": 452500,
+    "pull_str": "455.7K",
+    "pull": 455700,
     "tag_count": "5",
     "updated": "3 months ago",
     "update_date": "2025-06-21",
     "link": "https://ollama.com/library/mistral-small3.2",
+    "popularity": 55
+  },
+  "phi4-reasoning": {
+    "description": "Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.",
+    "capabilities": [],
+    "parameters": [
+      "14b"
+    ],
+    "pull_str": "454.3K",
+    "pull": 454300,
+    "tag_count": "9",
+    "updated": "4 months ago",
+    "update_date": "2025-05-21",
+    "link": "https://ollama.com/library/phi4-reasoning",
     "popularity": 56
+  },
+  "codestral": {
+    "description": "Codestral is Mistral AI’s first-ever code model designed for code generation tasks.",
+    "capabilities": [],
+    "parameters": [
+      "22b"
+    ],
+    "pull_str": "445.5K",
+    "pull": 445500,
+    "tag_count": "17",
+    "updated": "1 year ago",
+    "update_date": "2024-09-21",
+    "link": "https://ollama.com/library/codestral",
+    "popularity": 57
   },
   "smollm": {
     "description": "🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.",
@@ -952,20 +966,6 @@
     "updated": "1 year ago",
     "update_date": "2024-09-21",
     "link": "https://ollama.com/library/smollm",
-    "popularity": 57
-  },
-  "codestral": {
-    "description": "Codestral is Mistral AI’s first-ever code model designed for code generation tasks.",
-    "capabilities": [],
-    "parameters": [
-      "22b"
-    ],
-    "pull_str": "445.2K",
-    "pull": 445200,
-    "tag_count": "17",
-    "updated": "1 year ago",
-    "update_date": "2024-09-21",
-    "link": "https://ollama.com/library/codestral",
     "popularity": 58
   },
   "dolphin-llama3": {
@@ -975,8 +975,8 @@
       "8b",
       "70b"
     ],
-    "pull_str": "441.8K",
-    "pull": 441800,
+    "pull_str": "442.2K",
+    "pull": 442200,
     "tag_count": "53",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -995,8 +995,8 @@
       "32b",
       "70b"
     ],
-    "pull_str": "412.4K",
-    "pull": 412400,
+    "pull_str": "413.3K",
+    "pull": 413300,
     "tag_count": "20",
     "updated": "5 months ago",
     "update_date": "2025-04-21",
@@ -1024,8 +1024,8 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "395.9K",
-    "pull": 395900,
+    "pull_str": "396K",
+    "pull": 396000,
     "tag_count": "120",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1039,10 +1039,10 @@
       "30b",
       "480b"
     ],
-    "pull_str": "394.3K",
-    "pull": 394300,
+    "pull_str": "394.7K",
+    "pull": 394700,
     "tag_count": 7,
-    "updated": "12 hours ago",
+    "updated": "17 hours ago",
     "update_date": "2025-09-20",
     "link": "https://ollama.com/library/qwen3-coder",
     "popularity": 63
@@ -1056,8 +1056,8 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "387.5K",
-    "pull": 387500,
+    "pull_str": "388.2K",
+    "pull": 388200,
     "tag_count": "5",
     "updated": "3 months ago",
     "update_date": "2025-06-21",
@@ -1072,8 +1072,8 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "378.8K",
-    "pull": 378800,
+    "pull_str": "379.6K",
+    "pull": 379600,
     "tag_count": "5",
     "updated": "6 months ago",
     "update_date": "2025-03-21",
@@ -1086,8 +1086,8 @@
     "parameters": [
       "1.5b"
     ],
-    "pull_str": "360K",
-    "pull": 360000,
+    "pull_str": "361.3K",
+    "pull": 361300,
     "tag_count": "5",
     "updated": "7 months ago",
     "update_date": "2025-02-21",
@@ -1100,8 +1100,8 @@
     "parameters": [
       "2.7b"
     ],
-    "pull_str": "354.7K",
-    "pull": 354700,
+    "pull_str": "356K",
+    "pull": 356000,
     "tag_count": "15",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1116,8 +1116,8 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "354.1K",
-    "pull": 354100,
+    "pull_str": "354.5K",
+    "pull": 354500,
     "tag_count": "5",
     "updated": "2 months ago",
     "update_date": "2025-07-21",
@@ -1132,8 +1132,8 @@
     "parameters": [
       "35b"
     ],
-    "pull_str": "345.7K",
-    "pull": 345700,
+    "pull_str": "345.8K",
+    "pull": 345800,
     "tag_count": "32",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1151,8 +1151,8 @@
       "70b",
       "405b"
     ],
-    "pull_str": "336.4K",
-    "pull": 336400,
+    "pull_str": "336.5K",
+    "pull": 336500,
     "tag_count": "65",
     "updated": "9 months ago",
     "update_date": "2024-12-21",
@@ -1165,8 +1165,8 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "326.4K",
-    "pull": 326400,
+    "pull_str": "326.5K",
+    "pull": 326500,
     "tag_count": "17",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1182,8 +1182,8 @@
     "parameters": [
       "2b"
     ],
-    "pull_str": "312.9K",
-    "pull": 312900,
+    "pull_str": "313.4K",
+    "pull": 313400,
     "tag_count": "5",
     "updated": "6 months ago",
     "update_date": "2025-03-21",
@@ -1198,8 +1198,8 @@
       "9b",
       "34b"
     ],
-    "pull_str": "300.9K",
-    "pull": 300900,
+    "pull_str": "301K",
+    "pull": 301000,
     "tag_count": "174",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1213,8 +1213,8 @@
       "1.5b",
       "14b"
     ],
-    "pull_str": "296.5K",
-    "pull": 296500,
+    "pull_str": "296.8K",
+    "pull": 296800,
     "tag_count": "9",
     "updated": "5 months ago",
     "update_date": "2025-04-21",
@@ -1245,8 +1245,8 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "278.5K",
-    "pull": 278500,
+    "pull_str": "278.8K",
+    "pull": 278800,
     "tag_count": "5",
     "updated": "5 months ago",
     "update_date": "2025-04-21",
@@ -1310,8 +1310,8 @@
       "20b",
       "34b"
     ],
-    "pull_str": "240.9K",
-    "pull": 240900,
+    "pull_str": "241K",
+    "pull": 241000,
     "tag_count": "162",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1443,8 +1443,8 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "174.6K",
-    "pull": 174600,
+    "pull_str": "174.8K",
+    "pull": 174800,
     "tag_count": "13",
     "updated": "6 months ago",
     "update_date": "2025-03-21",
@@ -1458,8 +1458,8 @@
       "7b",
       "13b"
     ],
-    "pull_str": "174.5K",
-    "pull": 174500,
+    "pull_str": "174.8K",
+    "pull": 174800,
     "tag_count": "63",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1504,8 +1504,8 @@
     "parameters": [
       "568m"
     ],
-    "pull_str": "167.6K",
-    "pull": 167600,
+    "pull_str": "167.9K",
+    "pull": 167900,
     "tag_count": "3",
     "updated": "9 months ago",
     "update_date": "2024-12-21",
@@ -1535,8 +1535,8 @@
       "40b",
       "180b"
     ],
-    "pull_str": "163.3K",
-    "pull": 163300,
+    "pull_str": "163.5K",
+    "pull": 163500,
     "tag_count": "38",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1639,8 +1639,8 @@
       "1.5b",
       "8b"
     ],
-    "pull_str": "147.8K",
-    "pull": 147800,
+    "pull_str": "148K",
+    "pull": 148000,
     "tag_count": "9",
     "updated": "10 months ago",
     "update_date": "2024-11-21",
@@ -1791,8 +1791,8 @@
       "1.5b",
       "9b"
     ],
-    "pull_str": "121K",
-    "pull": 121000,
+    "pull_str": "121.1K",
+    "pull": 121100,
     "tag_count": "67",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -1930,8 +1930,8 @@
       "7b",
       "15b"
     ],
-    "pull_str": "108.4K",
-    "pull": 108400,
+    "pull_str": "108.5K",
+    "pull": 108500,
     "tag_count": "35",
     "updated": "1 year ago",
     "update_date": "2024-09-21",
@@ -2224,8 +2224,8 @@
       "1b",
       "8b"
     ],
-    "pull_str": "81.5K",
-    "pull": 81500,
+    "pull_str": "81.6K",
+    "pull": 81600,
     "tag_count": "33",
     "updated": "11 months ago",
     "update_date": "2024-10-21",
@@ -2372,6 +2372,20 @@
     "link": "https://ollama.com/library/yarn-mistral",
     "popularity": 150
   },
+  "phi4-mini-reasoning": {
+    "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
+    "capabilities": [],
+    "parameters": [
+      "3.8b"
+    ],
+    "pull_str": "56.9K",
+    "pull": 56900,
+    "tag_count": "5",
+    "updated": "4 months ago",
+    "update_date": "2025-05-21",
+    "link": "https://ollama.com/library/phi4-mini-reasoning",
+    "popularity": 151
+  },
   "command-r7b": {
     "description": "The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.",
     "capabilities": [
@@ -2386,20 +2400,6 @@
     "updated": "8 months ago",
     "update_date": "2025-01-21",
     "link": "https://ollama.com/library/command-r7b",
-    "popularity": 151
-  },
-  "phi4-mini-reasoning": {
-    "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
-    "capabilities": [],
-    "parameters": [
-      "3.8b"
-    ],
-    "pull_str": "56.8K",
-    "pull": 56800,
-    "tag_count": "5",
-    "updated": "4 months ago",
-    "update_date": "2025-05-21",
-    "link": "https://ollama.com/library/phi4-mini-reasoning",
     "popularity": 152
   },
   "shieldgemma": {
