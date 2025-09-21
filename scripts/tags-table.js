@@ -144,6 +144,12 @@ function initializeTagsTableWithPlaceholders() {
                 next: "Next",
                 previous: "Previous"
             }
+        },
+        drawCallback: function() {
+            // Reapply search highlighting after table redraw (page change, filtering, etc.)
+            if (window.reapplySearchHighlight) {
+                setTimeout(() => window.reapplySearchHighlight(), 0);
+            }
         }
     });
     

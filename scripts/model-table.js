@@ -110,6 +110,12 @@ function initializeTableWithPlaceholders() {
         initComplete: function() {
             $('#models-table thead th:eq(2)').attr('data-column', 'model');
             $('#models-table thead th:eq(8)').attr('data-column', 'description');
+        },
+        drawCallback: function() {
+            // Reapply search highlighting after table redraw (page change, filtering, etc.)
+            if (window.reapplySearchHighlight) {
+                setTimeout(() => window.reapplySearchHighlight(), 0);
+            }
         }
     });
     } catch (error) {
