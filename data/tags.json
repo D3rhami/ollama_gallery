@@ -900,8 +900,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "19GB",
@@ -913,8 +913,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "290GB",
@@ -926,8 +926,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "32GB",
@@ -939,8 +939,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "61GB",
@@ -952,8 +952,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "510GB",
@@ -965,23 +965,23 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "3 hours ago",
-      "update_date": "2025-09-21",
+      "updated_str": "yesterday",
+      "update_date": "2025-09-22",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "960GB",
       "size_num": 960000000000
     },
-    "bc573ee877ef": {
+    "e30e45586389": {
       "href": "https://ollama.com/library/qwen3-coder:480b-cloud",
       "name": "qwen3-coder:480b-cloud",
       "input_types": [
         "Text"
       ],
-      "updated_str": "2 days ago",
-      "update_date": "2025-09-20",
-      "context_window": "125K",
-      "context_window_num": 125000,
+      "updated_str": "2 hours ago",
+      "update_date": "2025-09-22",
+      "context_window": "256K",
+      "context_window_num": 256000,
       "size_str": "-",
       "size_num": 0
     }
