@@ -1,12 +1,12 @@
 {
-  "ddb79dcf9479": {
+  "044d50a3d79c": {
     "href": "https://ollama.com/library/deepseek-v3.1:latest",
     "name": "deepseek-v3.1:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 weeks ago",
-    "update_date": "2025-09-01",
+    "updated_str": "an hour ago",
+    "update_date": "2025-09-27",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "404GB",
@@ -18,12 +18,38 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "1 week ago",
     "update_date": "2025-09-20",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "-",
     "size_num": 0
+  },
+  "05741ecf7ebc": {
+    "href": "https://ollama.com/library/deepseek-v3.1:671b-terminus-q8_0",
+    "name": "deepseek-v3.1:671b-terminus-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "5 hours ago",
+    "update_date": "2025-09-26",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "713GB",
+    "size_num": 713000000000
+  },
+  "2d1f08a7c07d": {
+    "href": "https://ollama.com/library/deepseek-v3.1:671b-terminus-fp16",
+    "name": "deepseek-v3.1:671b-terminus-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-09-26",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "1.3TB",
+    "size_num": 1300000000000
   },
   "259bac2eba80": {
     "href": "https://ollama.com/library/deepseek-v3.1:671b-q8_0",
@@ -31,8 +57,8 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2025-08-25",
+    "updated_str": "1 month ago",
+    "update_date": "2025-08-27",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "713GB",
@@ -44,8 +70,8 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 weeks ago",
-    "update_date": "2025-09-01",
+    "updated_str": "1 month ago",
+    "update_date": "2025-08-27",
     "context_window": "160K",
     "context_window_num": 160000,
     "size_str": "1.3TB",
