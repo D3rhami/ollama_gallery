@@ -337,27 +337,27 @@
     }
   },
   "gpt-oss": {
-    "aa4295ac10c3": {
+    "17052f91a42e": {
       "href": "https://ollama.com/library/gpt-oss:latest",
       "name": "gpt-oss:latest",
       "input_types": [
         "Text"
       ],
-      "updated_str": "1 month ago",
-      "update_date": "2025-09-09",
+      "updated_str": "8 hours ago",
+      "update_date": "2025-10-09",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "14GB",
       "size_num": 14000000000
     },
-    "f7f8e2f8f4e0": {
+    "a951a23b46a1": {
       "href": "https://ollama.com/library/gpt-oss:120b",
       "name": "gpt-oss:120b",
       "input_types": [
         "Text"
       ],
-      "updated_str": "1 month ago",
-      "update_date": "2025-09-09",
+      "updated_str": "6 hours ago",
+      "update_date": "2025-10-09",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "65GB",
@@ -370,7 +370,7 @@
         "Text"
       ],
       "updated_str": "2 weeks ago",
-      "update_date": "2025-09-25",
+      "update_date": "2025-09-26",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "-",
@@ -383,7 +383,7 @@
         "Text"
       ],
       "updated_str": "2 weeks ago",
-      "update_date": "2025-09-25",
+      "update_date": "2025-09-26",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "-",
