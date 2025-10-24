@@ -3,10 +3,11 @@
     "href": "https://ollama.com/library/bakllava:latest",
     "name": "bakllava:latest",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.7GB",
@@ -16,10 +17,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q2_K",
     "name": "bakllava:7b-v1-q2_K",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "3.7GB",
@@ -29,10 +31,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q3_K_S",
     "name": "bakllava:7b-v1-q3_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "3.8GB",
@@ -42,10 +45,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q3_K_M",
     "name": "bakllava:7b-v1-q3_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.1GB",
@@ -55,10 +59,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q3_K_L",
     "name": "bakllava:7b-v1-q3_K_L",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.4GB",
@@ -68,10 +73,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q4_1",
     "name": "bakllava:7b-v1-q4_1",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.2GB",
@@ -81,10 +87,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q4_K_S",
     "name": "bakllava:7b-v1-q4_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.8GB",
@@ -94,10 +101,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q4_K_M",
     "name": "bakllava:7b-v1-q4_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.0GB",
@@ -107,10 +115,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q5_0",
     "name": "bakllava:7b-v1-q5_0",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.6GB",
@@ -120,10 +129,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q5_1",
     "name": "bakllava:7b-v1-q5_1",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.1GB",
@@ -133,10 +143,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q5_K_S",
     "name": "bakllava:7b-v1-q5_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.6GB",
@@ -146,10 +157,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q5_K_M",
     "name": "bakllava:7b-v1-q5_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.8GB",
@@ -159,10 +171,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q6_K",
     "name": "bakllava:7b-v1-q6_K",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.6GB",
@@ -172,10 +185,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-q8_0",
     "name": "bakllava:7b-v1-q8_0",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "8.3GB",
@@ -185,10 +199,11 @@
     "href": "https://ollama.com/library/bakllava:7b-v1-fp16",
     "name": "bakllava:7b-v1-fp16",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-10-23",
+    "update_date": "2024-10-24",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "15GB",
