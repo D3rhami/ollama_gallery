@@ -1,0 +1,28 @@
+{
+  "f2e795d0099c": {
+    "href": "https://ollama.com/library/gpt-oss-safeguard:latest",
+    "name": "gpt-oss-safeguard:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2025-10-29",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "14GB",
+    "size_num": 14000000000
+  },
+  "45be44f7918a": {
+    "href": "https://ollama.com/library/gpt-oss-safeguard:120b",
+    "name": "gpt-oss-safeguard:120b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2025-10-29",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "65GB",
+    "size_num": 65000000000
+  }
+}

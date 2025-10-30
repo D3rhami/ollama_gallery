@@ -3,12 +3,16 @@
   "capabilities": [
     "tools"
   ],
-  "parameters": [],
-  "pull_str": "64.6K",
-  "pull": 64600,
-  "tag_count": "5",
-  "updated": "3 weeks ago",
-  "update_date": "2025-10-08",
+  "parameters": [
+    "350m",
+    "1b",
+    "3b"
+  ],
+  "pull_str": "67.4K",
+  "pull": 67400,
+  "tag_count": 9,
+  "updated": "12 hours ago",
+  "update_date": "2025-10-29",
   "link": "https://ollama.com/library/granite4",
-  "popularity": 154
+  "popularity": 152
 }

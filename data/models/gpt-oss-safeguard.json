@@ -1,0 +1,18 @@
+{
+  "description": "gpt-oss-safeguard-20b and gpt-oss-safeguard-120b are safety reasoning models built-upon gpt-oss",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "20b",
+    "120b"
+  ],
+  "pull_str": "315",
+  "pull": 315,
+  "tag_count": 2,
+  "updated": "yesterday",
+  "update_date": "2025-10-29",
+  "link": "https://ollama.com/library/gpt-oss-safeguard",
+  "popularity": 186
+}
