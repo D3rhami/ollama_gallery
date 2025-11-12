@@ -1,7 +1,8 @@
 {
   "description": "The most powerful vision-language model in the Qwen model family to date.",
   "capabilities": [
-    "vision"
+    "vision",
+    "tools"
   ],
   "parameters": [
     "2b",
@@ -11,11 +12,11 @@
     "32b",
     "235b"
   ],
-  "pull_str": "126.6K",
-  "pull": 126600,
+  "pull_str": "134.9K",
+  "pull": 134900,
   "tag_count": 38,
   "updated": "1 week ago",
-  "update_date": "2025-11-04",
+  "update_date": "2025-11-05",
   "link": "https://ollama.com/library/qwen3-vl",
   "popularity": 2
 }
