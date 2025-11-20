@@ -1,0 +1,54 @@
+{
+  "743a587e4577": {
+    "href": "https://ollama.com/library/cogito-2.1:latest",
+    "name": "cogito-2.1:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-11-19",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "1.3TB",
+    "size_num": 1300000000000
+  },
+  "e1d7ba8b9a94": {
+    "href": "https://ollama.com/library/cogito-2.1:671b-cloud",
+    "name": "cogito-2.1:671b-cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 hours ago",
+    "update_date": "2025-11-19",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "-",
+    "size_num": 0
+  },
+  "13e83c49b705": {
+    "href": "https://ollama.com/library/cogito-2.1:671b-q4_K_M",
+    "name": "cogito-2.1:671b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-11-19",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "404GB",
+    "size_num": 404000000000
+  },
+  "958631d5989d": {
+    "href": "https://ollama.com/library/cogito-2.1:671b-q8_0",
+    "name": "cogito-2.1:671b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-11-19",
+    "context_window": "160K",
+    "context_window_num": 160000,
+    "size_str": "713GB",
+    "size_num": 713000000000
+  }
+}
