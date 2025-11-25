@@ -3,10 +3,11 @@
     "href": "https://ollama.com/library/llava-phi3:latest",
     "name": "llava-phi3:latest",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-11-18",
+    "update_date": "2024-11-25",
     "context_window": "4K",
     "context_window_num": 4000,
     "size_str": "2.9GB",
@@ -16,10 +17,11 @@
     "href": "https://ollama.com/library/llava-phi3:3.8b-mini-fp16",
     "name": "llava-phi3:3.8b-mini-fp16",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2024-11-18",
+    "update_date": "2024-11-25",
     "context_window": "4K",
     "context_window_num": 4000,
     "size_str": "8.3GB",
