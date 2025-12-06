@@ -1374,7 +1374,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "3.3GB",
@@ -1387,7 +1387,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-09-02",
+      "update_date": "2025-09-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "292MB",
@@ -1400,7 +1400,7 @@
         "Text"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "815MB",
@@ -1414,7 +1414,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "8.1GB",
@@ -1428,7 +1428,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "17GB",
@@ -1441,7 +1441,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-09-02",
+      "update_date": "2025-09-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "241MB",
@@ -1454,7 +1454,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-09-02",
+      "update_date": "2025-09-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "543MB",
@@ -1467,7 +1467,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-09-02",
+      "update_date": "2025-09-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "543MB",
@@ -1480,7 +1480,7 @@
         "Text"
       ],
       "updated_str": "7 months ago",
-      "update_date": "2025-05-02",
+      "update_date": "2025-05-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "1.0GB",
@@ -1493,7 +1493,7 @@
         "Text"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "1.1GB",
@@ -1506,11 +1506,24 @@
         "Text"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "2.0GB",
       "size_num": 2000000000
+    },
+    "89c58fea5420": {
+      "href": "https://ollama.com/library/gemma3:4b-cloud",
+      "name": "gemma3:4b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2025-12-05",
+      "context_window": "32K",
+      "context_window_num": 32000,
+      "size_str": "-",
+      "size_num": 0
     },
     "d01ad0579247": {
       "href": "https://ollama.com/library/gemma3:4b-it-qat",
@@ -1520,7 +1533,7 @@
         "Image"
       ],
       "updated_str": "7 months ago",
-      "update_date": "2025-05-02",
+      "update_date": "2025-05-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "4.0GB",
@@ -1534,7 +1547,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "5.0GB",
@@ -1548,11 +1561,24 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "8.6GB",
       "size_num": 8600000000
+    },
+    "485e7119a53a": {
+      "href": "https://ollama.com/library/gemma3:12b-cloud",
+      "name": "gemma3:12b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2025-12-05",
+      "context_window": "32K",
+      "context_window_num": 32000,
+      "size_str": "-",
+      "size_num": 0
     },
     "5d4fa005e7bb": {
       "href": "https://ollama.com/library/gemma3:12b-it-qat",
@@ -1562,7 +1588,7 @@
         "Image"
       ],
       "updated_str": "7 months ago",
-      "update_date": "2025-05-02",
+      "update_date": "2025-05-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "8.9GB",
@@ -1576,7 +1602,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "13GB",
@@ -1590,11 +1616,24 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "24GB",
       "size_num": 24000000000
+    },
+    "9e1580299085": {
+      "href": "https://ollama.com/library/gemma3:27b-cloud",
+      "name": "gemma3:27b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2025-12-05",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "-",
+      "size_num": 0
     },
     "29eb0b9aeda3": {
       "href": "https://ollama.com/library/gemma3:27b-it-qat",
@@ -1604,7 +1643,7 @@
         "Image"
       ],
       "updated_str": "7 months ago",
-      "update_date": "2025-05-02",
+      "update_date": "2025-05-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "18GB",
@@ -1618,7 +1657,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "30GB",
@@ -1632,7 +1671,7 @@
         "Image"
       ],
       "updated_str": "8 months ago",
-      "update_date": "2025-04-02",
+      "update_date": "2025-04-06",
       "context_window": "128K",
       "context_window_num": 128000,
       "size_str": "55GB",
