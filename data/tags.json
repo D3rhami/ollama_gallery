@@ -78628,5 +78628,98 @@
       "size_str": "28GB",
       "size_num": 28000000000
     }
+  },
+  "qwen3-next": {
+    "b2ebb986e4e9": {
+      "href": "https://ollama.com/library/qwen3-next:latest",
+      "name": "qwen3-next:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "50GB",
+      "size_num": 50000000000
+    },
+    "5bb9dcc938cc": {
+      "href": "https://ollama.com/library/qwen3-next:80b-a3b-instruct-q4_K_M",
+      "name": "qwen3-next:80b-a3b-instruct-q4_K_M",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "50GB",
+      "size_num": 50000000000
+    },
+    "fc9e251d7f37": {
+      "href": "https://ollama.com/library/qwen3-next:80b-a3b-instruct-q8_0",
+      "name": "qwen3-next:80b-a3b-instruct-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "85GB",
+      "size_num": 85000000000
+    },
+    "b6caabaf6c37": {
+      "href": "https://ollama.com/library/qwen3-next:80b-a3b-instruct-fp16",
+      "name": "qwen3-next:80b-a3b-instruct-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "159GB",
+      "size_num": 159000000000
+    },
+    "033d9a6ae231": {
+      "href": "https://ollama.com/library/qwen3-next:80b-a3b-thinking-q8_0",
+      "name": "qwen3-next:80b-a3b-thinking-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "85GB",
+      "size_num": 85000000000
+    },
+    "e98f2371bd81": {
+      "href": "https://ollama.com/library/qwen3-next:80b-a3b-thinking-fp16",
+      "name": "qwen3-next:80b-a3b-thinking-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "3 days ago",
+      "update_date": "2025-12-06",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "159GB",
+      "size_num": 159000000000
+    },
+    "f5ccd68d2872": {
+      "href": "https://ollama.com/library/qwen3-next:80b-cloud",
+      "name": "qwen3-next:80b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "an hour ago",
+      "update_date": "2025-12-09",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "-",
+      "size_num": 0
+    }
   }
 }
