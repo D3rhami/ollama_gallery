@@ -1,0 +1,16 @@
+{
+  "description": "Rnj-1 is a family of 8B parameter open-weight, dense models trained from scratch by Essential AI, optimized for code and STEM with capabilities on par with SOTA open-weight models.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "8b"
+  ],
+  "pull_str": "502",
+  "pull": 502,
+  "tag_count": 3,
+  "updated": "18 hours ago",
+  "update_date": "2025-12-09",
+  "link": "https://ollama.com/library/rnj-1",
+  "popularity": 195
+}

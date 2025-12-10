@@ -1,0 +1,41 @@
+{
+  "d20e29ab8d0f": {
+    "href": "https://ollama.com/library/rnj-1:latest",
+    "name": "rnj-1:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-12-09",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "5.1GB",
+    "size_num": 5100000000
+  },
+  "57eea2304a52": {
+    "href": "https://ollama.com/library/rnj-1:8b-instruct-q8_0",
+    "name": "rnj-1:8b-instruct-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-12-09",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "8.8GB",
+    "size_num": 8800000000
+  },
+  "cf0061bce5f2": {
+    "href": "https://ollama.com/library/rnj-1:8b-instruct-fp16",
+    "name": "rnj-1:8b-instruct-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "18 hours ago",
+    "update_date": "2025-12-09",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "17GB",
+    "size_num": 17000000000
+  }
+}
