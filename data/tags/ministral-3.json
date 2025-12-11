@@ -1,27 +1,27 @@
 {
-  "77300ee7514e": {
+  "a5e54193fd34": {
     "href": "https://ollama.com/library/ministral-3:latest",
     "name": "ministral-3:latest",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "6.0GB",
     "size_num": 6000000000
   },
-  "a48e77f25d79": {
+  "d8574a9316c8": {
     "href": "https://ollama.com/library/ministral-3:3b",
     "name": "ministral-3:3b",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "3.0GB",
@@ -34,7 +34,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "7 minutes ago",
+    "updated_str": "yesterday",
     "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -48,35 +48,35 @@
       "Text"
     ],
     "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "update_date": "2025-12-04",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
     "size_num": 0
   },
-  "86bfc5ffb07c": {
+  "be27f8f5312f": {
     "href": "https://ollama.com/library/ministral-3:3b-instruct-2512-q8_0",
     "name": "ministral-3:3b-instruct-2512-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "4.5GB",
     "size_num": 4500000000
   },
-  "3c71f6de8c91": {
+  "170df9947faf": {
     "href": "https://ollama.com/library/ministral-3:3b-instruct-2512-fp16",
     "name": "ministral-3:3b-instruct-2512-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "7.7GB",
@@ -89,35 +89,35 @@
       "Text"
     ],
     "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "update_date": "2025-12-04",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
     "size_num": 0
   },
-  "5945767b91d7": {
+  "695926e549da": {
     "href": "https://ollama.com/library/ministral-3:8b-instruct-2512-q8_0",
     "name": "ministral-3:8b-instruct-2512-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "9.9GB",
     "size_num": 9900000000
   },
-  "f33452317e1a": {
+  "15d23d534601": {
     "href": "https://ollama.com/library/ministral-3:8b-instruct-2512-fp16",
     "name": "ministral-3:8b-instruct-2512-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "updated_str": "yesterday",
+    "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "18GB",
@@ -130,7 +130,7 @@
       "Text"
     ],
     "updated_str": "1 week ago",
-    "update_date": "2025-12-03",
+    "update_date": "2025-12-04",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
@@ -143,21 +143,21 @@
       "Text",
       "Image"
     ],
-    "updated_str": "9 minutes ago",
+    "updated_str": "yesterday",
     "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "15GB",
     "size_num": 15000000000
   },
-  "d52111c059f9": {
+  "5c40f4e937e3": {
     "href": "https://ollama.com/library/ministral-3:14b-instruct-2512-fp16",
     "name": "ministral-3:14b-instruct-2512-fp16",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "9 minutes ago",
+    "updated_str": "yesterday",
     "update_date": "2025-12-10",
     "context_window": "256K",
     "context_window_num": 256000,
