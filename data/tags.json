@@ -78470,7 +78470,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78484,7 +78484,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78498,7 +78498,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78512,7 +78512,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2025-12-04",
+      "update_date": "2025-12-05",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "-",
@@ -78525,7 +78525,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78539,7 +78539,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78553,7 +78553,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2025-12-04",
+      "update_date": "2025-12-05",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "-",
@@ -78566,7 +78566,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78580,7 +78580,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78594,7 +78594,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2025-12-04",
+      "update_date": "2025-12-05",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "-",
@@ -78607,7 +78607,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78621,7 +78621,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -78744,7 +78744,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "32K",
       "context_window_num": 32000,
@@ -78757,7 +78757,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "32K",
       "context_window_num": 32000,
@@ -78770,12 +78770,125 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-10",
       "context_window": "32K",
       "context_window_num": 32000,
       "size_str": "17GB",
       "size_num": 17000000000
+    }
+  },
+  "nomic-embed-text-v2-moe": {
+    "ff9c2f10ef5e": {
+      "href": "https://ollama.com/library/nomic-embed-text-v2-moe:latest",
+      "name": "nomic-embed-text-v2-moe:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-11",
+      "context_window": "512",
+      "context_window_num": 512,
+      "size_str": "958MB",
+      "size_num": 958000000
+    }
+  },
+  "devstral-2": {
+    "524a6607f0f5": {
+      "href": "https://ollama.com/library/devstral-2:latest",
+      "name": "devstral-2:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "56 minutes ago",
+      "update_date": "2025-12-12",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "75GB",
+      "size_num": 75000000000
+    },
+    "d37aca5b6a27": {
+      "href": "https://ollama.com/library/devstral-2:123b-cloud",
+      "name": "devstral-2:123b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "2 days ago",
+      "update_date": "2025-12-10",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "-",
+      "size_num": 0
+    },
+    "c96ca457e286": {
+      "href": "https://ollama.com/library/devstral-2:123b-instruct-2512-q8_0",
+      "name": "devstral-2:123b-instruct-2512-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "an hour ago",
+      "update_date": "2025-12-12",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "133GB",
+      "size_num": 133000000000
+    },
+    "cf00a0f4d980": {
+      "href": "https://ollama.com/library/devstral-2:123b-instruct-2512-fp16",
+      "name": "devstral-2:123b-instruct-2512-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "an hour ago",
+      "update_date": "2025-12-12",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "250GB",
+      "size_num": 250000000000
+    }
+  },
+  "devstral-small-2": {
+    "24277f07f62d": {
+      "href": "https://ollama.com/library/devstral-small-2:latest",
+      "name": "devstral-small-2:latest",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "3 hours ago",
+      "update_date": "2025-12-11",
+      "context_window": "384K",
+      "context_window_num": 384000,
+      "size_str": "15GB",
+      "size_num": 15000000000
+    },
+    "691a8e03a6dd": {
+      "href": "https://ollama.com/library/devstral-small-2:24b-instruct-2512-q8_0",
+      "name": "devstral-small-2:24b-instruct-2512-q8_0",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2025-12-11",
+      "context_window": "384K",
+      "context_window_num": 384000,
+      "size_str": "26GB",
+      "size_num": 26000000000
+    },
+    "15c77ff5438a": {
+      "href": "https://ollama.com/library/devstral-small-2:24b-instruct-2512-fp16",
+      "name": "devstral-small-2:24b-instruct-2512-fp16",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2025-12-11",
+      "context_window": "384K",
+      "context_window_num": 384000,
+      "size_str": "48GB",
+      "size_num": 48000000000
     }
   }
 }

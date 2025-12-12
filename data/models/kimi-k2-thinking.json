@@ -1,12 +1,15 @@
 {
   "description": "Kimi K2 Thinking, Moonshot AI's best open-source thinking model.",
-  "capabilities": [],
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
   "parameters": [],
-  "pull_str": "13.1K",
-  "pull": 13100,
+  "pull_str": "13.3K",
+  "pull": 13300,
   "tag_count": "1",
   "updated": "1 month ago",
-  "update_date": "2025-11-11",
+  "update_date": "2025-11-12",
   "link": "https://ollama.com/library/kimi-k2-thinking",
   "popularity": 191
 }

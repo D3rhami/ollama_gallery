@@ -1,0 +1,44 @@
+{
+  "24277f07f62d": {
+    "href": "https://ollama.com/library/devstral-small-2:latest",
+    "name": "devstral-small-2:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2025-12-11",
+    "context_window": "384K",
+    "context_window_num": 384000,
+    "size_str": "15GB",
+    "size_num": 15000000000
+  },
+  "691a8e03a6dd": {
+    "href": "https://ollama.com/library/devstral-small-2:24b-instruct-2512-q8_0",
+    "name": "devstral-small-2:24b-instruct-2512-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 hours ago",
+    "update_date": "2025-12-11",
+    "context_window": "384K",
+    "context_window_num": 384000,
+    "size_str": "26GB",
+    "size_num": 26000000000
+  },
+  "15c77ff5438a": {
+    "href": "https://ollama.com/library/devstral-small-2:24b-instruct-2512-fp16",
+    "name": "devstral-small-2:24b-instruct-2512-fp16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 hours ago",
+    "update_date": "2025-12-11",
+    "context_window": "384K",
+    "context_window_num": 384000,
+    "size_str": "48GB",
+    "size_num": 48000000000
+  }
+}

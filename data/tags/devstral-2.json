@@ -1,0 +1,54 @@
+{
+  "524a6607f0f5": {
+    "href": "https://ollama.com/library/devstral-2:latest",
+    "name": "devstral-2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "56 minutes ago",
+    "update_date": "2025-12-12",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "75GB",
+    "size_num": 75000000000
+  },
+  "d37aca5b6a27": {
+    "href": "https://ollama.com/library/devstral-2:123b-cloud",
+    "name": "devstral-2:123b-cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2025-12-10",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "-",
+    "size_num": 0
+  },
+  "c96ca457e286": {
+    "href": "https://ollama.com/library/devstral-2:123b-instruct-2512-q8_0",
+    "name": "devstral-2:123b-instruct-2512-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "an hour ago",
+    "update_date": "2025-12-12",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "133GB",
+    "size_num": 133000000000
+  },
+  "cf00a0f4d980": {
+    "href": "https://ollama.com/library/devstral-2:123b-instruct-2512-fp16",
+    "name": "devstral-2:123b-instruct-2512-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "an hour ago",
+    "update_date": "2025-12-12",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "250GB",
+    "size_num": 250000000000
+  }
+}

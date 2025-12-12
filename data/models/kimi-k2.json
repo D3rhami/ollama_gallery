@@ -1,12 +1,14 @@
 {
   "description": "A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.",
-  "capabilities": [],
+  "capabilities": [
+    "tools"
+  ],
   "parameters": [],
-  "pull_str": "19.4K",
-  "pull": 19400,
+  "pull_str": "19.6K",
+  "pull": 19600,
   "tag_count": "1",
   "updated": "2 months ago",
-  "update_date": "2025-10-11",
+  "update_date": "2025-10-12",
   "link": "https://ollama.com/library/kimi-k2",
   "popularity": 189
 }

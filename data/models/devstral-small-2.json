@@ -1,0 +1,17 @@
+{
+  "description": "24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
+  "capabilities": [
+    "vision",
+    "tools"
+  ],
+  "parameters": [
+    "24b"
+  ],
+  "pull_str": "128",
+  "pull": 128,
+  "tag_count": 3,
+  "updated": "3 hours ago",
+  "update_date": "2025-12-11",
+  "link": "https://ollama.com/library/devstral-small-2",
+  "popularity": 196
+}

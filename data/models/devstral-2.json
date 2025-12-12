@@ -1,0 +1,16 @@
+{
+  "description": "123B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
+  "capabilities": [
+    "tools"
+  ],
+  "parameters": [
+    "123b"
+  ],
+  "pull_str": "19",
+  "pull": 19,
+  "tag_count": 4,
+  "updated": "55 minutes ago",
+  "update_date": "2025-12-12",
+  "link": "https://ollama.com/library/devstral-2",
+  "popularity": 198
+}

@@ -1,12 +1,15 @@
 {
   "description": "MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.",
-  "capabilities": [],
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
   "parameters": [],
-  "pull_str": "26.1K",
-  "pull": 26100,
+  "pull_str": "26.4K",
+  "pull": 26400,
   "tag_count": "1",
   "updated": "1 month ago",
-  "update_date": "2025-11-11",
+  "update_date": "2025-11-12",
   "link": "https://ollama.com/library/minimax-m2",
   "popularity": 188
 }

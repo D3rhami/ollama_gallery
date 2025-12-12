@@ -1,12 +1,16 @@
 {
   "description": "Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.",
-  "capabilities": [],
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
   "parameters": [],
-  "pull_str": "29.6K",
-  "pull": 29600,
+  "pull_str": "30.6K",
+  "pull": 30600,
   "tag_count": "1",
   "updated": "3 weeks ago",
-  "update_date": "2025-11-20",
+  "update_date": "2025-11-21",
   "link": "https://ollama.com/library/gemini-3-pro-preview",
   "popularity": 186
 }
