@@ -5,12 +5,25 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "3 days ago",
     "update_date": "2025-12-10",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.1GB",
     "size_num": 5100000000
+  },
+  "d8200a2fbf21": {
+    "href": "https://ollama.com/library/rnj-1:8b-cloud",
+    "name": "rnj-1:8b-cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 hours ago",
+    "update_date": "2025-12-13",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "-",
+    "size_num": 0
   },
   "57eea2304a52": {
     "href": "https://ollama.com/library/rnj-1:8b-instruct-q8_0",
@@ -18,7 +31,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "3 days ago",
     "update_date": "2025-12-10",
     "context_window": "32K",
     "context_window_num": 32000,
@@ -31,7 +44,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "3 days ago",
     "update_date": "2025-12-10",
     "context_window": "32K",
     "context_window_num": 32000,
