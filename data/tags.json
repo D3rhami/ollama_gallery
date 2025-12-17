@@ -78916,5 +78916,258 @@
       "size_str": "48GB",
       "size_num": 48000000000
     }
+  },
+  "olmo-3.1": {
+    "223d4ec84d91": {
+      "href": "https://ollama.com/library/olmo-3.1:latest",
+      "name": "olmo-3.1:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "19GB",
+      "size_num": 19000000000
+    },
+    "a16b6a5be6cf": {
+      "href": "https://ollama.com/library/olmo-3.1:32b-instruct",
+      "name": "olmo-3.1:32b-instruct",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "19GB",
+      "size_num": 19000000000
+    },
+    "088dea22fc85": {
+      "href": "https://ollama.com/library/olmo-3.1:32b-instruct-q8_0",
+      "name": "olmo-3.1:32b-instruct-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "34GB",
+      "size_num": 34000000000
+    },
+    "b3d8212bddfb": {
+      "href": "https://ollama.com/library/olmo-3.1:32b-instruct-fp16",
+      "name": "olmo-3.1:32b-instruct-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "64GB",
+      "size_num": 64000000000
+    },
+    "3028211a2045": {
+      "href": "https://ollama.com/library/olmo-3.1:32b-think-q8_0",
+      "name": "olmo-3.1:32b-think-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "34GB",
+      "size_num": 34000000000
+    },
+    "3ce9adcd167e": {
+      "href": "https://ollama.com/library/olmo-3.1:32b-think-fp16",
+      "name": "olmo-3.1:32b-think-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "64GB",
+      "size_num": 64000000000
+    }
+  },
+  "nemotron-3-nano": {
+    "b725f1117407": {
+      "href": "https://ollama.com/library/nemotron-3-nano:latest",
+      "name": "nemotron-3-nano:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "20 hours ago",
+      "update_date": "2025-12-16",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "24GB",
+      "size_num": 24000000000
+    },
+    "a98df31bcc4a": {
+      "href": "https://ollama.com/library/nemotron-3-nano:30b-a3b-q8_0",
+      "name": "nemotron-3-nano:30b-a3b-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "20 hours ago",
+      "update_date": "2025-12-16",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "34GB",
+      "size_num": 34000000000
+    },
+    "69eb03c51301": {
+      "href": "https://ollama.com/library/nemotron-3-nano:30b-a3b-fp16",
+      "name": "nemotron-3-nano:30b-a3b-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "20 hours ago",
+      "update_date": "2025-12-16",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "63GB",
+      "size_num": 63000000000
+    },
+    "01d0d069a149": {
+      "href": "https://ollama.com/library/nemotron-3-nano:30b-cloud",
+      "name": "nemotron-3-nano:30b-cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "20 hours ago",
+      "update_date": "2025-12-16",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "-",
+      "size_num": 0
+    }
+  },
+  "olmo-3": {
+    "b8d4c92ac9c1": {
+      "href": "https://ollama.com/library/olmo-3:latest",
+      "name": "olmo-3:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "4.5GB",
+      "size_num": 4500000000
+    },
+    "e9f1ab1d201f": {
+      "href": "https://ollama.com/library/olmo-3:32b",
+      "name": "olmo-3:32b",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "20 hours ago",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "19GB",
+      "size_num": 19000000000
+    },
+    "ea72df8c85d7": {
+      "href": "https://ollama.com/library/olmo-3:7b-instruct",
+      "name": "olmo-3:7b-instruct",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "4.5GB",
+      "size_num": 4500000000
+    },
+    "d40368740fe9": {
+      "href": "https://ollama.com/library/olmo-3:7b-instruct-q8_0",
+      "name": "olmo-3:7b-instruct-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "7.8GB",
+      "size_num": 7800000000
+    },
+    "10bc19cdab78": {
+      "href": "https://ollama.com/library/olmo-3:7b-instruct-fp16",
+      "name": "olmo-3:7b-instruct-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "15GB",
+      "size_num": 15000000000
+    },
+    "84ada4103830": {
+      "href": "https://ollama.com/library/olmo-3:7b-think-q8_0",
+      "name": "olmo-3:7b-think-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "7.8GB",
+      "size_num": 7800000000
+    },
+    "2ab176791f8c": {
+      "href": "https://ollama.com/library/olmo-3:7b-think-fp16",
+      "name": "olmo-3:7b-think-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "15GB",
+      "size_num": 15000000000
+    },
+    "029b051ac27f": {
+      "href": "https://ollama.com/library/olmo-3:32b-think-q8_0",
+      "name": "olmo-3:32b-think-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "34GB",
+      "size_num": 34000000000
+    },
+    "19507f95f179": {
+      "href": "https://ollama.com/library/olmo-3:32b-think-fp16",
+      "name": "olmo-3:32b-think-fp16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2025-12-16",
+      "context_window": "64K",
+      "context_window_num": 64000,
+      "size_str": "64GB",
+      "size_num": 64000000000
+    }
   }
 }

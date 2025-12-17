@@ -1,0 +1,54 @@
+{
+  "b725f1117407": {
+    "href": "https://ollama.com/library/nemotron-3-nano:latest",
+    "name": "nemotron-3-nano:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "20 hours ago",
+    "update_date": "2025-12-16",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "24GB",
+    "size_num": 24000000000
+  },
+  "a98df31bcc4a": {
+    "href": "https://ollama.com/library/nemotron-3-nano:30b-a3b-q8_0",
+    "name": "nemotron-3-nano:30b-a3b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "20 hours ago",
+    "update_date": "2025-12-16",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "34GB",
+    "size_num": 34000000000
+  },
+  "69eb03c51301": {
+    "href": "https://ollama.com/library/nemotron-3-nano:30b-a3b-fp16",
+    "name": "nemotron-3-nano:30b-a3b-fp16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "20 hours ago",
+    "update_date": "2025-12-16",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "63GB",
+    "size_num": 63000000000
+  },
+  "01d0d069a149": {
+    "href": "https://ollama.com/library/nemotron-3-nano:30b-cloud",
+    "name": "nemotron-3-nano:30b-cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "20 hours ago",
+    "update_date": "2025-12-16",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "-",
+    "size_num": 0
+  }
+}
