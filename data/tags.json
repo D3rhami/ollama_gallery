@@ -78924,7 +78924,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -78937,7 +78937,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -78950,7 +78950,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -78963,7 +78963,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -78976,7 +78976,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -78989,7 +78989,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79004,8 +79004,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "20 hours ago",
-      "update_date": "2025-12-16",
+      "updated_str": "yesterday",
+      "update_date": "2025-12-17",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "24GB",
@@ -79017,8 +79017,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "20 hours ago",
-      "update_date": "2025-12-16",
+      "updated_str": "yesterday",
+      "update_date": "2025-12-17",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "34GB",
@@ -79030,8 +79030,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "20 hours ago",
-      "update_date": "2025-12-16",
+      "updated_str": "yesterday",
+      "update_date": "2025-12-17",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "63GB",
@@ -79043,8 +79043,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "20 hours ago",
-      "update_date": "2025-12-16",
+      "updated_str": "yesterday",
+      "update_date": "2025-12-17",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "-",
@@ -79058,7 +79058,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79071,8 +79071,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "20 hours ago",
-      "update_date": "2025-12-16",
+      "updated_str": "yesterday",
+      "update_date": "2025-12-17",
       "context_window": "64K",
       "context_window_num": 64000,
       "size_str": "19GB",
@@ -79084,7 +79084,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79097,7 +79097,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79110,7 +79110,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79123,7 +79123,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79136,7 +79136,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79149,7 +79149,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
@@ -79162,12 +79162,27 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2025-12-16",
       "context_window": "64K",
       "context_window_num": 64000,
       "size_str": "64GB",
       "size_num": 64000000000
+    }
+  },
+  "gemini-3-flash-preview": {
+    "436200142af2": {
+      "href": "https://ollama.com/library/gemini-3-flash-preview:cloud",
+      "name": "gemini-3-flash-preview:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "7 hours ago",
+      "update_date": "2025-12-17",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "-",
+      "size_num": 0
     }
   }
 }
