@@ -8,13 +8,27 @@
     "parameters": [
       "30b"
     ],
-    "pull_str": "18.3K",
-    "pull": 18300,
+    "pull_str": "24.4K",
+    "pull": 24400,
     "tag_count": 4,
-    "updated": "yesterday",
+    "updated": "2 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/nemotron-3-nano",
     "popularity": 1
+  },
+  "functiongemma": {
+    "description": "FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.",
+    "capabilities": [],
+    "parameters": [
+      "270m"
+    ],
+    "pull_str": "314",
+    "pull": 314,
+    "tag_count": 2,
+    "updated": "19 hours ago",
+    "update_date": "2025-12-18",
+    "link": "https://ollama.com/library/functiongemma",
+    "popularity": 2
   },
   "olmo-3": {
     "description": "Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.",
@@ -23,13 +37,13 @@
       "7b",
       "32b"
     ],
-    "pull_str": "3,951",
-    "pull": 3951,
+    "pull_str": "5,539",
+    "pull": 5539,
     "tag_count": 9,
-    "updated": "yesterday",
+    "updated": "2 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/olmo-3",
-    "popularity": 2
+    "popularity": 3
   },
   "gemini-3-flash-preview": {
     "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
@@ -38,13 +52,13 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "293",
-    "pull": 293,
+    "pull_str": "1,497",
+    "pull": 1497,
     "tag_count": 1,
-    "updated": "7 hours ago",
-    "update_date": "2025-12-17",
+    "updated": "yesterday",
+    "update_date": "2025-12-18",
     "link": "https://ollama.com/library/gemini-3-flash-preview",
-    "popularity": 3
+    "popularity": 4
   },
   "devstral-small-2": {
     "description": "24B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
@@ -55,13 +69,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "37.6K",
-    "pull": 37600,
+    "pull_str": "39.7K",
+    "pull": 39700,
     "tag_count": "6",
-    "updated": "4 days ago",
+    "updated": "5 days ago",
     "update_date": "2025-12-14",
     "link": "https://ollama.com/library/devstral-small-2",
-    "popularity": 4
+    "popularity": 5
   },
   "devstral-2": {
     "description": "123B model that excels at using tools to explore codebases, editing multiple files and power software engineering agents.",
@@ -71,13 +85,13 @@
     "parameters": [
       "123b"
     ],
-    "pull_str": "8,320",
-    "pull": 8320,
+    "pull_str": "9,270",
+    "pull": 9270,
     "tag_count": "6",
-    "updated": "6 days ago",
+    "updated": "1 week ago",
     "update_date": "2025-12-12",
     "link": "https://ollama.com/library/devstral-2",
-    "popularity": 5
+    "popularity": 6
   },
   "ministral-3": {
     "description": "The Ministral 3 family is designed for edge deployment, capable of running on a wide range of hardware.",
@@ -90,13 +104,13 @@
       "8b",
       "14b"
     ],
-    "pull_str": "106.1K",
-    "pull": 106100,
+    "pull_str": "110.9K",
+    "pull": 110900,
     "tag_count": "16",
-    "updated": "5 days ago",
+    "updated": "6 days ago",
     "update_date": "2025-12-13",
     "link": "https://ollama.com/library/ministral-3",
-    "popularity": 6
+    "popularity": 7
   },
   "qwen3-vl": {
     "description": "The most powerful vision-language model in the Qwen model family to date.",
@@ -112,13 +126,13 @@
       "32b",
       "235b"
     ],
-    "pull_str": "787.2K",
-    "pull": 787200,
+    "pull_str": "794.9K",
+    "pull": 794900,
     "tag_count": "59",
     "updated": "1 month ago",
-    "update_date": "2025-11-18",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/qwen3-vl",
-    "popularity": 7
+    "popularity": 8
   },
   "gpt-oss": {
     "description": "OpenAI’s open-weight models designed for powerful reasoning, agentic tasks, and versatile developer use cases.",
@@ -134,9 +148,9 @@
     "pull": 5300000,
     "tag_count": "5",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/gpt-oss",
-    "popularity": 8
+    "popularity": 9
   },
   "deepseek-r1": {
     "description": "DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.",
@@ -153,13 +167,13 @@
       "70b",
       "671b"
     ],
-    "pull_str": "74.4M",
-    "pull": 74400000,
+    "pull_str": "74.5M",
+    "pull": 74500000,
     "tag_count": "35",
     "updated": "5 months ago",
-    "update_date": "2025-07-18",
+    "update_date": "2025-07-19",
     "link": "https://ollama.com/library/deepseek-r1",
-    "popularity": 9
+    "popularity": 10
   },
   "qwen3-coder": {
     "description": "Alibaba's performant long context models for agentic and coding tasks.",
@@ -174,9 +188,9 @@
     "pull": 1300000,
     "tag_count": "10",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/qwen3-coder",
-    "popularity": 10
+    "popularity": 11
   },
   "gemma3": {
     "description": "The current, most capable model that runs on a single GPU.",
@@ -190,13 +204,13 @@
       "12b",
       "27b"
     ],
-    "pull_str": "28.3M",
-    "pull": 28300000,
+    "pull_str": "28.4M",
+    "pull": 28400000,
     "tag_count": "29",
     "updated": "1 week ago",
-    "update_date": "2025-12-11",
+    "update_date": "2025-12-12",
     "link": "https://ollama.com/library/gemma3",
-    "popularity": 11
+    "popularity": 12
   },
   "llama3.1": {
     "description": "Llama 3.1 is a new state-of-the-art model from Meta available in 8B, 70B and 405B parameter sizes.",
@@ -212,9 +226,9 @@
     "pull": 107700000,
     "tag_count": "93",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3.1",
-    "popularity": 12
+    "popularity": 13
   },
   "llama3.2": {
     "description": "Meta's Llama 3.2 goes small with 1B and 3B models.",
@@ -225,13 +239,13 @@
       "1b",
       "3b"
     ],
-    "pull_str": "49.9M",
-    "pull": 49900000,
+    "pull_str": "50M",
+    "pull": 50000000,
     "tag_count": "63",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3.2",
-    "popularity": 13
+    "popularity": 14
   },
   "nomic-embed-text": {
     "description": "A high-performing open embedding model with a large token context window.",
@@ -243,9 +257,9 @@
     "pull": 47900000,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nomic-embed-text",
-    "popularity": 14
+    "popularity": 15
   },
   "mistral": {
     "description": "The 7B model released by Mistral AI, updated to version 0.3.",
@@ -255,13 +269,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "23.2M",
-    "pull": 23200000,
+    "pull_str": "23.3M",
+    "pull": 23300000,
     "tag_count": "84",
     "updated": "5 months ago",
-    "update_date": "2025-07-18",
+    "update_date": "2025-07-19",
     "link": "https://ollama.com/library/mistral",
-    "popularity": 15
+    "popularity": 16
   },
   "qwen2.5": {
     "description": "Qwen2.5 models are pretrained on Alibaba's latest large-scale dataset, encompassing up to 18 trillion tokens. The model supports up to 128K tokens and has multilingual support.",
@@ -281,23 +295,8 @@
     "pull": 18200000,
     "tag_count": "133",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/qwen2.5",
-    "popularity": 16
-  },
-  "phi3": {
-    "description": "Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.",
-    "capabilities": [],
-    "parameters": [
-      "3.8b",
-      "14b"
-    ],
-    "pull_str": "15.2M",
-    "pull": 15200000,
-    "tag_count": "72",
-    "updated": "1 year ago",
-    "update_date": "2024-12-18",
-    "link": "https://ollama.com/library/phi3",
     "popularity": 17
   },
   "qwen3": {
@@ -320,9 +319,24 @@
     "pull": 15200000,
     "tag_count": "58",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/qwen3",
     "popularity": 18
+  },
+  "phi3": {
+    "description": "Phi-3 is a family of lightweight 3B (Mini) and 14B (Medium) state-of-the-art open models by Microsoft.",
+    "capabilities": [],
+    "parameters": [
+      "3.8b",
+      "14b"
+    ],
+    "pull_str": "15.2M",
+    "pull": 15200000,
+    "tag_count": "72",
+    "updated": "1 year ago",
+    "update_date": "2024-12-19",
+    "link": "https://ollama.com/library/phi3",
+    "popularity": 19
   },
   "llama3": {
     "description": "Meta Llama 3: The most capable openly available LLM to date",
@@ -335,9 +349,9 @@
     "pull": 13000000,
     "tag_count": "68",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3",
-    "popularity": 19
+    "popularity": 20
   },
   "llava": {
     "description": "🌋 LLaVA is a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding. Updated to version 1.6.",
@@ -353,9 +367,9 @@
     "pull": 11900000,
     "tag_count": "98",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llava",
-    "popularity": 20
+    "popularity": 21
   },
   "gemma2": {
     "description": "Google Gemma 2 is a high-performing and efficient model available in three sizes: 2B, 9B, and 27B.",
@@ -365,13 +379,13 @@
       "9b",
       "27b"
     ],
-    "pull_str": "11.4M",
-    "pull": 11400000,
+    "pull_str": "11.5M",
+    "pull": 11500000,
     "tag_count": "94",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/gemma2",
-    "popularity": 21
+    "popularity": 22
   },
   "qwen2.5-coder": {
     "description": "The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.",
@@ -386,13 +400,13 @@
       "14b",
       "32b"
     ],
-    "pull_str": "9.2M",
-    "pull": 9200000,
+    "pull_str": "9.3M",
+    "pull": 9300000,
     "tag_count": "199",
     "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "update_date": "2025-06-19",
     "link": "https://ollama.com/library/qwen2.5-coder",
-    "popularity": 22
+    "popularity": 23
   },
   "phi4": {
     "description": "Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.",
@@ -404,9 +418,9 @@
     "pull": 6600000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/phi4",
-    "popularity": 23
+    "popularity": 24
   },
   "mxbai-embed-large": {
     "description": "State-of-the-art large embedding model from mixedbread.ai",
@@ -420,9 +434,9 @@
     "pull": 5700000,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/mxbai-embed-large",
-    "popularity": 24
+    "popularity": 25
   },
   "gemma": {
     "description": "Gemma is a family of lightweight, state-of-the-art open models built by Google DeepMind. Updated to version 1.1",
@@ -435,9 +449,9 @@
     "pull": 5600000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/gemma",
-    "popularity": 25
+    "popularity": 26
   },
   "qwen": {
     "description": "Qwen 1.5 is a series of large language models by Alibaba Cloud spanning from 0.5B to 110B parameters",
@@ -456,9 +470,9 @@
     "pull": 5100000,
     "tag_count": "379",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/qwen",
-    "popularity": 26
+    "popularity": 27
   },
   "llama2": {
     "description": "Llama 2 is a collection of foundation language models ranging from 7B to 70B parameters.",
@@ -472,9 +486,9 @@
     "pull": 4700000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama2",
-    "popularity": 27
+    "popularity": 28
   },
   "qwen2": {
     "description": "Qwen2 is a new series of large language models from Alibaba group",
@@ -491,9 +505,9 @@
     "pull": 4500000,
     "tag_count": "97",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/qwen2",
-    "popularity": 28
+    "popularity": 29
   },
   "minicpm-v": {
     "description": "A series of multimodal LLMs (MLLMs) designed for vision-language understanding.",
@@ -507,9 +521,9 @@
     "pull": 4100000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/minicpm-v",
-    "popularity": 29
+    "popularity": 30
   },
   "codellama": {
     "description": "A large language model that can use text prompts to generate and discuss code.",
@@ -524,9 +538,9 @@
     "pull": 3700000,
     "tag_count": "199",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/codellama",
-    "popularity": 30
+    "popularity": 31
   },
   "dolphin3": {
     "description": "Dolphin 3.0 Llama 3.1 8B 🐬 is the next generation of the Dolphin series of instruct-tuned models designed to be the ultimate general purpose local model, enabling coding, math, agentic, function calling, and general use cases.",
@@ -538,9 +552,9 @@
     "pull": 3500000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/dolphin3",
-    "popularity": 31
+    "popularity": 32
   },
   "olmo2": {
     "description": "OLMo 2 is a new family of 7B and 13B models trained on up to 5T tokens. These models are on par with or better than equivalently sized fully open models, and competitive with open-weight models such as Llama 3.1 on English academic benchmarks.",
@@ -553,9 +567,9 @@
     "pull": 3400000,
     "tag_count": "9",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/olmo2",
-    "popularity": 32
+    "popularity": 33
   },
   "llama3.2-vision": {
     "description": "Llama 3.2 Vision is a collection of instruction-tuned image reasoning generative models in 11B and 90B sizes.",
@@ -569,10 +583,10 @@
     "pull_str": "3.3M",
     "pull": 3300000,
     "tag_count": "9",
-    "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "updated": "7 months ago",
+    "update_date": "2025-05-19",
     "link": "https://ollama.com/library/llama3.2-vision",
-    "popularity": 33
+    "popularity": 34
   },
   "tinyllama": {
     "description": "The TinyLlama project is an open endeavor to train a compact 1.1B Llama model on 3 trillion tokens.",
@@ -584,9 +598,9 @@
     "pull": 3200000,
     "tag_count": "36",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/tinyllama",
-    "popularity": 34
+    "popularity": 35
   },
   "mistral-nemo": {
     "description": "A state-of-the-art 12B model with 128k context length, built by Mistral AI in collaboration with NVIDIA.",
@@ -596,13 +610,13 @@
     "parameters": [
       "12b"
     ],
-    "pull_str": "3M",
-    "pull": 3000000,
+    "pull_str": "3.1M",
+    "pull": 3100000,
     "tag_count": "17",
     "updated": "4 months ago",
-    "update_date": "2025-08-18",
+    "update_date": "2025-08-19",
     "link": "https://ollama.com/library/mistral-nemo",
-    "popularity": 35
+    "popularity": 36
   },
   "deepseek-v3": {
     "description": "A strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.",
@@ -610,13 +624,13 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "2.9M",
-    "pull": 2900000,
+    "pull_str": "3M",
+    "pull": 3000000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/deepseek-v3",
-    "popularity": 36
+    "popularity": 37
   },
   "bge-m3": {
     "description": "BGE-M3 is a new model from BAAI distinguished for its versatility in Multi-Functionality, Multi-Linguality, and Multi-Granularity.",
@@ -630,9 +644,9 @@
     "pull": 2900000,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/bge-m3",
-    "popularity": 37
+    "popularity": 38
   },
   "llama3.3": {
     "description": "New state of the art 70B model. Llama 3.3 70B offers similar performance compared to the Llama 3.1 405B model.",
@@ -646,9 +660,9 @@
     "pull": 2800000,
     "tag_count": "14",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3.3",
-    "popularity": 38
+    "popularity": 39
   },
   "deepseek-coder": {
     "description": "DeepSeek Coder is a capable coding model trained on two trillion code and natural language tokens.",
@@ -662,9 +676,9 @@
     "pull": 2300000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/deepseek-coder",
-    "popularity": 39
+    "popularity": 40
   },
   "smollm2": {
     "description": "SmolLM2 is a family of compact language models available in three size: 135M, 360M, and 1.7B parameters.",
@@ -680,9 +694,9 @@
     "pull": 2200000,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/smollm2",
-    "popularity": 40
+    "popularity": 41
   },
   "mistral-small": {
     "description": "Mistral Small 3 sets a new benchmark in the “small” Large Language Models category below 70B.",
@@ -697,9 +711,9 @@
     "pull": 2200000,
     "tag_count": "21",
     "updated": "10 months ago",
-    "update_date": "2025-02-18",
+    "update_date": "2025-02-19",
     "link": "https://ollama.com/library/mistral-small",
-    "popularity": 41
+    "popularity": 42
   },
   "all-minilm": {
     "description": "Embedding models on very large sentence level datasets.",
@@ -714,9 +728,9 @@
     "pull": 2100000,
     "tag_count": "10",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/all-minilm",
-    "popularity": 42
+    "popularity": 43
   },
   "llava-llama3": {
     "description": "A LLaVA model fine-tuned from Llama 3 Instruct with better scores in several benchmarks.",
@@ -730,9 +744,9 @@
     "pull": 2100000,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llava-llama3",
-    "popularity": 43
+    "popularity": 44
   },
   "qwq": {
     "description": "QwQ is the reasoning model of the Qwen series.",
@@ -746,9 +760,9 @@
     "pull": 1900000,
     "tag_count": "8",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/qwq",
-    "popularity": 44
+    "popularity": 45
   },
   "codegemma": {
     "description": "CodeGemma is a collection of powerful, lightweight models that can perform a variety of coding tasks like fill-in-the-middle code completion, code generation, natural language understanding, mathematical reasoning, and instruction following.",
@@ -761,9 +775,9 @@
     "pull": 1700000,
     "tag_count": "85",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/codegemma",
-    "popularity": 45
+    "popularity": 46
   },
   "starcoder2": {
     "description": "StarCoder2 is the next generation of transparently trained open code LLMs that comes in three sizes: 3B, 7B and 15B parameters.",
@@ -777,9 +791,9 @@
     "pull": 1600000,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/starcoder2",
-    "popularity": 46
+    "popularity": 47
   },
   "falcon3": {
     "description": "A family of efficient AI models under 10B parameters performant in science, math, and coding through innovative training techniques.",
@@ -794,9 +808,9 @@
     "pull": 1600000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/falcon3",
-    "popularity": 47
+    "popularity": 48
   },
   "granite3.1-moe": {
     "description": "The IBM Granite 1B and 3B models are long-context mixture of experts (MoE) Granite models from IBM designed for low latency usage.",
@@ -811,9 +825,9 @@
     "pull": 1500000,
     "tag_count": "33",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/granite3.1-moe",
-    "popularity": 48
+    "popularity": 49
   },
   "mixtral": {
     "description": "A set of Mixture of Experts (MoE) model with open weights by Mistral AI in 8x7b and 8x22b parameter sizes.",
@@ -828,9 +842,9 @@
     "pull": 1500000,
     "tag_count": "70",
     "updated": "12 months ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/mixtral",
-    "popularity": 49
+    "popularity": 50
   },
   "llama2-uncensored": {
     "description": "Uncensored Llama 2 model by George Sung and Jarrad Hope.",
@@ -843,9 +857,9 @@
     "pull": 1500000,
     "tag_count": "34",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/llama2-uncensored",
-    "popularity": 50
+    "popularity": 51
   },
   "orca-mini": {
     "description": "A general-purpose model ranging from 3 billion parameters to 70 billion, suitable for entry-level hardware.",
@@ -860,9 +874,9 @@
     "pull": 1300000,
     "tag_count": "119",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/orca-mini",
-    "popularity": 51
+    "popularity": 52
   },
   "snowflake-arctic-embed": {
     "description": "A suite of text embedding models by Snowflake, optimized for performance.",
@@ -880,9 +894,9 @@
     "pull": 1300000,
     "tag_count": "16",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/snowflake-arctic-embed",
-    "popularity": 52
+    "popularity": 53
   },
   "deepseek-coder-v2": {
     "description": "An open-source Mixture-of-Experts code language model that achieves performance comparable to GPT4-Turbo in code-specific tasks.",
@@ -895,9 +909,9 @@
     "pull": 1300000,
     "tag_count": "64",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/deepseek-coder-v2",
-    "popularity": 53
+    "popularity": 54
   },
   "qwen2.5vl": {
     "description": "Flagship vision-language model of Qwen and also a significant leap from the previous Qwen2-VL.",
@@ -913,10 +927,10 @@
     "pull_str": "1.1M",
     "pull": 1100000,
     "tag_count": "17",
-    "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "updated": "7 months ago",
+    "update_date": "2025-05-19",
     "link": "https://ollama.com/library/qwen2.5vl",
-    "popularity": 54
+    "popularity": 55
   },
   "cogito": {
     "description": "Cogito v1 Preview is a family of hybrid reasoning models by Deep Cogito that outperform the best available open models of the same size, including counterparts from LLaMA, DeepSeek, and Qwen across most standard benchmarks.",
@@ -930,13 +944,13 @@
       "32b",
       "70b"
     ],
-    "pull_str": "939.3K",
-    "pull": 939300,
+    "pull_str": "945.5K",
+    "pull": 945500,
     "tag_count": "20",
     "updated": "8 months ago",
-    "update_date": "2025-04-18",
+    "update_date": "2025-04-19",
     "link": "https://ollama.com/library/cogito",
-    "popularity": 55
+    "popularity": 56
   },
   "gemma3n": {
     "description": "Gemma 3n models are designed for efficient execution on everyday devices such as laptops, tablets or phones.",
@@ -945,13 +959,13 @@
       "e2b",
       "e4b"
     ],
-    "pull_str": "907K",
-    "pull": 907000,
+    "pull_str": "911.4K",
+    "pull": 911400,
     "tag_count": "9",
     "updated": "5 months ago",
-    "update_date": "2025-07-18",
+    "update_date": "2025-07-19",
     "link": "https://ollama.com/library/gemma3n",
-    "popularity": 56
+    "popularity": 57
   },
   "llama4": {
     "description": "Meta's latest collection of multimodal models.",
@@ -963,13 +977,13 @@
       "16x17b",
       "128x17b"
     ],
-    "pull_str": "899.4K",
-    "pull": 899400,
+    "pull_str": "903.1K",
+    "pull": 903100,
     "tag_count": "11",
     "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "update_date": "2025-06-19",
     "link": "https://ollama.com/library/llama4",
-    "popularity": 57
+    "popularity": 58
   },
   "mistral-small3.2": {
     "description": "An update to Mistral Small that improves on function calling, instruction following, and less repetition errors.",
@@ -980,13 +994,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "889.2K",
-    "pull": 889200,
+    "pull_str": "891.7K",
+    "pull": 891700,
     "tag_count": "5",
     "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "update_date": "2025-06-19",
     "link": "https://ollama.com/library/mistral-small3.2",
-    "popularity": 58
+    "popularity": 59
   },
   "deepscaler": {
     "description": "A fine-tuned version of Deepseek-R1-Distilled-Qwen-1.5B that surpasses the performance of OpenAI’s o1-preview with just 1.5B parameters on popular math evaluations.",
@@ -994,13 +1008,13 @@
     "parameters": [
       "1.5b"
     ],
-    "pull_str": "861.8K",
-    "pull": 861800,
+    "pull_str": "867.9K",
+    "pull": 867900,
     "tag_count": "5",
     "updated": "10 months ago",
-    "update_date": "2025-02-18",
+    "update_date": "2025-02-19",
     "link": "https://ollama.com/library/deepscaler",
-    "popularity": 59
+    "popularity": 60
   },
   "phi4-reasoning": {
     "description": "Phi 4 reasoning and reasoning plus are 14-billion parameter open-weight reasoning models that rival much larger models on complex reasoning tasks.",
@@ -1008,13 +1022,13 @@
     "parameters": [
       "14b"
     ],
-    "pull_str": "858.1K",
-    "pull": 858100,
+    "pull_str": "862.8K",
+    "pull": 862800,
     "tag_count": "9",
     "updated": "7 months ago",
-    "update_date": "2025-05-18",
+    "update_date": "2025-05-19",
     "link": "https://ollama.com/library/phi4-reasoning",
-    "popularity": 60
+    "popularity": 61
   },
   "dolphin-phi": {
     "description": "2.7B uncensored Dolphin model by Eric Hartford, based on the Phi language model by Microsoft Research.",
@@ -1022,13 +1036,13 @@
     "parameters": [
       "2.7b"
     ],
-    "pull_str": "846.4K",
-    "pull": 846400,
+    "pull_str": "852.6K",
+    "pull": 852600,
     "tag_count": "15",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dolphin-phi",
-    "popularity": 61
+    "popularity": 62
   },
   "magistral": {
     "description": "Magistral is a small, efficient reasoning model with 24B parameters.",
@@ -1039,13 +1053,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "825.2K",
-    "pull": 825200,
+    "pull_str": "829.5K",
+    "pull": 829500,
     "tag_count": "5",
     "updated": "6 months ago",
-    "update_date": "2025-06-18",
+    "update_date": "2025-06-19",
     "link": "https://ollama.com/library/magistral",
-    "popularity": 62
+    "popularity": 63
   },
   "phi": {
     "description": "Phi-2: a 2.7B language model by Microsoft Research that demonstrates outstanding reasoning and language understanding capabilities.",
@@ -1053,13 +1067,13 @@
     "parameters": [
       "2.7b"
     ],
-    "pull_str": "802.6K",
-    "pull": 802600,
+    "pull_str": "804.8K",
+    "pull": 804800,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/phi",
-    "popularity": 63
+    "popularity": 64
   },
   "dolphin-mixtral": {
     "description": "Uncensored, 8x7b and 8x22b fine-tuned models based on the Mixtral mixture of experts models that excels at coding tasks. Created by Eric Hartford.",
@@ -1068,13 +1082,13 @@
       "8x7b",
       "8x22b"
     ],
-    "pull_str": "774.1K",
-    "pull": 774100,
+    "pull_str": "774.9K",
+    "pull": 774900,
     "tag_count": "70",
     "updated": "12 months ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dolphin-mixtral",
-    "popularity": 64
+    "popularity": 65
   },
   "granite3.3": {
     "description": "IBM Granite 2B and 8B models are 128K context length language models that have been fine-tuned for improved reasoning and instruction-following capabilities.",
@@ -1085,13 +1099,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "771K",
-    "pull": 771000,
+    "pull_str": "773.2K",
+    "pull": 773200,
     "tag_count": "3",
     "updated": "8 months ago",
-    "update_date": "2025-04-18",
+    "update_date": "2025-04-19",
     "link": "https://ollama.com/library/granite3.3",
-    "popularity": 65
+    "popularity": 66
   },
   "phi4-mini": {
     "description": "Phi-4-mini brings significant enhancements in multilingual support, reasoning, and mathematics, and now, the long-awaited function calling feature is finally supported.",
@@ -1101,13 +1115,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "646.4K",
-    "pull": 646400,
+    "pull_str": "649.8K",
+    "pull": 649800,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/phi4-mini",
-    "popularity": 66
+    "popularity": 67
   },
   "dolphin-llama3": {
     "description": "Dolphin 2.9 is a new model with 8B and 70B sizes by Eric Hartford based on Llama 3 that has a variety of instruction, conversational, and coding skills.",
@@ -1116,13 +1130,13 @@
       "8b",
       "70b"
     ],
-    "pull_str": "635.6K",
-    "pull": 635600,
+    "pull_str": "638.1K",
+    "pull": 638100,
     "tag_count": "53",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dolphin-llama3",
-    "popularity": 67
+    "popularity": 68
   },
   "openthinker": {
     "description": "A fully open-source family of reasoning models built using a dataset derived by distilling DeepSeek-R1.",
@@ -1131,13 +1145,13 @@
       "7b",
       "32b"
     ],
-    "pull_str": "631.8K",
-    "pull": 631800,
+    "pull_str": "632.8K",
+    "pull": 632800,
     "tag_count": "15",
     "updated": "8 months ago",
-    "update_date": "2025-04-18",
+    "update_date": "2025-04-19",
     "link": "https://ollama.com/library/openthinker",
-    "popularity": 68
+    "popularity": 69
   },
   "codestral": {
     "description": "Codestral is Mistral AI’s first-ever code model designed for code generation tasks.",
@@ -1145,13 +1159,13 @@
     "parameters": [
       "22b"
     ],
-    "pull_str": "593.8K",
-    "pull": 593800,
+    "pull_str": "595.6K",
+    "pull": 595600,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/codestral",
-    "popularity": 69
+    "popularity": 70
   },
   "smollm": {
     "description": "🪐 A family of small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset.",
@@ -1161,13 +1175,13 @@
       "360m",
       "1.7b"
     ],
-    "pull_str": "570.3K",
-    "pull": 570300,
+    "pull_str": "574.1K",
+    "pull": 574100,
     "tag_count": "94",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/smollm",
-    "popularity": 70
+    "popularity": 71
   },
   "granite3.2-vision": {
     "description": "A compact and efficient vision-language model, specifically designed for visual document understanding, enabling automated content extraction from tables, charts, infographics, plots, diagrams, and more.",
@@ -1178,13 +1192,13 @@
     "parameters": [
       "2b"
     ],
-    "pull_str": "557.2K",
-    "pull": 557200,
+    "pull_str": "560.1K",
+    "pull": 560100,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/granite3.2-vision",
-    "popularity": 71
+    "popularity": 72
   },
   "devstral": {
     "description": "Devstral: the best open source model for coding agents",
@@ -1194,13 +1208,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "545.5K",
-    "pull": 545500,
+    "pull_str": "548.6K",
+    "pull": 548600,
     "tag_count": "5",
     "updated": "5 months ago",
-    "update_date": "2025-07-18",
+    "update_date": "2025-07-19",
     "link": "https://ollama.com/library/devstral",
-    "popularity": 72
+    "popularity": 73
   },
   "wizardlm2": {
     "description": "State of the art large language model from Microsoft AI with improved performance on complex chat, multilingual, reasoning and agent use cases.",
@@ -1209,13 +1223,13 @@
       "7b",
       "8x22b"
     ],
-    "pull_str": "480.4K",
-    "pull": 480400,
+    "pull_str": "480.9K",
+    "pull": 480900,
     "tag_count": "22",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/wizardlm2",
-    "popularity": 73
+    "popularity": 74
   },
   "dolphin-mistral": {
     "description": "The uncensored Dolphin model based on Mistral that excels at coding tasks. Updated to version 2.8.",
@@ -1223,13 +1237,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "459.9K",
-    "pull": 459900,
+    "pull_str": "460.6K",
+    "pull": 460600,
     "tag_count": "120",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dolphin-mistral",
-    "popularity": 74
+    "popularity": 75
   },
   "deepcoder": {
     "description": "DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.",
@@ -1238,13 +1252,13 @@
       "1.5b",
       "14b"
     ],
-    "pull_str": "453.6K",
-    "pull": 453600,
+    "pull_str": "455.9K",
+    "pull": 455900,
     "tag_count": "9",
     "updated": "8 months ago",
-    "update_date": "2025-04-18",
+    "update_date": "2025-04-19",
     "link": "https://ollama.com/library/deepcoder",
-    "popularity": 75
+    "popularity": 76
   },
   "moondream": {
     "description": "moondream2 is a small vision language model designed to run efficiently on edge devices.",
@@ -1254,13 +1268,13 @@
     "parameters": [
       "1.8b"
     ],
-    "pull_str": "453.5K",
-    "pull": 453500,
+    "pull_str": "454.5K",
+    "pull": 454500,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/moondream",
-    "popularity": 76
+    "popularity": 77
   },
   "mistral-small3.1": {
     "description": "Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.",
@@ -1271,13 +1285,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "443.7K",
-    "pull": 443700,
+    "pull_str": "445.7K",
+    "pull": 445700,
     "tag_count": "5",
     "updated": "8 months ago",
-    "update_date": "2025-04-18",
+    "update_date": "2025-04-19",
     "link": "https://ollama.com/library/mistral-small3.1",
-    "popularity": 77
+    "popularity": 78
   },
   "command-r": {
     "description": "Command R is a Large Language Model optimized for conversational interaction and long context tasks.",
@@ -1287,13 +1301,13 @@
     "parameters": [
       "35b"
     ],
-    "pull_str": "425.8K",
-    "pull": 425800,
+    "pull_str": "426.9K",
+    "pull": 426900,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/command-r",
-    "popularity": 78
+    "popularity": 79
   },
   "granite-code": {
     "description": "A family of open foundation models by IBM for Code Intelligence",
@@ -1304,13 +1318,13 @@
       "20b",
       "34b"
     ],
-    "pull_str": "391.7K",
-    "pull": 391700,
+    "pull_str": "393.6K",
+    "pull": 393600,
     "tag_count": "162",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/granite-code",
-    "popularity": 79
+    "popularity": 80
   },
   "phi3.5": {
     "description": "A lightweight AI model with 3.8 billion parameters with performance overtaking similarly and larger sized models.",
@@ -1318,13 +1332,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "381.7K",
-    "pull": 381700,
+    "pull_str": "382.5K",
+    "pull": 382500,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/phi3.5",
-    "popularity": 80
+    "popularity": 81
   },
   "hermes3": {
     "description": "Hermes 3 is the latest version of the flagship Hermes series of LLMs by Nous Research",
@@ -1337,13 +1351,13 @@
       "70b",
       "405b"
     ],
-    "pull_str": "369.8K",
-    "pull": 369800,
+    "pull_str": "370.4K",
+    "pull": 370400,
     "tag_count": "65",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/hermes3",
-    "popularity": 81
+    "popularity": 82
   },
   "yi": {
     "description": "Yi 1.5 is a high-performing, bilingual language model.",
@@ -1353,13 +1367,13 @@
       "9b",
       "34b"
     ],
-    "pull_str": "333.2K",
-    "pull": 333200,
+    "pull_str": "333.7K",
+    "pull": 333700,
     "tag_count": "174",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/yi",
-    "popularity": 82
+    "popularity": 83
   },
   "embeddinggemma": {
     "description": "EmbeddingGemma is a 300M parameter embedding model from Google.",
@@ -1369,13 +1383,13 @@
     "parameters": [
       "300m"
     ],
-    "pull_str": "325.8K",
-    "pull": 325800,
+    "pull_str": "327.6K",
+    "pull": 327600,
     "tag_count": "5",
     "updated": "3 months ago",
-    "update_date": "2025-09-18",
+    "update_date": "2025-09-19",
     "link": "https://ollama.com/library/embeddinggemma",
-    "popularity": 83
+    "popularity": 84
   },
   "zephyr": {
     "description": "Zephyr is a series of fine-tuned versions of the Mistral and Mixtral models that are trained to act as helpful assistants.",
@@ -1384,13 +1398,13 @@
       "7b",
       "141b"
     ],
-    "pull_str": "316.5K",
-    "pull": 316500,
+    "pull_str": "317K",
+    "pull": 317000,
     "tag_count": "40",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/zephyr",
-    "popularity": 84
+    "popularity": 85
   },
   "exaone-deep": {
     "description": "EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.",
@@ -1400,13 +1414,13 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "311K",
-    "pull": 311000,
+    "pull_str": "312.6K",
+    "pull": 312600,
     "tag_count": "13",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/exaone-deep",
-    "popularity": 85
+    "popularity": 86
   },
   "mistral-large": {
     "description": "Mistral Large 2 is Mistral's new flagship model that is significantly more capable in code generation, mathematics, and reasoning with 128k context window and support for dozens of languages.",
@@ -1416,13 +1430,13 @@
     "parameters": [
       "123b"
     ],
-    "pull_str": "298.1K",
-    "pull": 298100,
+    "pull_str": "298.6K",
+    "pull": 298600,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/mistral-large",
-    "popularity": 86
+    "popularity": 87
   },
   "granite4": {
     "description": "Granite 4 features improved instruction following (IF) and tool-calling capabilities, making them more effective in enterprise applications.",
@@ -1434,13 +1448,13 @@
       "1b",
       "3b"
     ],
-    "pull_str": "293.7K",
-    "pull": 293700,
+    "pull_str": "295.7K",
+    "pull": 295700,
     "tag_count": "17",
     "updated": "1 month ago",
-    "update_date": "2025-11-18",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/granite4",
-    "popularity": 87
+    "popularity": 88
   },
   "wizard-vicuna-uncensored": {
     "description": "Wizard Vicuna Uncensored is a 7B, 13B, and 30B parameter model based on Llama 2 uncensored by Eric Hartford.",
@@ -1450,13 +1464,13 @@
       "13b",
       "30b"
     ],
-    "pull_str": "285K",
-    "pull": 285000,
+    "pull_str": "285.6K",
+    "pull": 285600,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/wizard-vicuna-uncensored",
-    "popularity": 88
+    "popularity": 89
   },
   "opencoder": {
     "description": "OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.",
@@ -1465,13 +1479,13 @@
       "1.5b",
       "8b"
     ],
-    "pull_str": "270.1K",
-    "pull": 270100,
+    "pull_str": "271.7K",
+    "pull": 271700,
     "tag_count": "9",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/opencoder",
-    "popularity": 89
+    "popularity": 90
   },
   "starcoder": {
     "description": "StarCoder is a code generation model trained on 80+ programming languages.",
@@ -1482,13 +1496,13 @@
       "7b",
       "15b"
     ],
-    "pull_str": "252.2K",
-    "pull": 252200,
+    "pull_str": "252.7K",
+    "pull": 252700,
     "tag_count": "100",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/starcoder",
-    "popularity": 90
+    "popularity": 91
   },
   "nous-hermes": {
     "description": "General use models based on Llama and Llama 2 from Nous Research.",
@@ -1497,13 +1511,13 @@
       "7b",
       "13b"
     ],
-    "pull_str": "247.7K",
-    "pull": 247700,
+    "pull_str": "248.1K",
+    "pull": 248100,
     "tag_count": "63",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/nous-hermes",
-    "popularity": 91
+    "popularity": 92
   },
   "falcon": {
     "description": "A large language model built by the Technology Innovation Institute (TII) for use in summarization, text generation, and chat bots.",
@@ -1513,13 +1527,13 @@
       "40b",
       "180b"
     ],
-    "pull_str": "238.3K",
-    "pull": 238300,
+    "pull_str": "238.8K",
+    "pull": 238800,
     "tag_count": "38",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/falcon",
-    "popularity": 92
+    "popularity": 93
   },
   "deepseek-llm": {
     "description": "An advanced language model crafted with 2 trillion bilingual tokens.",
@@ -1528,13 +1542,13 @@
       "7b",
       "67b"
     ],
-    "pull_str": "236.9K",
-    "pull": 236900,
+    "pull_str": "237.4K",
+    "pull": 237400,
     "tag_count": "64",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/deepseek-llm",
-    "popularity": 93
+    "popularity": 94
   },
   "openchat": {
     "description": "A family of open-source models trained on a wide variety of data, surpassing ChatGPT on various benchmarks. Updated to version 3.5-0106.",
@@ -1542,13 +1556,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "230.9K",
-    "pull": 230900,
+    "pull_str": "231.5K",
+    "pull": 231500,
     "tag_count": "50",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/openchat",
-    "popularity": 94
+    "popularity": 95
   },
   "vicuna": {
     "description": "General use chat model based on Llama and Llama 2 with 2K to 16K context sizes.",
@@ -1558,13 +1572,13 @@
       "13b",
       "33b"
     ],
-    "pull_str": "229.7K",
-    "pull": 229700,
+    "pull_str": "230.2K",
+    "pull": 230200,
     "tag_count": "111",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/vicuna",
-    "popularity": 95
+    "popularity": 96
   },
   "deepseek-v2": {
     "description": "A strong, economical, and efficient Mixture-of-Experts language model.",
@@ -1573,25 +1587,25 @@
       "16b",
       "236b"
     ],
-    "pull_str": "226.4K",
-    "pull": 226400,
+    "pull_str": "227K",
+    "pull": 227000,
     "tag_count": "34",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/deepseek-v2",
-    "popularity": 96
+    "popularity": 97
   },
   "openhermes": {
     "description": "OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "211.7K",
-    "pull": 211700,
+    "pull_str": "212.2K",
+    "pull": 212200,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/openhermes",
-    "popularity": 97
+    "popularity": 98
   },
   "codegeex4": {
     "description": "A versatile model for AI software development scenarios, including code completion.",
@@ -1599,13 +1613,13 @@
     "parameters": [
       "9b"
     ],
-    "pull_str": "211.3K",
-    "pull": 211300,
+    "pull_str": "211.8K",
+    "pull": 211800,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/codegeex4",
-    "popularity": 98
+    "popularity": 99
   },
   "mistral-openorca": {
     "description": "Mistral OpenOrca is a 7 billion parameter model, fine-tuned on top of the Mistral 7B model using the OpenOrca dataset.",
@@ -1613,13 +1627,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "210.9K",
-    "pull": 210900,
+    "pull_str": "211.3K",
+    "pull": 211300,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/mistral-openorca",
-    "popularity": 99
+    "popularity": 100
   },
   "codeqwen": {
     "description": "CodeQwen1.5 is a large language model pretrained on a large amount of code data.",
@@ -1627,13 +1641,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "209.5K",
-    "pull": 209500,
+    "pull_str": "210K",
+    "pull": 210000,
     "tag_count": "30",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/codeqwen",
-    "popularity": 100
+    "popularity": 101
   },
   "snowflake-arctic-embed2": {
     "description": "Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.",
@@ -1643,13 +1657,13 @@
     "parameters": [
       "568m"
     ],
-    "pull_str": "208.7K",
-    "pull": 208700,
+    "pull_str": "209.3K",
+    "pull": 209300,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/snowflake-arctic-embed2",
-    "popularity": 101
+    "popularity": 102
   },
   "deepseek-v3.1": {
     "description": "DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.",
@@ -1660,13 +1674,13 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "205.7K",
-    "pull": 205700,
+    "pull_str": "207.2K",
+    "pull": 207200,
     "tag_count": "8",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/deepseek-v3.1",
-    "popularity": 102
+    "popularity": 103
   },
   "command-r-plus": {
     "description": "Command R+ is a powerful, scalable large language model purpose-built to excel at real-world enterprise use cases.",
@@ -1676,13 +1690,13 @@
     "parameters": [
       "104b"
     ],
-    "pull_str": "203.5K",
-    "pull": 203500,
+    "pull_str": "204.1K",
+    "pull": 204100,
     "tag_count": "21",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/command-r-plus",
-    "popularity": 103
+    "popularity": 104
   },
   "qwen2-math": {
     "description": "Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).",
@@ -1692,13 +1706,13 @@
       "7b",
       "72b"
     ],
-    "pull_str": "198.2K",
-    "pull": 198200,
+    "pull_str": "198.7K",
+    "pull": 198700,
     "tag_count": "52",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/qwen2-math",
-    "popularity": 104
+    "popularity": 105
   },
   "tinydolphin": {
     "description": "An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.",
@@ -1706,27 +1720,12 @@
     "parameters": [
       "1.1b"
     ],
-    "pull_str": "193.9K",
-    "pull": 193900,
+    "pull_str": "194.5K",
+    "pull": 194500,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/tinydolphin",
-    "popularity": 105
-  },
-  "aya": {
-    "description": "Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.",
-    "capabilities": [],
-    "parameters": [
-      "8b",
-      "35b"
-    ],
-    "pull_str": "190.9K",
-    "pull": 190900,
-    "tag_count": "33",
-    "updated": "1 year ago",
-    "update_date": "2024-12-18",
-    "link": "https://ollama.com/library/aya",
     "popularity": 106
   },
   "qwen3-embedding": {
@@ -1739,13 +1738,28 @@
       "4b",
       "8b"
     ],
-    "pull_str": "190.8K",
-    "pull": 190800,
+    "pull_str": "193.7K",
+    "pull": 193700,
     "tag_count": "12",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/qwen3-embedding",
     "popularity": 107
+  },
+  "aya": {
+    "description": "Aya 23, released by Cohere, is a new family of state-of-the-art, multilingual models that support 23 languages.",
+    "capabilities": [],
+    "parameters": [
+      "8b",
+      "35b"
+    ],
+    "pull_str": "191.4K",
+    "pull": 191400,
+    "tag_count": "33",
+    "updated": "1 year ago",
+    "update_date": "2024-12-19",
+    "link": "https://ollama.com/library/aya",
+    "popularity": 108
   },
   "glm4": {
     "description": "A strong multi-lingual general language model with competitive performance to Llama 3.",
@@ -1753,13 +1767,13 @@
     "parameters": [
       "9b"
     ],
-    "pull_str": "190.2K",
-    "pull": 190200,
+    "pull_str": "190.8K",
+    "pull": 190800,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/glm4",
-    "popularity": 108
+    "popularity": 109
   },
   "llama2-chinese": {
     "description": "Llama 2 based model fine tuned to improve Chinese dialogue ability.",
@@ -1768,13 +1782,13 @@
       "7b",
       "13b"
     ],
-    "pull_str": "189.6K",
-    "pull": 189600,
+    "pull_str": "190K",
+    "pull": 190000,
     "tag_count": "35",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/llama2-chinese",
-    "popularity": 109
+    "popularity": 110
   },
   "granite3.2": {
     "description": "Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.",
@@ -1785,13 +1799,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "188.1K",
-    "pull": 188100,
+    "pull_str": "188.8K",
+    "pull": 188800,
     "tag_count": "9",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/granite3.2",
-    "popularity": 110
+    "popularity": 111
   },
   "stable-code": {
     "description": "Stable Code 3B is a coding model with instruct and code completion variants on par with models such as Code Llama 7B that are 2.5x larger.",
@@ -1799,13 +1813,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "180.6K",
-    "pull": 180600,
+    "pull_str": "181.1K",
+    "pull": 181100,
     "tag_count": "36",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/stable-code",
-    "popularity": 111
+    "popularity": 112
   },
   "neural-chat": {
     "description": "A fine-tuned model based on Mistral with good coverage of domain and language.",
@@ -1813,13 +1827,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "176.1K",
-    "pull": 176100,
+    "pull_str": "176.6K",
+    "pull": 176600,
     "tag_count": "50",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/neural-chat",
-    "popularity": 112
+    "popularity": 113
   },
   "nous-hermes2": {
     "description": "The powerful family of models by Nous Research that excels at scientific discussion and coding tasks.",
@@ -1828,28 +1842,12 @@
       "10.7b",
       "34b"
     ],
-    "pull_str": "174.8K",
-    "pull": 174800,
+    "pull_str": "175.3K",
+    "pull": 175300,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nous-hermes2",
-    "popularity": 113
-  },
-  "bakllava": {
-    "description": "BakLLaVA is a multimodal model consisting of the Mistral 7B base model augmented with the LLaVA  architecture.",
-    "capabilities": [
-      "vision"
-    ],
-    "parameters": [
-      "7b"
-    ],
-    "pull_str": "172.9K",
-    "pull": 172900,
-    "tag_count": "17",
-    "updated": "2 years ago",
-    "update_date": "2023-12-18",
-    "link": "https://ollama.com/library/bakllava",
     "popularity": 114
   },
   "paraphrase-multilingual": {
@@ -1860,13 +1858,29 @@
     "parameters": [
       "278m"
     ],
-    "pull_str": "171.6K",
-    "pull": 171600,
+    "pull_str": "174.6K",
+    "pull": 174600,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/paraphrase-multilingual",
     "popularity": 115
+  },
+  "bakllava": {
+    "description": "BakLLaVA is a multimodal model consisting of the Mistral 7B base model augmented with the LLaVA  architecture.",
+    "capabilities": [
+      "vision"
+    ],
+    "parameters": [
+      "7b"
+    ],
+    "pull_str": "173.4K",
+    "pull": 173400,
+    "tag_count": "17",
+    "updated": "2 years ago",
+    "update_date": "2023-12-19",
+    "link": "https://ollama.com/library/bakllava",
+    "popularity": 116
   },
   "wizardcoder": {
     "description": "State-of-the-art code generation model",
@@ -1874,13 +1888,13 @@
     "parameters": [
       "33b"
     ],
-    "pull_str": "170.4K",
-    "pull": 170400,
+    "pull_str": "170.9K",
+    "pull": 170900,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/wizardcoder",
-    "popularity": 116
+    "popularity": 117
   },
   "sqlcoder": {
     "description": "SQLCoder is a code completion model fined-tuned on StarCoder for SQL generation tasks",
@@ -1889,13 +1903,30 @@
       "7b",
       "15b"
     ],
-    "pull_str": "165.9K",
-    "pull": 165900,
+    "pull_str": "166.4K",
+    "pull": 166400,
     "tag_count": "48",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/sqlcoder",
-    "popularity": 117
+    "popularity": 118
+  },
+  "qwen3-next": {
+    "description": "The first installment in the Qwen3-Next series with strong performance in terms of both parameter efficiency and inference speed.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [
+      "80b"
+    ],
+    "pull_str": "165.8K",
+    "pull": 165800,
+    "tag_count": "10",
+    "updated": "1 week ago",
+    "update_date": "2025-12-12",
+    "link": "https://ollama.com/library/qwen3-next",
+    "popularity": 119
   },
   "bge-large": {
     "description": "Embedding model from BAAI mapping texts to vectors.",
@@ -1905,13 +1936,13 @@
     "parameters": [
       "335m"
     ],
-    "pull_str": "163.3K",
-    "pull": 163300,
+    "pull_str": "163.9K",
+    "pull": 163900,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/bge-large",
-    "popularity": 118
+    "popularity": 120
   },
   "stablelm2": {
     "description": "Stable LM 2 is a state-of-the-art 1.6B and 12B parameter language model trained on multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.",
@@ -1920,13 +1951,13 @@
       "1.6b",
       "12b"
     ],
-    "pull_str": "157.4K",
-    "pull": 157400,
+    "pull_str": "157.9K",
+    "pull": 157900,
     "tag_count": "84",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/stablelm2",
-    "popularity": 119
+    "popularity": 121
   },
   "yi-coder": {
     "description": "Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.",
@@ -1935,13 +1966,13 @@
       "1.5b",
       "9b"
     ],
-    "pull_str": "156.3K",
-    "pull": 156300,
+    "pull_str": "156.8K",
+    "pull": 156800,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/yi-coder",
-    "popularity": 120
+    "popularity": 122
   },
   "r1-1776": {
     "description": "A version of the DeepSeek-R1 model that has been post trained to provide unbiased, accurate, and factual information by Perplexity.",
@@ -1950,13 +1981,13 @@
       "70b",
       "671b"
     ],
-    "pull_str": "155.7K",
-    "pull": 155700,
+    "pull_str": "156.4K",
+    "pull": 156400,
     "tag_count": "9",
-    "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "updated": "10 months ago",
+    "update_date": "2025-02-19",
     "link": "https://ollama.com/library/r1-1776",
-    "popularity": 121
+    "popularity": 123
   },
   "llava-phi3": {
     "description": "A new small LLaVA model fine-tuned from Phi 3 Mini.",
@@ -1966,13 +1997,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "154.8K",
-    "pull": 154800,
+    "pull_str": "155.3K",
+    "pull": 155300,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llava-phi3",
-    "popularity": 122
+    "popularity": 124
   },
   "llama3-chatqa": {
     "description": "A model from NVIDIA based on Llama 3 that excels at conversational question answering (QA) and retrieval-augmented generation (RAG).",
@@ -1981,13 +2012,13 @@
       "8b",
       "70b"
     ],
-    "pull_str": "154.3K",
-    "pull": 154300,
+    "pull_str": "154.8K",
+    "pull": 154800,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3-chatqa",
-    "popularity": 123
+    "popularity": 125
   },
   "granite3-dense": {
     "description": "The IBM Granite 2B and 8B models are designed to support tool-based use cases and support for retrieval augmented generation (RAG), streamlining code generation, translation and bug fixing.",
@@ -1998,13 +2029,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "150.9K",
-    "pull": 150900,
+    "pull_str": "151.4K",
+    "pull": 151400,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/granite3-dense",
-    "popularity": 124
+    "popularity": 126
   },
   "granite3.1-dense": {
     "description": "The IBM Granite 2B and 8B models are text-only dense LLMs trained on over 12 trillion tokens of data, demonstrated significant improvements over their predecessors in performance and speed in IBM’s initial testing.",
@@ -2015,13 +2046,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "150K",
-    "pull": 150000,
+    "pull_str": "150.5K",
+    "pull": 150500,
     "tag_count": "33",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/granite3.1-dense",
-    "popularity": 125
+    "popularity": 127
   },
   "exaone3.5": {
     "description": "EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.",
@@ -2031,13 +2062,13 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "146.2K",
-    "pull": 146200,
+    "pull_str": "146.7K",
+    "pull": 146700,
     "tag_count": "13",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/exaone3.5",
-    "popularity": 126
+    "popularity": 128
   },
   "reflection": {
     "description": "A high-performing model trained with a new technique called Reflection-tuning that teaches a LLM to detect mistakes in its reasoning and correct course.",
@@ -2045,13 +2076,13 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "143.6K",
-    "pull": 143600,
+    "pull_str": "144.1K",
+    "pull": 144100,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/reflection",
-    "popularity": 127
+    "popularity": 129
   },
   "granite-embedding": {
     "description": "The IBM Granite Embedding 30M and 278M models models are text-only dense biencoder embedding models, with 30M available in English only and 278M serving multilingual use cases.",
@@ -2062,13 +2093,13 @@
       "30m",
       "278m"
     ],
-    "pull_str": "143K",
-    "pull": 143000,
+    "pull_str": "143.8K",
+    "pull": 143800,
     "tag_count": "6",
-    "updated": "12 months ago",
-    "update_date": "2024-12-18",
+    "updated": "1 year ago",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/granite-embedding",
-    "popularity": 128
+    "popularity": 130
   },
   "wizard-math": {
     "description": "Model focused on math and logic problems",
@@ -2078,13 +2109,13 @@
       "13b",
       "70b"
     ],
-    "pull_str": "142.9K",
-    "pull": 142900,
+    "pull_str": "143.4K",
+    "pull": 143400,
     "tag_count": "64",
-    "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "updated": "2 years ago",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/wizard-math",
-    "popularity": 129
+    "popularity": 131
   },
   "llama3-gradient": {
     "description": "This model extends LLama-3 8B's context length from 8k to over 1m tokens.",
@@ -2093,13 +2124,13 @@
       "8b",
       "70b"
     ],
-    "pull_str": "141K",
-    "pull": 141000,
+    "pull_str": "141.5K",
+    "pull": 141500,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3-gradient",
-    "popularity": 130
+    "popularity": 132
   },
   "dolphincoder": {
     "description": "A 7B and 15B uncensored variant of the Dolphin model family that excels at coding, based on StarCoder2.",
@@ -2108,13 +2139,13 @@
       "7b",
       "15b"
     ],
-    "pull_str": "140.6K",
-    "pull": 140600,
+    "pull_str": "141.1K",
+    "pull": 141100,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dolphincoder",
-    "popularity": 131
+    "popularity": 133
   },
   "samantha-mistral": {
     "description": "A companion assistant trained in philosophy, psychology, and personal relationships. Based on Mistral.",
@@ -2122,13 +2153,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "137.9K",
-    "pull": 137900,
+    "pull_str": "138.4K",
+    "pull": 138400,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/samantha-mistral",
-    "popularity": 132
+    "popularity": 134
   },
   "nemotron-mini": {
     "description": "A commercial-friendly small language model by NVIDIA optimized for roleplay, RAG QA, and function calling.",
@@ -2138,13 +2169,13 @@
     "parameters": [
       "4b"
     ],
-    "pull_str": "132.7K",
-    "pull": 132700,
+    "pull_str": "133.3K",
+    "pull": 133300,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nemotron-mini",
-    "popularity": 133
+    "popularity": 135
   },
   "dbrx": {
     "description": "DBRX is an open, general-purpose LLM created by Databricks.",
@@ -2152,13 +2183,13 @@
     "parameters": [
       "132b"
     ],
-    "pull_str": "132.1K",
-    "pull": 132100,
+    "pull_str": "132.5K",
+    "pull": 132500,
     "tag_count": "7",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/dbrx",
-    "popularity": 134
+    "popularity": 136
   },
   "internlm2": {
     "description": "InternLM2.5 is a 7B parameter model tailored for practical scenarios with outstanding reasoning capability.",
@@ -2169,13 +2200,13 @@
       "7b",
       "20b"
     ],
-    "pull_str": "130.5K",
-    "pull": 130500,
+    "pull_str": "130.9K",
+    "pull": 130900,
     "tag_count": "65",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/internlm2",
-    "popularity": 135
+    "popularity": 137
   },
   "tulu3": {
     "description": "Tülu 3 is a leading instruction following model family, offering fully open-source data, code, and recipes by the The Allen Institute for AI.",
@@ -2184,13 +2215,13 @@
       "8b",
       "70b"
     ],
-    "pull_str": "128.9K",
-    "pull": 128900,
+    "pull_str": "129.3K",
+    "pull": 129300,
     "tag_count": "9",
     "updated": "12 months ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/tulu3",
-    "popularity": 136
+    "popularity": 138
   },
   "starling-lm": {
     "description": "Starling is a large language model trained by reinforcement learning from AI feedback focused on improving chatbot helpfulness.",
@@ -2198,13 +2229,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "125.8K",
-    "pull": 125800,
+    "pull_str": "126.3K",
+    "pull": 126300,
     "tag_count": "36",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/starling-lm",
-    "popularity": 137
+    "popularity": 139
   },
   "llama3-groq-tool-use": {
     "description": "A series of models from Groq that represent a significant advancement in open-source AI capabilities for tool use/function calling.",
@@ -2215,13 +2246,13 @@
       "8b",
       "70b"
     ],
-    "pull_str": "125.1K",
-    "pull": 125100,
+    "pull_str": "125.6K",
+    "pull": 125600,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama3-groq-tool-use",
-    "popularity": 138
+    "popularity": 140
   },
   "athene-v2": {
     "description": "Athene-V2 is a 72B parameter model which excels at code completion, mathematics, and log extraction tasks.",
@@ -2231,13 +2262,13 @@
     "parameters": [
       "72b"
     ],
-    "pull_str": "124.6K",
-    "pull": 124600,
+    "pull_str": "125K",
+    "pull": 125000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/athene-v2",
-    "popularity": 139
+    "popularity": 141
   },
   "phind-codellama": {
     "description": "Code generation model based on Code Llama.",
@@ -2245,13 +2276,13 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "124.5K",
-    "pull": 124500,
+    "pull_str": "125K",
+    "pull": 125000,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/phind-codellama",
-    "popularity": 140
+    "popularity": 142
   },
   "solar": {
     "description": "A compact, yet powerful 10.7B large language model designed for single-turn conversation.",
@@ -2259,13 +2290,13 @@
     "parameters": [
       "10.7b"
     ],
-    "pull_str": "123.6K",
-    "pull": 123600,
+    "pull_str": "124.1K",
+    "pull": 124100,
     "tag_count": "32",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/solar",
-    "popularity": 141
+    "popularity": 143
   },
   "xwinlm": {
     "description": "Conversational model based on Llama 2 that performs competitively on various benchmarks.",
@@ -2274,13 +2305,13 @@
       "7b",
       "13b"
     ],
-    "pull_str": "121.9K",
-    "pull": 121900,
+    "pull_str": "122.3K",
+    "pull": 122300,
     "tag_count": "80",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/xwinlm",
-    "popularity": 142
+    "popularity": 144
   },
   "nemotron": {
     "description": "Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.",
@@ -2290,13 +2321,13 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "119.6K",
-    "pull": 119600,
+    "pull_str": "120.1K",
+    "pull": 120100,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nemotron",
-    "popularity": 143
+    "popularity": 145
   },
   "llama-guard3": {
     "description": "Llama Guard 3 is a series of models fine-tuned for content safety classification of LLM inputs and responses.",
@@ -2305,13 +2336,13 @@
       "1b",
       "8b"
     ],
-    "pull_str": "119.1K",
-    "pull": 119100,
+    "pull_str": "119.7K",
+    "pull": 119700,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama-guard3",
-    "popularity": 144
+    "popularity": 146
   },
   "meditron": {
     "description": "Open-source medical large language model adapted from Llama 2 to the medical domain.",
@@ -2320,13 +2351,13 @@
       "7b",
       "70b"
     ],
-    "pull_str": "117.4K",
-    "pull": 117400,
+    "pull_str": "117.9K",
+    "pull": 117900,
     "tag_count": "22",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/meditron",
-    "popularity": 145
+    "popularity": 147
   },
   "yarn-llama2": {
     "description": "An extension of Llama 2 that supports a context of up to 128k tokens.",
@@ -2335,13 +2366,13 @@
       "7b",
       "13b"
     ],
-    "pull_str": "115.4K",
-    "pull": 115400,
+    "pull_str": "115.8K",
+    "pull": 115800,
     "tag_count": "67",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/yarn-llama2",
-    "popularity": 146
+    "popularity": 148
   },
   "aya-expanse": {
     "description": "Cohere For AI's language models trained to perform well across 23 different languages.",
@@ -2352,13 +2383,13 @@
       "8b",
       "32b"
     ],
-    "pull_str": "114.6K",
-    "pull": 114600,
+    "pull_str": "115.2K",
+    "pull": 115200,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/aya-expanse",
-    "popularity": 147
+    "popularity": 149
   },
   "granite3-moe": {
     "description": "The IBM Granite 1B and 3B models are the first mixture of experts (MoE) Granite models from IBM designed for low latency usage.",
@@ -2369,13 +2400,13 @@
       "1b",
       "3b"
     ],
-    "pull_str": "113.6K",
-    "pull": 113600,
+    "pull_str": "114.1K",
+    "pull": 114100,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/granite3-moe",
-    "popularity": 148
+    "popularity": 150
   },
   "wizardlm-uncensored": {
     "description": "Uncensored version of Wizard LM model",
@@ -2383,13 +2414,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "113.1K",
-    "pull": 113100,
+    "pull_str": "113.6K",
+    "pull": 113600,
     "tag_count": "18",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/wizardlm-uncensored",
-    "popularity": 149
+    "popularity": 151
   },
   "smallthinker": {
     "description": "A new small reasoning model fine-tuned from the Qwen 2.5 3B Instruct model.",
@@ -2397,13 +2428,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "107.2K",
-    "pull": 107200,
+    "pull_str": "107.8K",
+    "pull": 107800,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/smallthinker",
-    "popularity": 150
+    "popularity": 152
   },
   "orca2": {
     "description": "Orca 2 is built by Microsoft research, and are a fine-tuned version of Meta's Llama 2 models.  The model is designed to excel particularly in reasoning.",
@@ -2412,13 +2443,13 @@
       "7b",
       "13b"
     ],
-    "pull_str": "102K",
-    "pull": 102000,
+    "pull_str": "102.4K",
+    "pull": 102400,
     "tag_count": "33",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/orca2",
-    "popularity": 151
+    "popularity": 153
   },
   "medllama2": {
     "description": "Fine-tuned Llama 2 model to answer medical questions based on an open source medical dataset.",
@@ -2426,13 +2457,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "101.1K",
-    "pull": 101100,
+    "pull_str": "101.6K",
+    "pull": 101600,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/medllama2",
-    "popularity": 152
+    "popularity": 154
   },
   "command-r7b": {
     "description": "The smallest model in Cohere's R series delivers top-tier speed, efficiency, and quality to build powerful AI applications on commodity GPUs and edge devices.",
@@ -2442,13 +2473,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "99K",
-    "pull": 99000,
+    "pull_str": "99.5K",
+    "pull": 99500,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-18",
+    "update_date": "2025-01-19",
     "link": "https://ollama.com/library/command-r7b",
-    "popularity": 153
+    "popularity": 155
   },
   "phi4-mini-reasoning": {
     "description": "Phi 4 mini reasoning is a lightweight open model that balances efficiency with advanced reasoning ability.",
@@ -2456,13 +2487,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "98.2K",
-    "pull": 98200,
+    "pull_str": "98.8K",
+    "pull": 98800,
     "tag_count": "5",
     "updated": "7 months ago",
-    "update_date": "2025-05-18",
+    "update_date": "2025-05-19",
     "link": "https://ollama.com/library/phi4-mini-reasoning",
-    "popularity": 154
+    "popularity": 156
   },
   "nous-hermes2-mixtral": {
     "description": "The Nous Hermes 2 model from Nous Research, now trained over Mixtral.",
@@ -2470,13 +2501,13 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "96.9K",
-    "pull": 96900,
+    "pull_str": "97.3K",
+    "pull": 97300,
     "tag_count": "18",
     "updated": "12 months ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nous-hermes2-mixtral",
-    "popularity": 155
+    "popularity": 157
   },
   "stable-beluga": {
     "description": "Llama 2 based model fine tuned on an Orca-style dataset. Originally called Free Willy.",
@@ -2486,13 +2517,13 @@
       "13b",
       "70b"
     ],
-    "pull_str": "95.1K",
-    "pull": 95100,
+    "pull_str": "95.6K",
+    "pull": 95600,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/stable-beluga",
-    "popularity": 156
+    "popularity": 158
   },
   "deepseek-v2.5": {
     "description": "An upgraded version of DeekSeek-V2  that integrates the general and coding abilities of both DeepSeek-V2-Chat and DeepSeek-Coder-V2-Instruct.",
@@ -2500,13 +2531,13 @@
     "parameters": [
       "236b"
     ],
-    "pull_str": "91.5K",
-    "pull": 91500,
+    "pull_str": "92.2K",
+    "pull": 92200,
     "tag_count": "7",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/deepseek-v2.5",
-    "popularity": 157
+    "popularity": 159
   },
   "reader-lm": {
     "description": "A series of models that convert HTML content to Markdown content, which is useful for content conversion tasks.",
@@ -2515,13 +2546,13 @@
       "0.5b",
       "1.5b"
     ],
-    "pull_str": "88.6K",
-    "pull": 88600,
+    "pull_str": "89.1K",
+    "pull": 89100,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/reader-lm",
-    "popularity": 158
+    "popularity": 160
   },
   "shieldgemma": {
     "description": "ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.",
@@ -2531,13 +2562,13 @@
       "9b",
       "27b"
     ],
-    "pull_str": "83.2K",
-    "pull": 83200,
+    "pull_str": "83.7K",
+    "pull": 83700,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/shieldgemma",
-    "popularity": 159
+    "popularity": 161
   },
   "command-a": {
     "description": "111 billion parameter model optimized for demanding enterprises that require fast, secure, and high-quality AI",
@@ -2547,25 +2578,25 @@
     "parameters": [
       "111b"
     ],
-    "pull_str": "83K",
-    "pull": 83000,
+    "pull_str": "83.5K",
+    "pull": 83500,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/command-a",
-    "popularity": 160
+    "popularity": 162
   },
   "llama-pro": {
     "description": "An expansion of Llama 2 that specializes in integrating both general language understanding and domain-specific knowledge, particularly in programming and mathematics.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "81.9K",
-    "pull": 81900,
+    "pull_str": "82.3K",
+    "pull": 82300,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/llama-pro",
-    "popularity": 161
+    "popularity": 163
   },
   "wizardlm": {
     "description": "General use model based on Llama 2.",
@@ -2575,9 +2606,9 @@
     "pull": 81400,
     "tag_count": "73",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/wizardlm",
-    "popularity": 162
+    "popularity": 164
   },
   "mathstral": {
     "description": "MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.",
@@ -2585,13 +2616,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "80.2K",
-    "pull": 80200,
+    "pull_str": "80.7K",
+    "pull": 80700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/mathstral",
-    "popularity": 163
+    "popularity": 165
   },
   "yarn-mistral": {
     "description": "An extension of Mistral to support context windows of 64K or 128K.",
@@ -2599,13 +2630,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "79.5K",
-    "pull": 79500,
+    "pull_str": "79.9K",
+    "pull": 79900,
     "tag_count": "33",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/yarn-mistral",
-    "popularity": 164
+    "popularity": 166
   },
   "everythinglm": {
     "description": "Uncensored Llama2 based model with support for a 16K context window.",
@@ -2613,13 +2644,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "77.5K",
-    "pull": 77500,
+    "pull_str": "78K",
+    "pull": 78000,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/everythinglm",
-    "popularity": 165
+    "popularity": 167
   },
   "nexusraven": {
     "description": "Nexus Raven is a 13B instruction tuned model for function calling tasks.",
@@ -2627,13 +2658,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "76.7K",
-    "pull": 76700,
+    "pull_str": "77.1K",
+    "pull": 77100,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nexusraven",
-    "popularity": 166
+    "popularity": 168
   },
   "codeup": {
     "description": "Great code generation model based on Llama2.",
@@ -2641,13 +2672,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "76.5K",
-    "pull": 76500,
+    "pull_str": "76.9K",
+    "pull": 76900,
     "tag_count": "19",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/codeup",
-    "popularity": 167
+    "popularity": 169
   },
   "marco-o1": {
     "description": "An open large reasoning model for real-world solutions by the Alibaba International Digital Commerce Group (AIDC-AI).",
@@ -2655,13 +2686,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "74.4K",
-    "pull": 74400,
+    "pull_str": "74.9K",
+    "pull": 74900,
     "tag_count": "5",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/marco-o1",
-    "popularity": 168
+    "popularity": 170
   },
   "stablelm-zephyr": {
     "description": "A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.",
@@ -2669,13 +2700,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "74.3K",
-    "pull": 74300,
+    "pull_str": "74.7K",
+    "pull": 74700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/stablelm-zephyr",
-    "popularity": 169
+    "popularity": 171
   },
   "falcon2": {
     "description": "Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.",
@@ -2683,13 +2714,13 @@
     "parameters": [
       "11b"
     ],
-    "pull_str": "72.9K",
-    "pull": 72900,
+    "pull_str": "73.3K",
+    "pull": 73300,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/falcon2",
-    "popularity": 170
+    "popularity": 172
   },
   "solar-pro": {
     "description": "Solar Pro Preview: an advanced large language model (LLM) with 22 billion parameters designed to fit into a single GPU",
@@ -2697,13 +2728,13 @@
     "parameters": [
       "22b"
     ],
-    "pull_str": "71.8K",
-    "pull": 71800,
+    "pull_str": "72.2K",
+    "pull": 72200,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/solar-pro",
-    "popularity": 171
+    "popularity": 173
   },
   "duckdb-nsql": {
     "description": "7B parameter text-to-SQL model made by MotherDuck and Numbers Station.",
@@ -2711,13 +2742,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "70.1K",
-    "pull": 70100,
+    "pull_str": "70.6K",
+    "pull": 70600,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/duckdb-nsql",
-    "popularity": 172
+    "popularity": 174
   },
   "mistrallite": {
     "description": "MistralLite is a fine-tuned model based on Mistral with enhanced capabilities of processing long contexts.",
@@ -2725,13 +2756,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "68K",
-    "pull": 68000,
+    "pull_str": "68.4K",
+    "pull": 68400,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/mistrallite",
-    "popularity": 173
+    "popularity": 175
   },
   "magicoder": {
     "description": "🎩 Magicoder is a family of 7B parameter models trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets.",
@@ -2739,13 +2770,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "67.9K",
-    "pull": 67900,
+    "pull_str": "68.3K",
+    "pull": 68300,
     "tag_count": "18",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/magicoder",
-    "popularity": 174
+    "popularity": 176
   },
   "codebooga": {
     "description": "A high-performing code instruct model created by merging two existing code models.",
@@ -2753,13 +2784,13 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "67.5K",
-    "pull": 67500,
+    "pull_str": "67.9K",
+    "pull": 67900,
     "tag_count": "16",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/codebooga",
-    "popularity": 175
+    "popularity": 177
   },
   "bespoke-minicheck": {
     "description": "A state-of-the-art fact-checking model developed by Bespoke Labs.",
@@ -2767,13 +2798,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "67.1K",
-    "pull": 67100,
+    "pull_str": "67.6K",
+    "pull": 67600,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/bespoke-minicheck",
-    "popularity": 176
+    "popularity": 178
   },
   "nuextract": {
     "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
@@ -2781,27 +2812,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "66.8K",
-    "pull": 66800,
+    "pull_str": "67.3K",
+    "pull": 67300,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/nuextract",
-    "popularity": 177
-  },
-  "wizard-vicuna": {
-    "description": "Wizard Vicuna is a 13B parameter model based on Llama 2 trained by MelodysDreamj.",
-    "capabilities": [],
-    "parameters": [
-      "13b"
-    ],
-    "pull_str": "63.7K",
-    "pull": 63700,
-    "tag_count": "17",
-    "updated": "2 years ago",
-    "update_date": "2023-12-18",
-    "link": "https://ollama.com/library/wizard-vicuna",
-    "popularity": 178
+    "popularity": 179
   },
   "deepseek-ocr": {
     "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
@@ -2811,13 +2828,27 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "63.4K",
-    "pull": 63400,
+    "pull_str": "64.8K",
+    "pull": 64800,
     "tag_count": "3",
     "updated": "4 weeks ago",
-    "update_date": "2025-11-20",
+    "update_date": "2025-11-21",
     "link": "https://ollama.com/library/deepseek-ocr",
-    "popularity": 179
+    "popularity": 180
+  },
+  "wizard-vicuna": {
+    "description": "Wizard Vicuna is a 13B parameter model based on Llama 2 trained by MelodysDreamj.",
+    "capabilities": [],
+    "parameters": [
+      "13b"
+    ],
+    "pull_str": "64.2K",
+    "pull": 64200,
+    "tag_count": "17",
+    "updated": "2 years ago",
+    "update_date": "2023-12-19",
+    "link": "https://ollama.com/library/wizard-vicuna",
+    "popularity": 181
   },
   "granite3-guardian": {
     "description": "The IBM Granite Guardian 3.0 2B and 8B models are designed to detect risks in prompts and/or responses.",
@@ -2826,13 +2857,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "61.1K",
-    "pull": 61100,
+    "pull_str": "61.5K",
+    "pull": 61500,
     "tag_count": "10",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/granite3-guardian",
-    "popularity": 180
+    "popularity": 182
   },
   "firefunction-v2": {
     "description": "An open weights function calling model based on Llama 3, competitive with GPT-4o function calling capabilities.",
@@ -2842,13 +2873,13 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "59.2K",
-    "pull": 59200,
+    "pull_str": "59.7K",
+    "pull": 59700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/firefunction-v2",
-    "popularity": 181
+    "popularity": 183
   },
   "megadolphin": {
     "description": "MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b created by interleaving the model with itself.",
@@ -2856,13 +2887,13 @@
     "parameters": [
       "120b"
     ],
-    "pull_str": "58.2K",
-    "pull": 58200,
+    "pull_str": "58.6K",
+    "pull": 58600,
     "tag_count": "19",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/megadolphin",
-    "popularity": 182
+    "popularity": 184
   },
   "notux": {
     "description": "A top-performing mixture of experts model, fine-tuned with high-quality data.",
@@ -2870,13 +2901,13 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "57.5K",
-    "pull": 57500,
+    "pull_str": "57.9K",
+    "pull": 57900,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/notux",
-    "popularity": 183
+    "popularity": 185
   },
   "open-orca-platypus2": {
     "description": "Merge of the Open Orca OpenChat model and the Garage-bAInd Platypus 2 model. Designed for chat and code generation.",
@@ -2884,13 +2915,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "57.3K",
-    "pull": 57300,
+    "pull_str": "57.8K",
+    "pull": 57800,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/open-orca-platypus2",
-    "popularity": 184
+    "popularity": 186
   },
   "sailor2": {
     "description": "Sailor2 are multilingual language models made for South-East Asia. Available in 1B, 8B, and 20B parameter sizes.",
@@ -2900,13 +2931,13 @@
       "8b",
       "20b"
     ],
-    "pull_str": "56.8K",
-    "pull": 56800,
+    "pull_str": "57.3K",
+    "pull": 57300,
     "tag_count": "13",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/sailor2",
-    "popularity": 185
+    "popularity": 187
   },
   "notus": {
     "description": "A 7B chat model fine-tuned with high-quality data and based on Zephyr.",
@@ -2914,25 +2945,25 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "56.7K",
-    "pull": 56700,
+    "pull_str": "57.2K",
+    "pull": 57200,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-18",
+    "update_date": "2024-12-19",
     "link": "https://ollama.com/library/notus",
-    "popularity": 186
+    "popularity": 188
   },
   "goliath": {
     "description": "A language model created by combining two fine-tuned Llama 2 70B models into one.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "55.1K",
-    "pull": 55100,
+    "pull_str": "55.6K",
+    "pull": 55600,
     "tag_count": "16",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/goliath",
-    "popularity": 187
+    "popularity": 189
   },
   "alfred": {
     "description": "A robust conversational model designed to be used for both chat and instruct use cases.",
@@ -2940,13 +2971,13 @@
     "parameters": [
       "40b"
     ],
-    "pull_str": "50K",
-    "pull": 50000,
+    "pull_str": "50.4K",
+    "pull": 50400,
     "tag_count": "7",
     "updated": "2 years ago",
-    "update_date": "2023-12-18",
+    "update_date": "2023-12-19",
     "link": "https://ollama.com/library/alfred",
-    "popularity": 188
+    "popularity": 190
   },
   "command-r7b-arabic": {
     "description": "A new state-of-the-art version of the lightweight Command R7B model that excels in advanced Arabic language capabilities for enterprises in the Middle East and Northern Africa.",
@@ -2956,13 +2987,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "41.9K",
-    "pull": 41900,
+    "pull_str": "42.4K",
+    "pull": 42400,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-18",
+    "update_date": "2025-03-19",
     "link": "https://ollama.com/library/command-r7b-arabic",
-    "popularity": 189
+    "popularity": 191
   },
   "gemini-3-pro-preview": {
     "description": "Google's most intelligent model with SOTA reasoning and multimodal understanding, and powerful agentic and vibe coding capabilities.",
@@ -2972,13 +3003,13 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "37.2K",
-    "pull": 37200,
+    "pull_str": "38K",
+    "pull": 38000,
     "tag_count": "1",
-    "updated": "4 weeks ago",
-    "update_date": "2025-11-20",
+    "updated": "1 month ago",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/gemini-3-pro-preview",
-    "popularity": 190
+    "popularity": 192
   },
   "glm-4.6": {
     "description": "Advanced agentic, reasoning and coding capabilities.",
@@ -2987,13 +3018,13 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "33.7K",
-    "pull": 33700,
+    "pull_str": "34.2K",
+    "pull": 34200,
     "tag_count": "1",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/glm-4.6",
-    "popularity": 191
+    "popularity": 193
   },
   "gpt-oss-safeguard": {
     "description": "gpt-oss-safeguard-20b and gpt-oss-safeguard-120b are safety reasoning models built-upon gpt-oss",
@@ -3005,13 +3036,13 @@
       "20b",
       "120b"
     ],
-    "pull_str": "32K",
-    "pull": 32000,
+    "pull_str": "32.6K",
+    "pull": 32600,
     "tag_count": "3",
     "updated": "1 month ago",
-    "update_date": "2025-11-18",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/gpt-oss-safeguard",
-    "popularity": 192
+    "popularity": 194
   },
   "minimax-m2": {
     "description": "MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.",
@@ -3020,13 +3051,13 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "27.9K",
-    "pull": 27900,
+    "pull_str": "28.1K",
+    "pull": 28100,
     "tag_count": "1",
     "updated": "1 month ago",
-    "update_date": "2025-11-18",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/minimax-m2",
-    "popularity": 193
+    "popularity": 195
   },
   "kimi-k2": {
     "description": "A state-of-the-art mixture-of-experts (MoE) language model. Kimi K2-Instruct-0905 demonstrates significant improvements in performance on public benchmarks and real-world coding agent tasks.",
@@ -3034,13 +3065,13 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "20.7K",
-    "pull": 20700,
+    "pull_str": "20.9K",
+    "pull": 20900,
     "tag_count": "1",
     "updated": "2 months ago",
-    "update_date": "2025-10-18",
+    "update_date": "2025-10-19",
     "link": "https://ollama.com/library/kimi-k2",
-    "popularity": 194
+    "popularity": 196
   },
   "cogito-2.1": {
     "description": "The Cogito v2.1 LLMs are instruction tuned generative models. All models are released under MIT license for commercial use.",
@@ -3048,13 +3079,13 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "18K",
-    "pull": 18000,
+    "pull_str": "18.5K",
+    "pull": 18500,
     "tag_count": "6",
     "updated": "3 weeks ago",
-    "update_date": "2025-11-27",
+    "update_date": "2025-11-28",
     "link": "https://ollama.com/library/cogito-2.1",
-    "popularity": 195
+    "popularity": 197
   },
   "kimi-k2-thinking": {
     "description": "Kimi K2 Thinking, Moonshot AI's best open-source thinking model.",
@@ -3063,30 +3094,13 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "14.1K",
-    "pull": 14100,
+    "pull_str": "14.3K",
+    "pull": 14300,
     "tag_count": "1",
     "updated": "1 month ago",
-    "update_date": "2025-11-18",
+    "update_date": "2025-11-19",
     "link": "https://ollama.com/library/kimi-k2-thinking",
-    "popularity": 196
-  },
-  "qwen3-next": {
-    "description": "The first installment in the Qwen3-Next series with strong performance in terms of both parameter efficiency and inference speed.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [
-      "80b"
-    ],
-    "pull_str": "13.3K",
-    "pull": 13300,
-    "tag_count": "10",
-    "updated": "1 week ago",
-    "update_date": "2025-12-11",
-    "link": "https://ollama.com/library/qwen3-next",
-    "popularity": 197
+    "popularity": 198
   },
   "rnj-1": {
     "description": "Rnj-1 is a family of 8B parameter open-weight, dense models trained from scratch by Essential AI, optimized for code and STEM with capabilities on par with SOTA open-weight models.",
@@ -3096,13 +3110,13 @@
     "parameters": [
       "8b"
     ],
-    "pull_str": "9,264",
-    "pull": 9264,
+    "pull_str": "9,976",
+    "pull": 9976,
     "tag_count": "6",
-    "updated": "5 days ago",
+    "updated": "6 days ago",
     "update_date": "2025-12-13",
     "link": "https://ollama.com/library/rnj-1",
-    "popularity": 198
+    "popularity": 199
   },
   "nomic-embed-text-v2-moe": {
     "description": "nomic-embed-text-v2-moe is a multilingual MoE text embedding model that excels at multilingual retrieval.",
@@ -3110,43 +3124,13 @@
       "embedding"
     ],
     "parameters": [],
-    "pull_str": "6,047",
-    "pull": 6047,
+    "pull_str": "6,858",
+    "pull": 6858,
     "tag_count": "1",
     "updated": "1 week ago",
-    "update_date": "2025-12-11",
+    "update_date": "2025-12-12",
     "link": "https://ollama.com/library/nomic-embed-text-v2-moe",
-    "popularity": 199
-  },
-  "mistral-large-3": {
-    "description": "A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.",
-    "capabilities": [
-      "vision",
-      "tools"
-    ],
-    "parameters": [],
-    "pull_str": "4,747",
-    "pull": 4747,
-    "tag_count": "1",
-    "updated": "2 weeks ago",
-    "update_date": "2025-12-04",
-    "link": "https://ollama.com/library/mistral-large-3",
     "popularity": 200
-  },
-  "deepseek-v3.2": {
-    "description": "DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "4,427",
-    "pull": 4427,
-    "tag_count": "1",
-    "updated": "1 week ago",
-    "update_date": "2025-12-11",
-    "link": "https://ollama.com/library/deepseek-v3.2",
-    "popularity": 201
   },
   "olmo-3.1": {
     "description": "Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.",
@@ -3156,12 +3140,42 @@
     "parameters": [
       "32b"
     ],
-    "pull_str": "4,311",
-    "pull": 4311,
+    "pull_str": "5,070",
+    "pull": 5070,
     "tag_count": 6,
-    "updated": "yesterday",
+    "updated": "2 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/olmo-3.1",
+    "popularity": 201
+  },
+  "mistral-large-3": {
+    "description": "A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.",
+    "capabilities": [
+      "vision",
+      "tools"
+    ],
+    "parameters": [],
+    "pull_str": "4,843",
+    "pull": 4843,
+    "tag_count": "1",
+    "updated": "2 weeks ago",
+    "update_date": "2025-12-05",
+    "link": "https://ollama.com/library/mistral-large-3",
     "popularity": 202
+  },
+  "deepseek-v3.2": {
+    "description": "DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "4,688",
+    "pull": 4688,
+    "tag_count": "1",
+    "updated": "1 week ago",
+    "update_date": "2025-12-12",
+    "link": "https://ollama.com/library/deepseek-v3.2",
+    "popularity": 203
   }
 }

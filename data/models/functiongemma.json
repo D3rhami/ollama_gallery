@@ -1,0 +1,14 @@
+{
+  "description": "FunctionGemma is a specialized version of Google's Gemma 3 270M model fine-tuned explicitly for function calling.",
+  "capabilities": [],
+  "parameters": [
+    "270m"
+  ],
+  "pull_str": "314",
+  "pull": 314,
+  "tag_count": 2,
+  "updated": "19 hours ago",
+  "update_date": "2025-12-18",
+  "link": "https://ollama.com/library/functiongemma",
+  "popularity": 2
+}
