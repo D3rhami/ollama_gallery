@@ -8,10 +8,10 @@
     "parameters": [
       "30b"
     ],
-    "pull_str": "30K",
-    "pull": 30000,
+    "pull_str": "32.3K",
+    "pull": 32300,
     "tag_count": "6",
-    "updated": "4 days ago",
+    "updated": "5 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/nemotron-3-nano",
     "popularity": 1
@@ -22,10 +22,10 @@
     "parameters": [
       "270m"
     ],
-    "pull_str": "3,366",
-    "pull": 3366,
-    "tag_count": 2,
-    "updated": "2 days ago",
+    "pull_str": "4,673",
+    "pull": 4673,
+    "tag_count": "4",
+    "updated": "3 days ago",
     "update_date": "2025-12-19",
     "link": "https://ollama.com/library/functiongemma",
     "popularity": 2
@@ -37,10 +37,10 @@
       "7b",
       "32b"
     ],
-    "pull_str": "7,740",
-    "pull": 7740,
+    "pull_str": "8,690",
+    "pull": 8690,
     "tag_count": "15",
-    "updated": "4 days ago",
+    "updated": "5 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/olmo-3",
     "popularity": 3
@@ -53,11 +53,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "3,243",
-    "pull": 3243,
+    "pull_str": "4,774",
+    "pull": 4774,
     "tag_count": 1,
-    "updated": "6 hours ago",
-    "update_date": "2025-12-20",
+    "updated": "yesterday",
+    "update_date": "2025-12-21",
     "link": "https://ollama.com/library/gemini-3-flash-preview",
     "popularity": 4
   },
@@ -70,11 +70,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "43.3K",
-    "pull": 43300,
+    "pull_str": "44.8K",
+    "pull": 44800,
     "tag_count": "6",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/devstral-small-2",
     "popularity": 5
   },
@@ -86,11 +86,11 @@
     "parameters": [
       "123b"
     ],
-    "pull_str": "10.9K",
-    "pull": 10900,
+    "pull_str": "11.7K",
+    "pull": 11700,
     "tag_count": "6",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/devstral-2",
     "popularity": 6
   },
@@ -105,11 +105,11 @@
       "8b",
       "14b"
     ],
-    "pull_str": "117.7K",
-    "pull": 117700,
+    "pull_str": "120.7K",
+    "pull": 120700,
     "tag_count": "16",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/ministral-3",
     "popularity": 7
   },
@@ -127,11 +127,11 @@
       "32b",
       "235b"
     ],
-    "pull_str": "807.9K",
-    "pull": 807900,
+    "pull_str": "813.8K",
+    "pull": 813800,
     "tag_count": "59",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/qwen3-vl",
     "popularity": 8
   },
@@ -145,11 +145,11 @@
       "20b",
       "120b"
     ],
-    "pull_str": "5.3M",
-    "pull": 5300000,
+    "pull_str": "5.4M",
+    "pull": 5400000,
     "tag_count": "5",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/gpt-oss",
     "popularity": 9
   },
@@ -168,11 +168,11 @@
       "70b",
       "671b"
     ],
-    "pull_str": "74.6M",
-    "pull": 74600000,
+    "pull_str": "74.7M",
+    "pull": 74700000,
     "tag_count": "35",
     "updated": "5 months ago",
-    "update_date": "2025-07-21",
+    "update_date": "2025-07-22",
     "link": "https://ollama.com/library/deepseek-r1",
     "popularity": 10
   },
@@ -189,7 +189,7 @@
     "pull": 1400000,
     "tag_count": "10",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/qwen3-coder",
     "popularity": 11
   },
@@ -205,11 +205,11 @@
       "12b",
       "27b"
     ],
-    "pull_str": "28.4M",
-    "pull": 28400000,
+    "pull_str": "28.5M",
+    "pull": 28500000,
     "tag_count": "29",
     "updated": "2 weeks ago",
-    "update_date": "2025-12-07",
+    "update_date": "2025-12-08",
     "link": "https://ollama.com/library/gemma3",
     "popularity": 12
   },
@@ -227,7 +227,7 @@
     "pull": 107800000,
     "tag_count": "93",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3.1",
     "popularity": 13
   },
@@ -240,11 +240,11 @@
       "1b",
       "3b"
     ],
-    "pull_str": "50.2M",
-    "pull": 50200000,
+    "pull_str": "50.3M",
+    "pull": 50300000,
     "tag_count": "63",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3.2",
     "popularity": 14
   },
@@ -254,11 +254,11 @@
       "embedding"
     ],
     "parameters": [],
-    "pull_str": "48.1M",
-    "pull": 48100000,
+    "pull_str": "48.2M",
+    "pull": 48200000,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nomic-embed-text",
     "popularity": 15
   },
@@ -274,7 +274,7 @@
     "pull": 23300000,
     "tag_count": "84",
     "updated": "5 months ago",
-    "update_date": "2025-07-21",
+    "update_date": "2025-07-22",
     "link": "https://ollama.com/library/mistral",
     "popularity": 16
   },
@@ -296,7 +296,7 @@
     "pull": 18300000,
     "tag_count": "133",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/qwen2.5",
     "popularity": 17
   },
@@ -320,7 +320,7 @@
     "pull": 15400000,
     "tag_count": "58",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/qwen3",
     "popularity": 18
   },
@@ -335,7 +335,7 @@
     "pull": 15200000,
     "tag_count": "72",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/phi3",
     "popularity": 19
   },
@@ -350,7 +350,7 @@
     "pull": 13100000,
     "tag_count": "68",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3",
     "popularity": 20
   },
@@ -368,7 +368,7 @@
     "pull": 11900000,
     "tag_count": "98",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llava",
     "popularity": 21
   },
@@ -380,11 +380,11 @@
       "9b",
       "27b"
     ],
-    "pull_str": "11.6M",
-    "pull": 11600000,
+    "pull_str": "11.7M",
+    "pull": 11700000,
     "tag_count": "94",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/gemma2",
     "popularity": 22
   },
@@ -405,7 +405,7 @@
     "pull": 9300000,
     "tag_count": "199",
     "updated": "6 months ago",
-    "update_date": "2025-06-21",
+    "update_date": "2025-06-22",
     "link": "https://ollama.com/library/qwen2.5-coder",
     "popularity": 23
   },
@@ -419,7 +419,7 @@
     "pull": 6600000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/phi4",
     "popularity": 24
   },
@@ -435,7 +435,7 @@
     "pull": 5800000,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/mxbai-embed-large",
     "popularity": 25
   },
@@ -450,7 +450,7 @@
     "pull": 5600000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/gemma",
     "popularity": 26
   },
@@ -471,7 +471,7 @@
     "pull": 5100000,
     "tag_count": "379",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/qwen",
     "popularity": 27
   },
@@ -487,7 +487,7 @@
     "pull": 4800000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama2",
     "popularity": 28
   },
@@ -506,7 +506,7 @@
     "pull": 4600000,
     "tag_count": "97",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/qwen2",
     "popularity": 29
   },
@@ -522,7 +522,7 @@
     "pull": 4100000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/minicpm-v",
     "popularity": 30
   },
@@ -539,7 +539,7 @@
     "pull": 3700000,
     "tag_count": "199",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/codellama",
     "popularity": 31
   },
@@ -553,7 +553,7 @@
     "pull": 3500000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/dolphin3",
     "popularity": 32
   },
@@ -568,7 +568,7 @@
     "pull": 3400000,
     "tag_count": "9",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/olmo2",
     "popularity": 33
   },
@@ -581,11 +581,11 @@
       "11b",
       "90b"
     ],
-    "pull_str": "3.3M",
-    "pull": 3300000,
+    "pull_str": "3.4M",
+    "pull": 3400000,
     "tag_count": "9",
     "updated": "7 months ago",
-    "update_date": "2025-05-21",
+    "update_date": "2025-05-22",
     "link": "https://ollama.com/library/llama3.2-vision",
     "popularity": 34
   },
@@ -599,7 +599,7 @@
     "pull": 3200000,
     "tag_count": "36",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/tinyllama",
     "popularity": 35
   },
@@ -615,7 +615,7 @@
     "pull": 3100000,
     "tag_count": "17",
     "updated": "5 months ago",
-    "update_date": "2025-07-21",
+    "update_date": "2025-07-22",
     "link": "https://ollama.com/library/mistral-nemo",
     "popularity": 36
   },
@@ -629,7 +629,7 @@
     "pull": 3000000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/deepseek-v3",
     "popularity": 37
   },
@@ -645,7 +645,7 @@
     "pull": 2900000,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/bge-m3",
     "popularity": 38
   },
@@ -661,7 +661,7 @@
     "pull": 2800000,
     "tag_count": "14",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3.3",
     "popularity": 39
   },
@@ -677,7 +677,7 @@
     "pull": 2300000,
     "tag_count": "102",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/deepseek-coder",
     "popularity": 40
   },
@@ -695,7 +695,7 @@
     "pull": 2200000,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/smollm2",
     "popularity": 41
   },
@@ -712,7 +712,7 @@
     "pull": 2200000,
     "tag_count": "21",
     "updated": "10 months ago",
-    "update_date": "2025-02-21",
+    "update_date": "2025-02-22",
     "link": "https://ollama.com/library/mistral-small",
     "popularity": 42
   },
@@ -729,7 +729,7 @@
     "pull": 2100000,
     "tag_count": "10",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/all-minilm",
     "popularity": 43
   },
@@ -745,7 +745,7 @@
     "pull": 2100000,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llava-llama3",
     "popularity": 44
   },
@@ -761,7 +761,7 @@
     "pull": 1900000,
     "tag_count": "8",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/qwq",
     "popularity": 45
   },
@@ -776,7 +776,7 @@
     "pull": 1700000,
     "tag_count": "85",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/codegemma",
     "popularity": 46
   },
@@ -788,11 +788,11 @@
       "7b",
       "15b"
     ],
-    "pull_str": "1.6M",
-    "pull": 1600000,
+    "pull_str": "1.7M",
+    "pull": 1700000,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/starcoder2",
     "popularity": 47
   },
@@ -809,7 +809,7 @@
     "pull": 1600000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/falcon3",
     "popularity": 48
   },
@@ -826,7 +826,7 @@
     "pull": 1600000,
     "tag_count": "33",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/granite3.1-moe",
     "popularity": 49
   },
@@ -843,7 +843,7 @@
     "pull": 1500000,
     "tag_count": "70",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/mixtral",
     "popularity": 50
   },
@@ -858,7 +858,7 @@
     "pull": 1500000,
     "tag_count": "34",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/llama2-uncensored",
     "popularity": 51
   },
@@ -875,7 +875,7 @@
     "pull": 1400000,
     "tag_count": "119",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/orca-mini",
     "popularity": 52
   },
@@ -891,11 +891,11 @@
       "137m",
       "335m"
     ],
-    "pull_str": "1.3M",
-    "pull": 1300000,
+    "pull_str": "1.4M",
+    "pull": 1400000,
     "tag_count": "16",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/snowflake-arctic-embed",
     "popularity": 53
   },
@@ -910,7 +910,7 @@
     "pull": 1300000,
     "tag_count": "64",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/deepseek-coder-v2",
     "popularity": 54
   },
@@ -929,7 +929,7 @@
     "pull": 1100000,
     "tag_count": "17",
     "updated": "7 months ago",
-    "update_date": "2025-05-21",
+    "update_date": "2025-05-22",
     "link": "https://ollama.com/library/qwen2.5vl",
     "popularity": 55
   },
@@ -945,11 +945,11 @@
       "32b",
       "70b"
     ],
-    "pull_str": "957.7K",
-    "pull": 957700,
+    "pull_str": "963.4K",
+    "pull": 963400,
     "tag_count": "20",
     "updated": "8 months ago",
-    "update_date": "2025-04-21",
+    "update_date": "2025-04-22",
     "link": "https://ollama.com/library/cogito",
     "popularity": 56
   },
@@ -960,11 +960,11 @@
       "e2b",
       "e4b"
     ],
-    "pull_str": "921K",
-    "pull": 921000,
+    "pull_str": "925.7K",
+    "pull": 925700,
     "tag_count": "9",
     "updated": "5 months ago",
-    "update_date": "2025-07-21",
+    "update_date": "2025-07-22",
     "link": "https://ollama.com/library/gemma3n",
     "popularity": 57
   },
@@ -978,11 +978,11 @@
       "16x17b",
       "128x17b"
     ],
-    "pull_str": "910.3K",
-    "pull": 910300,
+    "pull_str": "913.4K",
+    "pull": 913400,
     "tag_count": "11",
     "updated": "6 months ago",
-    "update_date": "2025-06-21",
+    "update_date": "2025-06-22",
     "link": "https://ollama.com/library/llama4",
     "popularity": 58
   },
@@ -995,11 +995,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "896.7K",
-    "pull": 896700,
+    "pull_str": "902.5K",
+    "pull": 902500,
     "tag_count": "5",
     "updated": "6 months ago",
-    "update_date": "2025-06-21",
+    "update_date": "2025-06-22",
     "link": "https://ollama.com/library/mistral-small3.2",
     "popularity": 59
   },
@@ -1009,11 +1009,11 @@
     "parameters": [
       "1.5b"
     ],
-    "pull_str": "879.6K",
-    "pull": 879600,
+    "pull_str": "885.4K",
+    "pull": 885400,
     "tag_count": "5",
     "updated": "10 months ago",
-    "update_date": "2025-02-21",
+    "update_date": "2025-02-22",
     "link": "https://ollama.com/library/deepscaler",
     "popularity": 60
   },
@@ -1023,11 +1023,11 @@
     "parameters": [
       "14b"
     ],
-    "pull_str": "872.1K",
-    "pull": 872100,
+    "pull_str": "876.6K",
+    "pull": 876600,
     "tag_count": "9",
     "updated": "7 months ago",
-    "update_date": "2025-05-21",
+    "update_date": "2025-05-22",
     "link": "https://ollama.com/library/phi4-reasoning",
     "popularity": 61
   },
@@ -1037,11 +1037,11 @@
     "parameters": [
       "2.7b"
     ],
-    "pull_str": "864.4K",
-    "pull": 864400,
+    "pull_str": "870.4K",
+    "pull": 870400,
     "tag_count": "15",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dolphin-phi",
     "popularity": 62
   },
@@ -1054,11 +1054,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "837.9K",
-    "pull": 837900,
+    "pull_str": "842K",
+    "pull": 842000,
     "tag_count": "5",
     "updated": "6 months ago",
-    "update_date": "2025-06-21",
+    "update_date": "2025-06-22",
     "link": "https://ollama.com/library/magistral",
     "popularity": 63
   },
@@ -1068,11 +1068,11 @@
     "parameters": [
       "2.7b"
     ],
-    "pull_str": "809K",
-    "pull": 809000,
+    "pull_str": "811.1K",
+    "pull": 811100,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/phi",
     "popularity": 64
   },
@@ -1085,11 +1085,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "777.1K",
-    "pull": 777100,
+    "pull_str": "779K",
+    "pull": 779000,
     "tag_count": "3",
     "updated": "8 months ago",
-    "update_date": "2025-04-21",
+    "update_date": "2025-04-22",
     "link": "https://ollama.com/library/granite3.3",
     "popularity": 65
   },
@@ -1100,11 +1100,11 @@
       "8x7b",
       "8x22b"
     ],
-    "pull_str": "776.3K",
-    "pull": 776300,
+    "pull_str": "777K",
+    "pull": 777000,
     "tag_count": "70",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dolphin-mixtral",
     "popularity": 66
   },
@@ -1116,11 +1116,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "656.4K",
-    "pull": 656400,
+    "pull_str": "659.8K",
+    "pull": 659800,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/phi4-mini",
     "popularity": 67
   },
@@ -1131,11 +1131,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "643.2K",
-    "pull": 643200,
+    "pull_str": "645.8K",
+    "pull": 645800,
     "tag_count": "53",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dolphin-llama3",
     "popularity": 68
   },
@@ -1146,11 +1146,11 @@
       "7b",
       "32b"
     ],
-    "pull_str": "634.8K",
-    "pull": 634800,
+    "pull_str": "635.8K",
+    "pull": 635800,
     "tag_count": "15",
     "updated": "8 months ago",
-    "update_date": "2025-04-21",
+    "update_date": "2025-04-22",
     "link": "https://ollama.com/library/openthinker",
     "popularity": 69
   },
@@ -1160,11 +1160,11 @@
     "parameters": [
       "22b"
     ],
-    "pull_str": "599.2K",
-    "pull": 599200,
+    "pull_str": "600.9K",
+    "pull": 600900,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/codestral",
     "popularity": 70
   },
@@ -1176,11 +1176,11 @@
       "360m",
       "1.7b"
     ],
-    "pull_str": "578.1K",
-    "pull": 578100,
+    "pull_str": "579K",
+    "pull": 579000,
     "tag_count": "94",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/smollm",
     "popularity": 71
   },
@@ -1193,11 +1193,11 @@
     "parameters": [
       "2b"
     ],
-    "pull_str": "565.7K",
-    "pull": 565700,
+    "pull_str": "568.3K",
+    "pull": 568300,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/granite3.2-vision",
     "popularity": 72
   },
@@ -1209,11 +1209,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "554.5K",
-    "pull": 554500,
+    "pull_str": "557.4K",
+    "pull": 557400,
     "tag_count": "5",
     "updated": "5 months ago",
-    "update_date": "2025-07-21",
+    "update_date": "2025-07-22",
     "link": "https://ollama.com/library/devstral",
     "popularity": 73
   },
@@ -1224,11 +1224,11 @@
       "7b",
       "8x22b"
     ],
-    "pull_str": "481.7K",
-    "pull": 481700,
+    "pull_str": "482.2K",
+    "pull": 482200,
     "tag_count": "22",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/wizardlm2",
     "popularity": 74
   },
@@ -1238,11 +1238,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "462.1K",
-    "pull": 462100,
+    "pull_str": "462.8K",
+    "pull": 462800,
     "tag_count": "120",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dolphin-mistral",
     "popularity": 75
   },
@@ -1253,11 +1253,11 @@
       "1.5b",
       "14b"
     ],
-    "pull_str": "460.3K",
-    "pull": 460300,
+    "pull_str": "462.5K",
+    "pull": 462500,
     "tag_count": "9",
     "updated": "8 months ago",
-    "update_date": "2025-04-21",
+    "update_date": "2025-04-22",
     "link": "https://ollama.com/library/deepcoder",
     "popularity": 76
   },
@@ -1269,11 +1269,11 @@
     "parameters": [
       "1.8b"
     ],
-    "pull_str": "456K",
-    "pull": 456000,
+    "pull_str": "456.8K",
+    "pull": 456800,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/moondream",
     "popularity": 77
   },
@@ -1286,11 +1286,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "449.5K",
-    "pull": 449500,
+    "pull_str": "451.3K",
+    "pull": 451300,
     "tag_count": "5",
     "updated": "8 months ago",
-    "update_date": "2025-04-21",
+    "update_date": "2025-04-22",
     "link": "https://ollama.com/library/mistral-small3.1",
     "popularity": 78
   },
@@ -1302,11 +1302,11 @@
     "parameters": [
       "35b"
     ],
-    "pull_str": "428.9K",
-    "pull": 428900,
+    "pull_str": "429.8K",
+    "pull": 429800,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/command-r",
     "popularity": 79
   },
@@ -1319,11 +1319,11 @@
       "20b",
       "34b"
     ],
-    "pull_str": "397.3K",
-    "pull": 397300,
+    "pull_str": "399.1K",
+    "pull": 399100,
     "tag_count": "162",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/granite-code",
     "popularity": 80
   },
@@ -1333,11 +1333,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "383.7K",
-    "pull": 383700,
+    "pull_str": "384.4K",
+    "pull": 384400,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/phi3.5",
     "popularity": 81
   },
@@ -1352,11 +1352,11 @@
       "70b",
       "405b"
     ],
-    "pull_str": "371.6K",
-    "pull": 371600,
+    "pull_str": "372.2K",
+    "pull": 372200,
     "tag_count": "65",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/hermes3",
     "popularity": 82
   },
@@ -1368,11 +1368,11 @@
       "9b",
       "34b"
     ],
-    "pull_str": "334.6K",
-    "pull": 334600,
+    "pull_str": "335K",
+    "pull": 335000,
     "tag_count": "174",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/yi",
     "popularity": 83
   },
@@ -1384,11 +1384,11 @@
     "parameters": [
       "300m"
     ],
-    "pull_str": "330.3K",
-    "pull": 330300,
+    "pull_str": "331.6K",
+    "pull": 331600,
     "tag_count": "5",
     "updated": "3 months ago",
-    "update_date": "2025-09-21",
+    "update_date": "2025-09-22",
     "link": "https://ollama.com/library/embeddinggemma",
     "popularity": 84
   },
@@ -1399,11 +1399,11 @@
       "7b",
       "141b"
     ],
-    "pull_str": "317.8K",
-    "pull": 317800,
+    "pull_str": "318.2K",
+    "pull": 318200,
     "tag_count": "40",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/zephyr",
     "popularity": 85
   },
@@ -1415,11 +1415,11 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "315.7K",
-    "pull": 315700,
+    "pull_str": "317.2K",
+    "pull": 317200,
     "tag_count": "13",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/exaone-deep",
     "popularity": 86
   },
@@ -1433,11 +1433,11 @@
       "1b",
       "3b"
     ],
-    "pull_str": "304.8K",
-    "pull": 304800,
+    "pull_str": "310K",
+    "pull": 310000,
     "tag_count": "17",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/granite4",
     "popularity": 87
   },
@@ -1449,11 +1449,11 @@
     "parameters": [
       "123b"
     ],
-    "pull_str": "299.7K",
-    "pull": 299700,
+    "pull_str": "300.2K",
+    "pull": 300200,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/mistral-large",
     "popularity": 88
   },
@@ -1465,11 +1465,11 @@
       "13b",
       "30b"
     ],
-    "pull_str": "286.8K",
-    "pull": 286800,
+    "pull_str": "287.3K",
+    "pull": 287300,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/wizard-vicuna-uncensored",
     "popularity": 89
   },
@@ -1480,11 +1480,11 @@
       "1.5b",
       "8b"
     ],
-    "pull_str": "274.7K",
-    "pull": 274700,
+    "pull_str": "276.2K",
+    "pull": 276200,
     "tag_count": "9",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/opencoder",
     "popularity": 90
   },
@@ -1497,11 +1497,11 @@
       "7b",
       "15b"
     ],
-    "pull_str": "253.5K",
-    "pull": 253500,
+    "pull_str": "253.9K",
+    "pull": 253900,
     "tag_count": "100",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/starcoder",
     "popularity": 91
   },
@@ -1512,11 +1512,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "248.9K",
-    "pull": 248900,
+    "pull_str": "249.4K",
+    "pull": 249400,
     "tag_count": "63",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/nous-hermes",
     "popularity": 92
   },
@@ -1528,11 +1528,11 @@
       "40b",
       "180b"
     ],
-    "pull_str": "239.6K",
-    "pull": 239600,
+    "pull_str": "239.9K",
+    "pull": 239900,
     "tag_count": "38",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/falcon",
     "popularity": 93
   },
@@ -1543,11 +1543,11 @@
       "7b",
       "67b"
     ],
-    "pull_str": "238.4K",
-    "pull": 238400,
+    "pull_str": "238.8K",
+    "pull": 238800,
     "tag_count": "64",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/deepseek-llm",
     "popularity": 94
   },
@@ -1557,11 +1557,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "232.3K",
-    "pull": 232300,
+    "pull_str": "232.8K",
+    "pull": 232800,
     "tag_count": "50",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/openchat",
     "popularity": 95
   },
@@ -1573,11 +1573,11 @@
       "13b",
       "33b"
     ],
-    "pull_str": "231K",
-    "pull": 231000,
+    "pull_str": "231.5K",
+    "pull": 231500,
     "tag_count": "111",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/vicuna",
     "popularity": 96
   },
@@ -1588,11 +1588,11 @@
       "16b",
       "236b"
     ],
-    "pull_str": "228K",
-    "pull": 228000,
+    "pull_str": "228.5K",
+    "pull": 228500,
     "tag_count": "34",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/deepseek-v2",
     "popularity": 97
   },
@@ -1600,11 +1600,11 @@
     "description": "OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "213K",
-    "pull": 213000,
+    "pull_str": "213.4K",
+    "pull": 213400,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/openhermes",
     "popularity": 98
   },
@@ -1614,11 +1614,11 @@
     "parameters": [
       "9b"
     ],
-    "pull_str": "212.6K",
-    "pull": 212600,
+    "pull_str": "213K",
+    "pull": 213000,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/codegeex4",
     "popularity": 99
   },
@@ -1628,43 +1628,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "212.1K",
-    "pull": 212100,
+    "pull_str": "212.5K",
+    "pull": 212500,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/mistral-openorca",
     "popularity": 100
-  },
-  "codeqwen": {
-    "description": "CodeQwen1.5 is a large language model pretrained on a large amount of code data.",
-    "capabilities": [],
-    "parameters": [
-      "7b"
-    ],
-    "pull_str": "210.8K",
-    "pull": 210800,
-    "tag_count": "30",
-    "updated": "1 year ago",
-    "update_date": "2024-12-21",
-    "link": "https://ollama.com/library/codeqwen",
-    "popularity": 101
-  },
-  "snowflake-arctic-embed2": {
-    "description": "Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.",
-    "capabilities": [
-      "embedding"
-    ],
-    "parameters": [
-      "568m"
-    ],
-    "pull_str": "210.2K",
-    "pull": 210200,
-    "tag_count": "3",
-    "updated": "1 year ago",
-    "update_date": "2024-12-21",
-    "link": "https://ollama.com/library/snowflake-arctic-embed2",
-    "popularity": 102
   },
   "deepseek-v3.1": {
     "description": "DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.",
@@ -1675,12 +1645,42 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "210K",
-    "pull": 210000,
+    "pull_str": "211.4K",
+    "pull": 211400,
     "tag_count": "8",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/deepseek-v3.1",
+    "popularity": 101
+  },
+  "codeqwen": {
+    "description": "CodeQwen1.5 is a large language model pretrained on a large amount of code data.",
+    "capabilities": [],
+    "parameters": [
+      "7b"
+    ],
+    "pull_str": "211.3K",
+    "pull": 211300,
+    "tag_count": "30",
+    "updated": "1 year ago",
+    "update_date": "2024-12-22",
+    "link": "https://ollama.com/library/codeqwen",
+    "popularity": 102
+  },
+  "snowflake-arctic-embed2": {
+    "description": "Snowflake's frontier embedding model. Arctic Embed 2.0 adds multilingual support without sacrificing English performance or scalability.",
+    "capabilities": [
+      "embedding"
+    ],
+    "parameters": [
+      "568m"
+    ],
+    "pull_str": "210.7K",
+    "pull": 210700,
+    "tag_count": "3",
+    "updated": "1 year ago",
+    "update_date": "2024-12-22",
+    "link": "https://ollama.com/library/snowflake-arctic-embed2",
     "popularity": 103
   },
   "qwen3-next": {
@@ -1692,11 +1692,11 @@
     "parameters": [
       "80b"
     ],
-    "pull_str": "208.3K",
-    "pull": 208300,
+    "pull_str": "209.6K",
+    "pull": 209600,
     "tag_count": "10",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/qwen3-next",
     "popularity": 104
   },
@@ -1708,11 +1708,11 @@
     "parameters": [
       "104b"
     ],
-    "pull_str": "205.4K",
-    "pull": 205400,
+    "pull_str": "205.8K",
+    "pull": 205800,
     "tag_count": "21",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/command-r-plus",
     "popularity": 105
   },
@@ -1724,11 +1724,11 @@
       "7b",
       "72b"
     ],
-    "pull_str": "199.5K",
-    "pull": 199500,
+    "pull_str": "199.9K",
+    "pull": 199900,
     "tag_count": "52",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/qwen2-math",
     "popularity": 106
   },
@@ -1742,11 +1742,11 @@
       "4b",
       "8b"
     ],
-    "pull_str": "196.9K",
-    "pull": 196900,
+    "pull_str": "198.2K",
+    "pull": 198200,
     "tag_count": "12",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/qwen3-embedding",
     "popularity": 107
   },
@@ -1756,11 +1756,11 @@
     "parameters": [
       "1.1b"
     ],
-    "pull_str": "195.5K",
-    "pull": 195500,
+    "pull_str": "195.9K",
+    "pull": 195900,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/tinydolphin",
     "popularity": 108
   },
@@ -1771,11 +1771,11 @@
       "8b",
       "35b"
     ],
-    "pull_str": "192.3K",
-    "pull": 192300,
+    "pull_str": "192.8K",
+    "pull": 192800,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/aya",
     "popularity": 109
   },
@@ -1785,11 +1785,11 @@
     "parameters": [
       "9b"
     ],
-    "pull_str": "191.9K",
-    "pull": 191900,
+    "pull_str": "192.4K",
+    "pull": 192400,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/glm4",
     "popularity": 110
   },
@@ -1800,11 +1800,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "190.8K",
-    "pull": 190800,
+    "pull_str": "191.2K",
+    "pull": 191200,
     "tag_count": "35",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/llama2-chinese",
     "popularity": 111
   },
@@ -1817,27 +1817,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "189.9K",
-    "pull": 189900,
+    "pull_str": "190.3K",
+    "pull": 190300,
     "tag_count": "9",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/granite3.2",
     "popularity": 112
-  },
-  "stable-code": {
-    "description": "Stable Code 3B is a coding model with instruct and code completion variants on par with models such as Code Llama 7B that are 2.5x larger.",
-    "capabilities": [],
-    "parameters": [
-      "3b"
-    ],
-    "pull_str": "181.9K",
-    "pull": 181900,
-    "tag_count": "36",
-    "updated": "1 year ago",
-    "update_date": "2024-12-21",
-    "link": "https://ollama.com/library/stable-code",
-    "popularity": 113
   },
   "paraphrase-multilingual": {
     "description": "Sentence-transformers model that can be used for tasks like clustering or semantic search.",
@@ -1847,12 +1833,26 @@
     "parameters": [
       "278m"
     ],
-    "pull_str": "180.5K",
-    "pull": 180500,
+    "pull_str": "183.4K",
+    "pull": 183400,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/paraphrase-multilingual",
+    "popularity": 113
+  },
+  "stable-code": {
+    "description": "Stable Code 3B is a coding model with instruct and code completion variants on par with models such as Code Llama 7B that are 2.5x larger.",
+    "capabilities": [],
+    "parameters": [
+      "3b"
+    ],
+    "pull_str": "182.4K",
+    "pull": 182400,
+    "tag_count": "36",
+    "updated": "1 year ago",
+    "update_date": "2024-12-22",
+    "link": "https://ollama.com/library/stable-code",
     "popularity": 114
   },
   "neural-chat": {
@@ -1861,11 +1861,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "177.5K",
-    "pull": 177500,
+    "pull_str": "177.9K",
+    "pull": 177900,
     "tag_count": "50",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/neural-chat",
     "popularity": 115
   },
@@ -1876,11 +1876,11 @@
       "10.7b",
       "34b"
     ],
-    "pull_str": "176.1K",
-    "pull": 176100,
+    "pull_str": "176.5K",
+    "pull": 176500,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nous-hermes2",
     "popularity": 116
   },
@@ -1892,11 +1892,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "174.3K",
-    "pull": 174300,
+    "pull_str": "174.7K",
+    "pull": 174700,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/bakllava",
     "popularity": 117
   },
@@ -1906,11 +1906,11 @@
     "parameters": [
       "33b"
     ],
-    "pull_str": "171.7K",
-    "pull": 171700,
+    "pull_str": "172.1K",
+    "pull": 172100,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/wizardcoder",
     "popularity": 118
   },
@@ -1921,11 +1921,11 @@
       "7b",
       "15b"
     ],
-    "pull_str": "167.3K",
-    "pull": 167300,
+    "pull_str": "167.7K",
+    "pull": 167700,
     "tag_count": "48",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/sqlcoder",
     "popularity": 119
   },
@@ -1937,11 +1937,11 @@
     "parameters": [
       "335m"
     ],
-    "pull_str": "164.9K",
-    "pull": 164900,
+    "pull_str": "165.3K",
+    "pull": 165300,
     "tag_count": "3",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/bge-large",
     "popularity": 120
   },
@@ -1952,11 +1952,11 @@
       "1.6b",
       "12b"
     ],
-    "pull_str": "158.7K",
-    "pull": 158700,
+    "pull_str": "159K",
+    "pull": 159000,
     "tag_count": "84",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/stablelm2",
     "popularity": 121
   },
@@ -1967,11 +1967,11 @@
       "70b",
       "671b"
     ],
-    "pull_str": "157.7K",
-    "pull": 157700,
+    "pull_str": "158.3K",
+    "pull": 158300,
     "tag_count": "9",
     "updated": "10 months ago",
-    "update_date": "2025-02-21",
+    "update_date": "2025-02-22",
     "link": "https://ollama.com/library/r1-1776",
     "popularity": 122
   },
@@ -1982,11 +1982,11 @@
       "1.5b",
       "9b"
     ],
-    "pull_str": "157.6K",
-    "pull": 157600,
+    "pull_str": "158K",
+    "pull": 158000,
     "tag_count": "67",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/yi-coder",
     "popularity": 123
   },
@@ -1998,11 +1998,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "156.3K",
-    "pull": 156300,
+    "pull_str": "156.7K",
+    "pull": 156700,
     "tag_count": "4",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llava-phi3",
     "popularity": 124
   },
@@ -2013,11 +2013,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "155.6K",
-    "pull": 155600,
+    "pull_str": "156K",
+    "pull": 156000,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3-chatqa",
     "popularity": 125
   },
@@ -2030,11 +2030,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "152.3K",
-    "pull": 152300,
+    "pull_str": "152.7K",
+    "pull": 152700,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/granite3-dense",
     "popularity": 126
   },
@@ -2047,11 +2047,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "151.4K",
-    "pull": 151400,
+    "pull_str": "151.8K",
+    "pull": 151800,
     "tag_count": "33",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/granite3.1-dense",
     "popularity": 127
   },
@@ -2063,11 +2063,11 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "147.6K",
-    "pull": 147600,
+    "pull_str": "148.1K",
+    "pull": 148100,
     "tag_count": "13",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/exaone3.5",
     "popularity": 128
   },
@@ -2080,11 +2080,11 @@
       "30m",
       "278m"
     ],
-    "pull_str": "144.9K",
-    "pull": 144900,
+    "pull_str": "145.4K",
+    "pull": 145400,
     "tag_count": "6",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/granite-embedding",
     "popularity": 129
   },
@@ -2094,11 +2094,11 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "144.8K",
-    "pull": 144800,
+    "pull_str": "145.2K",
+    "pull": 145200,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/reflection",
     "popularity": 130
   },
@@ -2110,11 +2110,11 @@
       "13b",
       "70b"
     ],
-    "pull_str": "144.1K",
-    "pull": 144100,
+    "pull_str": "144.5K",
+    "pull": 144500,
     "tag_count": "64",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/wizard-math",
     "popularity": 131
   },
@@ -2125,11 +2125,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "142.3K",
-    "pull": 142300,
+    "pull_str": "142.7K",
+    "pull": 142700,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3-gradient",
     "popularity": 132
   },
@@ -2140,11 +2140,11 @@
       "7b",
       "15b"
     ],
-    "pull_str": "142K",
-    "pull": 142000,
+    "pull_str": "142.3K",
+    "pull": 142300,
     "tag_count": "35",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dolphincoder",
     "popularity": 133
   },
@@ -2154,11 +2154,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "139.2K",
-    "pull": 139200,
+    "pull_str": "139.6K",
+    "pull": 139600,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/samantha-mistral",
     "popularity": 134
   },
@@ -2170,11 +2170,11 @@
     "parameters": [
       "4b"
     ],
-    "pull_str": "134.2K",
-    "pull": 134200,
+    "pull_str": "134.7K",
+    "pull": 134700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nemotron-mini",
     "popularity": 135
   },
@@ -2184,11 +2184,11 @@
     "parameters": [
       "132b"
     ],
-    "pull_str": "133.3K",
-    "pull": 133300,
+    "pull_str": "133.6K",
+    "pull": 133600,
     "tag_count": "7",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/dbrx",
     "popularity": 136
   },
@@ -2201,11 +2201,11 @@
       "7b",
       "20b"
     ],
-    "pull_str": "131.9K",
-    "pull": 131900,
+    "pull_str": "132.3K",
+    "pull": 132300,
     "tag_count": "65",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/internlm2",
     "popularity": 137
   },
@@ -2216,11 +2216,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "130.2K",
-    "pull": 130200,
+    "pull_str": "130.6K",
+    "pull": 130600,
     "tag_count": "9",
-    "updated": "12 months ago",
-    "update_date": "2024-12-21",
+    "updated": "1 year ago",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/tulu3",
     "popularity": 138
   },
@@ -2230,11 +2230,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "127.1K",
-    "pull": 127100,
+    "pull_str": "127.4K",
+    "pull": 127400,
     "tag_count": "36",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/starling-lm",
     "popularity": 139
   },
@@ -2247,11 +2247,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "126.5K",
-    "pull": 126500,
+    "pull_str": "127K",
+    "pull": 127000,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama3-groq-tool-use",
     "popularity": 140
   },
@@ -2263,11 +2263,11 @@
     "parameters": [
       "72b"
     ],
-    "pull_str": "125.9K",
-    "pull": 125900,
+    "pull_str": "126.3K",
+    "pull": 126300,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/athene-v2",
     "popularity": 141
   },
@@ -2277,11 +2277,11 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "125.7K",
-    "pull": 125700,
+    "pull_str": "126.1K",
+    "pull": 126100,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/phind-codellama",
     "popularity": 142
   },
@@ -2291,11 +2291,11 @@
     "parameters": [
       "10.7b"
     ],
-    "pull_str": "124.9K",
-    "pull": 124900,
+    "pull_str": "125.3K",
+    "pull": 125300,
     "tag_count": "32",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/solar",
     "popularity": 143
   },
@@ -2306,11 +2306,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "123.1K",
-    "pull": 123100,
+    "pull_str": "123.5K",
+    "pull": 123500,
     "tag_count": "80",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/xwinlm",
     "popularity": 144
   },
@@ -2322,11 +2322,11 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "121K",
-    "pull": 121000,
+    "pull_str": "121.5K",
+    "pull": 121500,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nemotron",
     "popularity": 145
   },
@@ -2337,11 +2337,11 @@
       "1b",
       "8b"
     ],
-    "pull_str": "120.6K",
-    "pull": 120600,
+    "pull_str": "121K",
+    "pull": 121000,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama-guard3",
     "popularity": 146
   },
@@ -2352,11 +2352,11 @@
       "7b",
       "70b"
     ],
-    "pull_str": "118.7K",
-    "pull": 118700,
+    "pull_str": "119.1K",
+    "pull": 119100,
     "tag_count": "22",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/meditron",
     "popularity": 147
   },
@@ -2367,11 +2367,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "116.5K",
-    "pull": 116500,
+    "pull_str": "116.9K",
+    "pull": 116900,
     "tag_count": "67",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/yarn-llama2",
     "popularity": 148
   },
@@ -2384,11 +2384,11 @@
       "8b",
       "32b"
     ],
-    "pull_str": "116.1K",
-    "pull": 116100,
+    "pull_str": "116.6K",
+    "pull": 116600,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/aya-expanse",
     "popularity": 149
   },
@@ -2398,11 +2398,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "115.2K",
-    "pull": 115200,
+    "pull_str": "115.7K",
+    "pull": 115700,
     "tag_count": "18",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/wizardlm-uncensored",
     "popularity": 150
   },
@@ -2415,11 +2415,11 @@
       "1b",
       "3b"
     ],
-    "pull_str": "114.8K",
-    "pull": 114800,
+    "pull_str": "115.2K",
+    "pull": 115200,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/granite3-moe",
     "popularity": 151
   },
@@ -2429,11 +2429,11 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "108.6K",
-    "pull": 108600,
+    "pull_str": "109K",
+    "pull": 109000,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/smallthinker",
     "popularity": 152
   },
@@ -2444,11 +2444,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "103.2K",
-    "pull": 103200,
+    "pull_str": "103.6K",
+    "pull": 103600,
     "tag_count": "33",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/orca2",
     "popularity": 153
   },
@@ -2458,11 +2458,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "102.4K",
-    "pull": 102400,
+    "pull_str": "102.8K",
+    "pull": 102800,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/medllama2",
     "popularity": 154
   },
@@ -2474,11 +2474,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "100.4K",
-    "pull": 100400,
+    "pull_str": "100.8K",
+    "pull": 100800,
     "tag_count": "5",
     "updated": "11 months ago",
-    "update_date": "2025-01-21",
+    "update_date": "2025-01-22",
     "link": "https://ollama.com/library/command-r7b",
     "popularity": 155
   },
@@ -2488,11 +2488,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "99.7K",
-    "pull": 99700,
+    "pull_str": "100.2K",
+    "pull": 100200,
     "tag_count": "5",
     "updated": "7 months ago",
-    "update_date": "2025-05-21",
+    "update_date": "2025-05-22",
     "link": "https://ollama.com/library/phi4-mini-reasoning",
     "popularity": 156
   },
@@ -2502,11 +2502,11 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "98.1K",
-    "pull": 98100,
+    "pull_str": "98.5K",
+    "pull": 98500,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nous-hermes2-mixtral",
     "popularity": 157
   },
@@ -2518,11 +2518,11 @@
       "13b",
       "70b"
     ],
-    "pull_str": "96.3K",
-    "pull": 96300,
+    "pull_str": "96.7K",
+    "pull": 96700,
     "tag_count": "49",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/stable-beluga",
     "popularity": 158
   },
@@ -2532,11 +2532,11 @@
     "parameters": [
       "236b"
     ],
-    "pull_str": "93K",
-    "pull": 93000,
+    "pull_str": "93.5K",
+    "pull": 93500,
     "tag_count": "7",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/deepseek-v2.5",
     "popularity": 159
   },
@@ -2547,11 +2547,11 @@
       "0.5b",
       "1.5b"
     ],
-    "pull_str": "89.9K",
-    "pull": 89900,
+    "pull_str": "90.3K",
+    "pull": 90300,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/reader-lm",
     "popularity": 160
   },
@@ -2563,11 +2563,11 @@
       "9b",
       "27b"
     ],
-    "pull_str": "84.5K",
-    "pull": 84500,
+    "pull_str": "85K",
+    "pull": 85000,
     "tag_count": "49",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/shieldgemma",
     "popularity": 161
   },
@@ -2579,11 +2579,11 @@
     "parameters": [
       "111b"
     ],
-    "pull_str": "84.3K",
-    "pull": 84300,
+    "pull_str": "84.8K",
+    "pull": 84800,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/command-a",
     "popularity": 162
   },
@@ -2591,11 +2591,11 @@
     "description": "An expansion of Llama 2 that specializes in integrating both general language understanding and domain-specific knowledge, particularly in programming and mathematics.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "83.1K",
-    "pull": 83100,
+    "pull_str": "83.4K",
+    "pull": 83400,
     "tag_count": "33",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/llama-pro",
     "popularity": 163
   },
@@ -2605,11 +2605,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "81.5K",
-    "pull": 81500,
+    "pull_str": "81.9K",
+    "pull": 81900,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/mathstral",
     "popularity": 164
   },
@@ -2617,11 +2617,11 @@
     "description": "General use model based on Llama 2.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "81.4K",
-    "pull": 81400,
+    "pull_str": "81.5K",
+    "pull": 81500,
     "tag_count": "73",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/wizardlm",
     "popularity": 165
   },
@@ -2631,11 +2631,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "80.7K",
-    "pull": 80700,
+    "pull_str": "81K",
+    "pull": 81000,
     "tag_count": "33",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/yarn-mistral",
     "popularity": 166
   },
@@ -2645,11 +2645,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "78.8K",
-    "pull": 78800,
+    "pull_str": "79.2K",
+    "pull": 79200,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/everythinglm",
     "popularity": 167
   },
@@ -2659,11 +2659,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "77.9K",
-    "pull": 77900,
+    "pull_str": "78.3K",
+    "pull": 78300,
     "tag_count": "32",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/nexusraven",
     "popularity": 168
   },
@@ -2673,11 +2673,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "77.7K",
-    "pull": 77700,
+    "pull_str": "78K",
+    "pull": 78000,
     "tag_count": "19",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/codeup",
     "popularity": 169
   },
@@ -2687,11 +2687,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "75.7K",
-    "pull": 75700,
+    "pull_str": "76K",
+    "pull": 76000,
     "tag_count": "5",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/marco-o1",
     "popularity": 170
   },
@@ -2701,11 +2701,11 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "75.5K",
-    "pull": 75500,
+    "pull_str": "75.9K",
+    "pull": 75900,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/stablelm-zephyr",
     "popularity": 171
   },
@@ -2715,11 +2715,11 @@
     "parameters": [
       "11b"
     ],
-    "pull_str": "74.1K",
-    "pull": 74100,
+    "pull_str": "74.5K",
+    "pull": 74500,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/falcon2",
     "popularity": 172
   },
@@ -2729,11 +2729,11 @@
     "parameters": [
       "22b"
     ],
-    "pull_str": "73K",
-    "pull": 73000,
+    "pull_str": "73.4K",
+    "pull": 73400,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/solar-pro",
     "popularity": 173
   },
@@ -2743,11 +2743,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "71.4K",
-    "pull": 71400,
+    "pull_str": "71.7K",
+    "pull": 71700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/duckdb-nsql",
     "popularity": 174
   },
@@ -2757,11 +2757,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "69.2K",
-    "pull": 69200,
+    "pull_str": "69.6K",
+    "pull": 69600,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/mistrallite",
     "popularity": 175
   },
@@ -2771,11 +2771,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "69.1K",
-    "pull": 69100,
+    "pull_str": "69.5K",
+    "pull": 69500,
     "tag_count": "18",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/magicoder",
     "popularity": 176
   },
@@ -2785,11 +2785,11 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "68.7K",
-    "pull": 68700,
+    "pull_str": "69.1K",
+    "pull": 69100,
     "tag_count": "16",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/codebooga",
     "popularity": 177
   },
@@ -2799,27 +2799,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "68.3K",
-    "pull": 68300,
+    "pull_str": "68.7K",
+    "pull": 68700,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/bespoke-minicheck",
     "popularity": 178
-  },
-  "nuextract": {
-    "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
-    "capabilities": [],
-    "parameters": [
-      "3.8b"
-    ],
-    "pull_str": "68.1K",
-    "pull": 68100,
-    "tag_count": "17",
-    "updated": "1 year ago",
-    "update_date": "2024-12-21",
-    "link": "https://ollama.com/library/nuextract",
-    "popularity": 179
   },
   "deepseek-ocr": {
     "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
@@ -2829,12 +2815,26 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "67.4K",
-    "pull": 67400,
+    "pull_str": "68.6K",
+    "pull": 68600,
     "tag_count": "3",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/deepseek-ocr",
+    "popularity": 179
+  },
+  "nuextract": {
+    "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
+    "capabilities": [],
+    "parameters": [
+      "3.8b"
+    ],
+    "pull_str": "68.4K",
+    "pull": 68400,
+    "tag_count": "17",
+    "updated": "1 year ago",
+    "update_date": "2024-12-22",
+    "link": "https://ollama.com/library/nuextract",
     "popularity": 180
   },
   "wizard-vicuna": {
@@ -2843,11 +2843,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "64.9K",
-    "pull": 64900,
+    "pull_str": "65.3K",
+    "pull": 65300,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/wizard-vicuna",
     "popularity": 181
   },
@@ -2858,11 +2858,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "62.3K",
-    "pull": 62300,
+    "pull_str": "62.7K",
+    "pull": 62700,
     "tag_count": "10",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/granite3-guardian",
     "popularity": 182
   },
@@ -2874,11 +2874,11 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "60.4K",
-    "pull": 60400,
+    "pull_str": "60.8K",
+    "pull": 60800,
     "tag_count": "17",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/firefunction-v2",
     "popularity": 183
   },
@@ -2888,11 +2888,11 @@
     "parameters": [
       "120b"
     ],
-    "pull_str": "59.3K",
-    "pull": 59300,
+    "pull_str": "59.7K",
+    "pull": 59700,
     "tag_count": "19",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/megadolphin",
     "popularity": 184
   },
@@ -2902,11 +2902,11 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "58.7K",
-    "pull": 58700,
+    "pull_str": "59K",
+    "pull": 59000,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/notux",
     "popularity": 185
   },
@@ -2916,11 +2916,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "58.5K",
-    "pull": 58500,
+    "pull_str": "58.9K",
+    "pull": 58900,
     "tag_count": "17",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/open-orca-platypus2",
     "popularity": 186
   },
@@ -2932,11 +2932,11 @@
       "8b",
       "20b"
     ],
-    "pull_str": "58.1K",
-    "pull": 58100,
+    "pull_str": "58.4K",
+    "pull": 58400,
     "tag_count": "13",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/sailor2",
     "popularity": 187
   },
@@ -2946,11 +2946,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "57.9K",
-    "pull": 57900,
+    "pull_str": "58.3K",
+    "pull": 58300,
     "tag_count": "18",
     "updated": "1 year ago",
-    "update_date": "2024-12-21",
+    "update_date": "2024-12-22",
     "link": "https://ollama.com/library/notus",
     "popularity": 188
   },
@@ -2958,11 +2958,11 @@
     "description": "A language model created by combining two fine-tuned Llama 2 70B models into one.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "56.3K",
-    "pull": 56300,
+    "pull_str": "56.7K",
+    "pull": 56700,
     "tag_count": "16",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/goliath",
     "popularity": 189
   },
@@ -2972,11 +2972,11 @@
     "parameters": [
       "40b"
     ],
-    "pull_str": "51.2K",
-    "pull": 51200,
+    "pull_str": "51.5K",
+    "pull": 51500,
     "tag_count": "7",
     "updated": "2 years ago",
-    "update_date": "2023-12-21",
+    "update_date": "2023-12-22",
     "link": "https://ollama.com/library/alfred",
     "popularity": 190
   },
@@ -2988,11 +2988,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "43.2K",
-    "pull": 43200,
+    "pull_str": "43.5K",
+    "pull": 43500,
     "tag_count": "5",
     "updated": "9 months ago",
-    "update_date": "2025-03-21",
+    "update_date": "2025-03-22",
     "link": "https://ollama.com/library/command-r7b-arabic",
     "popularity": 191
   },
@@ -3004,11 +3004,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "39.5K",
-    "pull": 39500,
+    "pull_str": "40.1K",
+    "pull": 40100,
     "tag_count": "1",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/gemini-3-pro-preview",
     "popularity": 192
   },
@@ -3019,11 +3019,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "34.8K",
-    "pull": 34800,
+    "pull_str": "35.1K",
+    "pull": 35100,
     "tag_count": "1",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/glm-4.6",
     "popularity": 193
   },
@@ -3037,11 +3037,11 @@
       "20b",
       "120b"
     ],
-    "pull_str": "33.6K",
-    "pull": 33600,
+    "pull_str": "34.1K",
+    "pull": 34100,
     "tag_count": "3",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/gpt-oss-safeguard",
     "popularity": 194
   },
@@ -3052,11 +3052,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "28.6K",
-    "pull": 28600,
+    "pull_str": "28.8K",
+    "pull": 28800,
     "tag_count": "1",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/minimax-m2",
     "popularity": 195
   },
@@ -3066,11 +3066,11 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "21.3K",
-    "pull": 21300,
+    "pull_str": "21.4K",
+    "pull": 21400,
     "tag_count": "1",
     "updated": "2 months ago",
-    "update_date": "2025-10-21",
+    "update_date": "2025-10-22",
     "link": "https://ollama.com/library/kimi-k2",
     "popularity": 196
   },
@@ -3080,11 +3080,11 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "19.3K",
-    "pull": 19300,
+    "pull_str": "19.8K",
+    "pull": 19800,
     "tag_count": "6",
-    "updated": "4 weeks ago",
-    "update_date": "2025-11-23",
+    "updated": "1 month ago",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/cogito-2.1",
     "popularity": 197
   },
@@ -3095,11 +3095,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "14.5K",
-    "pull": 14500,
+    "pull_str": "14.7K",
+    "pull": 14700,
     "tag_count": "1",
     "updated": "1 month ago",
-    "update_date": "2025-11-21",
+    "update_date": "2025-11-22",
     "link": "https://ollama.com/library/kimi-k2-thinking",
     "popularity": 198
   },
@@ -3111,11 +3111,11 @@
     "parameters": [
       "8b"
     ],
-    "pull_str": "11.2K",
-    "pull": 11200,
+    "pull_str": "11.7K",
+    "pull": 11700,
     "tag_count": "6",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/rnj-1",
     "popularity": 199
   },
@@ -3125,11 +3125,11 @@
       "embedding"
     ],
     "parameters": [],
-    "pull_str": "8,112",
-    "pull": 8112,
+    "pull_str": "8,647",
+    "pull": 8647,
     "tag_count": "1",
     "updated": "1 week ago",
-    "update_date": "2025-12-14",
+    "update_date": "2025-12-15",
     "link": "https://ollama.com/library/nomic-embed-text-v2-moe",
     "popularity": 200
   },
@@ -3141,10 +3141,10 @@
     "parameters": [
       "32b"
     ],
-    "pull_str": "6,203",
-    "pull": 6203,
+    "pull_str": "6,748",
+    "pull": 6748,
     "tag_count": "10",
-    "updated": "4 days ago",
+    "updated": "5 days ago",
     "update_date": "2025-12-17",
     "link": "https://ollama.com/library/olmo-3.1",
     "popularity": 201
@@ -3156,10 +3156,10 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "5,120",
-    "pull": 5120,
+    "pull_str": "5,306",
+    "pull": 5306,
     "tag_count": 1,
-    "updated": "yesterday",
+    "updated": "2 days ago",
     "update_date": "2025-12-20",
     "link": "https://ollama.com/library/deepseek-v3.2",
     "popularity": 202
@@ -3171,11 +3171,11 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "5,021",
-    "pull": 5021,
+    "pull_str": "5,111",
+    "pull": 5111,
     "tag_count": "1",
     "updated": "2 weeks ago",
-    "update_date": "2025-12-07",
+    "update_date": "2025-12-08",
     "link": "https://ollama.com/library/mistral-large-3",
     "popularity": 203
   }
