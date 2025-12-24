@@ -79212,5 +79212,35 @@
       "size_str": "552MB",
       "size_num": 552000000
     }
+  },
+  "minimax-m2.1": {
+    "4ada3a038304": {
+      "href": "https://ollama.com/library/minimax-m2.1:cloud",
+      "name": "minimax-m2.1:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "23 hours ago",
+      "update_date": "2025-12-23",
+      "context_window": "200K",
+      "context_window_num": 200000,
+      "size_str": "-",
+      "size_num": 0
+    }
+  },
+  "glm-4.7": {
+    "023608864819": {
+      "href": "https://ollama.com/library/glm-4.7:cloud",
+      "name": "glm-4.7:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "8 hours ago",
+      "update_date": "2025-12-23",
+      "context_window": "198K",
+      "context_window_num": 198000,
+      "size_str": "-",
+      "size_num": 0
+    }
   }
 }
