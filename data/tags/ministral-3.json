@@ -7,7 +7,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "6.0GB",
@@ -21,7 +21,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "3.0GB",
@@ -35,7 +35,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "9.1GB",
@@ -45,10 +45,11 @@
     "href": "https://ollama.com/library/ministral-3:3b-cloud",
     "name": "ministral-3:3b-cloud",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
@@ -62,7 +63,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "4.5GB",
@@ -76,7 +77,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "7.7GB",
@@ -86,10 +87,11 @@
     "href": "https://ollama.com/library/ministral-3:8b-cloud",
     "name": "ministral-3:8b-cloud",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
@@ -103,7 +105,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "9.9GB",
@@ -117,7 +119,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "18GB",
@@ -127,10 +129,11 @@
     "href": "https://ollama.com/library/ministral-3:14b-cloud",
     "name": "ministral-3:14b-cloud",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
@@ -144,7 +147,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "15GB",
@@ -158,7 +161,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2025-12-13",
+    "update_date": "2025-12-14",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "28GB",
