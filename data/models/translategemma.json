@@ -1,0 +1,18 @@
+{
+  "description": "A new collection of open translation models built on Gemma 3, helping people communicate across 55 languages.",
+  "capabilities": [
+    "vision"
+  ],
+  "parameters": [
+    "4b",
+    "12b",
+    "27b"
+  ],
+  "pull_str": "4,887",
+  "pull": 4887,
+  "tag_count": 9,
+  "updated": "5 hours ago",
+  "update_date": "2026-01-16",
+  "link": "https://ollama.com/library/translategemma",
+  "popularity": 206
+}
