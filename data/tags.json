@@ -79388,8 +79388,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 hours ago",
-      "update_date": "2026-01-19",
+      "updated_str": "yesterday",
+      "update_date": "2026-01-20",
       "context_window": "198K",
       "context_window_num": 198000,
       "size_str": "19GB",
@@ -79401,8 +79401,8 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 hours ago",
-      "update_date": "2026-01-19",
+      "updated_str": "yesterday",
+      "update_date": "2026-01-20",
       "context_window": "198K",
       "context_window_num": 198000,
       "size_str": "32GB",
@@ -79414,12 +79414,53 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 hours ago",
-      "update_date": "2026-01-19",
+      "updated_str": "yesterday",
+      "update_date": "2026-01-20",
       "context_window": "198K",
       "context_window_num": 198000,
       "size_str": "60GB",
       "size_num": 60000000000
+    }
+  },
+  "lfm2.5-thinking": {
+    "95bd9d45385f": {
+      "href": "https://ollama.com/library/lfm2.5-thinking:latest",
+      "name": "lfm2.5-thinking:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "14 hours ago",
+      "update_date": "2026-01-20",
+      "context_window": "125K",
+      "context_window_num": 125000,
+      "size_str": "731MB",
+      "size_num": 731000000
+    },
+    "10cad872d371": {
+      "href": "https://ollama.com/library/lfm2.5-thinking:1.2b-q8_0",
+      "name": "lfm2.5-thinking:1.2b-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "14 hours ago",
+      "update_date": "2026-01-20",
+      "context_window": "125K",
+      "context_window_num": 125000,
+      "size_str": "1.2GB",
+      "size_num": 1200000000
+    },
+    "7a6bd9bb72a7": {
+      "href": "https://ollama.com/library/lfm2.5-thinking:1.2b-bf16",
+      "name": "lfm2.5-thinking:1.2b-bf16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "14 hours ago",
+      "update_date": "2026-01-20",
+      "context_window": "125K",
+      "context_window_num": 125000,
+      "size_str": "2.3GB",
+      "size_num": 2300000000
     }
   }
 }

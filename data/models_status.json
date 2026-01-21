@@ -1,8 +1,8 @@
 {
-  "total_count": 207,
+  "total_count": 208,
   "success": true,
   "error": 0,
-  "api_data_updated": "2026-01-20",
+  "api_data_updated": "2026-01-21",
   "cap_list": [
     "embedding",
     "thinking",
@@ -13,6 +13,7 @@
     "0.5b",
     "0.6b",
     "1.1b",
+    "1.2b",
     "1.3b",
     "1.5b",
     "1.6b",
@@ -89,5 +90,5 @@
     "e2b",
     "e4b"
   ],
-  "processing_time": "0.48 seconds"
+  "processing_time": "0.79 seconds"
 }
