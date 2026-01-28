@@ -79462,5 +79462,21 @@
       "size_str": "2.3GB",
       "size_num": 2300000000
     }
+  },
+  "kimi-k2.5": {
+    "6d1c3246c608": {
+      "href": "https://ollama.com/library/kimi-k2.5:cloud",
+      "name": "kimi-k2.5:cloud",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "19 hours ago",
+      "update_date": "2026-01-27",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "-",
+      "size_num": 0
+    }
   }
 }
