@@ -79478,5 +79478,35 @@
       "size_str": "-",
       "size_num": 0
     }
+  },
+  "glm-ocr": {
+    "6effedd0dc8a": {
+      "href": "https://ollama.com/library/glm-ocr:latest",
+      "name": "glm-ocr:latest",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "3 hours ago",
+      "update_date": "2026-02-02",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "2.2GB",
+      "size_num": 2200000000
+    },
+    "2a5a0f1a9301": {
+      "href": "https://ollama.com/library/glm-ocr:q8_0",
+      "name": "glm-ocr:q8_0",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "3 hours ago",
+      "update_date": "2026-02-02",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "1.6GB",
+      "size_num": 1600000000
+    }
   }
 }
