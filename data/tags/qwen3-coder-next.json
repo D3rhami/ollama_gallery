@@ -1,0 +1,28 @@
+{
+  "ca06e9e4087c": {
+    "href": "https://ollama.com/library/qwen3-coder-next:latest",
+    "name": "qwen3-coder-next:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2026-02-04",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "52GB",
+    "size_num": 52000000000
+  },
+  "3f68e12b44ee": {
+    "href": "https://ollama.com/library/qwen3-coder-next:q8_0",
+    "name": "qwen3-coder-next:q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2026-02-04",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "85GB",
+    "size_num": 85000000000
+  }
+}
