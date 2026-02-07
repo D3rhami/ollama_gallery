@@ -5,12 +5,25 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "3 days ago",
     "update_date": "2026-02-04",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "52GB",
     "size_num": 52000000000
+  },
+  "aa626c11ae8d": {
+    "href": "https://ollama.com/library/qwen3-coder-next:cloud",
+    "name": "qwen3-coder-next:cloud",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "21 hours ago",
+    "update_date": "2026-02-06",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "-",
+    "size_num": 0
   },
   "3f68e12b44ee": {
     "href": "https://ollama.com/library/qwen3-coder-next:q8_0",
@@ -18,7 +31,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 days ago",
+    "updated_str": "3 days ago",
     "update_date": "2026-02-04",
     "context_window": "256K",
     "context_window_num": 256000,
