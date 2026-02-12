@@ -79549,5 +79549,20 @@
       "size_str": "85GB",
       "size_num": 85000000000
     }
+  },
+  "glm-5": {
+    "c313cd065935": {
+      "href": "https://ollama.com/library/glm-5:cloud",
+      "name": "glm-5:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "8 hours ago",
+      "update_date": "2026-02-11",
+      "context_window": "198K",
+      "context_window_num": 198000,
+      "size_str": "-",
+      "size_num": 0
+    }
   }
 }
