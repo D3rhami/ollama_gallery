@@ -79557,8 +79557,23 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "8 hours ago",
-      "update_date": "2026-02-11",
+      "updated_str": "yesterday",
+      "update_date": "2026-02-12",
+      "context_window": "198K",
+      "context_window_num": 198000,
+      "size_str": "-",
+      "size_num": 0
+    }
+  },
+  "minimax-m2.5": {
+    "c0d5751c800f": {
+      "href": "https://ollama.com/library/minimax-m2.5:cloud",
+      "name": "minimax-m2.5:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "18 hours ago",
+      "update_date": "2026-02-12",
       "context_window": "198K",
       "context_window_num": 198000,
       "size_str": "-",
