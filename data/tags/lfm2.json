@@ -1,0 +1,41 @@
+{
+  "d6c816d74887": {
+    "href": "https://ollama.com/library/lfm2:latest",
+    "name": "lfm2:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2026-02-24",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "14GB",
+    "size_num": 14000000000
+  },
+  "a6771778beca": {
+    "href": "https://ollama.com/library/lfm2:24b-q8_0",
+    "name": "lfm2:24b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2026-02-24",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "25GB",
+    "size_num": 25000000000
+  },
+  "aa84dcec6c70": {
+    "href": "https://ollama.com/library/lfm2:24b-bf16",
+    "name": "lfm2:24b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "yesterday",
+    "update_date": "2026-02-24",
+    "context_window": "32K",
+    "context_window_num": 32000,
+    "size_str": "48GB",
+    "size_num": 48000000000
+  }
+}
