@@ -1,16 +1,19 @@
 {
-  "description": "The Qwen3.5 series 397B-A17B native vision-language model is built on a hybrid architecture that integrates a linear attention mechanism with a sparse mixture-of-experts model, achieving higher inference efficiency.",
+  "description": "Qwen 3.5 is a family of open-source multimodal models that delivers exceptional utility and performance.",
   "capabilities": [
     "vision",
     "tools",
     "thinking"
   ],
-  "parameters": [],
-  "pull_str": "16K",
-  "pull": 16000,
-  "tag_count": "2",
-  "updated": "1 week ago",
-  "update_date": "2026-02-18",
+  "parameters": [
+    "35b",
+    "122b"
+  ],
+  "pull_str": "37.2K",
+  "pull": 37200,
+  "tag_count": 4,
+  "updated": "2 hours ago",
+  "update_date": "2026-02-26",
   "link": "https://ollama.com/library/qwen3.5",
-  "popularity": 213
+  "popularity": 210
 }

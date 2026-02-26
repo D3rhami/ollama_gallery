@@ -79588,11 +79588,53 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-02-17",
+      "update_date": "2026-02-19",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "-",
       "size_num": 0
+    },
+    "4af949f8bdf0": {
+      "href": "https://ollama.com/library/qwen3.5:35b",
+      "name": "qwen3.5:35b",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "2 hours ago",
+      "update_date": "2026-02-26",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "24GB",
+      "size_num": 24000000000
+    },
+    "8b9d11d807c5": {
+      "href": "https://ollama.com/library/qwen3.5:122b",
+      "name": "qwen3.5:122b",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "22 hours ago",
+      "update_date": "2026-02-25",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "81GB",
+      "size_num": 81000000000
+    },
+    "193ec05b1e80": {
+      "href": "https://ollama.com/library/qwen3.5:27b-q4_K_M",
+      "name": "qwen3.5:27b-q4_K_M",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "2 hours ago",
+      "update_date": "2026-02-26",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "17GB",
+      "size_num": 17000000000
     }
   },
   "lfm2": {
@@ -79602,7 +79644,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-02-24",
       "context_window": "32K",
       "context_window_num": 32000,
@@ -79615,7 +79657,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-02-24",
       "context_window": "32K",
       "context_window_num": 32000,
@@ -79628,7 +79670,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-02-24",
       "context_window": "32K",
       "context_window_num": 32000,
