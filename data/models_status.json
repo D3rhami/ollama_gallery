@@ -2,7 +2,7 @@
   "total_count": 214,
   "success": true,
   "error": 0,
-  "api_data_updated": "2026-03-02",
+  "api_data_updated": "2026-03-03",
   "cap_list": [
     "embedding",
     "thinking",
@@ -12,6 +12,7 @@
   "pars_list": [
     "0.5b",
     "0.6b",
+    "0.8b",
     "1.1b",
     "1.2b",
     "1.3b",
@@ -91,5 +92,5 @@
     "e2b",
     "e4b"
   ],
-  "processing_time": "0.55 seconds"
+  "processing_time": "0.95 seconds"
 }

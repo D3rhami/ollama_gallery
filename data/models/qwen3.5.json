@@ -6,15 +6,19 @@
     "thinking"
   ],
   "parameters": [
+    "0.8b",
+    "2b",
+    "4b",
+    "9b",
     "27b",
     "35b",
     "122b"
   ],
-  "pull_str": "153.7K",
-  "pull": 153700,
-  "tag_count": 6,
-  "updated": "yesterday",
-  "update_date": "2026-03-01",
+  "pull_str": "220.3K",
+  "pull": 220300,
+  "tag_count": 19,
+  "updated": "5 hours ago",
+  "update_date": "2026-03-02",
   "link": "https://ollama.com/library/qwen3.5",
-  "popularity": 190
+  "popularity": 170
 }
