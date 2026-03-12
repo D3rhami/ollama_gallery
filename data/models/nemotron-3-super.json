@@ -1,0 +1,17 @@
+{
+  "description": "NVIDIA Nemotron 3 Super is a 120B open MoE model activating just 12B parameters to deliver maximum compute efficiency and accuracy for complex multi-agent applications.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "120b"
+  ],
+  "pull_str": "1,418",
+  "pull": 1418,
+  "tag_count": 4,
+  "updated": "11 hours ago",
+  "update_date": "2026-03-11",
+  "link": "https://ollama.com/library/nemotron-3-super",
+  "popularity": 215
+}

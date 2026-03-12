@@ -79888,5 +79888,59 @@
       "size_str": "48GB",
       "size_num": 48000000000
     }
+  },
+  "nemotron-3-super": {
+    "95acc78b3ffd": {
+      "href": "https://ollama.com/library/nemotron-3-super:latest",
+      "name": "nemotron-3-super:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "11 hours ago",
+      "update_date": "2026-03-11",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "87GB",
+      "size_num": 87000000000
+    },
+    "be3943c5a818": {
+      "href": "https://ollama.com/library/nemotron-3-super:cloud",
+      "name": "nemotron-3-super:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "11 hours ago",
+      "update_date": "2026-03-11",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "-",
+      "size_num": 0
+    },
+    "b935f8ec0f40": {
+      "href": "https://ollama.com/library/nemotron-3-super:120b-a12b-q8_0",
+      "name": "nemotron-3-super:120b-a12b-q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "11 hours ago",
+      "update_date": "2026-03-11",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "132GB",
+      "size_num": 132000000000
+    },
+    "c14fcbcdc70e": {
+      "href": "https://ollama.com/library/nemotron-3-super:120b-a12b-bf16",
+      "name": "nemotron-3-super:120b-a12b-bf16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "11 hours ago",
+      "update_date": "2026-03-11",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "247GB",
+      "size_num": 247000000000
+    }
   }
 }
