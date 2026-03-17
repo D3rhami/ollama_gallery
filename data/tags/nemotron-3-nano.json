@@ -5,12 +5,51 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-01-16",
+    "updated_str": "3 months ago",
+    "update_date": "2025-12-17",
     "context_window": "1M",
     "context_window_num": 1000000,
     "size_str": "24GB",
     "size_num": 24000000000
+  },
+  "6cc467f05439": {
+    "href": "https://ollama.com/library/nemotron-3-nano:4b",
+    "name": "nemotron-3-nano:4b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 hours ago",
+    "update_date": "2026-03-16",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
+  },
+  "c534497d032c": {
+    "href": "https://ollama.com/library/nemotron-3-nano:4b-q8_0",
+    "name": "nemotron-3-nano:4b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 hours ago",
+    "update_date": "2026-03-16",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "4.2GB",
+    "size_num": 4200000000
+  },
+  "4bc6e34d03fb": {
+    "href": "https://ollama.com/library/nemotron-3-nano:4b-bf16",
+    "name": "nemotron-3-nano:4b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "11 hours ago",
+    "update_date": "2026-03-16",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.0GB",
+    "size_num": 8000000000
   },
   "a98df31bcc4a": {
     "href": "https://ollama.com/library/nemotron-3-nano:30b-a3b-q8_0",
@@ -18,8 +57,8 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-01-16",
+    "updated_str": "3 months ago",
+    "update_date": "2025-12-17",
     "context_window": "1M",
     "context_window_num": 1000000,
     "size_str": "34GB",
@@ -31,8 +70,8 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-01-16",
+    "updated_str": "3 months ago",
+    "update_date": "2025-12-17",
     "context_window": "1M",
     "context_window_num": 1000000,
     "size_str": "63GB",
@@ -44,8 +83,8 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-01-16",
+    "updated_str": "3 months ago",
+    "update_date": "2025-12-17",
     "context_window": "1M",
     "context_window_num": 1000000,
     "size_str": "-",

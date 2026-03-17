@@ -1,17 +1,18 @@
 {
-  "description": "Nemotron 3 Nano - A new Standard for Efficient, Open, and Intelligent Agentic Models",
+  "description": "Nemotron-3-Nano is a new Standard for Efficient, Open, and Intelligent Agentic Models, now updated with a 4B parameter count model.",
   "capabilities": [
     "tools",
     "thinking"
   ],
   "parameters": [
+    "4b",
     "30b"
   ],
-  "pull_str": "219.5K",
-  "pull": 219500,
-  "tag_count": 4,
-  "updated": "2 months ago",
-  "update_date": "2026-01-16",
+  "pull_str": "225K",
+  "pull": 225000,
+  "tag_count": 7,
+  "updated": "11 hours ago",
+  "update_date": "2026-03-16",
   "link": "https://ollama.com/library/nemotron-3-nano",
-  "popularity": 181
+  "popularity": 182
 }
