@@ -79015,7 +79015,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-12-18",
+      "update_date": "2025-12-19",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "24GB",
@@ -79027,7 +79027,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-03-17",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -79040,7 +79040,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-03-17",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -79053,7 +79053,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-03-17",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -79067,7 +79067,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-12-18",
+      "update_date": "2025-12-19",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "34GB",
@@ -79080,7 +79080,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-12-18",
+      "update_date": "2025-12-19",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "63GB",
@@ -79093,7 +79093,7 @@
         "Text"
       ],
       "updated_str": "3 months ago",
-      "update_date": "2025-12-18",
+      "update_date": "2025-12-19",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "-",
@@ -79980,6 +79980,21 @@
       "context_window_num": 256000,
       "size_str": "247GB",
       "size_num": 247000000000
+    }
+  },
+  "minimax-m2.7": {
+    "06daa293c105": {
+      "href": "https://ollama.com/library/minimax-m2.7:cloud",
+      "name": "minimax-m2.7:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "9 hours ago",
+      "update_date": "2026-03-18",
+      "context_window": "200K",
+      "context_window_num": 200000,
+      "size_str": "-",
+      "size_num": 0
     }
   }
 }
