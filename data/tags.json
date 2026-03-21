@@ -79989,12 +79989,27 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-03-19",
       "context_window": "200K",
       "context_window_num": 200000,
       "size_str": "-",
       "size_num": 0
+    }
+  },
+  "nemotron-cascade-2": {
+    "e0705e3fe8f7": {
+      "href": "https://ollama.com/library/nemotron-cascade-2:latest",
+      "name": "nemotron-cascade-2:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "7 hours ago",
+      "update_date": "2026-03-20",
+      "context_window": "256K",
+      "context_window_num": 256000,
+      "size_str": "24GB",
+      "size_num": 24000000000
     }
   }
 }

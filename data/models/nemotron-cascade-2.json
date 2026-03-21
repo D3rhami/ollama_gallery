@@ -1,0 +1,17 @@
+{
+  "description": "An open 30B MoE model from NVIDIA with 3B activated parameters that delivers strong reasoning and agentic capabilities.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "30b"
+  ],
+  "pull_str": "776",
+  "pull": 776,
+  "tag_count": 1,
+  "updated": "6 hours ago",
+  "update_date": "2026-03-20",
+  "link": "https://ollama.com/library/nemotron-cascade-2",
+  "popularity": 217
+}
