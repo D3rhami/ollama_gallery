@@ -6,8 +6,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "6.6GB",
@@ -21,7 +21,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-03-01",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "-",
@@ -34,8 +34,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "1.0GB",
@@ -48,8 +48,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "2.7GB",
@@ -62,8 +62,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "3.4GB",
@@ -76,8 +76,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "17GB",
@@ -90,8 +90,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "24GB",
@@ -105,22 +105,22 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-03-01",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "81GB",
     "size_num": 81000000000
   },
-  "d517886e14e3": {
+  "95fbaba894b5": {
     "href": "https://ollama.com/library/qwen3.5:0.8b-mlx-bf16",
     "name": "qwen3.5:0.8b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "1.7GB",
     "size_num": 1700000000
   },
@@ -130,10 +130,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "1.2GB",
     "size_num": 1200000000
   },
@@ -143,10 +143,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "1.0GB",
     "size_num": 1000000000
   },
@@ -157,23 +157,23 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "1.8GB",
     "size_num": 1800000000
   },
-  "58f7515d15db": {
+  "1bd0618256e3": {
     "href": "https://ollama.com/library/qwen3.5:2b-mlx-bf16",
     "name": "qwen3.5:2b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "4.4GB",
     "size_num": 4400000000
   },
@@ -183,10 +183,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "3.1GB",
     "size_num": 3100000000
   },
@@ -196,10 +196,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "2.5GB",
     "size_num": 2500000000
   },
@@ -210,8 +210,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "1.9GB",
@@ -224,23 +224,23 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "4.6GB",
     "size_num": 4600000000
   },
-  "38d83360b32b": {
+  "7a3f49fa6b40": {
     "href": "https://ollama.com/library/qwen3.5:4b-mlx-bf16",
     "name": "qwen3.5:4b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "9.1GB",
     "size_num": 9100000000
   },
@@ -250,10 +250,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "5.6GB",
     "size_num": 5600000000
   },
@@ -263,10 +263,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "4.0GB",
     "size_num": 4000000000
   },
@@ -277,8 +277,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "5.3GB",
@@ -291,23 +291,23 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "9.3GB",
     "size_num": 9300000000
   },
-  "bd0b5589ab4f": {
+  "1adfd61eea4f": {
     "href": "https://ollama.com/library/qwen3.5:9b-mlx-bf16",
     "name": "qwen3.5:9b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "19GB",
     "size_num": 19000000000
   },
@@ -317,10 +317,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "12GB",
     "size_num": 12000000000
   },
@@ -330,10 +330,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "8.9GB",
     "size_num": 8900000000
   },
@@ -344,8 +344,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "11GB",
@@ -358,7 +358,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -371,10 +371,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "31GB",
     "size_num": 31000000000
   },
@@ -384,10 +384,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "20GB",
     "size_num": 20000000000
   },
@@ -397,10 +397,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "55GB",
     "size_num": 55000000000
   },
@@ -410,10 +410,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "16GB",
     "size_num": 16000000000
   },
@@ -423,23 +423,23 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "30GB",
     "size_num": 30000000000
   },
-  "8794ca20f99d": {
+  "821db087c439": {
     "href": "https://ollama.com/library/qwen3.5:27b-mlx-bf16",
     "name": "qwen3.5:27b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "55GB",
     "size_num": 55000000000
   },
@@ -449,10 +449,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "31GB",
     "size_num": 31000000000
   },
@@ -462,10 +462,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "20GB",
     "size_num": 20000000000
   },
@@ -476,8 +476,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "30GB",
@@ -490,7 +490,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -503,10 +503,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "38GB",
     "size_num": 38000000000
   },
@@ -516,10 +516,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "22GB",
     "size_num": 22000000000
   },
@@ -529,10 +529,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "20GB",
     "size_num": 20000000000
   },
@@ -542,10 +542,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "38GB",
     "size_num": 38000000000
   },
@@ -555,10 +555,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "38GB",
     "size_num": 38000000000
   },
@@ -568,10 +568,10 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "22GB",
     "size_num": 22000000000
   },
@@ -582,8 +582,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "4 weeks ago",
-    "update_date": "2026-03-04",
+    "updated_str": "1 month ago",
+    "update_date": "2026-03-02",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "39GB",
@@ -596,7 +596,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-03-31",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -609,23 +609,23 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 days ago",
+    "updated_str": "4 days ago",
     "update_date": "2026-03-29",
-    "context_window": "-",
-    "context_window_num": 0,
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "70GB",
     "size_num": 70000000000
   },
-  "eab3c1269f5b": {
+  "f6555d933b86": {
     "href": "https://ollama.com/library/qwen3.5:35b-a3b-mlx-bf16",
     "name": "qwen3.5:35b-a3b-mlx-bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
-    "update_date": "2026-03-31",
-    "context_window": "-",
-    "context_window_num": 0,
+    "updated_str": "4 hours ago",
+    "update_date": "2026-04-01",
+    "context_window": "256K",
+    "context_window_num": 256000,
     "size_str": "70GB",
     "size_num": 70000000000
   }
