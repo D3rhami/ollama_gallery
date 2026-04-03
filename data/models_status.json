@@ -1,9 +1,10 @@
 {
-  "total_count": 217,
+  "total_count": 218,
   "success": true,
   "error": 0,
-  "api_data_updated": "2026-04-02",
+  "api_data_updated": "2026-04-03",
   "cap_list": [
+    "audio",
     "embedding",
     "thinking",
     "tools",
@@ -52,6 +53,7 @@
     "235b",
     "236b",
     "24b",
+    "26b",
     "270m",
     "278m",
     "27b",
@@ -60,6 +62,7 @@
     "300m",
     "30b",
     "30m",
+    "31b",
     "32b",
     "335m",
     "33b",
