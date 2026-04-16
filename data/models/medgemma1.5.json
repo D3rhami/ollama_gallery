@@ -1,0 +1,16 @@
+{
+  "description": "MedGemma 1.5 4B is an updated version of the MedGemma 4B model.",
+  "capabilities": [
+    "vision"
+  ],
+  "parameters": [
+    "4b"
+  ],
+  "pull_str": "172",
+  "pull": 172,
+  "tag_count": 3,
+  "updated": "4 hours ago",
+  "update_date": "2026-04-15",
+  "link": "https://ollama.com/library/medgemma1.5",
+  "popularity": 220
+}

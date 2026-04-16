@@ -1,0 +1,17 @@
+{
+  "description": "MedGemma is a collection of Gemma 3 variants that are trained for performance on medical text and image comprehension.",
+  "capabilities": [
+    "vision"
+  ],
+  "parameters": [
+    "4b",
+    "27b"
+  ],
+  "pull_str": "121",
+  "pull": 121,
+  "tag_count": 6,
+  "updated": "3 hours ago",
+  "update_date": "2026-04-16",
+  "link": "https://ollama.com/library/medgemma",
+  "popularity": 221
+}
