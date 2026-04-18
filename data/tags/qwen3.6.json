@@ -6,12 +6,51 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "24GB",
     "size_num": 24000000000
+  },
+  "ccbab0f4045b": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-mxfp8",
+    "name": "qwen3.6:35b-a3b-coding-mxfp8",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-04-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "38GB",
+    "size_num": 38000000000
+  },
+  "cd2692a833e6": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4",
+    "name": "qwen3.6:35b-a3b-coding-nvfp4",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-04-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "22GB",
+    "size_num": 22000000000
+  },
+  "8d3c7ad727e7": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-bf16",
+    "name": "qwen3.6:35b-a3b-coding-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-04-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "70GB",
+    "size_num": 70000000000
   },
   "1b50c6fdc2d4": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-nvfp4",
@@ -19,7 +58,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -33,7 +72,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -47,7 +86,7 @@
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -60,7 +99,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
@@ -73,7 +112,7 @@
     "input_types": [
       "Text"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "2 days ago",
     "update_date": "2026-04-16",
     "context_window": "256K",
     "context_window_num": 256000,
