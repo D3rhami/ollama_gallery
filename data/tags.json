@@ -80856,7 +80856,7 @@
         "Image"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "24GB",
@@ -80869,7 +80869,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80882,7 +80882,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80895,7 +80895,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80908,7 +80908,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80921,7 +80921,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80934,7 +80934,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80947,7 +80947,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80961,7 +80961,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80975,7 +80975,7 @@
         "Text",
         "Image"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-23",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -80988,7 +80988,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 days ago",
+      "updated_str": "1 week ago",
       "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -81001,7 +81001,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 days ago",
+      "updated_str": "1 week ago",
       "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -81014,7 +81014,7 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "6 days ago",
+      "updated_str": "1 week ago",
       "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
@@ -81028,7 +81028,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "22GB",
@@ -81042,7 +81042,7 @@
         "Image"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "39GB",
@@ -81056,7 +81056,7 @@
         "Image"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "71GB",
@@ -81069,7 +81069,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "70GB",
@@ -81082,7 +81082,7 @@
         "Text"
       ],
       "updated_str": "1 week ago",
-      "update_date": "2026-04-17",
+      "update_date": "2026-04-18",
       "context_window": "256K",
       "context_window_num": 256000,
       "size_str": "38GB",
@@ -81101,6 +81101,21 @@
       "update_date": "2026-04-21",
       "context_window": "256K",
       "context_window_num": 256000,
+      "size_str": "-",
+      "size_num": 0
+    }
+  },
+  "deepseek-v4-flash": {
+    "ea027821675c": {
+      "href": "https://ollama.com/library/deepseek-v4-flash:cloud",
+      "name": "deepseek-v4-flash:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "19 hours ago",
+      "update_date": "2026-04-24",
+      "context_window": "1M",
+      "context_window_num": 1000000,
       "size_str": "-",
       "size_num": 0
     }

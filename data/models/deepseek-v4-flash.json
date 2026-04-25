@@ -1,0 +1,15 @@
+{
+  "description": "DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [],
+  "pull_str": "7,355",
+  "pull": 7355,
+  "tag_count": 1,
+  "updated": "19 hours ago",
+  "update_date": "2026-04-24",
+  "link": "https://ollama.com/library/deepseek-v4-flash",
+  "popularity": 224
+}
