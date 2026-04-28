@@ -1,0 +1,15 @@
+{
+  "description": "DeepSeek-V4-Pro is a frontier Mixture-of-Experts model with a 1M-token context window and three reasoning modes.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [],
+  "pull_str": "6,413",
+  "pull": 6413,
+  "tag_count": 1,
+  "updated": "yesterday",
+  "update_date": "2026-04-27",
+  "link": "https://ollama.com/library/deepseek-v4-pro",
+  "popularity": 225
+}

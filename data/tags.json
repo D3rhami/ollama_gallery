@@ -81119,5 +81119,20 @@
       "size_str": "-",
       "size_num": 0
     }
+  },
+  "deepseek-v4-pro": {
+    "22bfd5026abd": {
+      "href": "https://ollama.com/library/deepseek-v4-pro:cloud",
+      "name": "deepseek-v4-pro:cloud",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-27",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "-",
+      "size_num": 0
+    }
   }
 }
