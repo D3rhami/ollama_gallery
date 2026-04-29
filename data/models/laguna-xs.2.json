@@ -1,0 +1,15 @@
+{
+  "description": "Laguna XS.2 is a 33B total parameter Mixture-of-Experts model with 3B activated parameters per token designed for agentic coding and long-horizon work on a local machine.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [],
+  "pull_str": "697",
+  "pull": 697,
+  "tag_count": 6,
+  "updated": "yesterday",
+  "update_date": "2026-04-28",
+  "link": "https://ollama.com/library/laguna-xs.2",
+  "popularity": 227
+}

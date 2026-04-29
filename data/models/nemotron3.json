@@ -1,0 +1,19 @@
+{
+  "description": "NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&A, summarization, transcription, and document intelligence workflows.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking",
+    "audio"
+  ],
+  "parameters": [
+    "33b"
+  ],
+  "pull_str": "1,415",
+  "pull": 1415,
+  "tag_count": 4,
+  "updated": "yesterday",
+  "update_date": "2026-04-28",
+  "link": "https://ollama.com/library/nemotron3",
+  "popularity": 226
+}

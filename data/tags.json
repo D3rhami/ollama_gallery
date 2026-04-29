@@ -81127,12 +81127,150 @@
       "input_types": [
         "Text"
       ],
-      "updated_str": "yesterday",
+      "updated_str": "2 days ago",
       "update_date": "2026-04-27",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "-",
       "size_num": 0
+    }
+  },
+  "nemotron3": {
+    "f6d8b7ff496c": {
+      "href": "https://ollama.com/library/nemotron3:33b",
+      "name": "nemotron3:33b",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "28GB",
+      "size_num": 28000000000
+    },
+    "74d89c84a443": {
+      "href": "https://ollama.com/library/nemotron3:33b-q8",
+      "name": "nemotron3:33b-q8",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "36GB",
+      "size_num": 36000000000
+    },
+    "baa676a14e13": {
+      "href": "https://ollama.com/library/nemotron3:33b-q4_K_M",
+      "name": "nemotron3:33b-q4_K_M",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "28GB",
+      "size_num": 28000000000
+    },
+    "b318f0929784": {
+      "href": "https://ollama.com/library/nemotron3:33b-bf16",
+      "name": "nemotron3:33b-bf16",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "66GB",
+      "size_num": 66000000000
+    }
+  },
+  "laguna-xs.2": {
+    "ba9ecde43b0e": {
+      "href": "https://ollama.com/library/laguna-xs.2:latest",
+      "name": "laguna-xs.2:latest",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "23GB",
+      "size_num": 23000000000
+    },
+    "d978dfa2896b": {
+      "href": "https://ollama.com/library/laguna-xs.2:mxfp8",
+      "name": "laguna-xs.2:mxfp8",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "36GB",
+      "size_num": 36000000000
+    },
+    "f6daa0fecaaa": {
+      "href": "https://ollama.com/library/laguna-xs.2:nvfp4",
+      "name": "laguna-xs.2:nvfp4",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "22GB",
+      "size_num": 22000000000
+    },
+    "de0c566abd07": {
+      "href": "https://ollama.com/library/laguna-xs.2:q8_0",
+      "name": "laguna-xs.2:q8_0",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "37GB",
+      "size_num": 37000000000
+    },
+    "cb0fe684dd63": {
+      "href": "https://ollama.com/library/laguna-xs.2:bf16",
+      "name": "laguna-xs.2:bf16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "67GB",
+      "size_num": 67000000000
+    },
+    "10011d1c9084": {
+      "href": "https://ollama.com/library/laguna-xs.2:mlx-bf16",
+      "name": "laguna-xs.2:mlx-bf16",
+      "input_types": [
+        "Text"
+      ],
+      "updated_str": "yesterday",
+      "update_date": "2026-04-28",
+      "context_window": "128K",
+      "context_window_num": 128000,
+      "size_str": "67GB",
+      "size_num": 67000000000
     }
   }
 }
