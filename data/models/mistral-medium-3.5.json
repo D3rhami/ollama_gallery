@@ -1,0 +1,18 @@
+{
+  "description": "Mistral Medium 3.5 is the first flagship model of Mistral AI that merged instruction-following, reasoning, and coding in a single set of 128B weights.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "128b"
+  ],
+  "pull_str": "630",
+  "pull": 630,
+  "tag_count": 3,
+  "updated": "yesterday",
+  "update_date": "2026-04-29",
+  "link": "https://ollama.com/library/mistral-medium-3.5",
+  "popularity": 229
+}

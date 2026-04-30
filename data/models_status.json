@@ -1,8 +1,8 @@
 {
-  "total_count": 227,
+  "total_count": 228,
   "success": true,
-  "error": 0,
-  "api_data_updated": "2026-04-29",
+  "error": 1,
+  "api_data_updated": "2026-04-30",
   "cap_list": [
     "audio",
     "embedding",
@@ -31,6 +31,7 @@
     "120b",
     "122b",
     "123b",
+    "128b",
     "128x17b",
     "12b",
     "132b",
@@ -95,5 +96,5 @@
     "e2b",
     "e4b"
   ],
-  "processing_time": "0.80 seconds"
+  "processing_time": "0.77 seconds"
 }
