@@ -13,7 +13,7 @@
     "pull": 114100000,
     "tag_count": 89,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3.1",
     "popularity": 1
   },
@@ -32,11 +32,11 @@
       "70b",
       "671b"
     ],
-    "pull_str": "84.9M",
-    "pull": 84900000,
+    "pull_str": "85M",
+    "pull": 85000000,
     "tag_count": 27,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/deepseek-r1",
     "popularity": 2
   },
@@ -46,11 +46,11 @@
       "embedding"
     ],
     "parameters": [],
-    "pull_str": "68.8M",
-    "pull": 68800000,
+    "pull_str": "68.9M",
+    "pull": 68900000,
     "tag_count": 1,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/nomic-embed-text",
     "popularity": 3
   },
@@ -63,11 +63,11 @@
       "1b",
       "3b"
     ],
-    "pull_str": "68.5M",
-    "pull": 68500000,
+    "pull_str": "68.6M",
+    "pull": 68600000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3.2",
     "popularity": 4
   },
@@ -87,7 +87,7 @@
     "pull": 36500000,
     "tag_count": 23,
     "updated": "5 months ago",
-    "update_date": "2025-12-09",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/gemma3",
     "popularity": 5
   },
@@ -105,11 +105,11 @@
       "32b",
       "72b"
     ],
-    "pull_str": "29.5M",
-    "pull": 29500000,
+    "pull_str": "29.6M",
+    "pull": 29600000,
     "tag_count": 117,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/qwen2.5",
     "popularity": 6
   },
@@ -125,7 +125,7 @@
     "pull": 29100000,
     "tag_count": 75,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/mistral",
     "popularity": 7
   },
@@ -149,7 +149,7 @@
     "pull": 28500000,
     "tag_count": 41,
     "updated": "7 months ago",
-    "update_date": "2025-10-09",
+    "update_date": "2025-10-10",
     "link": "https://ollama.com/library/qwen3",
     "popularity": 8
   },
@@ -164,7 +164,7 @@
     "pull": 23800000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3",
     "popularity": 9
   },
@@ -176,11 +176,11 @@
       "9b",
       "27b"
     ],
-    "pull_str": "22.6M",
-    "pull": 22600000,
+    "pull_str": "22.7M",
+    "pull": 22700000,
     "tag_count": 90,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/gemma2",
     "popularity": 10
   },
@@ -195,7 +195,7 @@
     "pull": 17500000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/phi3",
     "popularity": 11
   },
@@ -216,7 +216,7 @@
     "pull": 15300000,
     "tag_count": 180,
     "updated": "11 months ago",
-    "update_date": "2025-06-09",
+    "update_date": "2025-06-10",
     "link": "https://ollama.com/library/qwen2.5-coder",
     "popularity": 12
   },
@@ -234,7 +234,7 @@
     "pull": 14000000,
     "tag_count": 90,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llava",
     "popularity": 13
   },
@@ -250,7 +250,7 @@
     "pull": 10400000,
     "tag_count": 1,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/mxbai-embed-large",
     "popularity": 14
   },
@@ -264,11 +264,11 @@
       "20b",
       "120b"
     ],
-    "pull_str": "9.4M",
-    "pull": 9400000,
+    "pull_str": "9.5M",
+    "pull": 9500000,
     "tag_count": 4,
     "updated": "7 months ago",
-    "update_date": "2025-10-09",
+    "update_date": "2025-10-10",
     "link": "https://ollama.com/library/gpt-oss",
     "popularity": 15
   },
@@ -288,27 +288,13 @@
       "35b",
       "122b"
     ],
-    "pull_str": "9.2M",
-    "pull": 9200000,
+    "pull_str": "9.4M",
+    "pull": 9400000,
     "tag_count": 47,
     "updated": "1 month ago",
-    "update_date": "2026-04-09",
+    "update_date": "2026-04-10",
     "link": "https://ollama.com/library/qwen3.5",
     "popularity": 16
-  },
-  "phi4": {
-    "description": "Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.",
-    "capabilities": [],
-    "parameters": [
-      "14b"
-    ],
-    "pull_str": "7.5M",
-    "pull": 7500000,
-    "tag_count": 3,
-    "updated": "1 year ago",
-    "update_date": "2025-05-09",
-    "link": "https://ollama.com/library/phi4",
-    "popularity": 17
   },
   "gemma4": {
     "description": "Gemma 4 models are designed to deliver frontier-level performance at each size. They are well-suited for reasoning, agentic workflows, coding, and multimodal understanding.",
@@ -324,12 +310,26 @@
       "26b",
       "31b"
     ],
-    "pull_str": "7.3M",
-    "pull": 7300000,
+    "pull_str": "7.6M",
+    "pull": 7600000,
     "tag_count": 25,
-    "updated": "3 days ago",
+    "updated": "4 days ago",
     "update_date": "2026-05-06",
     "link": "https://ollama.com/library/gemma4",
+    "popularity": 17
+  },
+  "phi4": {
+    "description": "Phi-4 is a 14B parameter, state-of-the-art open model from Microsoft.",
+    "capabilities": [],
+    "parameters": [
+      "14b"
+    ],
+    "pull_str": "7.5M",
+    "pull": 7500000,
+    "tag_count": 3,
+    "updated": "1 year ago",
+    "update_date": "2025-05-10",
+    "link": "https://ollama.com/library/phi4",
     "popularity": 18
   },
   "gemma": {
@@ -343,7 +343,7 @@
     "pull": 7000000,
     "tag_count": 90,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/gemma",
     "popularity": 19
   },
@@ -359,7 +359,7 @@
     "pull": 6800000,
     "tag_count": 90,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llama2",
     "popularity": 20
   },
@@ -380,7 +380,7 @@
     "pull": 6700000,
     "tag_count": 355,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/qwen",
     "popularity": 21
   },
@@ -399,7 +399,7 @@
     "pull": 5800000,
     "tag_count": 86,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/qwen2",
     "popularity": 22
   },
@@ -416,7 +416,7 @@
     "pull": 5500000,
     "tag_count": 179,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/codellama",
     "popularity": 23
   },
@@ -433,7 +433,7 @@
     "pull": 5300000,
     "tag_count": 7,
     "updated": "7 months ago",
-    "update_date": "2025-10-09",
+    "update_date": "2025-10-10",
     "link": "https://ollama.com/library/qwen3-coder",
     "popularity": 24
   },
@@ -449,7 +449,7 @@
     "pull": 5100000,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/minicpm-v",
     "popularity": 25
   },
@@ -463,7 +463,7 @@
     "pull": 4800000,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/tinyllama",
     "popularity": 26
   },
@@ -480,7 +480,7 @@
     "pull": 4500000,
     "tag_count": 6,
     "updated": "11 months ago",
-    "update_date": "2025-06-09",
+    "update_date": "2025-06-10",
     "link": "https://ollama.com/library/llama3.2-vision",
     "popularity": 27
   },
@@ -496,7 +496,7 @@
     "pull": 4400000,
     "tag_count": 15,
     "updated": "9 months ago",
-    "update_date": "2025-08-09",
+    "update_date": "2025-08-10",
     "link": "https://ollama.com/library/mistral-nemo",
     "popularity": 28
   },
@@ -512,7 +512,7 @@
     "pull": 4100000,
     "tag_count": 90,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/deepseek-coder",
     "popularity": 29
   },
@@ -528,7 +528,7 @@
     "pull": 4100000,
     "tag_count": 1,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/bge-m3",
     "popularity": 30
   },
@@ -544,7 +544,7 @@
     "pull": 3800000,
     "tag_count": 12,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3.3",
     "popularity": 31
   },
@@ -558,7 +558,7 @@
     "pull": 3800000,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/dolphin3",
     "popularity": 32
   },
@@ -572,7 +572,7 @@
     "pull": 3800000,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/deepseek-v3",
     "popularity": 33
   },
@@ -587,7 +587,7 @@
     "pull": 3700000,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/olmo2",
     "popularity": 34
   },
@@ -610,7 +610,7 @@
     "pull": 3700000,
     "tag_count": 38,
     "updated": "6 months ago",
-    "update_date": "2025-11-09",
+    "update_date": "2025-11-10",
     "link": "https://ollama.com/library/qwen3-vl",
     "popularity": 35
   },
@@ -628,7 +628,7 @@
     "pull": 3400000,
     "tag_count": 45,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/smollm2",
     "popularity": 36
   },
@@ -648,7 +648,7 @@
     "pull": 3100000,
     "tag_count": 5,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/snowflake-arctic-embed",
     "popularity": 37
   },
@@ -665,7 +665,7 @@
     "pull": 3000000,
     "tag_count": 2,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/all-minilm",
     "popularity": 38
   },
@@ -682,7 +682,7 @@
     "pull": 3000000,
     "tag_count": 18,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/mistral-small",
     "popularity": 39
   },
@@ -697,7 +697,7 @@
     "pull": 3000000,
     "tag_count": 75,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/codegemma",
     "popularity": 40
   },
@@ -714,7 +714,7 @@
     "pull": 2900000,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3.1-moe",
     "popularity": 41
   },
@@ -731,7 +731,7 @@
     "pull": 2900000,
     "tag_count": 111,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/orca-mini",
     "popularity": 42
   },
@@ -747,7 +747,7 @@
     "pull": 2800000,
     "tag_count": 61,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/starcoder2",
     "popularity": 43
   },
@@ -764,7 +764,7 @@
     "pull": 2600000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/mixtral",
     "popularity": 44
   },
@@ -781,7 +781,7 @@
     "pull": 2600000,
     "tag_count": 12,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/falcon3",
     "popularity": 45
   },
@@ -796,7 +796,7 @@
     "pull": 2600000,
     "tag_count": 29,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llama2-uncensored",
     "popularity": 46
   },
@@ -811,7 +811,7 @@
     "pull": 2500000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/deepseek-coder-v2",
     "popularity": 47
   },
@@ -827,7 +827,7 @@
     "pull": 2300000,
     "tag_count": 2,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llava-llama3",
     "popularity": 48
   },
@@ -843,7 +843,7 @@
     "pull": 2200000,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/qwq",
     "popularity": 49
   },
@@ -863,7 +863,7 @@
     "pull": 2000000,
     "tag_count": 14,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/cogito",
     "popularity": 50
   },
@@ -876,11 +876,11 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "1.9M",
-    "pull": 1900000,
+    "pull_str": "2M",
+    "pull": 2000000,
     "tag_count": 3,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/mistral-small3.2",
     "popularity": 51
   },
@@ -899,7 +899,7 @@
     "pull": 1900000,
     "tag_count": 12,
     "updated": "11 months ago",
-    "update_date": "2025-06-09",
+    "update_date": "2025-06-10",
     "link": "https://ollama.com/library/qwen2.5vl",
     "popularity": 52
   },
@@ -914,7 +914,7 @@
     "pull": 1900000,
     "tag_count": 45,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/dolphin-llama3",
     "popularity": 53
   },
@@ -932,7 +932,7 @@
     "pull": 1900000,
     "tag_count": 8,
     "updated": "7 months ago",
-    "update_date": "2025-10-09",
+    "update_date": "2025-10-10",
     "link": "https://ollama.com/library/qwen3-embedding",
     "popularity": 54
   },
@@ -948,7 +948,7 @@
     "pull": 1800000,
     "tag_count": 90,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/smollm",
     "popularity": 55
   },
@@ -963,7 +963,7 @@
     "pull": 1700000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/dolphin-mixtral",
     "popularity": 56
   },
@@ -981,7 +981,7 @@
     "pull": 1600000,
     "tag_count": 6,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/llama4",
     "popularity": 57
   },
@@ -996,7 +996,7 @@
     "pull": 1600000,
     "tag_count": 6,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/gemma3n",
     "popularity": 58
   },
@@ -1010,7 +1010,7 @@
     "pull": 1500000,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/phi4-reasoning",
     "popularity": 59
   },
@@ -1024,7 +1024,7 @@
     "pull": 1500000,
     "tag_count": 12,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/dolphin-phi",
     "popularity": 60
   },
@@ -1038,7 +1038,7 @@
     "pull": 1500000,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/phi",
     "popularity": 61
   },
@@ -1048,11 +1048,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "1.4M",
-    "pull": 1400000,
+    "pull_str": "1.5M",
+    "pull": 1500000,
     "tag_count": 105,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/dolphin-mistral",
     "popularity": 62
   },
@@ -1069,7 +1069,7 @@
     "pull": 1400000,
     "tag_count": 3,
     "updated": "10 months ago",
-    "update_date": "2025-07-09",
+    "update_date": "2025-07-10",
     "link": "https://ollama.com/library/magistral",
     "popularity": 63
   },
@@ -1085,7 +1085,7 @@
     "pull": 1400000,
     "tag_count": 29,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/command-r",
     "popularity": 64
   },
@@ -1103,7 +1103,7 @@
     "pull": 1400000,
     "tag_count": 9,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/translategemma",
     "popularity": 65
   },
@@ -1120,7 +1120,7 @@
     "pull": 1300000,
     "tag_count": 149,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite-code",
     "popularity": 66
   },
@@ -1139,7 +1139,7 @@
     "pull": 1300000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/hermes3",
     "popularity": 67
   },
@@ -1153,7 +1153,7 @@
     "pull": 1300000,
     "tag_count": 3,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/qwen3-coder-next",
     "popularity": 68
   },
@@ -1167,7 +1167,7 @@
     "pull": 1200000,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/deepscaler",
     "popularity": 69
   },
@@ -1181,7 +1181,7 @@
     "pull": 1200000,
     "tag_count": 14,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/codestral",
     "popularity": 70
   },
@@ -1196,7 +1196,7 @@
     "pull": 1200000,
     "tag_count": 3,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/glm-4.7-flash",
     "popularity": 71
   },
@@ -1212,7 +1212,7 @@
     "pull": 1200000,
     "tag_count": 162,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/yi",
     "popularity": 72
   },
@@ -1230,7 +1230,7 @@
     "pull": 1200000,
     "tag_count": 9,
     "updated": "6 months ago",
-    "update_date": "2025-11-09",
+    "update_date": "2025-11-10",
     "link": "https://ollama.com/library/granite4",
     "popularity": 73
   },
@@ -1245,7 +1245,7 @@
     "pull": 1200000,
     "tag_count": 34,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/zephyr",
     "popularity": 74
   },
@@ -1261,7 +1261,7 @@
     "pull": 1200000,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/mistral-large",
     "popularity": 75
   },
@@ -1277,7 +1277,7 @@
     "pull": 1200000,
     "tag_count": 3,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/lfm2.5-thinking",
     "popularity": 76
   },
@@ -1293,7 +1293,7 @@
     "pull": 1200000,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizard-vicuna-uncensored",
     "popularity": 77
   },
@@ -1309,7 +1309,7 @@
     "pull": 1200000,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/moondream",
     "popularity": 78
   },
@@ -1325,7 +1325,7 @@
     "pull": 1100000,
     "tag_count": 3,
     "updated": "8 months ago",
-    "update_date": "2025-09-09",
+    "update_date": "2025-09-10",
     "link": "https://ollama.com/library/embeddinggemma",
     "popularity": 79
   },
@@ -1341,7 +1341,7 @@
     "pull": 1100000,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/phi4-mini",
     "popularity": 80
   },
@@ -1356,7 +1356,7 @@
     "pull": 1100000,
     "tag_count": 12,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/openthinker",
     "popularity": 81
   },
@@ -1371,7 +1371,7 @@
     "pull": 1100000,
     "tag_count": 19,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizardlm2",
     "popularity": 82
   },
@@ -1388,7 +1388,7 @@
     "pull": 1100000,
     "tag_count": 90,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/starcoder",
     "popularity": 83
   },
@@ -1402,7 +1402,7 @@
     "pull": 1100000,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/glm4",
     "popularity": 84
   },
@@ -1417,7 +1417,7 @@
     "pull": 1100000,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/deepseek-v2",
     "popularity": 85
   },
@@ -1432,7 +1432,7 @@
     "pull": 1100000,
     "tag_count": 58,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/nous-hermes",
     "popularity": 86
   },
@@ -1447,25 +1447,9 @@
     "pull": 1100000,
     "tag_count": 58,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/deepseek-llm",
     "popularity": 87
-  },
-  "lfm2": {
-    "description": "LFM2 is a family of hybrid models designed for on-device deployment. LFM2-24B-A2B is the largest model in the family, scaling the architecture to 24 billion parameters while keeping inference efficient.",
-    "capabilities": [
-      "tools"
-    ],
-    "parameters": [
-      "24b"
-    ],
-    "pull_str": "1.1M",
-    "pull": 1100000,
-    "tag_count": 3,
-    "updated": "2 months ago",
-    "update_date": "2026-03-09",
-    "link": "https://ollama.com/library/lfm2",
-    "popularity": 88
   },
   "ministral-3": {
     "description": "The Ministral 3 family is designed for edge deployment, capable of running on a wide range of hardware.",
@@ -1482,8 +1466,24 @@
     "pull": 1100000,
     "tag_count": 12,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/ministral-3",
+    "popularity": 88
+  },
+  "lfm2": {
+    "description": "LFM2 is a family of hybrid models designed for on-device deployment. LFM2-24B-A2B is the largest model in the family, scaling the architecture to 24 billion parameters while keeping inference efficient.",
+    "capabilities": [
+      "tools"
+    ],
+    "parameters": [
+      "24b"
+    ],
+    "pull_str": "1.1M",
+    "pull": 1100000,
+    "tag_count": 3,
+    "updated": "2 months ago",
+    "update_date": "2026-03-10",
+    "link": "https://ollama.com/library/lfm2",
     "popularity": 89
   },
   "openchat": {
@@ -1496,7 +1496,7 @@
     "pull": 1100000,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/openchat",
     "popularity": 90
   },
@@ -1512,7 +1512,7 @@
     "pull": 1100000,
     "tag_count": 26,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/falcon",
     "popularity": 91
   },
@@ -1528,9 +1528,28 @@
     "pull": 1100000,
     "tag_count": 105,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/vicuna",
     "popularity": 92
+  },
+  "qwen3.6": {
+    "description": "Qwen3.6 delivers substantial upgrades in agentic coding and thinking preservation than previous Qwen models.",
+    "capabilities": [
+      "vision",
+      "tools",
+      "thinking"
+    ],
+    "parameters": [
+      "27b",
+      "35b"
+    ],
+    "pull_str": "1.1M",
+    "pull": 1100000,
+    "tag_count": 18,
+    "updated": "2 weeks ago",
+    "update_date": "2026-04-26",
+    "link": "https://ollama.com/library/qwen3.6",
+    "popularity": 93
   },
   "codeqwen": {
     "description": "CodeQwen1.5 is a large language model pretrained on a large amount of code data.",
@@ -1542,9 +1561,9 @@
     "pull": 1000000,
     "tag_count": 21,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/codeqwen",
-    "popularity": 93
+    "popularity": 94
   },
   "openhermes": {
     "description": "OpenHermes 2.5 is a 7B model fine-tuned by Teknium on Mistral with fully open datasets.",
@@ -1554,9 +1573,9 @@
     "pull": 1000000,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/openhermes",
-    "popularity": 94
+    "popularity": 95
   },
   "qwen2-math": {
     "description": "Qwen2 Math is a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models and even closed-source models (e.g., GPT4o).",
@@ -1570,27 +1589,8 @@
     "pull": 1000000,
     "tag_count": 45,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/qwen2-math",
-    "popularity": 95
-  },
-  "qwen3.6": {
-    "description": "Qwen3.6 delivers substantial upgrades in agentic coding and thinking preservation than previous Qwen models.",
-    "capabilities": [
-      "vision",
-      "tools",
-      "thinking"
-    ],
-    "parameters": [
-      "27b",
-      "35b"
-    ],
-    "pull_str": "1M",
-    "pull": 1000000,
-    "tag_count": 18,
-    "updated": "2 weeks ago",
-    "update_date": "2026-04-25",
-    "link": "https://ollama.com/library/qwen3.6",
     "popularity": 96
   },
   "aya": {
@@ -1604,7 +1604,7 @@
     "pull": 1000000,
     "tag_count": 28,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/aya",
     "popularity": 97
   },
@@ -1621,7 +1621,7 @@
     "pull": 1000000,
     "tag_count": 2,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3.3",
     "popularity": 98
   },
@@ -1631,11 +1631,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "997.8K",
-    "pull": 997800,
+    "pull_str": "999.2K",
+    "pull": 999200,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/neural-chat",
     "popularity": 99
   },
@@ -1646,11 +1646,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "997.6K",
-    "pull": 997600,
+    "pull_str": "998.9K",
+    "pull": 998900,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llama2-chinese",
     "popularity": 100
   },
@@ -1660,11 +1660,11 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "992.3K",
-    "pull": 992300,
+    "pull_str": "993.5K",
+    "pull": 993500,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/stable-code",
     "popularity": 101
   },
@@ -1675,11 +1675,11 @@
       "10.7b",
       "34b"
     ],
-    "pull_str": "988.5K",
-    "pull": 988500,
+    "pull_str": "989.9K",
+    "pull": 989900,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/nous-hermes2",
     "popularity": 102
   },
@@ -1690,11 +1690,11 @@
       "7b",
       "15b"
     ],
-    "pull_str": "979.1K",
-    "pull": 979100,
+    "pull_str": "980.3K",
+    "pull": 980300,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/sqlcoder",
     "popularity": 103
   },
@@ -1704,11 +1704,11 @@
     "parameters": [
       "33b"
     ],
-    "pull_str": "972.7K",
-    "pull": 972700,
+    "pull_str": "973.9K",
+    "pull": 973900,
     "tag_count": 60,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizardcoder",
     "popularity": 104
   },
@@ -1719,11 +1719,11 @@
       "1.5b",
       "9b"
     ],
-    "pull_str": "968.7K",
-    "pull": 968700,
+    "pull_str": "970K",
+    "pull": 970000,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/yi-coder",
     "popularity": 105
   },
@@ -1734,11 +1734,11 @@
       "1.6b",
       "12b"
     ],
-    "pull_str": "958.1K",
-    "pull": 958100,
+    "pull_str": "959.4K",
+    "pull": 959400,
     "tag_count": 75,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/stablelm2",
     "popularity": 106
   },
@@ -1751,11 +1751,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "954.5K",
-    "pull": 954500,
+    "pull_str": "955.8K",
+    "pull": 955800,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3-dense",
     "popularity": 107
   },
@@ -1766,11 +1766,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "954.4K",
-    "pull": 954400,
+    "pull_str": "955.6K",
+    "pull": 955600,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3-chatqa",
     "popularity": 108
   },
@@ -1783,11 +1783,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "951.9K",
-    "pull": 951900,
+    "pull_str": "953.1K",
+    "pull": 953100,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3.1-dense",
     "popularity": 109
   },
@@ -1798,29 +1798,13 @@
       "7b",
       "15b"
     ],
-    "pull_str": "939.6K",
-    "pull": 939600,
+    "pull_str": "940.9K",
+    "pull": 940900,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/dolphincoder",
     "popularity": 110
-  },
-  "devstral": {
-    "description": "Devstral: the best open source model for coding agents",
-    "capabilities": [
-      "tools"
-    ],
-    "parameters": [
-      "24b"
-    ],
-    "pull_str": "936.8K",
-    "pull": 936800,
-    "tag_count": 3,
-    "updated": "10 months ago",
-    "update_date": "2025-07-09",
-    "link": "https://ollama.com/library/devstral",
-    "popularity": 111
   },
   "wizard-math": {
     "description": "Model focused on math and logic problems",
@@ -1830,12 +1814,28 @@
       "13b",
       "70b"
     ],
-    "pull_str": "936.6K",
-    "pull": 936600,
+    "pull_str": "937.8K",
+    "pull": 937800,
     "tag_count": 60,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizard-math",
+    "popularity": 111
+  },
+  "devstral": {
+    "description": "Devstral: the best open source model for coding agents",
+    "capabilities": [
+      "tools"
+    ],
+    "parameters": [
+      "24b"
+    ],
+    "pull_str": "937.4K",
+    "pull": 937400,
+    "tag_count": 3,
+    "updated": "10 months ago",
+    "update_date": "2025-07-10",
+    "link": "https://ollama.com/library/devstral",
     "popularity": 112
   },
   "llama3-gradient": {
@@ -1845,11 +1845,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "935.7K",
-    "pull": 935700,
+    "pull_str": "936.9K",
+    "pull": 936900,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llama3-gradient",
     "popularity": 113
   },
@@ -1860,11 +1860,11 @@
       "1b",
       "8b"
     ],
-    "pull_str": "934.2K",
-    "pull": 934200,
+    "pull_str": "935.6K",
+    "pull": 935600,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama-guard3",
     "popularity": 114
   },
@@ -1874,11 +1874,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "930K",
-    "pull": 930000,
+    "pull_str": "931.3K",
+    "pull": 931300,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/samantha-mistral",
     "popularity": 115
   },
@@ -1891,11 +1891,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "926.9K",
-    "pull": 926900,
+    "pull_str": "928.2K",
+    "pull": 928200,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/llama3-groq-tool-use",
     "popularity": 116
   },
@@ -1908,11 +1908,11 @@
       "7b",
       "20b"
     ],
-    "pull_str": "924.3K",
-    "pull": 924300,
+    "pull_str": "925.6K",
+    "pull": 925600,
     "tag_count": 60,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/internlm2",
     "popularity": 117
   },
@@ -1922,11 +1922,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "924.2K",
-    "pull": 924200,
+    "pull_str": "925.5K",
+    "pull": 925500,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/phi3.5",
     "popularity": 118
   },
@@ -1939,11 +1939,11 @@
       "8b",
       "32b"
     ],
-    "pull_str": "915.4K",
-    "pull": 915400,
+    "pull_str": "916.9K",
+    "pull": 916900,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/aya-expanse",
     "popularity": 119
   },
@@ -1953,11 +1953,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "912.4K",
-    "pull": 912400,
+    "pull_str": "913.7K",
+    "pull": 913700,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/starling-lm",
     "popularity": 120
   },
@@ -1967,11 +1967,11 @@
     "parameters": [
       "10.7b"
     ],
-    "pull_str": "909.2K",
-    "pull": 909200,
+    "pull_str": "910.4K",
+    "pull": 910400,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/solar",
     "popularity": 121
   },
@@ -1981,11 +1981,11 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "907.2K",
-    "pull": 907200,
+    "pull_str": "908.4K",
+    "pull": 908400,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/phind-codellama",
     "popularity": 122
   },
@@ -1998,11 +1998,11 @@
     "parameters": [
       "2b"
     ],
-    "pull_str": "906K",
-    "pull": 906000,
+    "pull_str": "906.7K",
+    "pull": 906700,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3.2-vision",
     "popularity": 123
   },
@@ -2013,11 +2013,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "902.1K",
-    "pull": 902100,
+    "pull_str": "903.3K",
+    "pull": 903300,
     "tag_count": 72,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/xwinlm",
     "popularity": 124
   },
@@ -2030,11 +2030,11 @@
       "1b",
       "3b"
     ],
-    "pull_str": "895K",
-    "pull": 895000,
+    "pull_str": "896.3K",
+    "pull": 896300,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3-moe",
     "popularity": 125
   },
@@ -2045,11 +2045,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "893.5K",
-    "pull": 893500,
+    "pull_str": "894.7K",
+    "pull": 894700,
     "tag_count": 60,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/yarn-llama2",
     "popularity": 126
   },
@@ -2060,11 +2060,11 @@
       "7b",
       "13b"
     ],
-    "pull_str": "880.3K",
-    "pull": 880300,
+    "pull_str": "881.5K",
+    "pull": 881500,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/orca2",
     "popularity": 127
   },
@@ -2076,11 +2076,11 @@
       "13b",
       "70b"
     ],
-    "pull_str": "871.8K",
-    "pull": 871800,
+    "pull_str": "873K",
+    "pull": 873000,
     "tag_count": 45,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/stable-beluga",
     "popularity": 128
   },
@@ -2091,28 +2091,13 @@
       "0.5b",
       "1.5b"
     ],
-    "pull_str": "868.9K",
-    "pull": 868900,
+    "pull_str": "870.1K",
+    "pull": 870100,
     "tag_count": 30,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/reader-lm",
     "popularity": 129
-  },
-  "deepcoder": {
-    "description": "DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.",
-    "capabilities": [],
-    "parameters": [
-      "1.5b",
-      "14b"
-    ],
-    "pull_str": "864.1K",
-    "pull": 864100,
-    "tag_count": 6,
-    "updated": "1 year ago",
-    "update_date": "2025-05-09",
-    "link": "https://ollama.com/library/deepcoder",
-    "popularity": 130
   },
   "shieldgemma": {
     "description": "ShieldGemma is set of instruction tuned models for evaluating the safety of text prompt input and text output responses against a set of defined safety policies.",
@@ -2122,23 +2107,38 @@
       "9b",
       "27b"
     ],
-    "pull_str": "863.8K",
-    "pull": 863800,
+    "pull_str": "865.1K",
+    "pull": 865100,
     "tag_count": 45,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/shieldgemma",
+    "popularity": 130
+  },
+  "deepcoder": {
+    "description": "DeepCoder is a fully open-Source 14B coder model at O3-mini level, with a 1.5B version also available.",
+    "capabilities": [],
+    "parameters": [
+      "1.5b",
+      "14b"
+    ],
+    "pull_str": "864.7K",
+    "pull": 864700,
+    "tag_count": 6,
+    "updated": "1 year ago",
+    "update_date": "2025-05-10",
+    "link": "https://ollama.com/library/deepcoder",
     "popularity": 131
   },
   "llama-pro": {
     "description": "An expansion of Llama 2 that specializes in integrating both general language understanding and domain-specific knowledge, particularly in programming and mathematics.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "855.5K",
-    "pull": 855500,
+    "pull_str": "856.8K",
+    "pull": 856800,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llama-pro",
     "popularity": 132
   },
@@ -2148,11 +2148,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "850.5K",
-    "pull": 850500,
+    "pull_str": "851.7K",
+    "pull": 851700,
     "tag_count": 29,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/yarn-mistral",
     "popularity": 133
   },
@@ -2162,11 +2162,11 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "846.9K",
-    "pull": 846900,
+    "pull_str": "848.2K",
+    "pull": 848200,
     "tag_count": 30,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/nexusraven",
     "popularity": 134
   },
@@ -2178,11 +2178,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "842.2K",
-    "pull": 842200,
+    "pull_str": "843K",
+    "pull": 843000,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/bakllava",
     "popularity": 135
   },
@@ -2194,11 +2194,11 @@
     "parameters": [
       "278m"
     ],
-    "pull_str": "841.8K",
-    "pull": 841800,
+    "pull_str": "842.2K",
+    "pull": 842200,
     "tag_count": 1,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/paraphrase-multilingual",
     "popularity": 136
   },
@@ -2206,11 +2206,11 @@
     "description": "General use model based on Llama 2.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "824.3K",
-    "pull": 824300,
+    "pull_str": "825.5K",
+    "pull": 825500,
     "tag_count": 73,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizardlm",
     "popularity": 137
   },
@@ -2223,108 +2223,13 @@
     "parameters": [
       "24b"
     ],
-    "pull_str": "820.9K",
-    "pull": 820900,
+    "pull_str": "822.1K",
+    "pull": 822100,
     "tag_count": 4,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/devstral-small-2",
     "popularity": 138
-  },
-  "command-r-plus": {
-    "description": "Command R+ is a powerful, scalable large language model purpose-built to excel at real-world enterprise use cases.",
-    "capabilities": [
-      "tools"
-    ],
-    "parameters": [
-      "104b"
-    ],
-    "pull_str": "758.2K",
-    "pull": 758200,
-    "tag_count": 19,
-    "updated": "1 year ago",
-    "update_date": "2025-05-09",
-    "link": "https://ollama.com/library/command-r-plus",
-    "popularity": 139
-  },
-  "mistral-small3.1": {
-    "description": "Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.",
-    "capabilities": [
-      "vision",
-      "tools"
-    ],
-    "parameters": [
-      "24b"
-    ],
-    "pull_str": "738.1K",
-    "pull": 738100,
-    "tag_count": 3,
-    "updated": "1 year ago",
-    "update_date": "2025-05-09",
-    "link": "https://ollama.com/library/mistral-small3.1",
-    "popularity": 140
-  },
-  "exaone-deep": {
-    "description": "EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.",
-    "capabilities": [],
-    "parameters": [
-      "2.4b",
-      "7.8b",
-      "32b"
-    ],
-    "pull_str": "734.8K",
-    "pull": 734800,
-    "tag_count": 9,
-    "updated": "1 year ago",
-    "update_date": "2025-05-09",
-    "link": "https://ollama.com/library/exaone-deep",
-    "popularity": 141
-  },
-  "meditron": {
-    "description": "Open-source medical large language model adapted from Llama 2 to the medical domain.",
-    "capabilities": [],
-    "parameters": [
-      "7b",
-      "70b"
-    ],
-    "pull_str": "689.2K",
-    "pull": 689200,
-    "tag_count": 19,
-    "updated": "2 years ago",
-    "update_date": "2024-05-09",
-    "link": "https://ollama.com/library/meditron",
-    "popularity": 142
-  },
-  "tinydolphin": {
-    "description": "An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.",
-    "capabilities": [],
-    "parameters": [
-      "1.1b"
-    ],
-    "pull_str": "681.7K",
-    "pull": 681700,
-    "tag_count": 15,
-    "updated": "2 years ago",
-    "update_date": "2024-05-09",
-    "link": "https://ollama.com/library/tinydolphin",
-    "popularity": 143
-  },
-  "deepseek-v3.1": {
-    "description": "DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [
-      "671b"
-    ],
-    "pull_str": "673.1K",
-    "pull": 673100,
-    "tag_count": 6,
-    "updated": "7 months ago",
-    "update_date": "2025-10-09",
-    "link": "https://ollama.com/library/deepseek-v3.1",
-    "popularity": 144
   },
   "nemotron-3-super": {
     "description": "NVIDIA Nemotron 3 Super is a 120B open MoE model activating just 12B parameters to deliver maximum compute efficiency and accuracy for complex multi-agent applications.",
@@ -2335,13 +2240,123 @@
     "parameters": [
       "120b"
     ],
-    "pull_str": "658.3K",
-    "pull": 658300,
+    "pull_str": "772.5K",
+    "pull": 772500,
     "tag_count": 4,
     "updated": "1 month ago",
-    "update_date": "2026-04-09",
+    "update_date": "2026-04-10",
     "link": "https://ollama.com/library/nemotron-3-super",
+    "popularity": 139
+  },
+  "command-r-plus": {
+    "description": "Command R+ is a powerful, scalable large language model purpose-built to excel at real-world enterprise use cases.",
+    "capabilities": [
+      "tools"
+    ],
+    "parameters": [
+      "104b"
+    ],
+    "pull_str": "759.2K",
+    "pull": 759200,
+    "tag_count": 19,
+    "updated": "1 year ago",
+    "update_date": "2025-05-10",
+    "link": "https://ollama.com/library/command-r-plus",
+    "popularity": 140
+  },
+  "mistral-small3.1": {
+    "description": "Building upon Mistral Small 3, Mistral Small 3.1 (2503) adds state-of-the-art vision understanding and enhances long context capabilities up to 128k tokens without compromising text performance.",
+    "capabilities": [
+      "vision",
+      "tools"
+    ],
+    "parameters": [
+      "24b"
+    ],
+    "pull_str": "738.5K",
+    "pull": 738500,
+    "tag_count": 3,
+    "updated": "1 year ago",
+    "update_date": "2025-05-10",
+    "link": "https://ollama.com/library/mistral-small3.1",
+    "popularity": 141
+  },
+  "exaone-deep": {
+    "description": "EXAONE Deep exhibits superior capabilities in various reasoning tasks including math and coding benchmarks, ranging from 2.4B to 32B parameters developed and released by LG AI Research.",
+    "capabilities": [],
+    "parameters": [
+      "2.4b",
+      "7.8b",
+      "32b"
+    ],
+    "pull_str": "735.4K",
+    "pull": 735400,
+    "tag_count": 9,
+    "updated": "1 year ago",
+    "update_date": "2025-05-10",
+    "link": "https://ollama.com/library/exaone-deep",
+    "popularity": 142
+  },
+  "meditron": {
+    "description": "Open-source medical large language model adapted from Llama 2 to the medical domain.",
+    "capabilities": [],
+    "parameters": [
+      "7b",
+      "70b"
+    ],
+    "pull_str": "690.2K",
+    "pull": 690200,
+    "tag_count": 19,
+    "updated": "2 years ago",
+    "update_date": "2024-05-10",
+    "link": "https://ollama.com/library/meditron",
+    "popularity": 143
+  },
+  "tinydolphin": {
+    "description": "An experimental 1.1B parameter model trained on the new Dolphin 2.8 dataset by Eric Hartford and based on TinyLlama.",
+    "capabilities": [],
+    "parameters": [
+      "1.1b"
+    ],
+    "pull_str": "682.6K",
+    "pull": 682600,
+    "tag_count": 15,
+    "updated": "2 years ago",
+    "update_date": "2024-05-10",
+    "link": "https://ollama.com/library/tinydolphin",
+    "popularity": 144
+  },
+  "glm-5": {
+    "description": "A strong reasoning and agentic model from Z.ai with 744B total parameters (40B active), built for complex systems engineering and long-horizon tasks.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "681.9K",
+    "pull": 681900,
+    "tag_count": 1,
+    "updated": "2 months ago",
+    "update_date": "2026-03-10",
+    "link": "https://ollama.com/library/glm-5",
     "popularity": 145
+  },
+  "deepseek-v3.1": {
+    "description": "DeepSeek-V3.1-Terminus is a hybrid model that supports both thinking mode and non-thinking mode.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [
+      "671b"
+    ],
+    "pull_str": "673.9K",
+    "pull": 673900,
+    "tag_count": 6,
+    "updated": "7 months ago",
+    "update_date": "2025-10-10",
+    "link": "https://ollama.com/library/deepseek-v3.1",
+    "popularity": 146
   },
   "codegeex4": {
     "description": "A versatile model for AI software development scenarios, including code completion.",
@@ -2349,13 +2364,28 @@
     "parameters": [
       "9b"
     ],
-    "pull_str": "653K",
-    "pull": 653000,
+    "pull_str": "653.8K",
+    "pull": 653800,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/codegeex4",
-    "popularity": 146
+    "popularity": 147
+  },
+  "minimax-m2.5": {
+    "description": "MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "652.6K",
+    "pull": 652600,
+    "tag_count": 1,
+    "updated": "2 months ago",
+    "update_date": "2026-03-10",
+    "link": "https://ollama.com/library/minimax-m2.5",
+    "popularity": 148
   },
   "mistral-openorca": {
     "description": "Mistral OpenOrca is a 7 billion parameter model, fine-tuned on top of the Mistral 7B model using the OpenOrca dataset.",
@@ -2363,13 +2393,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "649.1K",
-    "pull": 649100,
+    "pull_str": "649.9K",
+    "pull": 649900,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/mistral-openorca",
-    "popularity": 147
+    "popularity": 149
   },
   "nemotron-mini": {
     "description": "A commercial-friendly small language model by NVIDIA optimized for roleplay, RAG QA, and function calling.",
@@ -2379,13 +2409,44 @@
     "parameters": [
       "4b"
     ],
-    "pull_str": "644.7K",
-    "pull": 644700,
+    "pull_str": "646.9K",
+    "pull": 646900,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/nemotron-mini",
-    "popularity": 148
+    "popularity": 150
+  },
+  "gemini-3-flash-preview": {
+    "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+    "capabilities": [
+      "vision",
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "630.8K",
+    "pull": 630800,
+    "tag_count": 1,
+    "updated": "4 months ago",
+    "update_date": "2026-01-10",
+    "link": "https://ollama.com/library/gemini-3-flash-preview",
+    "popularity": 151
+  },
+  "glm-5.1": {
+    "description": "GLM-5.1 is our next-generation flagship model for agentic engineering, with significantly stronger coding capabilities than its predecessor. It achieves state-of-the-art performance on SWE-Bench Pro and leads GLM-5 by a wide margin.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "617.1K",
+    "pull": 617100,
+    "tag_count": 1,
+    "updated": "1 month ago",
+    "update_date": "2026-04-10",
+    "link": "https://ollama.com/library/glm-5.1",
+    "popularity": 152
   },
   "wizardlm-uncensored": {
     "description": "Uncensored version of Wizard LM model",
@@ -2393,13 +2454,28 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "608.5K",
-    "pull": 608500,
+    "pull_str": "609.3K",
+    "pull": 609300,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizardlm-uncensored",
-    "popularity": 149
+    "popularity": 153
+  },
+  "minimax-m2.7": {
+    "description": "MiniMax's M2-series model for coding, agentic workflows, and professional productivity.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "591.1K",
+    "pull": 591100,
+    "tag_count": 1,
+    "updated": "1 month ago",
+    "update_date": "2026-04-10",
+    "link": "https://ollama.com/library/minimax-m2.7",
+    "popularity": 154
   },
   "opencoder": {
     "description": "OpenCoder is an open and reproducible code LLM family which includes 1.5B and 8B models, supporting chat in English and Chinese languages.",
@@ -2408,13 +2484,43 @@
       "1.5b",
       "8b"
     ],
-    "pull_str": "590.3K",
-    "pull": 590300,
+    "pull_str": "590.7K",
+    "pull": 590700,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/opencoder",
-    "popularity": 150
+    "popularity": 155
+  },
+  "glm-4.6": {
+    "description": "Advanced agentic, reasoning and coding capabilities.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "589.6K",
+    "pull": 589600,
+    "tag_count": 1,
+    "updated": "6 months ago",
+    "update_date": "2025-11-10",
+    "link": "https://ollama.com/library/glm-4.6",
+    "popularity": 156
+  },
+  "minimax-m2": {
+    "description": "MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "585.4K",
+    "pull": 585400,
+    "tag_count": 1,
+    "updated": "6 months ago",
+    "update_date": "2025-11-10",
+    "link": "https://ollama.com/library/minimax-m2",
+    "popularity": 157
   },
   "reflection": {
     "description": "A high-performing model trained with a new technique called Reflection-tuning that teaches a LLM to detect mistakes in its reasoning and correct course.",
@@ -2422,13 +2528,28 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "584K",
-    "pull": 584000,
+    "pull_str": "584.8K",
+    "pull": 584800,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/reflection",
-    "popularity": 151
+    "popularity": 158
+  },
+  "glm-4.7": {
+    "description": "Advancing the Coding Capability",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "578.3K",
+    "pull": 578300,
+    "tag_count": 1,
+    "updated": "4 months ago",
+    "update_date": "2026-01-10",
+    "link": "https://ollama.com/library/glm-4.7",
+    "popularity": 159
   },
   "nemotron": {
     "description": "Llama-3.1-Nemotron-70B-Instruct is a large language model customized by NVIDIA to improve the helpfulness of LLM generated responses to user queries.",
@@ -2438,28 +2559,28 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "573.8K",
-    "pull": 573800,
+    "pull_str": "574.6K",
+    "pull": 574600,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/nemotron",
-    "popularity": 152
+    "popularity": 160
   },
-  "glm-5": {
-    "description": "A strong reasoning and agentic model from Z.ai with 744B total parameters (40B active), built for complex systems engineering and long-horizon tasks.",
+  "deepseek-v3.2": {
+    "description": "DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.",
     "capabilities": [
       "tools",
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "571.4K",
-    "pull": 571400,
+    "pull_str": "572.3K",
+    "pull": 572300,
     "tag_count": 1,
-    "updated": "2 months ago",
-    "update_date": "2026-03-09",
-    "link": "https://ollama.com/library/glm-5",
-    "popularity": 153
+    "updated": "4 months ago",
+    "update_date": "2026-01-10",
+    "link": "https://ollama.com/library/deepseek-v3.2",
+    "popularity": 161
   },
   "nemotron3": {
     "description": "NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&A, summarization, transcription, and document intelligence workflows.",
@@ -2472,13 +2593,13 @@
     "parameters": [
       "33b"
     ],
-    "pull_str": "570.3K",
-    "pull": 570300,
+    "pull_str": "571.7K",
+    "pull": 571700,
     "tag_count": 4,
     "updated": "1 week ago",
-    "update_date": "2026-05-02",
+    "update_date": "2026-05-03",
     "link": "https://ollama.com/library/nemotron3",
-    "popularity": 154
+    "popularity": 162
   },
   "athene-v2": {
     "description": "Athene-V2 is a 72B parameter model which excels at code completion, mathematics, and log extraction tasks.",
@@ -2488,13 +2609,13 @@
     "parameters": [
       "72b"
     ],
-    "pull_str": "559.4K",
-    "pull": 559400,
+    "pull_str": "560.2K",
+    "pull": 560200,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/athene-v2",
-    "popularity": 155
+    "popularity": 163
   },
   "nous-hermes2-mixtral": {
     "description": "The Nous Hermes 2 model from Nous Research, now trained over Mixtral.",
@@ -2502,13 +2623,13 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "559.4K",
-    "pull": 559400,
+    "pull_str": "560.1K",
+    "pull": 560100,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/nous-hermes2-mixtral",
-    "popularity": 156
+    "popularity": 164
   },
   "codeup": {
     "description": "Great code generation model based on Llama2.",
@@ -2516,13 +2637,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "559.2K",
-    "pull": 559200,
+    "pull_str": "560K",
+    "pull": 560000,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/codeup",
-    "popularity": 157
+    "popularity": 165
   },
   "qwen3-next": {
     "description": "The first installment in the Qwen3-Next series with strong performance in terms of both parameter efficiency and inference speed.",
@@ -2533,28 +2654,28 @@
     "parameters": [
       "80b"
     ],
-    "pull_str": "544.6K",
-    "pull": 544600,
+    "pull_str": "545.2K",
+    "pull": 545200,
     "tag_count": 7,
     "updated": "5 months ago",
-    "update_date": "2025-12-09",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/qwen3-next",
-    "popularity": 158
+    "popularity": 166
   },
-  "minimax-m2.5": {
-    "description": "MiniMax-M2.5 is a state-of-the-art large language model designed for real-world productivity and coding tasks.",
+  "kimi-k2-thinking": {
+    "description": "Kimi K2 Thinking, Moonshot AI's best open-source thinking model.",
     "capabilities": [
       "tools",
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "542.1K",
-    "pull": 542100,
+    "pull_str": "540K",
+    "pull": 540000,
     "tag_count": 1,
-    "updated": "2 months ago",
-    "update_date": "2026-03-09",
-    "link": "https://ollama.com/library/minimax-m2.5",
-    "popularity": 159
+    "updated": "6 months ago",
+    "update_date": "2025-11-10",
+    "link": "https://ollama.com/library/kimi-k2-thinking",
+    "popularity": 167
   },
   "megadolphin": {
     "description": "MegaDolphin-2.2-120b is a transformation of Dolphin-2.2-70b created by interleaving the model with itself.",
@@ -2562,13 +2683,13 @@
     "parameters": [
       "120b"
     ],
-    "pull_str": "538.4K",
-    "pull": 538400,
+    "pull_str": "539.2K",
+    "pull": 539200,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/megadolphin",
-    "popularity": 160
+    "popularity": 168
   },
   "medllama2": {
     "description": "Fine-tuned Llama 2 model to answer medical questions based on an open source medical dataset.",
@@ -2576,13 +2697,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "536.4K",
-    "pull": 536400,
+    "pull_str": "537.1K",
+    "pull": 537100,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/medllama2",
-    "popularity": 161
+    "popularity": 169
   },
   "everythinglm": {
     "description": "Uncensored Llama2 based model with support for a 16K context window.",
@@ -2590,13 +2711,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "534.7K",
-    "pull": 534700,
+    "pull_str": "535.4K",
+    "pull": 535400,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/everythinglm",
-    "popularity": 162
+    "popularity": 170
   },
   "solar-pro": {
     "description": "Solar Pro Preview: an advanced large language model (LLM) with 22 billion parameters designed to fit into a single GPU",
@@ -2604,13 +2725,13 @@
     "parameters": [
       "22b"
     ],
-    "pull_str": "527.8K",
-    "pull": 527800,
+    "pull_str": "528.6K",
+    "pull": 528600,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/solar-pro",
-    "popularity": 163
+    "popularity": 171
   },
   "magicoder": {
     "description": "🎩 Magicoder is a family of 7B parameter models trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets.",
@@ -2618,29 +2739,27 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "524.7K",
-    "pull": 524700,
+    "pull_str": "525.5K",
+    "pull": 525500,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/magicoder",
-    "popularity": 164
+    "popularity": 172
   },
-  "gemini-3-flash-preview": {
-    "description": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+  "minimax-m2.1": {
+    "description": "Exceptional multilingual capabilities to elevate code engineering",
     "capabilities": [
-      "vision",
-      "tools",
-      "thinking"
+      "tools"
     ],
     "parameters": [],
-    "pull_str": "520.1K",
-    "pull": 520100,
+    "pull_str": "523.5K",
+    "pull": 523500,
     "tag_count": 1,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
-    "link": "https://ollama.com/library/gemini-3-flash-preview",
-    "popularity": 165
+    "update_date": "2026-01-10",
+    "link": "https://ollama.com/library/minimax-m2.1",
+    "popularity": 173
   },
   "mathstral": {
     "description": "MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.",
@@ -2648,13 +2767,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "516.2K",
-    "pull": 516200,
+    "pull_str": "516.9K",
+    "pull": 516900,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/mathstral",
-    "popularity": 166
+    "popularity": 174
   },
   "notus": {
     "description": "A 7B chat model fine-tuned with high-quality data and based on Zephyr.",
@@ -2662,13 +2781,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "509.9K",
-    "pull": 509900,
+    "pull_str": "510.6K",
+    "pull": 510600,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/notus",
-    "popularity": 167
+    "popularity": 175
   },
   "notux": {
     "description": "A top-performing mixture of experts model, fine-tuned with high-quality data.",
@@ -2676,13 +2795,13 @@
     "parameters": [
       "8x7b"
     ],
-    "pull_str": "509.3K",
-    "pull": 509300,
+    "pull_str": "510K",
+    "pull": 510000,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/notux",
-    "popularity": 168
+    "popularity": 176
   },
   "falcon2": {
     "description": "Falcon2 is an 11B parameters causal decoder-only model built by TII and trained over 5T tokens.",
@@ -2690,28 +2809,13 @@
     "parameters": [
       "11b"
     ],
-    "pull_str": "507.6K",
-    "pull": 507600,
+    "pull_str": "508.3K",
+    "pull": 508300,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/falcon2",
-    "popularity": 169
-  },
-  "glm-5.1": {
-    "description": "GLM-5.1 is our next-generation flagship model for agentic engineering, with significantly stronger coding capabilities than its predecessor. It achieves state-of-the-art performance on SWE-Bench Pro and leads GLM-5 by a wide margin.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "506.1K",
-    "pull": 506100,
-    "tag_count": 1,
-    "updated": "1 month ago",
-    "update_date": "2026-04-09",
-    "link": "https://ollama.com/library/glm-5.1",
-    "popularity": 170
+    "popularity": 177
   },
   "stablelm-zephyr": {
     "description": "A lightweight chat model allowing accurate, and responsive output without requiring high-end hardware.",
@@ -2719,13 +2823,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "503.9K",
-    "pull": 503900,
+    "pull_str": "504.6K",
+    "pull": 504600,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/stablelm-zephyr",
-    "popularity": 171
+    "popularity": 178
   },
   "nuextract": {
     "description": "A 3.8B model fine-tuned on a private high-quality synthetic dataset for information extraction, based on Phi-3.",
@@ -2733,13 +2837,13 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "501.3K",
-    "pull": 501300,
+    "pull_str": "502K",
+    "pull": 502000,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/nuextract",
-    "popularity": 172
+    "popularity": 179
   },
   "duckdb-nsql": {
     "description": "7B parameter text-to-SQL model made by MotherDuck and Numbers Station.",
@@ -2747,13 +2851,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "498.5K",
-    "pull": 498500,
+    "pull_str": "499.2K",
+    "pull": 499200,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/duckdb-nsql",
-    "popularity": 173
+    "popularity": 180
   },
   "exaone3.5": {
     "description": "EXAONE 3.5 is a collection of instruction-tuned bilingual (English and Korean) generative models ranging from 2.4B to 32B parameters, developed and released by LG AI Research.",
@@ -2763,13 +2867,13 @@
       "7.8b",
       "32b"
     ],
-    "pull_str": "497.9K",
-    "pull": 497900,
+    "pull_str": "498.6K",
+    "pull": 498600,
     "tag_count": 9,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/exaone3.5",
-    "popularity": 174
+    "popularity": 181
   },
   "bespoke-minicheck": {
     "description": "A state-of-the-art fact-checking model developed by Bespoke Labs.",
@@ -2777,13 +2881,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "496.3K",
-    "pull": 496300,
+    "pull_str": "497K",
+    "pull": 497000,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/bespoke-minicheck",
-    "popularity": 175
+    "popularity": 182
   },
   "mistrallite": {
     "description": "MistralLite is a fine-tuned model based on Mistral with enhanced capabilities of processing long contexts.",
@@ -2791,13 +2895,13 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "495.4K",
-    "pull": 495400,
+    "pull_str": "496.1K",
+    "pull": 496100,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/mistrallite",
-    "popularity": 176
+    "popularity": 183
   },
   "firefunction-v2": {
     "description": "An open weights function calling model based on Llama 3, competitive with GPT-4o function calling capabilities.",
@@ -2807,13 +2911,13 @@
     "parameters": [
       "70b"
     ],
-    "pull_str": "491.1K",
-    "pull": 491100,
+    "pull_str": "491.9K",
+    "pull": 491900,
     "tag_count": 15,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/firefunction-v2",
-    "popularity": 177
+    "popularity": 184
   },
   "wizard-vicuna": {
     "description": "Wizard Vicuna is a 13B parameter model based on Llama 2 trained by MelodysDreamj.",
@@ -2821,13 +2925,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "489.7K",
-    "pull": 489700,
+    "pull_str": "490.4K",
+    "pull": 490400,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/wizard-vicuna",
-    "popularity": 178
+    "popularity": 185
   },
   "open-orca-platypus2": {
     "description": "Merge of the Open Orca OpenChat model and the Garage-bAInd Platypus 2 model. Designed for chat and code generation.",
@@ -2835,58 +2939,13 @@
     "parameters": [
       "13b"
     ],
-    "pull_str": "482.1K",
-    "pull": 482100,
+    "pull_str": "482.8K",
+    "pull": 482800,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/open-orca-platypus2",
-    "popularity": 179
-  },
-  "minimax-m2.7": {
-    "description": "MiniMax's M2-series model for coding, agentic workflows, and professional productivity.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "480.4K",
-    "pull": 480400,
-    "tag_count": 1,
-    "updated": "1 month ago",
-    "update_date": "2026-04-09",
-    "link": "https://ollama.com/library/minimax-m2.7",
-    "popularity": 180
-  },
-  "glm-4.6": {
-    "description": "Advanced agentic, reasoning and coding capabilities.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "479.4K",
-    "pull": 479400,
-    "tag_count": 1,
-    "updated": "6 months ago",
-    "update_date": "2025-11-09",
-    "link": "https://ollama.com/library/glm-4.6",
-    "popularity": 181
-  },
-  "minimax-m2": {
-    "description": "MiniMax M2 is a high-efficiency large language model built for coding and agentic workflows.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "475.2K",
-    "pull": 475200,
-    "tag_count": 1,
-    "updated": "6 months ago",
-    "update_date": "2025-11-09",
-    "link": "https://ollama.com/library/minimax-m2",
-    "popularity": 182
+    "popularity": 186
   },
   "codebooga": {
     "description": "A high-performing code instruct model created by merging two existing code models.",
@@ -2894,43 +2953,13 @@
     "parameters": [
       "34b"
     ],
-    "pull_str": "469.7K",
-    "pull": 469700,
+    "pull_str": "470.4K",
+    "pull": 470400,
     "tag_count": 14,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/codebooga",
-    "popularity": 183
-  },
-  "glm-4.7": {
-    "description": "Advancing the Coding Capability",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "467.9K",
-    "pull": 467900,
-    "tag_count": 1,
-    "updated": "4 months ago",
-    "update_date": "2026-01-09",
-    "link": "https://ollama.com/library/glm-4.7",
-    "popularity": 184
-  },
-  "deepseek-v3.2": {
-    "description": "DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "461.9K",
-    "pull": 461900,
-    "tag_count": 1,
-    "updated": "4 months ago",
-    "update_date": "2026-01-09",
-    "link": "https://ollama.com/library/deepseek-v3.2",
-    "popularity": 185
+    "popularity": 187
   },
   "rnj-1": {
     "description": "Rnj-1 is a family of 8B parameter open-weight, dense models trained from scratch by Essential AI, optimized for code and STEM with capabilities on par with SOTA open-weight models.",
@@ -2940,25 +2969,25 @@
     "parameters": [
       "8b"
     ],
-    "pull_str": "458K",
-    "pull": 458000,
+    "pull_str": "458.4K",
+    "pull": 458400,
     "tag_count": 4,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/rnj-1",
-    "popularity": 186
+    "popularity": 188
   },
   "goliath": {
     "description": "A language model created by combining two fine-tuned Llama 2 70B models into one.",
     "capabilities": [],
     "parameters": [],
-    "pull_str": "453.7K",
-    "pull": 453700,
+    "pull_str": "454.3K",
+    "pull": 454300,
     "tag_count": 15,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/goliath",
-    "popularity": 187
+    "popularity": 189
   },
   "deepseek-ocr": {
     "description": "DeepSeek-OCR is a vision-language model that can perform token-efficient OCR.",
@@ -2968,13 +2997,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "439.2K",
-    "pull": 439200,
+    "pull_str": "440.1K",
+    "pull": 440100,
     "tag_count": 1,
     "updated": "5 months ago",
-    "update_date": "2025-12-09",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/deepseek-ocr",
-    "popularity": 188
+    "popularity": 190
   },
   "glm-ocr": {
     "description": "GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture.",
@@ -2983,13 +3012,13 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "438.3K",
-    "pull": 438300,
+    "pull_str": "439.5K",
+    "pull": 439500,
     "tag_count": 2,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/glm-ocr",
-    "popularity": 189
+    "popularity": 191
   },
   "nemotron-3-nano": {
     "description": "Nemotron-3-Nano is a new Standard for Efficient, Open, and Intelligent Agentic Models, now updated with a 4B parameter count model.",
@@ -3001,13 +3030,13 @@
       "4b",
       "30b"
     ],
-    "pull_str": "430.2K",
-    "pull": 430200,
+    "pull_str": "431.6K",
+    "pull": 431600,
     "tag_count": 7,
     "updated": "1 month ago",
-    "update_date": "2026-04-09",
+    "update_date": "2026-04-10",
     "link": "https://ollama.com/library/nemotron-3-nano",
-    "popularity": 190
+    "popularity": 192
   },
   "granite3.2": {
     "description": "Granite-3.2 is a family of long-context AI models from IBM Granite fine-tuned for thinking capabilities.",
@@ -3018,28 +3047,13 @@
       "2b",
       "8b"
     ],
-    "pull_str": "430.1K",
-    "pull": 430100,
+    "pull_str": "430.5K",
+    "pull": 430500,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3.2",
-    "popularity": 191
-  },
-  "kimi-k2-thinking": {
-    "description": "Kimi K2 Thinking, Moonshot AI's best open-source thinking model.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "429.8K",
-    "pull": 429800,
-    "tag_count": 1,
-    "updated": "6 months ago",
-    "update_date": "2025-11-09",
-    "link": "https://ollama.com/library/kimi-k2-thinking",
-    "popularity": 192
+    "popularity": 193
   },
   "olmo-3": {
     "description": "Olmo is a series of Open language models designed to enable the science of language models. These models are pre-trained on the Dolma 3 dataset and post-trained on the Dolci datasets.",
@@ -3048,26 +3062,12 @@
       "7b",
       "32b"
     ],
-    "pull_str": "423.6K",
-    "pull": 423600,
+    "pull_str": "424.4K",
+    "pull": 424400,
     "tag_count": 9,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/olmo-3",
-    "popularity": 193
-  },
-  "minimax-m2.1": {
-    "description": "Exceptional multilingual capabilities to elevate code engineering",
-    "capabilities": [
-      "tools"
-    ],
-    "parameters": [],
-    "pull_str": "413.4K",
-    "pull": 413400,
-    "tag_count": 1,
-    "updated": "4 months ago",
-    "update_date": "2026-01-09",
-    "link": "https://ollama.com/library/minimax-m2.1",
     "popularity": 194
   },
   "r1-1776": {
@@ -3077,11 +3077,11 @@
       "70b",
       "671b"
     ],
-    "pull_str": "401.1K",
-    "pull": 401100,
+    "pull_str": "401.5K",
+    "pull": 401500,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/r1-1776",
     "popularity": 195
   },
@@ -3093,11 +3093,11 @@
     "parameters": [
       "568m"
     ],
-    "pull_str": "385.4K",
-    "pull": 385400,
+    "pull_str": "386.1K",
+    "pull": 386100,
     "tag_count": 1,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/snowflake-arctic-embed2",
     "popularity": 196
   },
@@ -3109,11 +3109,11 @@
       "8b",
       "20b"
     ],
-    "pull_str": "384.2K",
-    "pull": 384200,
+    "pull_str": "384.8K",
+    "pull": 384800,
     "tag_count": 9,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/sailor2",
     "popularity": 197
   },
@@ -3124,11 +3124,11 @@
       "8b",
       "70b"
     ],
-    "pull_str": "361K",
-    "pull": 361000,
+    "pull_str": "361.4K",
+    "pull": 361400,
     "tag_count": 6,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/tulu3",
     "popularity": 198
   },
@@ -3141,11 +3141,11 @@
       "30m",
       "278m"
     ],
-    "pull_str": "324.1K",
-    "pull": 324100,
+    "pull_str": "324.6K",
+    "pull": 324600,
     "tag_count": 2,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite-embedding",
     "popularity": 199
   },
@@ -3156,11 +3156,11 @@
       "2b",
       "8b"
     ],
-    "pull_str": "313.9K",
-    "pull": 313900,
+    "pull_str": "314.3K",
+    "pull": 314300,
     "tag_count": 7,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/granite3-guardian",
     "popularity": 200
   },
@@ -3170,11 +3170,11 @@
     "parameters": [
       "132b"
     ],
-    "pull_str": "307.9K",
-    "pull": 307900,
+    "pull_str": "308.2K",
+    "pull": 308200,
     "tag_count": 4,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/dbrx",
     "popularity": 201
   },
@@ -3186,11 +3186,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "279.4K",
-    "pull": 279400,
+    "pull_str": "279.8K",
+    "pull": 279800,
     "tag_count": 2,
     "updated": "2 years ago",
-    "update_date": "2024-05-09",
+    "update_date": "2024-05-10",
     "link": "https://ollama.com/library/llava-phi3",
     "popularity": 202
   },
@@ -3202,11 +3202,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "276K",
-    "pull": 276000,
+    "pull_str": "276.9K",
+    "pull": 276900,
     "tag_count": 1,
     "updated": "3 months ago",
-    "update_date": "2026-02-09",
+    "update_date": "2026-02-10",
     "link": "https://ollama.com/library/kimi-k2.5",
     "popularity": 203
   },
@@ -3216,11 +3216,11 @@
     "parameters": [
       "236b"
     ],
-    "pull_str": "273K",
-    "pull": 273000,
+    "pull_str": "273.3K",
+    "pull": 273300,
     "tag_count": 5,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/deepseek-v2.5",
     "popularity": 204
   },
@@ -3232,11 +3232,11 @@
     "parameters": [
       "32b"
     ],
-    "pull_str": "270K",
-    "pull": 270000,
+    "pull_str": "270.5K",
+    "pull": 270500,
     "tag_count": 6,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/olmo-3.1",
     "popularity": 205
   },
@@ -3246,11 +3246,11 @@
     "parameters": [
       "3.8b"
     ],
-    "pull_str": "264.1K",
-    "pull": 264100,
+    "pull_str": "264.6K",
+    "pull": 264600,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/phi4-mini-reasoning",
     "popularity": 206
   },
@@ -3262,11 +3262,11 @@
     "parameters": [
       "335m"
     ],
-    "pull_str": "262.1K",
-    "pull": 262100,
+    "pull_str": "262.4K",
+    "pull": 262400,
     "tag_count": 1,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/bge-large",
     "popularity": 207
   },
@@ -3278,11 +3278,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "256.4K",
-    "pull": 256400,
+    "pull_str": "256.9K",
+    "pull": 256900,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/command-r7b",
     "popularity": 208
   },
@@ -3292,27 +3292,13 @@
     "parameters": [
       "3b"
     ],
-    "pull_str": "243K",
-    "pull": 243000,
+    "pull_str": "243.3K",
+    "pull": 243300,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/smallthinker",
     "popularity": 209
-  },
-  "alfred": {
-    "description": "A robust conversational model designed to be used for both chat and instruct use cases.",
-    "capabilities": [],
-    "parameters": [
-      "40b"
-    ],
-    "pull_str": "226.5K",
-    "pull": 226500,
-    "tag_count": 5,
-    "updated": "2 years ago",
-    "update_date": "2024-05-09",
-    "link": "https://ollama.com/library/alfred",
-    "popularity": 210
   },
   "kimi-k2.6": {
     "description": "Kimi K2.6 is an open-source, native multimodal agentic model that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orchestration.",
@@ -3322,12 +3308,26 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "224.6K",
-    "pull": 224600,
+    "pull_str": "227.2K",
+    "pull": 227200,
     "tag_count": 1,
     "updated": "2 weeks ago",
-    "update_date": "2026-04-25",
+    "update_date": "2026-04-26",
     "link": "https://ollama.com/library/kimi-k2.6",
+    "popularity": 210
+  },
+  "alfred": {
+    "description": "A robust conversational model designed to be used for both chat and instruct use cases.",
+    "capabilities": [],
+    "parameters": [
+      "40b"
+    ],
+    "pull_str": "226.8K",
+    "pull": 226800,
+    "tag_count": 5,
+    "updated": "2 years ago",
+    "update_date": "2024-05-10",
+    "link": "https://ollama.com/library/alfred",
     "popularity": 211
   },
   "command-a": {
@@ -3338,11 +3338,11 @@
     "parameters": [
       "111b"
     ],
-    "pull_str": "214K",
-    "pull": 214000,
+    "pull_str": "214.2K",
+    "pull": 214200,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/command-a",
     "popularity": 212
   },
@@ -3354,11 +3354,11 @@
     "parameters": [
       "123b"
     ],
-    "pull_str": "213.3K",
-    "pull": 213300,
+    "pull_str": "213.8K",
+    "pull": 213800,
     "tag_count": 4,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/devstral-2",
     "popularity": 213
   },
@@ -3368,11 +3368,11 @@
       "embedding"
     ],
     "parameters": [],
-    "pull_str": "203.5K",
-    "pull": 203500,
+    "pull_str": "204.1K",
+    "pull": 204100,
     "tag_count": 1,
-    "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "updated": "5 months ago",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/nomic-embed-text-v2-moe",
     "popularity": 214
   },
@@ -3382,11 +3382,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "202.3K",
-    "pull": 202300,
+    "pull_str": "202.5K",
+    "pull": 202500,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/marco-o1",
     "popularity": 215
   },
@@ -3398,11 +3398,11 @@
     "parameters": [
       "7b"
     ],
-    "pull_str": "187.1K",
-    "pull": 187100,
+    "pull_str": "187.4K",
+    "pull": 187400,
     "tag_count": 3,
     "updated": "1 year ago",
-    "update_date": "2025-05-09",
+    "update_date": "2025-05-10",
     "link": "https://ollama.com/library/command-r7b-arabic",
     "popularity": 216
   },
@@ -3412,11 +3412,11 @@
     "parameters": [
       "671b"
     ],
-    "pull_str": "181.9K",
-    "pull": 181900,
+    "pull_str": "182.2K",
+    "pull": 182200,
     "tag_count": 4,
     "updated": "5 months ago",
-    "update_date": "2025-12-09",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/cogito-2.1",
     "popularity": 217
   },
@@ -3428,11 +3428,11 @@
     "parameters": [
       "270m"
     ],
-    "pull_str": "155.5K",
-    "pull": 155500,
+    "pull_str": "155.9K",
+    "pull": 155900,
     "tag_count": 2,
     "updated": "4 months ago",
-    "update_date": "2026-01-09",
+    "update_date": "2026-01-10",
     "link": "https://ollama.com/library/functiongemma",
     "popularity": 218
   },
@@ -3446,11 +3446,11 @@
       "20b",
       "120b"
     ],
-    "pull_str": "138.5K",
-    "pull": 138500,
+    "pull_str": "138.8K",
+    "pull": 138800,
     "tag_count": 2,
     "updated": "6 months ago",
-    "update_date": "2025-11-09",
+    "update_date": "2025-11-10",
     "link": "https://ollama.com/library/gpt-oss-safeguard",
     "popularity": 219
   },
@@ -3463,11 +3463,11 @@
     "parameters": [
       "30b"
     ],
-    "pull_str": "112.3K",
-    "pull": 112300,
+    "pull_str": "112.8K",
+    "pull": 112800,
     "tag_count": 1,
     "updated": "1 month ago",
-    "update_date": "2026-04-09",
+    "update_date": "2026-04-10",
     "link": "https://ollama.com/library/nemotron-cascade-2",
     "popularity": 220
   },
@@ -3477,28 +3477,13 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "65.6K",
-    "pull": 65600,
+    "pull_str": "65.7K",
+    "pull": 65700,
     "tag_count": 1,
     "updated": "7 months ago",
-    "update_date": "2025-10-09",
+    "update_date": "2025-10-10",
     "link": "https://ollama.com/library/kimi-k2",
     "popularity": 221
-  },
-  "deepseek-v4-flash": {
-    "description": "DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.",
-    "capabilities": [
-      "tools",
-      "thinking"
-    ],
-    "parameters": [],
-    "pull_str": "54K",
-    "pull": 54000,
-    "tag_count": 1,
-    "updated": "2 weeks ago",
-    "update_date": "2026-04-25",
-    "link": "https://ollama.com/library/deepseek-v4-flash",
-    "popularity": 222
   },
   "granite4.1": {
     "description": "IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, and structured JSON output. Released under Apache 2.0 license.",
@@ -3510,12 +3495,27 @@
       "8b",
       "30b"
     ],
-    "pull_str": "53.8K",
-    "pull": 53800,
+    "pull_str": "57.4K",
+    "pull": 57400,
     "tag_count": 43,
     "updated": "1 week ago",
-    "update_date": "2026-05-02",
+    "update_date": "2026-05-03",
     "link": "https://ollama.com/library/granite4.1",
+    "popularity": 222
+  },
+  "deepseek-v4-flash": {
+    "description": "DeepSeek-V4-Flash is a preview of the DeepSeek-V4 series, a Mixture-of-Experts model with 284B total parameters and 13B activated, built for efficient reasoning across a 1M-token context window.",
+    "capabilities": [
+      "tools",
+      "thinking"
+    ],
+    "parameters": [],
+    "pull_str": "55.8K",
+    "pull": 55800,
+    "tag_count": 1,
+    "updated": "2 weeks ago",
+    "update_date": "2026-04-26",
+    "link": "https://ollama.com/library/deepseek-v4-flash",
     "popularity": 223
   },
   "mistral-large-3": {
@@ -3525,11 +3525,11 @@
       "tools"
     ],
     "parameters": [],
-    "pull_str": "49.3K",
-    "pull": 49300,
+    "pull_str": "49.4K",
+    "pull": 49400,
     "tag_count": 1,
     "updated": "5 months ago",
-    "update_date": "2025-12-09",
+    "update_date": "2025-12-10",
     "link": "https://ollama.com/library/mistral-large-3",
     "popularity": 224
   },
@@ -3540,11 +3540,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "44.5K",
-    "pull": 44500,
+    "pull_str": "46.3K",
+    "pull": 46300,
     "tag_count": 1,
     "updated": "1 week ago",
-    "update_date": "2026-05-02",
+    "update_date": "2026-05-03",
     "link": "https://ollama.com/library/deepseek-v4-pro",
     "popularity": 225
   },
@@ -3557,11 +3557,11 @@
       "4b",
       "27b"
     ],
-    "pull_str": "23.3K",
-    "pull": 23300,
+    "pull_str": "24.4K",
+    "pull": 24400,
     "tag_count": 6,
     "updated": "3 weeks ago",
-    "update_date": "2026-04-18",
+    "update_date": "2026-04-19",
     "link": "https://ollama.com/library/medgemma",
     "popularity": 226
   },
@@ -3575,10 +3575,10 @@
     "parameters": [
       "128b"
     ],
-    "pull_str": "14.2K",
-    "pull": 14200,
+    "pull_str": "15K",
+    "pull": 15000,
     "tag_count": 3,
-    "updated": "3 days ago",
+    "updated": "4 days ago",
     "update_date": "2026-05-06",
     "link": "https://ollama.com/library/mistral-medium-3.5",
     "popularity": 227
@@ -3591,11 +3591,11 @@
     "parameters": [
       "4b"
     ],
-    "pull_str": "13.8K",
-    "pull": 13800,
+    "pull_str": "14.3K",
+    "pull": 14300,
     "tag_count": 3,
     "updated": "3 weeks ago",
-    "update_date": "2026-04-18",
+    "update_date": "2026-04-19",
     "link": "https://ollama.com/library/medgemma1.5",
     "popularity": 228
   },
@@ -3606,11 +3606,11 @@
       "thinking"
     ],
     "parameters": [],
-    "pull_str": "7,446",
-    "pull": 7446,
+    "pull_str": "7,932",
+    "pull": 7932,
     "tag_count": 6,
     "updated": "1 week ago",
-    "update_date": "2026-05-02",
+    "update_date": "2026-05-03",
     "link": "https://ollama.com/library/laguna-xs.2",
     "popularity": 229
   }
