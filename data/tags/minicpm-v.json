@@ -3,10 +3,11 @@
     "href": "https://ollama.com/library/minicpm-v:latest",
     "name": "minicpm-v:latest",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.5GB",
@@ -16,10 +17,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q2_K",
     "name": "minicpm-v:8b-2.6-q2_K",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.1GB",
@@ -29,10 +31,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q3_K_S",
     "name": "minicpm-v:8b-2.6-q3_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.5GB",
@@ -42,10 +45,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q3_K_M",
     "name": "minicpm-v:8b-2.6-q3_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "4.9GB",
@@ -55,10 +59,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q3_K_L",
     "name": "minicpm-v:8b-2.6-q3_K_L",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.1GB",
@@ -68,10 +73,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q4_1",
     "name": "minicpm-v:8b-2.6-q4_1",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.9GB",
@@ -81,10 +87,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q4_K_S",
     "name": "minicpm-v:8b-2.6-q4_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.5GB",
@@ -94,10 +101,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q4_K_M",
     "name": "minicpm-v:8b-2.6-q4_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "5.7GB",
@@ -107,10 +115,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q5_0",
     "name": "minicpm-v:8b-2.6-q5_0",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.4GB",
@@ -120,10 +129,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q5_1",
     "name": "minicpm-v:8b-2.6-q5_1",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.8GB",
@@ -133,10 +143,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q5_K_S",
     "name": "minicpm-v:8b-2.6-q5_K_S",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.4GB",
@@ -146,10 +157,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q5_K_M",
     "name": "minicpm-v:8b-2.6-q5_K_M",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "6.5GB",
@@ -159,10 +171,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q6_K",
     "name": "minicpm-v:8b-2.6-q6_K",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "7.3GB",
@@ -172,10 +185,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-q8_0",
     "name": "minicpm-v:8b-2.6-q8_0",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "9.1GB",
@@ -185,10 +199,11 @@
     "href": "https://ollama.com/library/minicpm-v:8b-2.6-fp16",
     "name": "minicpm-v:8b-2.6-fp16",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 year ago",
-    "update_date": "2025-05-17",
+    "update_date": "2025-05-18",
     "context_window": "32K",
     "context_window_num": 32000,
     "size_str": "16GB",
