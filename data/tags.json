@@ -81931,5 +81931,21 @@
       "size_str": "58GB",
       "size_num": 58000000000
     }
+  },
+  "minimax-m3": {
+    "d03a959f45c0": {
+      "href": "https://ollama.com/library/minimax-m3:cloud",
+      "name": "minimax-m3:cloud",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "4 hours ago",
+      "update_date": "2026-06-01",
+      "context_window": "512K",
+      "context_window_num": 512000,
+      "size_str": "",
+      "size_num": 0
+    }
   }
 }
