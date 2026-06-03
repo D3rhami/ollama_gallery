@@ -1,0 +1,17 @@
+{
+  "description": "LFM2.5-8B-A1B, an edge model built for fast, reliable tool calling on consumer hardware.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "8b"
+  ],
+  "pull_str": "963",
+  "pull": 963,
+  "tag_count": "5",
+  "updated": "3 days ago",
+  "update_date": "2026-05-31",
+  "link": "https://ollama.com/library/lfm2.5",
+  "popularity": 231
+}
