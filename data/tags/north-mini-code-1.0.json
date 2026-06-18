@@ -1,0 +1,80 @@
+{
+  "d8b269ad5c7c": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:latest",
+    "name": "north-mini-code-1.0:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  },
+  "b6c144236e03": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:q8_0",
+    "name": "north-mini-code-1.0:q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "32GB",
+    "size_num": 32000000000
+  },
+  "e1265bf9e834": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:bf16",
+    "name": "north-mini-code-1.0:bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "61GB",
+    "size_num": 61000000000
+  },
+  "82b3f0ab2d1c": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:mlx-mxfp8",
+    "name": "north-mini-code-1.0:mlx-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "31GB",
+    "size_num": 31000000000
+  },
+  "83c9952930e0": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:mlx-nvfp4",
+    "name": "north-mini-code-1.0:mlx-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "20GB",
+    "size_num": 20000000000
+  },
+  "70520154ae45": {
+    "href": "https://ollama.com/library/north-mini-code-1.0:mlx-bf16",
+    "name": "north-mini-code-1.0:mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 hours ago",
+    "update_date": "2026-06-18",
+    "context_window": "488K",
+    "context_window_num": 488000,
+    "size_str": "61GB",
+    "size_num": 61000000000
+  }
+}
