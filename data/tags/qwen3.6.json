@@ -6,8 +6,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "24GB",
@@ -21,7 +21,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "17GB",
@@ -31,10 +31,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-coding-mxfp8",
     "name": "qwen3.6:27b-coding-mxfp8                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "31GB",
@@ -44,10 +45,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-coding-nvfp4",
     "name": "qwen3.6:27b-coding-nvfp4                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "20GB",
@@ -57,10 +59,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-coding-bf16",
     "name": "qwen3.6:27b-coding-bf16",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "55GB",
@@ -70,10 +73,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-mlx",
     "name": "qwen3.6:27b-mlx                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "2 weeks ago",
-    "update_date": "2026-05-26",
+    "updated_str": "1 month ago",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "20GB",
@@ -83,10 +87,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-mlx-bf16",
     "name": "qwen3.6:27b-mlx-bf16                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "55GB",
@@ -99,8 +104,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "18GB",
@@ -113,8 +118,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "30GB",
@@ -127,8 +132,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "56GB",
@@ -138,10 +143,11 @@
     "href": "https://ollama.com/library/qwen3.6:27b-mxfp8",
     "name": "qwen3.6:27b-mxfp8                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "31GB",
@@ -155,7 +161,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "30GB",
@@ -169,7 +175,7 @@
       "Image"
     ],
     "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "update_date": "2026-05-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "56GB",
@@ -179,10 +185,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-mxfp8",
     "name": "qwen3.6:35b-a3b-coding-mxfp8                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "38GB",
@@ -192,10 +199,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4",
     "name": "qwen3.6:35b-a3b-coding-nvfp4                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "22GB",
@@ -205,10 +213,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-bf16",
     "name": "qwen3.6:35b-a3b-coding-bf16",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "70GB",
@@ -218,10 +227,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mlx-bf16",
     "name": "qwen3.6:35b-a3b-mlx-bf16                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "70GB",
@@ -234,8 +244,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "23GB",
@@ -248,8 +258,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "39GB",
@@ -259,10 +269,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-nvfp4",
     "name": "qwen3.6:35b-a3b-nvfp4                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "22GB",
@@ -275,8 +286,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "39GB",
@@ -289,8 +300,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "71GB",
@@ -303,8 +314,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-06-02",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "72GB",
@@ -314,10 +325,11 @@
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mxfp8",
     "name": "qwen3.6:35b-a3b-mxfp8                                                                                  MLX",
     "input_types": [
-      "Text"
+      "Text",
+      "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-05-09",
+    "updated_str": "2 months ago",
+    "update_date": "2026-04-21",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "38GB",

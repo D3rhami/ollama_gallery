@@ -1,0 +1,156 @@
+{
+  "e95583acac77": {
+    "href": "https://ollama.com/library/minicpm-v4.6:latest",
+    "name": "minicpm-v4.6:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "fddef2599474": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q4_0",
+    "name": "minicpm-v4.6:q4_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "a8ba7dee2228": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q4_1",
+    "name": "minicpm-v4.6:q4_1",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "95200de9e025": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q4_K_S",
+    "name": "minicpm-v4.6:q4_K_S",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "7d4df98d0fdc": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q5_0",
+    "name": "minicpm-v4.6:q5_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "0132eed3d9ef": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q5_1",
+    "name": "minicpm-v4.6:q5_1",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "b2b49d04e96a": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q5_K_S",
+    "name": "minicpm-v4.6:q5_K_S",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "0e195f4c8bb2": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q5_K_M",
+    "name": "minicpm-v4.6:q5_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "ca9219b57000": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q6_K",
+    "name": "minicpm-v4.6:q6_K",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "ceb4ec05ddf6": {
+    "href": "https://ollama.com/library/minicpm-v4.6:q8_0",
+    "name": "minicpm-v4.6:q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.9GB",
+    "size_num": 1900000000
+  },
+  "82520258dab3": {
+    "href": "https://ollama.com/library/minicpm-v4.6:f16",
+    "name": "minicpm-v4.6:f16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-06-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "2.6GB",
+    "size_num": 2600000000
+  }
+}
