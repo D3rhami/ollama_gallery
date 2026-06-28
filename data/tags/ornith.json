@@ -1,0 +1,80 @@
+{
+  "a75697c14589": {
+    "href": "https://ollama.com/library/ornith:latest",
+    "name": "ornith:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
+  },
+  "5a470e0f652c": {
+    "href": "https://ollama.com/library/ornith:35b",
+    "name": "ornith:35b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "21GB",
+    "size_num": 21000000000
+  },
+  "b1edce684170": {
+    "href": "https://ollama.com/library/ornith:9b-q8_0",
+    "name": "ornith:9b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "9.5GB",
+    "size_num": 9500000000
+  },
+  "0ed5c778f8a9": {
+    "href": "https://ollama.com/library/ornith:9b-bf16",
+    "name": "ornith:9b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "8 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "44788b2fdab4": {
+    "href": "https://ollama.com/library/ornith:35b-q8_0",
+    "name": "ornith:35b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "37GB",
+    "size_num": 37000000000
+  },
+  "cfc852542826": {
+    "href": "https://ollama.com/library/ornith:35b-bf16",
+    "name": "ornith:35b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "9 hours ago",
+    "update_date": "2026-06-27",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "69GB",
+    "size_num": 69000000000
+  }
+}
