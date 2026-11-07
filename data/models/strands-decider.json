@@ -1,0 +1,16 @@
+{
+  "description": "A 2B decision model from Strands Agents for fast classification, routing, and scoring.",
+  "capabilities": [
+    "decision"
+  ],
+  "parameters": [
+    "2b"
+  ],
+  "pull_str": "44.1K",
+  "pull": 44100,
+  "tag_count": 3,
+  "updated": "3 weeks ago",
+  "update_date": "2026-10-17",
+  "link": "https://ollama.com/library/strands-decider",
+  "popularity": 252
+}

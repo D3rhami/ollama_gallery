@@ -1,15 +1,17 @@
 {
   "description": "Gemma 3n models are designed for efficient execution on everyday devices such as laptops, tablets or phones.",
-  "capabilities": [],
+  "capabilities": [
+    "vision"
+  ],
   "parameters": [
     "e2b",
     "e4b"
   ],
-  "pull_str": "1.8M",
-  "pull": 1800000,
+  "pull_str": "2.4M",
+  "pull": 2400000,
   "tag_count": 6,
-  "updated": "1 year ago",
-  "update_date": "2025-07-15",
+  "updated": "3 weeks ago",
+  "update_date": "2026-10-17",
   "link": "https://ollama.com/library/gemma3n",
-  "popularity": 67
+  "popularity": 58
 }

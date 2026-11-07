@@ -1,0 +1,170 @@
+{
+  "de878ce33ad8": {
+    "href": "https://ollama.com/library/muse-glimmer:latest",
+    "name": "muse-glimmer:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "bd22c6664845": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-bf16-dflash",
+    "name": "muse-glimmer:30b-bf16-dflash",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "59GB",
+    "size_num": 59000000000
+  },
+  "015fa21845be": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-mlx",
+    "name": "muse-glimmer:30b-mlx                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  },
+  "db7968c9dcb3": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-mlx-bf16-dflash",
+    "name": "muse-glimmer:30b-mlx-bf16-dflash                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "65GB",
+    "size_num": 65000000000
+  },
+  "43511b65122d": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-mlx-bf16",
+    "name": "muse-glimmer:30b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "60GB",
+    "size_num": 60000000000
+  },
+  "783458ca3191": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-mxfp8",
+    "name": "muse-glimmer:30b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "33GB",
+    "size_num": 33000000000
+  },
+  "14bd0cb8d43f": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-mxfp8-dflash",
+    "name": "muse-glimmer:30b-mxfp8-dflash                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "35GB",
+    "size_num": 35000000000
+  },
+  "6a78d632287f": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-nvfp4",
+    "name": "muse-glimmer:30b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "17GB",
+    "size_num": 17000000000
+  },
+  "da643f4663ab": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-q4_K_M-dflash",
+    "name": "muse-glimmer:30b-q4_K_M-dflash",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "20GB",
+    "size_num": 20000000000
+  },
+  "51675ea1db04": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-q8_0-dflash",
+    "name": "muse-glimmer:30b-q8_0-dflash",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "33GB",
+    "size_num": 33000000000
+  },
+  "6ffafcdbd728": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-q8_0",
+    "name": "muse-glimmer:30b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "31GB",
+    "size_num": 31000000000
+  },
+  "318fb1b9b816": {
+    "href": "https://ollama.com/library/muse-glimmer:30b-bf16",
+    "name": "muse-glimmer:30b-bf16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "128K",
+    "context_window_num": 128000,
+    "size_str": "57GB",
+    "size_num": 57000000000
+  }
+}

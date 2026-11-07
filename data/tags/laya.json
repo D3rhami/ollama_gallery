@@ -1,0 +1,93 @@
+{
+  "0175aca9f021": {
+    "href": "https://ollama.com/library/laya:latest",
+    "name": "laya:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "8K",
+    "context_window_num": 8000,
+    "size_str": "844MB - 846MB",
+    "size_num": 0
+  },
+  "63b6e37ecedb": {
+    "href": "https://ollama.com/library/laya:322m-multilingual-mlx-fp16",
+    "name": "laya:322m-multilingual-mlx-fp16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "1K",
+    "context_window_num": 1000,
+    "size_str": "678MB",
+    "size_num": 678000000
+  },
+  "c1242e4a83f0": {
+    "href": "https://ollama.com/library/laya:322m-multilingual-bf16",
+    "name": "laya:322m-multilingual-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "8K",
+    "context_window_num": 8000,
+    "size_str": "658MB",
+    "size_num": 658000000
+  },
+  "aaba5574a1e1": {
+    "href": "https://ollama.com/library/laya:421m-english-mlx-fp16",
+    "name": "laya:421m-english-mlx-fp16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "512",
+    "context_window_num": 512,
+    "size_str": "846MB",
+    "size_num": 846000000
+  },
+  "1f196b378202": {
+    "href": "https://ollama.com/library/laya:421m-english-bf16",
+    "name": "laya:421m-english-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "8K",
+    "context_window_num": 8000,
+    "size_str": "844MB",
+    "size_num": 844000000
+  },
+  "c62bc110244c": {
+    "href": "https://ollama.com/library/laya:421m-typed-decisions-mlx-fp16",
+    "name": "laya:421m-typed-decisions-mlx-fp16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "1K",
+    "context_window_num": 1000,
+    "size_str": "846MB",
+    "size_num": 846000000
+  },
+  "84a7be5dd978": {
+    "href": "https://ollama.com/library/laya:421m-typed-decisions-bf16",
+    "name": "laya:421m-typed-decisions-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "8K",
+    "context_window_num": 8000,
+    "size_str": "844MB",
+    "size_num": 844000000
+  }
+}

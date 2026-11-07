@@ -1,0 +1,18 @@
+{
+  "description": "d1 is a 3B decision model from Liquid AI, built on LFM2.5-VL-3B",
+  "capabilities": [
+    "vision",
+    "decision"
+  ],
+  "parameters": [
+    "2b",
+    "3b"
+  ],
+  "pull_str": "45K",
+  "pull": 45000,
+  "tag_count": 4,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/d1",
+  "popularity": 251
+}

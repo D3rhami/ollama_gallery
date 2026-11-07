@@ -1,0 +1,17 @@
+{
+  "description": "pplx-decider-flash is a 4B decision model from Perplexity, built on Qwen3.5-4B",
+  "capabilities": [
+    "vision",
+    "decision"
+  ],
+  "parameters": [
+    "4b"
+  ],
+  "pull_str": "8,544",
+  "pull": 8544,
+  "tag_count": 3,
+  "updated": "3 days ago",
+  "update_date": "2026-11-04",
+  "link": "https://ollama.com/library/pplx-decider-flash",
+  "popularity": 268
+}

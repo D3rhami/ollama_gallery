@@ -1,0 +1,17 @@
+{
+  "description": "LFM3-1.7B is a tri-hybrid model for local agents and specialized applications.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "1.7b"
+  ],
+  "pull_str": "55.1K",
+  "pull": 55100,
+  "tag_count": 8,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/lfm3",
+  "popularity": 248
+}

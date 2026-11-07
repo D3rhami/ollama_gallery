@@ -1,0 +1,67 @@
+{
+  "2a087bdb088a": {
+    "href": "https://ollama.com/library/flint:latest",
+    "name": "flint:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  },
+  "9543f736310d": {
+    "href": "https://ollama.com/library/flint:40b-a2b-gguf-nvfp4",
+    "name": "flint:40b-a2b-gguf-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  },
+  "10f49bd042a0": {
+    "href": "https://ollama.com/library/flint:40b-a2b-q4_1",
+    "name": "flint:40b-a2b-q4_1",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "26GB",
+    "size_num": 26000000000
+  },
+  "3d2f527c0ef3": {
+    "href": "https://ollama.com/library/flint:40b-a2b-mlx-bf16",
+    "name": "flint:40b-a2b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "80GB",
+    "size_num": 80000000000
+  },
+  "9891844f06a2": {
+    "href": "https://ollama.com/library/flint:40b-a2b-qat-int4",
+    "name": "flint:40b-a2b-qat-int4",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  }
+}

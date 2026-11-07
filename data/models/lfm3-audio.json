@@ -1,0 +1,18 @@
+{
+  "description": "LFM3-Audio-2B is a compact, fully featured audio model.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "audio"
+  ],
+  "parameters": [
+    "2b"
+  ],
+  "pull_str": "19.5K",
+  "pull": 19500,
+  "tag_count": 7,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/lfm3-audio",
+  "popularity": 264
+}

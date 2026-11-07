@@ -1,0 +1,19 @@
+{
+  "description": "d1-omni is a multimodal 600M decision model from Liquid AI",
+  "capabilities": [
+    "vision",
+    "decision",
+    "audio"
+  ],
+  "parameters": [
+    "600m",
+    "2b"
+  ],
+  "pull_str": "32.4K",
+  "pull": 32400,
+  "tag_count": 5,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/d1-omni",
+  "popularity": 255
+}

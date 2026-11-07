@@ -1,17 +1,59 @@
 {
-  "f6d8b7ff496c": {
-    "href": "https://ollama.com/library/nemotron3:33b",
-    "name": "nemotron3:33b",
+  "24f5f4a5b3ea": {
+    "href": "https://ollama.com/library/nemotron3:latest",
+    "name": "nemotron3:latest",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
     "context_window": "128K",
     "context_window_num": 128000,
-    "size_str": "28GB",
-    "size_num": 28000000000
+    "size_str": "21GB - 28GB",
+    "size_num": 0
+  },
+  "f263b909bfad": {
+    "href": "https://ollama.com/library/nemotron3:33b-mlx",
+    "name": "nemotron3:33b-mlx                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "21GB",
+    "size_num": 21000000000
+  },
+  "365199ac5654": {
+    "href": "https://ollama.com/library/nemotron3:33b-mlx-bf16",
+    "name": "nemotron3:33b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "66GB",
+    "size_num": 66000000000
+  },
+  "2f9333eac6f6": {
+    "href": "https://ollama.com/library/nemotron3:33b-mxfp8",
+    "name": "nemotron3:33b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "35GB",
+    "size_num": 35000000000
   },
   "74d89c84a443": {
     "href": "https://ollama.com/library/nemotron3:33b-q8",
@@ -20,8 +62,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
     "context_window": "128K",
     "context_window_num": 128000,
     "size_str": "36GB",
@@ -34,8 +76,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
     "context_window": "128K",
     "context_window_num": 128000,
     "size_str": "28GB",
@@ -48,8 +90,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
     "context_window": "128K",
     "context_window_num": 128000,
     "size_str": "66GB",

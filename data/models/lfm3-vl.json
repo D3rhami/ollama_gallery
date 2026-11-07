@@ -1,0 +1,18 @@
+{
+  "description": "LFM3-VL-2B is a vision-language model for on-device visual understanding.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "2b"
+  ],
+  "pull_str": "23.2K",
+  "pull": 23200,
+  "tag_count": 8,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/lfm3-vl",
+  "popularity": 262
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Qwen3.8 delivers substantial gains across coding, professional work, research, and long-horizon agentic tasks.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "27b"
+  ],
+  "pull_str": "6M",
+  "pull": 6000000,
+  "tag_count": 11,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/qwen3.8",
+  "popularity": 30
+}

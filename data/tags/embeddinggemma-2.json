@@ -1,0 +1,272 @@
+{
+  "1f30cabe5af7": {
+    "href": "https://ollama.com/library/embeddinggemma-2:latest",
+    "name": "embeddinggemma-2:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
+  },
+  "ff630aa67948": {
+    "href": "https://ollama.com/library/embeddinggemma-2:270m",
+    "name": "embeddinggemma-2:270m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "304MB - 378MB",
+    "size_num": 0
+  },
+  "b750e83c282e": {
+    "href": "https://ollama.com/library/embeddinggemma-2:440m",
+    "name": "embeddinggemma-2:440m",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "671MB - 714MB",
+    "size_num": 0
+  },
+  "74f652944b2b": {
+    "href": "https://ollama.com/library/embeddinggemma-2:570m",
+    "name": "embeddinggemma-2:570m",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "918MB - 990MB",
+    "size_num": 0
+  },
+  "afeb999480b2": {
+    "href": "https://ollama.com/library/embeddinggemma-2:270m-bf16-text",
+    "name": "embeddinggemma-2:270m-bf16-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "574MB",
+    "size_num": 574000000
+  },
+  "47c561d1a77f": {
+    "href": "https://ollama.com/library/embeddinggemma-2:270m-mxfp8-text",
+    "name": "embeddinggemma-2:270m-mxfp8-text                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "442MB",
+    "size_num": 442000000
+  },
+  "9e1df58d197e": {
+    "href": "https://ollama.com/library/embeddinggemma-2:270m-nvfp4-text",
+    "name": "embeddinggemma-2:270m-nvfp4-text                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "378MB",
+    "size_num": 378000000
+  },
+  "c21dd30c1e38": {
+    "href": "https://ollama.com/library/embeddinggemma-2:270m-q8_0-text",
+    "name": "embeddinggemma-2:270m-q8_0-text",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "304MB",
+    "size_num": 304000000
+  },
+  "0a4a713f2700": {
+    "href": "https://ollama.com/library/embeddinggemma-2:440m-bf16-text-vision",
+    "name": "embeddinggemma-2:440m-bf16-text-vision",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "910MB",
+    "size_num": 910000000
+  },
+  "fc94c176e27b": {
+    "href": "https://ollama.com/library/embeddinggemma-2:440m-mxfp8-text-vision",
+    "name": "embeddinggemma-2:440m-mxfp8-text-vision                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "778MB",
+    "size_num": 778000000
+  },
+  "d302b84ce388": {
+    "href": "https://ollama.com/library/embeddinggemma-2:440m-nvfp4-text-vision",
+    "name": "embeddinggemma-2:440m-nvfp4-text-vision                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "714MB",
+    "size_num": 714000000
+  },
+  "7d8dc01c0a05": {
+    "href": "https://ollama.com/library/embeddinggemma-2:440m-q8_0-text-vision",
+    "name": "embeddinggemma-2:440m-q8_0-text-vision",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "671MB",
+    "size_num": 671000000
+  },
+  "9c186596b19e": {
+    "href": "https://ollama.com/library/embeddinggemma-2:570m-bf16-text-audio",
+    "name": "embeddinggemma-2:570m-bf16-text-audio",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.2GB",
+    "size_num": 1200000000
+  },
+  "4d64e128ff21": {
+    "href": "https://ollama.com/library/embeddinggemma-2:570m-mxfp8-text-audio",
+    "name": "embeddinggemma-2:570m-mxfp8-text-audio                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.1GB",
+    "size_num": 1100000000
+  },
+  "eaf989e4d334": {
+    "href": "https://ollama.com/library/embeddinggemma-2:570m-nvfp4-text-audio",
+    "name": "embeddinggemma-2:570m-nvfp4-text-audio                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "990MB",
+    "size_num": 990000000
+  },
+  "899c39804f83": {
+    "href": "https://ollama.com/library/embeddinggemma-2:570m-q8_0-text-audio",
+    "name": "embeddinggemma-2:570m-q8_0-text-audio",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "918MB",
+    "size_num": 918000000
+  },
+  "a4efd357164f": {
+    "href": "https://ollama.com/library/embeddinggemma-2:740m-mxfp8",
+    "name": "embeddinggemma-2:740m-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.4GB",
+    "size_num": 1400000000
+  },
+  "969600645b52": {
+    "href": "https://ollama.com/library/embeddinggemma-2:740m-nvfp4",
+    "name": "embeddinggemma-2:740m-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
+  },
+  "f4981a15b998": {
+    "href": "https://ollama.com/library/embeddinggemma-2:740m-q8_0",
+    "name": "embeddinggemma-2:740m-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.3GB",
+    "size_num": 1300000000
+  },
+  "54d809644cd8": {
+    "href": "https://ollama.com/library/embeddinggemma-2:740m-bf16",
+    "name": "embeddinggemma-2:740m-bf16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
+  }
+}

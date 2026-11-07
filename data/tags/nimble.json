@@ -1,0 +1,93 @@
+{
+  "5745f025fbe6": {
+    "href": "https://ollama.com/library/nimble:latest",
+    "name": "nimble:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "9.3GB - 9.5GB",
+    "size_num": 0
+  },
+  "a12dea71dc46": {
+    "href": "https://ollama.com/library/nimble:9b-mlx-bf16",
+    "name": "nimble:9b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "8bed6c1082ed": {
+    "href": "https://ollama.com/library/nimble:9b-mxfp8",
+    "name": "nimble:9b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "9.3GB",
+    "size_num": 9300000000
+  },
+  "7a1e5d2a7666": {
+    "href": "https://ollama.com/library/nimble:9b-nvfp4",
+    "name": "nimble:9b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "6.9GB",
+    "size_num": 6900000000
+  },
+  "d99f22c363ce": {
+    "href": "https://ollama.com/library/nimble:9b-q4_K_M",
+    "name": "nimble:9b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
+  },
+  "6aa3fde96874": {
+    "href": "https://ollama.com/library/nimble:9b-q8_0",
+    "name": "nimble:9b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "9.5GB",
+    "size_num": 9500000000
+  },
+  "8c5f1ee46d2b": {
+    "href": "https://ollama.com/library/nimble:9b-bf16",
+    "name": "nimble:9b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  }
+}

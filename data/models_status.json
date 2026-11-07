@@ -1,10 +1,12 @@
 {
-  "total_count": 236,
+  "total_count": 270,
   "success": true,
   "error": 0,
-  "api_data_updated": "2026-07-15",
+  "api_data_updated": "2026-11-07",
   "cap_list": [
     "audio",
+    "cloud",
+    "decision",
     "embedding",
     "thinking",
     "tools",
@@ -72,20 +74,25 @@
     "350m",
     "35b",
     "360m",
+    "397b",
     "3b",
     "405b",
     "40b",
+    "440m",
     "480b",
     "4b",
     "567m",
     "568m",
+    "570m",
     "6.7b",
+    "600m",
     "671b",
     "67b",
     "6b",
     "7.8b",
     "70b",
     "72b",
+    "740m",
     "7b",
     "80b",
     "8b",
@@ -96,5 +103,5 @@
     "e2b",
     "e4b"
   ],
-  "processing_time": "0.83 seconds"
+  "processing_time": "3.36 seconds"
 }

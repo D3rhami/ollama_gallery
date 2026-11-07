@@ -1,0 +1,72 @@
+{
+  "c7b96ffe21af": {
+    "href": "https://ollama.com/library/qwen3.8-flash-next:125b-a6b-nvfp4",
+    "name": "qwen3.8-flash-next:125b-a6b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "105GB",
+    "size_num": 105000000000
+  },
+  "f79436a1cc83": {
+    "href": "https://ollama.com/library/qwen3.8-flash-next:125b-a6b-q4_K_M",
+    "name": "qwen3.8-flash-next:125b-a6b-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "120GB",
+    "size_num": 120000000000
+  },
+  "068643f34f42": {
+    "href": "https://ollama.com/library/qwen3.8-flash-next:125b-a6b-q8_0",
+    "name": "qwen3.8-flash-next:125b-a6b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "189GB",
+    "size_num": 189000000000
+  },
+  "860af341daa0": {
+    "href": "https://ollama.com/library/qwen3.8-flash-next:125b-a6b-bf16",
+    "name": "qwen3.8-flash-next:125b-a6b-bf16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "355GB",
+    "size_num": 355000000000
+  },
+  "ae2130e55774": {
+    "href": "https://ollama.com/library/qwen3.8-flash-next:125b-a6b-mlx-bf16",
+    "name": "qwen3.8-flash-next:125b-a6b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "360GB",
+    "size_num": 360000000000
+  }
+}

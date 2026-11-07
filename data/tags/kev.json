@@ -1,0 +1,210 @@
+{
+  "079f29347a00": {
+    "href": "https://ollama.com/library/kev:latest",
+    "name": "kev:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "5.6GB - 6.7GB",
+    "size_num": 0
+  },
+  "f8bb3dfed81d": {
+    "href": "https://ollama.com/library/kev:0.8b-mlx-bf16",
+    "name": "kev:0.8b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
+  },
+  "e414a229c2b8": {
+    "href": "https://ollama.com/library/kev:0.8b-mxfp8",
+    "name": "kev:0.8b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.0GB",
+    "size_num": 1000000000
+  },
+  "a2f47e09befb": {
+    "href": "https://ollama.com/library/kev:0.8b-q8_0",
+    "name": "kev:0.8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "812MB",
+    "size_num": 812000000
+  },
+  "5ee097410a63": {
+    "href": "https://ollama.com/library/kev:0.8b-bf16",
+    "name": "kev:0.8b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
+  },
+  "458360f7747d": {
+    "href": "https://ollama.com/library/kev:4b-mlx-bf16",
+    "name": "kev:4b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.4GB",
+    "size_num": 8400000000
+  },
+  "818b6cdb957c": {
+    "href": "https://ollama.com/library/kev:4b-q4_K_M",
+    "name": "kev:4b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "2.7GB",
+    "size_num": 2700000000
+  },
+  "46203beabf65": {
+    "href": "https://ollama.com/library/kev:4b-q8_0",
+    "name": "kev:4b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "4.5GB",
+    "size_num": 4500000000
+  },
+  "8406d8a74261": {
+    "href": "https://ollama.com/library/kev:4b-bf16",
+    "name": "kev:4b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.4GB",
+    "size_num": 8400000000
+  },
+  "7044de0996a2": {
+    "href": "https://ollama.com/library/kev:9b-mlx-bf16",
+    "name": "kev:9b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "16GB",
+    "size_num": 16000000000
+  },
+  "d31165461ae8": {
+    "href": "https://ollama.com/library/kev:9b-nvfp4",
+    "name": "kev:9b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "6.7GB",
+    "size_num": 6700000000
+  },
+  "96375189a97f": {
+    "href": "https://ollama.com/library/kev:9b-q4_K_M",
+    "name": "kev:9b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "5.6GB",
+    "size_num": 5600000000
+  },
+  "446718ead956": {
+    "href": "https://ollama.com/library/kev:9b-q8_0",
+    "name": "kev:9b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "9.5GB",
+    "size_num": 9500000000
+  },
+  "925e229ef61d": {
+    "href": "https://ollama.com/library/kev:9b-bf16",
+    "name": "kev:9b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "b397feb9fd33": {
+    "href": "https://ollama.com/library/kev:27b-mlx-bf16",
+    "name": "kev:27b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "51GB",
+    "size_num": 51000000000
+  },
+  "4f5575ee2df2": {
+    "href": "https://ollama.com/library/kev:27b-nvfp4",
+    "name": "kev:27b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  }
+}

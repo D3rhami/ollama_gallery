@@ -1,0 +1,17 @@
+{
+  "description": "Mistral Large 4 is Mistral's open-weight, general-purpose multimodal model. Its granular Mixture-of-Experts design activates 52B of 1.05T total parameters, with a 1.6B vision encoder handling images.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "parameters": [],
+  "pull_str": "26.5K",
+  "pull": 26500,
+  "tag_count": 1,
+  "updated": "1 month ago",
+  "update_date": "2026-10-07",
+  "link": "https://ollama.com/library/mistral-large-4",
+  "popularity": 257
+}

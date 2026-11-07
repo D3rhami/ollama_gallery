@@ -1,0 +1,58 @@
+{
+  "733585a9ebb6": {
+    "href": "https://ollama.com/library/pplx-decider:latest",
+    "name": "pplx-decider:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "17GB",
+    "size_num": 17000000000
+  },
+  "74a118a0fe81": {
+    "href": "https://ollama.com/library/pplx-decider:27b-mlx-bf16",
+    "name": "pplx-decider:27b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "52GB",
+    "size_num": 52000000000
+  },
+  "3bc5ea1dd54b": {
+    "href": "https://ollama.com/library/pplx-decider:27b-mxfp8",
+    "name": "pplx-decider:27b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "29GB",
+    "size_num": 29000000000
+  },
+  "3cc88dab60b5": {
+    "href": "https://ollama.com/library/pplx-decider:27b-nvfp4",
+    "name": "pplx-decider:27b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "14b60fc91804": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:latest",
+    "name": "nemotron-3.5-lightning:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "19GB - 25GB",
+    "size_num": 0
+  },
+  "d1e17d7dabac": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-mlx",
+    "name": "nemotron-3.5-lightning:30b-a3b-mlx                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  },
+  "7bf11b5991ed": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-mlx-bf16",
+    "name": "nemotron-3.5-lightning:30b-a3b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "66GB",
+    "size_num": 66000000000
+  },
+  "9dad1618f1ac": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-mxfp8",
+    "name": "nemotron-3.5-lightning:30b-a3b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "34GB",
+    "size_num": 34000000000
+  },
+  "e7a64ff15fb1": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-q4_K_M",
+    "name": "nemotron-3.5-lightning:30b-a3b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "25GB",
+    "size_num": 25000000000
+  },
+  "9983b24ee511": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-q8_0",
+    "name": "nemotron-3.5-lightning:30b-a3b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "35GB",
+    "size_num": 35000000000
+  },
+  "721c64cd61ac": {
+    "href": "https://ollama.com/library/nemotron-3.5-lightning:30b-a3b-bf16",
+    "name": "nemotron-3.5-lightning:30b-a3b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "66GB",
+    "size_num": 66000000000
+  }
+}

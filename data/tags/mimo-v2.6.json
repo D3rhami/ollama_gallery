@@ -1,0 +1,100 @@
+{
+  "4af06b564ed4": {
+    "href": "https://ollama.com/library/mimo-v2.6:latest",
+    "name": "mimo-v2.6:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "6.6GB - 8.7GB",
+    "size_num": 0
+  },
+  "08ec2ae01ade": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-gguf-bf16",
+    "name": "mimo-v2.6:9b-gguf-bf16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  },
+  "98bfe7751130": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-mlx-bf16",
+    "name": "mimo-v2.6:9b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "19GB",
+    "size_num": 19000000000
+  },
+  "74dc9c06c486": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-mxfp8",
+    "name": "mimo-v2.6:9b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "11GB",
+    "size_num": 11000000000
+  },
+  "13e6cddd37a6": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-nvfp4",
+    "name": "mimo-v2.6:9b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.7GB",
+    "size_num": 8700000000
+  },
+  "cc58eacf0e3e": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-q4_K_M",
+    "name": "mimo-v2.6:9b-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
+  },
+  "37f7310de102": {
+    "href": "https://ollama.com/library/mimo-v2.6:9b-q8_0",
+    "name": "mimo-v2.6:9b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "4 days ago",
+    "update_date": "2026-11-03",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "10GB",
+    "size_num": 10000000000
+  }
+}

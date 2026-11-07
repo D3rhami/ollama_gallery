@@ -1,0 +1,16 @@
+{
+  "description": "IBM Granite Models are a family of enterprise-ready, open foundation models that support multilingual capabilities, coding, retrieval-augmented generation (RAG), tool use, thinking and structured JSON output. Released under Apache 2.0 license.",
+  "capabilities": [],
+  "parameters": [
+    "3b",
+    "8b",
+    "30b"
+  ],
+  "pull_str": "269.7K",
+  "pull": 269700,
+  "tag_count": 45,
+  "updated": "2 months ago",
+  "update_date": "2026-09-07",
+  "link": "https://ollama.com/library/granite4.2",
+  "popularity": 215
+}

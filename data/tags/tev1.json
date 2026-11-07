@@ -1,0 +1,158 @@
+{
+  "3ea3be2f2026": {
+    "href": "https://ollama.com/library/tev1:latest",
+    "name": "tev1:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "4.4GB - 4.6GB",
+    "size_num": 0
+  },
+  "cb16f3186b07": {
+    "href": "https://ollama.com/library/tev1:0.8b",
+    "name": "tev1:0.8b",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "834MB - 1.5GB",
+    "size_num": 0
+  },
+  "9ea18bade940": {
+    "href": "https://ollama.com/library/tev1:0.8b-mlx-bf16",
+    "name": "tev1:0.8b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.5GB",
+    "size_num": 1500000000
+  },
+  "c96262240cf8": {
+    "href": "https://ollama.com/library/tev1:0.8b-mxfp8",
+    "name": "tev1:0.8b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "797MB",
+    "size_num": 797000000
+  },
+  "abc31fdb0bf5": {
+    "href": "https://ollama.com/library/tev1:0.8b-q8_0",
+    "name": "tev1:0.8b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "834MB",
+    "size_num": 834000000
+  },
+  "e3e061c8b4e6": {
+    "href": "https://ollama.com/library/tev1:0.8b-bf16",
+    "name": "tev1:0.8b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "b6cc5c8eef21": {
+    "href": "https://ollama.com/library/tev1:4b-mlx-bf16",
+    "name": "tev1:4b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.4GB",
+    "size_num": 8400000000
+  },
+  "2a76e0606594": {
+    "href": "https://ollama.com/library/tev1:4b-mxfp8",
+    "name": "tev1:4b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "4.4GB",
+    "size_num": 4400000000
+  },
+  "1b15f25c13a0": {
+    "href": "https://ollama.com/library/tev1:4b-nvfp4",
+    "name": "tev1:4b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "3.1GB",
+    "size_num": 3100000000
+  },
+  "608e3a13eec3": {
+    "href": "https://ollama.com/library/tev1:4b-q4_K_M",
+    "name": "tev1:4b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "2.8GB",
+    "size_num": 2800000000
+  },
+  "7954dce22bc6": {
+    "href": "https://ollama.com/library/tev1:4b-q8_0",
+    "name": "tev1:4b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "4.6GB",
+    "size_num": 4600000000
+  },
+  "4eb03a01d788": {
+    "href": "https://ollama.com/library/tev1:4b-bf16",
+    "name": "tev1:4b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.7GB",
+    "size_num": 8700000000
+  }
+}

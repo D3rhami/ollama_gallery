@@ -1,0 +1,97 @@
+{
+  "ae39b218bea7": {
+    "href": "https://ollama.com/library/autotrust-jev:latest",
+    "name": "autotrust-jev:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "11GB",
+    "size_num": 11000000000
+  },
+  "973a7b9bdf9f": {
+    "href": "https://ollama.com/library/autotrust-jev:35b",
+    "name": "autotrust-jev:35b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "26GB",
+    "size_num": 26000000000
+  },
+  "18e60050218c": {
+    "href": "https://ollama.com/library/autotrust-jev:9b-mlx-bf16",
+    "name": "autotrust-jev:9b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "454a99f93908": {
+    "href": "https://ollama.com/library/autotrust-jev:9b-nvfp4",
+    "name": "autotrust-jev:9b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.0GB",
+    "size_num": 8000000000
+  },
+  "ddd4abaa2baf": {
+    "href": "https://ollama.com/library/autotrust-jev:27b-vl",
+    "name": "autotrust-jev:27b-vl",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "21GB",
+    "size_num": 21000000000
+  },
+  "3006be8ff2e9": {
+    "href": "https://ollama.com/library/autotrust-jev:27b-vl-mxfp8",
+    "name": "autotrust-jev:27b-vl-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "32GB",
+    "size_num": 32000000000
+  },
+  "4a51b82c2ffa": {
+    "href": "https://ollama.com/library/autotrust-jev:35b-mxfp8",
+    "name": "autotrust-jev:35b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 days ago",
+    "update_date": "2026-11-05",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "39GB",
+    "size_num": 39000000000
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "e5df7dcdd8a2": {
+    "href": "https://ollama.com/library/ornith-1.5:9b",
+    "name": "ornith-1.5:9b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "6.6GB",
+    "size_num": 6600000000
+  },
+  "9f3b89b25219": {
+    "href": "https://ollama.com/library/ornith-1.5:35b",
+    "name": "ornith-1.5:35b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  },
+  "ea3e29aebeb8": {
+    "href": "https://ollama.com/library/ornith-1.5:122b",
+    "name": "ornith-1.5:122b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "73GB - 77GB",
+    "size_num": 0
+  },
+  "337c6db6be12": {
+    "href": "https://ollama.com/library/ornith-1.5:397b",
+    "name": "ornith-1.5:397b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "242GB",
+    "size_num": 242000000000
+  },
+  "f0df8c3e9efc": {
+    "href": "https://ollama.com/library/ornith-1.5:122b-nvfp4",
+    "name": "ornith-1.5:122b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "73GB",
+    "size_num": 73000000000
+  },
+  "f1e64af05b7d": {
+    "href": "https://ollama.com/library/ornith-1.5:122b-q4_K_M",
+    "name": "ornith-1.5:122b-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "77GB",
+    "size_num": 77000000000
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "description": "A 4B decision model from Together AI for fast classification.",
+  "capabilities": [
+    "tools",
+    "decision",
+    "thinking"
+  ],
+  "parameters": [
+    "0.8b",
+    "4b"
+  ],
+  "pull_str": "141K",
+  "pull": 141000,
+  "tag_count": 12,
+  "updated": "3 weeks ago",
+  "update_date": "2026-10-17",
+  "link": "https://ollama.com/library/tev1",
+  "popularity": 233
+}

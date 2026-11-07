@@ -1,0 +1,17 @@
+{
+  "description": "pplx-decider is a 27B decision model from Perplexity, fine-tuned from Qwen3.8-27B",
+  "capabilities": [
+    "vision",
+    "decision"
+  ],
+  "parameters": [
+    "27b"
+  ],
+  "pull_str": "23.2K",
+  "pull": 23200,
+  "tag_count": 4,
+  "updated": "2 weeks ago",
+  "update_date": "2026-10-24",
+  "link": "https://ollama.com/library/pplx-decider",
+  "popularity": 261
+}

@@ -2,14 +2,15 @@
   "description": "GLM-5.2 is Z.ai’s flagship model for the era of long-horizon tasks.",
   "capabilities": [
     "tools",
-    "thinking"
+    "thinking",
+    "cloud"
   ],
   "parameters": [],
-  "pull_str": "215.3K",
-  "pull": 215300,
-  "tag_count": 1,
-  "updated": "4 weeks ago",
-  "update_date": "2026-06-17",
+  "pull_str": "382.6K",
+  "pull": 382600,
+  "tag_count": "1",
+  "updated": "4 months ago",
+  "update_date": "2026-07-07",
   "link": "https://ollama.com/library/glm-5.2",
-  "popularity": 217
+  "popularity": 203
 }

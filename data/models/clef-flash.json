@@ -1,0 +1,17 @@
+{
+  "description": "Clef-Flash is a 9B multimodal model that turns a state and a schema of typed questions into decisions.",
+  "capabilities": [
+    "vision",
+    "decision"
+  ],
+  "parameters": [
+    "9b"
+  ],
+  "pull_str": "60.1K",
+  "pull": 60100,
+  "tag_count": 4,
+  "updated": "3 weeks ago",
+  "update_date": "2026-10-17",
+  "link": "https://ollama.com/library/clef-flash",
+  "popularity": 245
+}

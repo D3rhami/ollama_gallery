@@ -1,0 +1,93 @@
+{
+  "1adabf138c90": {
+    "href": "https://ollama.com/library/laguna-s-2.1:latest",
+    "name": "laguna-s-2.1:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "96GB",
+    "size_num": 96000000000
+  },
+  "4d872a0116f7": {
+    "href": "https://ollama.com/library/laguna-s-2.1:mxfp8",
+    "name": "laguna-s-2.1:mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "136GB",
+    "size_num": 136000000000
+  },
+  "9971870d882b": {
+    "href": "https://ollama.com/library/laguna-s-2.1:nvfp4",
+    "name": "laguna-s-2.1:nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "66GB",
+    "size_num": 66000000000
+  },
+  "fcc6705b7cd8": {
+    "href": "https://ollama.com/library/laguna-s-2.1:q8_0",
+    "name": "laguna-s-2.1:q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "128GB",
+    "size_num": 128000000000
+  },
+  "8bad4c600f65": {
+    "href": "https://ollama.com/library/laguna-s-2.1:f16",
+    "name": "laguna-s-2.1:f16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "235GB",
+    "size_num": 235000000000
+  },
+  "cbc809384a7c": {
+    "href": "https://ollama.com/library/laguna-s-2.1:dflash-nvfp4",
+    "name": "laguna-s-2.1:dflash-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "68GB",
+    "size_num": 68000000000
+  },
+  "b5f23d44f7ed": {
+    "href": "https://ollama.com/library/laguna-s-2.1:mlx-bf16",
+    "name": "laguna-s-2.1:mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "237GB",
+    "size_num": 237000000000
+  }
+}

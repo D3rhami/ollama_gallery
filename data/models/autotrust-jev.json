@@ -1,0 +1,18 @@
+{
+  "description": "AutoTrust’s decision models return choices, yes/no probabilities, and ratings for the questions you supply",
+  "capabilities": [
+    "vision",
+    "decision"
+  ],
+  "parameters": [
+    "9b",
+    "35b"
+  ],
+  "pull_str": "10.6K",
+  "pull": 10600,
+  "tag_count": 7,
+  "updated": "2 days ago",
+  "update_date": "2026-11-05",
+  "link": "https://ollama.com/library/autotrust-jev",
+  "popularity": 266
+}

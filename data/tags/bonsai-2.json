@@ -1,0 +1,58 @@
+{
+  "c8b5462f8688": {
+    "href": "https://ollama.com/library/bonsai-2:latest",
+    "name": "bonsai-2:latest",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "3.2GB",
+    "size_num": 3200000000
+  },
+  "de2ccb4e7328": {
+    "href": "https://ollama.com/library/bonsai-2:2b",
+    "name": "bonsai-2:2b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "911MB",
+    "size_num": 911000000
+  },
+  "93edd652c932": {
+    "href": "https://ollama.com/library/bonsai-2:4b",
+    "name": "bonsai-2:4b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "1.6GB",
+    "size_num": 1600000000
+  },
+  "f3c4f4208659": {
+    "href": "https://ollama.com/library/bonsai-2:27b",
+    "name": "bonsai-2:27b",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "8.3GB",
+    "size_num": 8300000000
+  }
+}

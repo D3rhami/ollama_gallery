@@ -1,0 +1,17 @@
+{
+  "description": "Flint is a 39.8 billion-parameter mixture-of-experts model from Recursive, built for coding agents.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "40b"
+  ],
+  "pull_str": "61.5K",
+  "pull": 61500,
+  "tag_count": 5,
+  "updated": "2 weeks ago",
+  "update_date": "2026-10-24",
+  "link": "https://ollama.com/library/flint",
+  "popularity": 244
+}

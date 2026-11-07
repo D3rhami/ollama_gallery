@@ -1,0 +1,16 @@
+{
+  "description": "Beam is an open model by Reflection designed to deliver strong performance for areas such as agentic tool use, coding and general reasoning with an emphasis on token efficient usage.",
+  "capabilities": [
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "parameters": [],
+  "pull_str": "70.5K",
+  "pull": 70500,
+  "tag_count": 1,
+  "updated": "3 weeks ago",
+  "update_date": "2026-10-17",
+  "link": "https://ollama.com/library/beam",
+  "popularity": 242
+}

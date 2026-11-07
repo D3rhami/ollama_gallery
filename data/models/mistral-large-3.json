@@ -2,14 +2,15 @@
   "description": "A general-purpose multimodal mixture-of-experts model for production-grade tasks and enterprise workloads.",
   "capabilities": [
     "vision",
-    "tools"
+    "tools",
+    "cloud"
   ],
   "parameters": [],
-  "pull_str": "74.4K",
-  "pull": 74400,
-  "tag_count": 1,
-  "updated": "7 months ago",
-  "update_date": "2025-12-15",
+  "pull_str": "156.5K",
+  "pull": 156500,
+  "tag_count": "1",
+  "updated": "11 months ago",
+  "update_date": "2025-12-07",
   "link": "https://ollama.com/library/mistral-large-3",
-  "popularity": 228
+  "popularity": 230
 }

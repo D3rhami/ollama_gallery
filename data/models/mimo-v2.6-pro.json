@@ -1,0 +1,17 @@
+{
+  "description": "Xiaomi's flagship MiMo-V2.6 checkpoint, with 1.02T total parameters, 42B active, omnimodal input, and a 1M token context.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "parameters": [],
+  "pull_str": "3,350",
+  "pull": 3350,
+  "tag_count": 1,
+  "updated": "1 month ago",
+  "update_date": "2026-10-07",
+  "link": "https://ollama.com/library/mimo-v2.6-pro",
+  "popularity": 270
+}

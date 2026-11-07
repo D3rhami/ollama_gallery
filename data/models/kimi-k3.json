@@ -1,0 +1,17 @@
+{
+  "description": "Kimi K3 is an open-weight, native multimodal agentic model and our most capable model to date.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "parameters": [],
+  "pull_str": "118K",
+  "pull": 118000,
+  "tag_count": 1,
+  "updated": "3 months ago",
+  "update_date": "2026-08-07",
+  "link": "https://ollama.com/library/kimi-k3",
+  "popularity": 236
+}

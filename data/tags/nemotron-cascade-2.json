@@ -1,12 +1,64 @@
 {
-  "e0705e3fe8f7": {
+  "54e93b9643c7": {
     "href": "https://ollama.com/library/nemotron-cascade-2:latest",
     "name": "nemotron-cascade-2:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB - 24GB",
+    "size_num": 0
+  },
+  "2bdd5dcdbf50": {
+    "href": "https://ollama.com/library/nemotron-cascade-2:30b-a3b-mlx",
+    "name": "nemotron-cascade-2:30b-a3b-mlx                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "9eb1e0d8f8a7": {
+    "href": "https://ollama.com/library/nemotron-cascade-2:30b-a3b-mlx-bf16",
+    "name": "nemotron-cascade-2:30b-a3b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "63GB",
+    "size_num": 63000000000
+  },
+  "7a05ba2133bd": {
+    "href": "https://ollama.com/library/nemotron-cascade-2:30b-a3b-mxfp8",
+    "name": "nemotron-cascade-2:30b-a3b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 weeks ago",
+    "update_date": "2026-10-24",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "33GB",
+    "size_num": 33000000000
+  },
+  "e0705e3fe8f7": {
+    "href": "https://ollama.com/library/nemotron-cascade-2:30b-a3b-q4_K_M",
+    "name": "nemotron-cascade-2:30b-a3b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 months ago",
+    "update_date": "2026-04-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "24GB",

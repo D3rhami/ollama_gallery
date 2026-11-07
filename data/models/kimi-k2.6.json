@@ -3,14 +3,15 @@
   "capabilities": [
     "vision",
     "tools",
-    "thinking"
+    "thinking",
+    "cloud"
   ],
   "parameters": [],
-  "pull_str": "376.4K",
-  "pull": 376400,
-  "tag_count": 1,
-  "updated": "2 months ago",
-  "update_date": "2026-05-15",
+  "pull_str": "506.6K",
+  "pull": 506600,
+  "tag_count": "1",
+  "updated": "6 months ago",
+  "update_date": "2026-05-07",
   "link": "https://ollama.com/library/kimi-k2.6",
-  "popularity": 196
+  "popularity": 189
 }

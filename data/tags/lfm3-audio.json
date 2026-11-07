@@ -1,0 +1,93 @@
+{
+  "3cc080be117a": {
+    "href": "https://ollama.com/library/lfm3-audio:latest",
+    "name": "lfm3-audio:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "125K",
+    "context_window_num": 125000,
+    "size_str": "1.7GB - 2.1GB",
+    "size_num": 0
+  },
+  "d950f68bfdd8": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-mlx-bf16",
+    "name": "lfm3-audio:2b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "4.2GB",
+    "size_num": 4200000000
+  },
+  "1a6cacf52d02": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-mxfp8",
+    "name": "lfm3-audio:2b-mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "2.7GB",
+    "size_num": 2700000000
+  },
+  "ecfcfb300186": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-nvfp4",
+    "name": "lfm3-audio:2b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "-",
+    "context_window_num": 0,
+    "size_str": "2.1GB",
+    "size_num": 2100000000
+  },
+  "3327c1a06755": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-q4_K_M",
+    "name": "lfm3-audio:2b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "125K",
+    "context_window_num": 125000,
+    "size_str": "1.7GB",
+    "size_num": 1700000000
+  },
+  "d0ae0cb67fb9": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-q8_0",
+    "name": "lfm3-audio:2b-q8_0",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "125K",
+    "context_window_num": 125000,
+    "size_str": "2.4GB",
+    "size_num": 2400000000
+  },
+  "0697269928c0": {
+    "href": "https://ollama.com/library/lfm3-audio:2b-bf16",
+    "name": "lfm3-audio:2b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "125K",
+    "context_window_num": 125000,
+    "size_str": "4.0GB",
+    "size_num": 4000000000
+  }
+}

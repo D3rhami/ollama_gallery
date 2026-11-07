@@ -1,41 +1,80 @@
 {
-  "a8562dfd0cad": {
+  "0175be1e57f4": {
     "href": "https://ollama.com/library/laguna-xs-2.1:latest",
     "name": "laguna-xs-2.1:latest",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-07-08",
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "20GB",
     "size_num": 20000000000
   },
-  "7073183a9e7c": {
+  "44251b31234b": {
+    "href": "https://ollama.com/library/laguna-xs-2.1:mxfp8",
+    "name": "laguna-xs-2.1:mxfp8                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "40GB",
+    "size_num": 40000000000
+  },
+  "540825c4fccb": {
+    "href": "https://ollama.com/library/laguna-xs-2.1:nvfp4",
+    "name": "laguna-xs-2.1:nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "20GB",
+    "size_num": 20000000000
+  },
+  "a249c0765c04": {
     "href": "https://ollama.com/library/laguna-xs-2.1:q8_0",
     "name": "laguna-xs-2.1:q8_0",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-07-08",
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "36GB",
     "size_num": 36000000000
   },
-  "5bda9bef69e1": {
+  "79a64d06873a": {
     "href": "https://ollama.com/library/laguna-xs-2.1:bf16",
     "name": "laguna-xs-2.1:bf16",
     "input_types": [
       "Text"
     ],
-    "updated_str": "1 week ago",
-    "update_date": "2026-07-08",
+    "updated_str": "3 months ago",
+    "update_date": "2026-08-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "67GB",
     "size_num": 67000000000
+  },
+  "989474a733e8": {
+    "href": "https://ollama.com/library/laguna-xs-2.1:mlx-bf16",
+    "name": "laguna-xs-2.1:mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "68GB",
+    "size_num": 68000000000
   }
 }

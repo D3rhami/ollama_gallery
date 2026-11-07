@@ -1,33 +1,61 @@
 {
-  "07d35212591f": {
+  "86b2d171ce90": {
     "href": "https://ollama.com/library/qwen3.6:latest",
     "name": "qwen3.6:latest",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "24GB",
-    "size_num": 24000000000
+    "size_str": "23GB",
+    "size_num": 23000000000
   },
-  "a50eda8ed977": {
+  "1e2b3d172b7c": {
     "href": "https://ollama.com/library/qwen3.6:27b",
     "name": "qwen3.6:27b",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "17GB",
-    "size_num": 17000000000
+    "size_str": "18GB - 19GB",
+    "size_num": 0
   },
-  "a7185d39ff35": {
+  "c3152b6cb31d": {
+    "href": "https://ollama.com/library/qwen3.6:27b-coding",
+    "name": "qwen3.6:27b-coding",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB - 19GB",
+    "size_num": 0
+  },
+  "3a12a518a499": {
+    "href": "https://ollama.com/library/qwen3.6:27b-coding-mtp-q4_K_M",
+    "name": "qwen3.6:27b-coding-mtp-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "18GB",
+    "size_num": 18000000000
+  },
+  "55e00ff2ac60": {
     "href": "https://ollama.com/library/qwen3.6:27b-coding-mxfp8",
     "name": "qwen3.6:27b-coding-mxfp8                                                                                  MLX",
     "input_types": [
@@ -35,25 +63,25 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "31GB",
-    "size_num": 31000000000
+    "size_str": "30GB",
+    "size_num": 30000000000
   },
-  "42a2d9de99b0": {
+  "e527e8a9ed83": {
     "href": "https://ollama.com/library/qwen3.6:27b-coding-nvfp4",
     "name": "qwen3.6:27b-coding-nvfp4                                                                                  MLX",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "20GB",
-    "size_num": 20000000000
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
   "aa7f9b4e8d3b": {
     "href": "https://ollama.com/library/qwen3.6:27b-coding-bf16",
@@ -62,28 +90,28 @@
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "55GB",
     "size_num": 55000000000
   },
-  "60b0437bbd02": {
+  "d49fd9e0da45": {
     "href": "https://ollama.com/library/qwen3.6:27b-mlx",
     "name": "qwen3.6:27b-mlx                                                                                  MLX",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "20GB",
-    "size_num": 20000000000
+    "size_str": "19GB",
+    "size_num": 19000000000
   },
-  "2ae7c58c2cf4": {
+  "a5a683796d20": {
     "href": "https://ollama.com/library/qwen3.6:27b-mlx-bf16",
     "name": "qwen3.6:27b-mlx-bf16                                                                                  MLX",
     "input_types": [
@@ -91,21 +119,21 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "55GB",
-    "size_num": 55000000000
+    "size_str": "56GB",
+    "size_num": 56000000000
   },
-  "21c6dd8f67de": {
+  "9d5803d493a9": {
     "href": "https://ollama.com/library/qwen3.6:27b-mtp-q4_K_M",
     "name": "qwen3.6:27b-mtp-q4_K_M",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "18GB",
@@ -118,8 +146,8 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "5 months ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "30GB",
@@ -132,14 +160,14 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "5 months ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "56GB",
     "size_num": 56000000000
   },
-  "c2975bfaf500": {
+  "4ef566e80abd": {
     "href": "https://ollama.com/library/qwen3.6:27b-mxfp8",
     "name": "qwen3.6:27b-mxfp8                                                                                  MLX",
     "input_types": [
@@ -147,41 +175,83 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "31GB",
-    "size_num": 31000000000
+    "size_str": "30GB",
+    "size_num": 30000000000
   },
-  "cd0210c667bf": {
+  "3a40c32f1450": {
+    "href": "https://ollama.com/library/qwen3.6:27b-q4_K_M",
+    "name": "qwen3.6:27b-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "17GB",
+    "size_num": 17000000000
+  },
+  "80152c7d70ac": {
     "href": "https://ollama.com/library/qwen3.6:27b-q8_0",
     "name": "qwen3.6:27b-q8_0",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "30GB",
     "size_num": 30000000000
   },
-  "c3a702fca756": {
+  "f67bf4af46fe": {
     "href": "https://ollama.com/library/qwen3.6:27b-bf16",
     "name": "qwen3.6:27b-bf16",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "56GB",
     "size_num": 56000000000
   },
-  "ccbab0f4045b": {
+  "f59dd1bf24d4": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding",
+    "name": "qwen3.6:35b-a3b-coding",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB - 24GB",
+    "size_num": 0
+  },
+  "6f7983cafbe2": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-mtp-q4_K_M",
+    "name": "qwen3.6:35b-a3b-coding-mtp-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  },
+  "47f49b2845d7": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-mxfp8",
     "name": "qwen3.6:35b-a3b-coding-mxfp8                                                                                  MLX",
     "input_types": [
@@ -189,25 +259,39 @@
       "Image"
     ],
     "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "38GB",
     "size_num": 38000000000
   },
-  "cd2692a833e6": {
+  "1e1fbe5dddba": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-nvfp4",
     "name": "qwen3.6:35b-a3b-coding-nvfp4                                                                                  MLX",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "1 month ago",
+    "update_date": "2026-10-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "22GB",
-    "size_num": 22000000000
+    "size_str": "24GB",
+    "size_num": 24000000000
+  },
+  "07d35212591f": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-q4_K_M",
+    "name": "qwen3.6:35b-a3b-q4_K_M",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "24GB",
+    "size_num": 24000000000
   },
   "8d3c7ad727e7": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-coding-bf16",
@@ -216,36 +300,36 @@
       "Text",
       "Image"
     ],
-    "updated_str": "2 months ago",
-    "update_date": "2026-05-15",
+    "updated_str": "6 months ago",
+    "update_date": "2026-05-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "70GB",
     "size_num": 70000000000
   },
-  "6d7a4cae9475": {
+  "bbf3a1458a4f": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mlx-bf16",
     "name": "qwen3.6:35b-a3b-mlx-bf16                                                                                  MLX",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
-    "size_str": "70GB",
-    "size_num": 70000000000
+    "size_str": "72GB",
+    "size_num": 72000000000
   },
-  "c7bd058dd977": {
+  "096fdbd02fe6": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mtp-q4_K_M",
     "name": "qwen3.6:35b-a3b-mtp-q4_K_M",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "23GB",
@@ -258,54 +342,12 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "5 months ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "39GB",
     "size_num": 39000000000
-  },
-  "1b50c6fdc2d4": {
-    "href": "https://ollama.com/library/qwen3.6:35b-a3b-nvfp4",
-    "name": "qwen3.6:35b-a3b-nvfp4                                                                                  MLX",
-    "input_types": [
-      "Text",
-      "Image"
-    ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
-    "context_window": "256K",
-    "context_window_num": 256000,
-    "size_str": "22GB",
-    "size_num": 22000000000
-  },
-  "0218f872e86b": {
-    "href": "https://ollama.com/library/qwen3.6:35b-a3b-q8_0",
-    "name": "qwen3.6:35b-a3b-q8_0",
-    "input_types": [
-      "Text",
-      "Image"
-    ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
-    "context_window": "256K",
-    "context_window_num": 256000,
-    "size_str": "39GB",
-    "size_num": 39000000000
-  },
-  "94061ddd23a7": {
-    "href": "https://ollama.com/library/qwen3.6:35b-a3b-bf16",
-    "name": "qwen3.6:35b-a3b-bf16",
-    "input_types": [
-      "Text",
-      "Image"
-    ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
-    "context_window": "256K",
-    "context_window_num": 256000,
-    "size_str": "71GB",
-    "size_num": 71000000000
   },
   "42f15217f5ae": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mtp-bf16",
@@ -314,25 +356,67 @@
       "Text",
       "Image"
     ],
-    "updated_str": "1 month ago",
-    "update_date": "2026-06-15",
+    "updated_str": "5 months ago",
+    "update_date": "2026-06-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "72GB",
     "size_num": 72000000000
   },
-  "d82a30588f1c": {
+  "9e9c1b51dd90": {
     "href": "https://ollama.com/library/qwen3.6:35b-a3b-mxfp8",
     "name": "qwen3.6:35b-a3b-mxfp8                                                                                  MLX",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "3 months ago",
-    "update_date": "2026-04-15",
+    "updated_str": "2 months ago",
+    "update_date": "2026-09-07",
     "context_window": "256K",
     "context_window_num": 256000,
     "size_str": "38GB",
     "size_num": 38000000000
+  },
+  "4a5e082f2bd3": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-nvfp4",
+    "name": "qwen3.6:35b-a3b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "1 week ago",
+    "update_date": "2026-10-31",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "23GB",
+    "size_num": 23000000000
+  },
+  "53003244b9b5": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-q8_0",
+    "name": "qwen3.6:35b-a3b-q8_0",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "39GB",
+    "size_num": 39000000000
+  },
+  "7205d1bdb4c2": {
+    "href": "https://ollama.com/library/qwen3.6:35b-a3b-bf16",
+    "name": "qwen3.6:35b-a3b-bf16",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 weeks ago",
+    "update_date": "2026-10-17",
+    "context_window": "256K",
+    "context_window_num": 256000,
+    "size_str": "72GB",
+    "size_num": 72000000000
   }
 }

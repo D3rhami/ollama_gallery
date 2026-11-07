@@ -1,0 +1,18 @@
+{
+  "description": "a single end-to-end model that understands text, images, video and audio, and answers in text and speech",
+  "capabilities": [
+    "vision",
+    "tools",
+    "audio"
+  ],
+  "parameters": [
+    "2b"
+  ],
+  "pull_str": "38.5K",
+  "pull": 38500,
+  "tag_count": 7,
+  "updated": "1 week ago",
+  "update_date": "2026-10-31",
+  "link": "https://ollama.com/library/lfm3-omni",
+  "popularity": 254
+}
