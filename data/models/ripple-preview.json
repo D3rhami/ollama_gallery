@@ -1,0 +1,17 @@
+{
+  "description": "65B dense model built for agentic coding, with up to 1M tokens of context.",
+  "capabilities": [
+    "tools",
+    "thinking"
+  ],
+  "parameters": [
+    "65b"
+  ],
+  "pull_str": "411",
+  "pull": 411,
+  "tag_count": 6,
+  "updated": "6 hours ago",
+  "update_date": "2026-11-09",
+  "link": "https://ollama.com/library/ripple-preview",
+  "popularity": 269
+}

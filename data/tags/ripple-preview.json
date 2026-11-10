@@ -1,0 +1,80 @@
+{
+  "8cc02e88378d": {
+    "href": "https://ollama.com/library/ripple-preview:latest",
+    "name": "ripple-preview:latest",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "39GB - 46GB",
+    "size_num": 0
+  },
+  "fa8176b7842a": {
+    "href": "https://ollama.com/library/ripple-preview:65b-gguf-bf16",
+    "name": "ripple-preview:65b-gguf-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "130GB",
+    "size_num": 130000000000
+  },
+  "0510c48c0544": {
+    "href": "https://ollama.com/library/ripple-preview:65b-mlx-bf16",
+    "name": "ripple-preview:65b-mlx-bf16                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "138GB",
+    "size_num": 138000000000
+  },
+  "e3b74fd4c9a0": {
+    "href": "https://ollama.com/library/ripple-preview:65b-nvfp4",
+    "name": "ripple-preview:65b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "46GB",
+    "size_num": 46000000000
+  },
+  "d5ecf76699cf": {
+    "href": "https://ollama.com/library/ripple-preview:65b-q4_K_M",
+    "name": "ripple-preview:65b-q4_K_M",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "7 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "39GB",
+    "size_num": 39000000000
+  },
+  "69a90109eb59": {
+    "href": "https://ollama.com/library/ripple-preview:65b-bf16",
+    "name": "ripple-preview:65b-bf16",
+    "input_types": [
+      "Text"
+    ],
+    "updated_str": "6 hours ago",
+    "update_date": "2026-11-09",
+    "context_window": "2M",
+    "context_window_num": 2000000,
+    "size_str": "130GB - 138GB",
+    "size_num": 0
+  }
+}
