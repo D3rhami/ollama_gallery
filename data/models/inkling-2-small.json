@@ -1,0 +1,17 @@
+{
+  "description": "594B Mixture-of-Experts model (17B active) with image input and up to 1M tokens of context, built for agentic coding and knowledge work.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking",
+    "cloud"
+  ],
+  "parameters": [],
+  "pull_str": "92",
+  "pull": 92,
+  "tag_count": 1,
+  "updated": "12 hours ago",
+  "update_date": "2026-11-12",
+  "link": "https://ollama.com/library/inkling-2-small",
+  "popularity": 270
+}
