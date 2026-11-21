@@ -1,0 +1,16 @@
+{
+  "description": "Thinking Machines' small open-weights model that can run on a Mac: 26B parameters, 5.4B active, with looped layers for more computation per token.",
+  "capabilities": [
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "parameters": [],
+  "pull_str": "3,108",
+  "pull": 3108,
+  "tag_count": 1,
+  "updated": "7 hours ago",
+  "update_date": "2026-11-20",
+  "link": "https://ollama.com/library/inkling-2-mini",
+  "popularity": 271
+}
