@@ -87827,12 +87827,28 @@
         "Text",
         "Image"
       ],
-      "updated_str": "7 hours ago",
-      "update_date": "2026-11-20",
+      "updated_str": "yesterday",
+      "update_date": "2026-11-21",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "20GB",
       "size_num": 20000000000
+    }
+  },
+  "hy4": {
+    "5001eb2a0176": {
+      "href": "https://ollama.com/library/hy4:cloud",
+      "name": "hy4:cloud",
+      "input_types": [
+        "Text",
+        "Image"
+      ],
+      "updated_str": "2 days ago",
+      "update_date": "2026-11-20",
+      "context_window": "1M",
+      "context_window_num": 1000000,
+      "size_str": "",
+      "size_num": 0
     }
   }
 }
