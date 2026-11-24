@@ -1,16 +1,44 @@
 {
-  "d183b1321cb5": {
+  "8ce12ee30781": {
     "href": "https://ollama.com/library/inkling-2-mini:latest",
     "name": "inkling-2-mini:latest",
     "input_types": [
       "Text",
       "Image"
     ],
-    "updated_str": "yesterday",
+    "updated_str": "41 minutes ago",
+    "update_date": "2026-11-24",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "18GB - 20GB",
+    "size_num": 0
+  },
+  "d183b1321cb5": {
+    "href": "https://ollama.com/library/inkling-2-mini:26b-a5b-nvfp4",
+    "name": "inkling-2-mini:26b-a5b-nvfp4                                                                                  MLX",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "3 days ago",
     "update_date": "2026-11-21",
     "context_window": "1M",
     "context_window_num": 1000000,
     "size_str": "20GB",
     "size_num": 20000000000
+  },
+  "2b942cf76646": {
+    "href": "https://ollama.com/library/inkling-2-mini:26b-a5b-iq4_NL",
+    "name": "inkling-2-mini:26b-a5b-iq4_NL",
+    "input_types": [
+      "Text",
+      "Image"
+    ],
+    "updated_str": "53 minutes ago",
+    "update_date": "2026-11-24",
+    "context_window": "1M",
+    "context_window_num": 1000000,
+    "size_str": "18GB",
+    "size_num": 18000000000
   }
 }
