@@ -87820,18 +87820,18 @@
     }
   },
   "inkling-2-mini": {
-    "8ce12ee30781": {
+    "6a6349e358df": {
       "href": "https://ollama.com/library/inkling-2-mini:latest",
       "name": "inkling-2-mini:latest",
       "input_types": [
         "Text",
         "Image"
       ],
-      "updated_str": "2 days ago",
-      "update_date": "2026-11-25",
+      "updated_str": "6 hours ago",
+      "update_date": "2026-11-27",
       "context_window": "1M",
       "context_window_num": 1000000,
-      "size_str": "18GB - 20GB",
+      "size_str": "19GB - 20GB",
       "size_num": 0
     },
     "d183b1321cb5": {
@@ -87841,26 +87841,26 @@
         "Text",
         "Image"
       ],
-      "updated_str": "6 days ago",
+      "updated_str": "1 week ago",
       "update_date": "2026-11-21",
       "context_window": "1M",
       "context_window_num": 1000000,
       "size_str": "20GB",
       "size_num": 20000000000
     },
-    "2b942cf76646": {
+    "7a228e6f7e55": {
       "href": "https://ollama.com/library/inkling-2-mini:26b-a5b-iq4_NL",
       "name": "inkling-2-mini:26b-a5b-iq4_NL",
       "input_types": [
         "Text",
         "Image"
       ],
-      "updated_str": "2 days ago",
-      "update_date": "2026-11-25",
+      "updated_str": "6 hours ago",
+      "update_date": "2026-11-27",
       "context_window": "1M",
       "context_window_num": 1000000,
-      "size_str": "18GB",
-      "size_num": 18000000000
+      "size_str": "19GB",
+      "size_num": 19000000000
     }
   },
   "hy4": {
